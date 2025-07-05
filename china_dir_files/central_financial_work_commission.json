@@ -1,0 +1,68 @@
+[
+  {
+    "organization_name_english": "Central Financial Work Commission",
+    "organization_name_chinese": "中央金融工作委員会",
+    "document_section_title": "Organs under Central Committee",
+    "metadata": {
+      "establishment_date": "2023-03"
+    },
+    "sub_organizations": [],
+    "positions": [
+      {
+        "title_english": "Secretary",
+        "title_chinese": "書記",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "He Lifeng",
+            "name_chinese": "何立峰",
+            "dob_year": 1955,
+            "dob_month": 2,
+            "assumed_office_date": "2023-11",
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Deputy Secretaries",
+        "title_chinese": "副書記",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Wang Jiang (executive)",
+            "name_chinese": "王江",
+            "dob_year": 1963,
+            "dob_month": 7,
+            "assumed_office_date": "2023-11",
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": [
+              "executive"
+            ]
+          },
+          {
+            "name_pinyin": "Qin Bin",
+            "name_chinese": "秦斌",
+            "dob_year": 1968,
+            "dob_month": 11,
+            "assumed_office_date": "2023-11",
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,216 @@
+[
+  {
+    "organization_name_english": "Central Overall Reform Commission",
+    "organization_name_chinese": "中央全面深化改革委員会",
+    "document_section_title": "Organs under Central Committee",
+    "metadata": {
+      "establishment_date": "2018-03"
+    },
+    "sub_organizations": [
+      {
+        "organization_name_english": "General Office",
+        "organization_name_chinese": "辦公室",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [
+          {
+            "organization_name_english": "Secretarial Bureau",
+            "organization_name_chinese": "秘書局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": []
+              }
+            ]
+          },
+          {
+            "organization_name_english": "Bureau of Coordination",
+            "organization_name_chinese": "協調局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Yu Peiwei",
+                    "name_chinese": "于培偉",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2017-02",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "Bureau of Supervision",
+            "organization_name_chinese": "督察局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Yu Debao",
+                    "name_chinese": "于德宝",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2018-09",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Wang Huning",
+                "name_chinese": "王滬寧",
+                "dob_year": 1955,
+                "dob_month": 10,
+                "assumed_office_date": "2022-10",
+                "cross_reference_symbols": [
+                  "☆"
+                ],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          },
+          {
+            "title_english": "Deputy Director",
+            "title_chinese": "副主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Mu Hong (executive/minister level)",
+                "name_chinese": "穆虹",
+                "dob_year": 1956,
+                "dob_month": 12,
+                "assumed_office_date": "2018-07",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": [
+                  "executive",
+                  "minister level"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "positions": [
+      {
+        "title_english": "Director",
+        "title_chinese": "主任",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Xi Jinping",
+            "name_chinese": "習近平",
+            "dob_year": 1953,
+            "dob_month": 6,
+            "assumed_office_date": "2018-03",
+            "cross_reference_symbols": [
+              "☆"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Deputy Directors",
+        "title_chinese": "副主任",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Li Qiang",
+            "name_chinese": "李強",
+            "dob_year": 1959,
+            "dob_month": 7,
+            "assumed_office_date": "2023-04",
+            "cross_reference_symbols": [
+              "☆"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Wang Huning",
+            "name_chinese": "王滬寧",
+            "dob_year": 1955,
+            "dob_month": 10,
+            "assumed_office_date": "2018-03",
+            "cross_reference_symbols": [
+              "☆"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Cai Qi",
+            "name_chinese": "蔡奇",
+            "dob_year": 1955,
+            "dob_month": 12,
+            "assumed_office_date": "2023-04",
+            "cross_reference_symbols": [
+              "☆"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      }
+    ]
+  }
+]

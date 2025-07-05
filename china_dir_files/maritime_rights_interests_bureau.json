@@ -1,0 +1,47 @@
+[
+  {
+    "organization_name_english": "Bureau of Maritime Rights and Interests",
+    "organization_name_chinese": "海洋權益局",
+    "document_section_title": "Organs under Central Committee",
+    "metadata": {},
+    "sub_organizations": [
+      {
+        "organization_name_english": "Office for Protecting Maritime Rights and Interests",
+        "organization_name_chinese": "維護海洋権益工作弁公室",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Sun Shuxian",
+                "name_chinese": "孫書賢",
+                "dob_year": 1966,
+                "dob_month": 1,
+                "assumed_office_date": "2023-08",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "positions": [
+      {
+        "title_english": "Director",
+        "title_chinese": "局長",
+        "metadata": {},
+        "personnel": []
+      }
+    ]
+  }
+]

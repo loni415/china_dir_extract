@@ -1,0 +1,669 @@
+[
+  {
+    "organization_name_english": "Credentials Committee",
+    "organization_name_chinese": "代表資格審查委員会",
+    "document_section_title": "NATIONAL PEOPLE'S CONGRESS",
+    "metadata": {},
+    "sub_organizations": [],
+    "positions": [
+      {
+        "title_english": "Chairperson",
+        "title_chinese": "主任委員",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Yang Xiaochao",
+            "name_chinese": "楊曉超",
+            "dob_year": 1958,
+            "dob_month": 11,
+            "assumed_office_date": "2023-04-26",
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Vice Chairpersons",
+        "title_chinese": "副主任委員",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Peng Jinhui",
+            "name_chinese": "彭金輝",
+            "dob_year": 1964,
+            "dob_month": 12,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Guo Zhenhua",
+            "name_chinese": "郭振華",
+            "dob_year": 1968,
+            "dob_month": 8,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Li Yuefeng",
+            "name_chinese": "李鉞鋒",
+            "dob_year": 1958,
+            "dob_month": 7,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "organization_name_english": "Legislative Affairs Commission",
+    "organization_name_chinese": "法制工作委員会",
+    "document_section_title": "NATIONAL PEOPLE'S CONGRESS",
+    "metadata": {},
+    "sub_organizations": [],
+    "positions": [
+      {
+        "title_english": "Chairperson",
+        "title_chinese": "主任",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Shen Chunyao",
+            "name_chinese": "沈春耀",
+            "dob_year": 1960,
+            "dob_month": 5,
+            "assumed_office_date": "2017-04-27",
+            "cross_reference_symbols": [
+              "◎"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Vice Chairpersons",
+        "title_chinese": "副主任",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Li Ning",
+            "name_chinese": "李寧",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Zhang Yong",
+            "name_chinese": "張勇",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Xu Anbiao",
+            "name_chinese": "許安標",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Wu Zeng (f)",
+            "name_chinese": "武增",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "female",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Wang Ruihe",
+            "name_chinese": "王瑞賀",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "organization_name_english": "Budgetary Affairs Commission",
+    "organization_name_chinese": "預算工作委員会",
+    "document_section_title": "NATIONAL PEOPLE'S CONGRESS",
+    "metadata": {
+      "establishment_date": "1998-12"
+    },
+    "sub_organizations": [],
+    "positions": [
+      {
+        "title_english": "Chairperson",
+        "title_chinese": "主任",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Xu Hongcai",
+            "name_chinese": "許宏才",
+            "dob_year": 1963,
+            "dob_month": 9,
+            "assumed_office_date": "2023-09-01",
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Vice Chairpersons",
+        "title_chinese": "副主任",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Liu Xiuwen",
+            "name_chinese": "劉修文",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Zhu Mingchun",
+            "name_chinese": "朱明春",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Xia Guang",
+            "name_chinese": "夏光",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "organization_name_english": "HKSAR Basic Law Committee",
+    "organization_name_chinese": "香港特別行政区基本法委員会",
+    "document_section_title": "NATIONAL PEOPLE'S CONGRESS",
+    "metadata": {},
+    "sub_organizations": [],
+    "positions": [
+      {
+        "title_english": "Chairperson",
+        "title_chinese": "主任",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Shen Chunyao",
+            "name_chinese": "沈春耀",
+            "dob_year": 1960,
+            "dob_month": 5,
+            "assumed_office_date": "2023-06-28",
+            "cross_reference_symbols": [
+              "◎"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Vice Chairpersons",
+        "title_chinese": "副主任",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Wong Yuk-shan",
+            "name_chinese": "黄玉山",
+            "dob_year": 1949,
+            "dob_month": 12,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Zhang Yong",
+            "name_chinese": "張勇",
+            "dob_year": 1964,
+            "dob_month": 9,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Members",
+        "title_chinese": "委員",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Wang Linggui",
+            "name_chinese": "王盒桂",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "William Wong",
+            "name_chinese": "王鳴",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Arthur Li Kwok-cheung",
+            "name_chinese": "李国章",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Lee Hoey Simon",
+            "name_chinese": "李浩",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Chen Dong",
+            "name_chinese": "陳冬",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Johnny Mok S. L.",
+            "name_chinese": "莫樹聯",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Priscilla Leung Mei-fun (f)",
+            "name_chinese": "梁美芬",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "female",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Han Dayuan",
+            "name_chinese": "韓大元",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Tong Weidong",
+            "name_chinese": "童衛東",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "organization_name_english": "MSAR Basic Law Committee",
+    "organization_name_chinese": "澳門特別行政区基本法委員会",
+    "document_section_title": "NATIONAL PEOPLE'S CONGRESS",
+    "metadata": {},
+    "sub_organizations": [],
+    "positions": [
+      {
+        "title_english": "Chairperson",
+        "title_chinese": "主任",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Shen Chunyao",
+            "name_chinese": "沈春耀",
+            "dob_year": 1960,
+            "dob_month": 5,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [
+              "◎"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Vice Chairpersons",
+        "title_chinese": "副主任",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Chui Sai Cheong",
+            "name_chinese": "崔世昌",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Zhang Yong",
+            "name_chinese": "張勇",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Members",
+        "title_chinese": "委員",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Wang Linggui",
+            "name_chinese": "王靈桂",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Wang Yu",
+            "name_chinese": "王禹",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Lei Wun Kong",
+            "name_chinese": "李煥江",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Chen Duanhong",
+            "name_chinese": "陳端洪",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Gabriel Tong",
+            "name_chinese": "唐曉晴",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Vong Hin Fai",
+            "name_chinese": "黄顯輝",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Huang Liuquan",
+            "name_chinese": "黄柳権",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "organization_name_english": "Deputies Affairs Commission",
+    "organization_name_chinese": "代表工作委員会",
+    "document_section_title": "NATIONAL PEOPLE'S CONGRESS",
+    "metadata": {},
+    "sub_organizations": [],
+    "positions": [
+      {
+        "title_english": "Chairperson",
+        "title_chinese": "主任",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Guo Zhenhua",
+            "name_chinese": "郭振華",
+            "dob_year": 1968,
+            "dob_month": 8,
+            "assumed_office_date": "2019-12-28",
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Vice Chairpersons",
+        "title_chinese": "副主任",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Fu Wenjie",
+            "name_chinese": "傅文杰",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Kong Ling (f)",
+            "name_chinese": "孔玲",
+            "dob_year": 1975,
+            "dob_month": 10,
+            "assumed_office_date": "2023-06-28",
+            "cross_reference_symbols": [],
+            "gender": "female",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      }
+    ]
+  }
+]

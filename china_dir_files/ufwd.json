@@ -1,0 +1,592 @@
+[
+  {
+    "organization_name_english": "United Front Work Department",
+    "organization_name_chinese": "統一戰線工作部",
+    "document_section_title": "Organs under Central Committee",
+    "metadata": {},
+    "sub_organizations": [
+      {
+        "organization_name_english": "General Office",
+        "organization_name_chinese": "辦公庁",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Chen Yanwu",
+                "name_chinese": "陳延武",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2017-11",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Theory and Policy Research Office",
+        "organization_name_chinese": "政策理論研究室",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Yao Zhichuan",
+                "name_chinese": "姚植伝",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2023-09",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "First Bureau (Democratic Parties Work Bureau)",
+        "organization_name_chinese": "第一局(民主党派工作局)",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Sang Fuhua",
+                "name_chinese": "桑福華",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2014-12",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Second Bureau (Ethnic Work Bureau)",
+        "organization_name_chinese": "第二局(民族工作局)",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Hua Yanlong",
+                "name_chinese": "華彦龍",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2020-12",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Third Bureau (United Front Work in Hong Kong, Macau & Taiwan Bureau)",
+        "organization_name_chinese": "第三局(港澳台統戰工作局)",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Wang Ping",
+                "name_chinese": "王萍",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2018-11",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Fourth Bureau (Non-Public Economy Work Bureau)",
+        "organization_name_chinese": "第四局(非公有制経済工作局)",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Zhang Tianyu",
+                "name_chinese": "張天昱",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2019-02",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Fifth Bureau (Non-Affiliates and Non-Party Intellectuals Work Bureau)",
+        "organization_name_chinese": "第五局(無党派人士和党外知識分子工作局)",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Yan Miao (f)",
+                "name_chinese": "森",
+                "dob_year": 1974,
+                "dob_month": 3,
+                "assumed_office_date": "2021-04",
+                "cross_reference_symbols": [],
+                "gender": "female",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Sixth Bureau (New Social Stratum Work Bureau)",
+        "organization_name_chinese": "第六局(新的社会階層人士工作局)",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Zhang Ming",
+                "name_chinese": "張明",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2019-03",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Seventh Bureau (Tibet Work Bureau)",
+        "organization_name_chinese": "第七局(西藏工作局)",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": []
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Eighth Bureau (Xinjiang Work Bureau)",
+        "organization_name_chinese": "第八局(新疆工作局)",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Yang Bingjian",
+                "name_chinese": "楊丙見",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2020-12",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Ninth Bureau (Overseas Chinese Affairs General Bureau)",
+        "organization_name_chinese": "第九局(僑務綜合局)",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Liu Chunfeng",
+                "name_chinese": "劉春鋒",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2020-10",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Tenth Bureau (Overseas Chinese Affairs Bureau)",
+        "organization_name_chinese": "第十局(僑務事務局)",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Xu Yuming",
+                "name_chinese": "許玉明",
+                "dob_year": 1963,
+                "dob_month": null,
+                "assumed_office_date": "2018-12",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Eleventh Bureau (Religious Affairs General Bureau)",
+        "organization_name_chinese": "第十一局(宗教綜合局)",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Huang Zhihui",
+                "name_chinese": "黄志輝",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2023-08",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Twelfth Bureau (Religious Work Bureau)",
+        "organization_name_chinese": "第十二局(宗教業務局)",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Wu Guosheng",
+                "name_chinese": "呉国生",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2023-08",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "State Administration of Religious Affairs",
+        "organization_name_chinese": "国家宗教事務局",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Chen Ruifeng",
+                "name_chinese": "陳瑞峰",
+                "dob_year": 1966,
+                "dob_month": 5,
+                "assumed_office_date": "2023-03-20",
+                "cross_reference_symbols": [
+                  "○"
+                ],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "positions": [
+      {
+        "title_english": "Head",
+        "title_chinese": "部長",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Shi Taifeng",
+            "name_chinese": "石泰峰",
+            "dob_year": 1956,
+            "dob_month": 9,
+            "assumed_office_date": "2022-10",
+            "cross_reference_symbols": [
+              "※"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Deputy Heads",
+        "title_chinese": "副部長",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Chen Xiaojiang (executive/minister level)",
+            "name_chinese": "陳小江",
+            "dob_year": 1962,
+            "dob_month": 6,
+            "assumed_office_date": "2020-12",
+            "cross_reference_symbols": [
+              "◎"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": [
+              "executive",
+              "minister level"
+            ]
+          },
+          {
+            "name_pinyin": "Pan Yue",
+            "name_chinese": "潘岳",
+            "dob_year": 1960,
+            "dob_month": 4,
+            "assumed_office_date": "2020-11",
+            "cross_reference_symbols": [
+              "◎"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Xu Lejiang",
+            "name_chinese": "徐楽江",
+            "dob_year": 1959,
+            "dob_month": 4,
+            "assumed_office_date": "2017-04",
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Chen Xu (f)",
+            "name_chinese": "陳旭",
+            "dob_year": 1963,
+            "dob_month": 7,
+            "assumed_office_date": "2022-02",
+            "cross_reference_symbols": [
+              "◎"
+            ],
+            "gender": "female",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Lin Rui",
+            "name_chinese": "林銳",
+            "dob_year": 1967,
+            "dob_month": 8,
+            "assumed_office_date": "2022-12",
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Chen Ruifeng",
+            "name_chinese": "陳瑞峰",
+            "dob_year": 1966,
+            "dob_month": 5,
+            "assumed_office_date": "2023-03",
+            "cross_reference_symbols": [
+              "○"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Ma Lihuai",
+            "name_chinese": "馬利懷",
+            "dob_year": 1968,
+            "dob_month": 10,
+            "assumed_office_date": "2023-07",
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Secretary General",
+        "title_chinese": "秘書長",
+        "metadata": {},
+        "personnel": []
+      },
+      {
+        "title_english": "Deputy Secretary General",
+        "title_chinese": "副秘書長",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Chen Yanwu",
+            "name_chinese": "陳延武",
+            "dob_year": null,
+            "dob_month": null,
+            "assumed_office_date": "2017-11",
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      }
+    ]
+  }
+]

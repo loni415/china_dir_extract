@@ -1,0 +1,217 @@
+[
+  {
+    "organization_name_english": "Central Foreign Affairs Commission",
+    "organization_name_chinese": "中央外事工作委員会",
+    "document_section_title": "Organs under Central Committee",
+    "metadata": {
+      "establishment_date": "2018-03"
+    },
+    "sub_organizations": [
+      {
+        "organization_name_english": "Office (Central Office for Foreign Affairs)",
+        "organization_name_chinese": "辦公室(中央外事辦公室)",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [
+          {
+            "organization_name_english": "Secretarial and Administrative Bureau",
+            "organization_name_chinese": "秘書行政局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Wu Guangrong",
+                    "name_chinese": "邬光栄",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2022-09",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "Bureau of Policy Research",
+            "organization_name_chinese": "政策研究局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Li Xinwei",
+                    "name_chinese": "李鑫煒",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2017-05",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "Bureau of Foreign Affairs Management",
+            "organization_name_chinese": "外事管理局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Li Nianping",
+                    "name_chinese": "李念平",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2019-09",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "Bureau of Regional Affairs",
+            "organization_name_chinese": "地区事務局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhu Qin",
+                    "name_chinese": "祝勤",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2023-03",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Wang Yi",
+                "name_chinese": "王毅",
+                "dob_year": 1953,
+                "dob_month": 10,
+                "assumed_office_date": "2023-01",
+                "cross_reference_symbols": [
+                  "※"
+                ],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          },
+          {
+            "title_english": "Deputy Directors",
+            "title_chinese": "副主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Deng Hongbo",
+                "name_chinese": "鄧洪波",
+                "dob_year": 1965,
+                "dob_month": 7,
+                "assumed_office_date": "2018-11",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              },
+              {
+                "name_pinyin": "Sun Shuxian",
+                "name_chinese": "孫書賢",
+                "dob_year": 1966,
+                "dob_month": 1,
+                "assumed_office_date": "2019-03",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "positions": [
+      {
+        "title_english": "Director",
+        "title_chinese": "主任",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Xi Jinping",
+            "name_chinese": "習近平",
+            "dob_year": 1953,
+            "dob_month": 6,
+            "assumed_office_date": "2018-05",
+            "cross_reference_symbols": [
+              "☆"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      }
+    ]
+  }
+]

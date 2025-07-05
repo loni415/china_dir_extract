@@ -1,0 +1,764 @@
+[
+  {
+    "organization_name_english": "Publicity Department",
+    "organization_name_chinese": "宣伝部",
+    "document_section_title": "Organs under Central Committee",
+    "metadata": {},
+    "sub_organizations": [
+      {
+        "organization_name_english": "General Office",
+        "organization_name_chinese": "辦公庁",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Yang Xiaoping",
+                "name_chinese": "楊小平",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2023-04",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Cadres Bureau",
+        "organization_name_chinese": "幹部局",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Geng Zhangyou",
+                "name_chinese": "耿長有",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2020-12",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "External Information Bureau",
+        "organization_name_chinese": "対外新聞局",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Chen Wenjun",
+                "name_chinese": "陳文俊",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2021-02",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Public Opinion Information Bureau",
+        "organization_name_chinese": "輿情信息局",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Tang Jianjun",
+                "name_chinese": "唐建軍",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2021-12",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Theoretical Bureau",
+        "organization_name_chinese": "理論局",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Xu Lisun",
+                "name_chinese": "徐李孫",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2021-06",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Publicity and Education Bureau",
+        "organization_name_chinese": "宣伝教育局",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Zhang Haiming",
+                "name_chinese": "張海明",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2022-06",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Information Publication Bureau",
+        "organization_name_chinese": "新聞局",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Wang Leiming",
+                "name_chinese": "王雷鳴",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2023-06",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Publication Bureau",
+        "organization_name_chinese": "出版局",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Feng Shixin",
+                "name_chinese": "馮士新",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2021-04",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Literature and Art Bureau",
+        "organization_name_chinese": "文化藝術局",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Liu Hanjun",
+                "name_chinese": "劉漢俊",
+                "dob_year": 1964,
+                "dob_month": null,
+                "assumed_office_date": "2022-07",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "International Liaison Bureau",
+        "organization_name_chinese": "国際聯絡局",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Chen Dawei",
+                "name_chinese": "陳大為",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2021-05",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "International Communication Bureau",
+        "organization_name_chinese": "国際伝播局",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": []
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Hong Kong, Macao and Taiwan Information Bureau",
+        "organization_name_chinese": "港澳台新聞局",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Zhang Qiang",
+                "name_chinese": "張強",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2021-04",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "External Spread Bureau",
+        "organization_name_chinese": "対外推広局",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Wu Xu (f)",
+                "name_chinese": "吳旭",
+                "dob_year": 1970,
+                "dob_month": 4,
+                "assumed_office_date": "2020-11",
+                "cross_reference_symbols": [],
+                "gender": "female",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Human Rights Affairs Bureau",
+        "organization_name_chinese": "人権事務局",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Tang Xianwen",
+                "name_chinese": "唐献文",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2021-04",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Media Supervision and Management Bureau",
+        "organization_name_chinese": "伝媒監管局",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Li Hongkui",
+                "name_chinese": "李宏葵",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2021-01",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Printing and Distribution Bureau",
+        "organization_name_chinese": "印刷発行局",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Liu Xiaokai",
+                "name_chinese": "劉曉凱",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2018-11",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Anti-Illegal and Anti-Prohibition Bureau",
+        "organization_name_chinese": "反非法反違禁局",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Dai Yansong",
+                "name_chinese": "戴岩松",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2021-10",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Copyright Management Bureau",
+        "organization_name_chinese": "版権管理局",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Wang Zhicheng",
+                "name_chinese": "王志成",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2022-04",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Import and Export Management Bureau",
+        "organization_name_chinese": "進出口管理局",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "局長",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Zhang Zehui",
+                "name_chinese": "張澤輝",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2023-01",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Policy and Law Research Center",
+        "organization_name_chinese": "政策法規研究室",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "主任",
+            "metadata": {},
+            "personnel": []
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Ideological and Political Work Institute (Publicity and Public Opinion Research Center)",
+        "organization_name_chinese": "思想政治工作研究所 (宣伝輿情研究中心)",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "所長",
+            "metadata": {},
+            "personnel": []
+          }
+        ]
+      },
+      {
+        "organization_name_english": "Information Office of State Council",
+        "organization_name_chinese": "国務院新聞辦公室",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Sun Yeli",
+                "name_chinese": "孫業礼",
+                "dob_year": 1964,
+                "dob_month": 12,
+                "assumed_office_date": "2022-12-27",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "positions": [
+      {
+        "title_english": "Head",
+        "title_chinese": "部長",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Li Shulei",
+            "name_chinese": "李書磊",
+            "dob_year": 1964,
+            "dob_month": 1,
+            "assumed_office_date": "2022-10",
+            "cross_reference_symbols": [
+              "※"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Deputy Heads",
+        "title_chinese": "副部長",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Hu Heping (executive)",
+            "name_chinese": "胡和平",
+            "dob_year": 1962,
+            "dob_month": 10,
+            "assumed_office_date": "2020-07",
+            "cross_reference_symbols": [
+              "◎"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": [
+              "executive"
+            ]
+          },
+          {
+            "name_pinyin": "Shen Haixiong",
+            "name_chinese": "慎海雄",
+            "dob_year": 1967,
+            "dob_month": 2,
+            "assumed_office_date": "2018-03",
+            "cross_reference_symbols": [
+              "◎"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Zhuang Rongwen",
+            "name_chinese": "荘栄文",
+            "dob_year": 1961,
+            "dob_month": 2,
+            "assumed_office_date": "2018-04",
+            "cross_reference_symbols": [
+              "◎"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Zhang Jianchun",
+            "name_chinese": "張建春",
+            "dob_year": 1965,
+            "dob_month": 5,
+            "assumed_office_date": "2020-12",
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Sun Yeli",
+            "name_chinese": "孫業礼",
+            "dob_year": 1964,
+            "dob_month": 12,
+            "assumed_office_date": "2021-01",
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Cao Shumin (f)",
+            "name_chinese": "曹淑敏",
+            "dob_year": 1966,
+            "dob_month": 7,
+            "assumed_office_date": "2023-05",
+            "cross_reference_symbols": [
+              "○"
+            ],
+            "gender": "female",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Wang Gang",
+            "name_chinese": "王綱",
+            "dob_year": 1972,
+            "dob_month": 1,
+            "assumed_office_date": "2023-04",
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Secretary General",
+        "title_chinese": "秘書長",
+        "metadata": {},
+        "personnel": []
+      },
+      {
+        "title_english": "Deputy Secretary General",
+        "title_chinese": "副秘書長",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Tang Heng",
+            "name_chinese": "湯恒",
+            "dob_year": 1962,
+            "dob_month": null,
+            "assumed_office_date": "2020-03",
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      }
+    ]
+  }
+]

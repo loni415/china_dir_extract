@@ -1,0 +1,127 @@
+[
+  {
+    "organization_name_english": "National Security Commission of CPC Central Committee",
+    "organization_name_chinese": "中央国家安全委員会",
+    "document_section_title": "Organs under Central Committee",
+    "metadata": {
+      "establishment_date": "2014-01-24"
+    },
+    "sub_organizations": [
+      {
+        "organization_name_english": "General Office",
+        "organization_name_chinese": "辦公室",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "主任",
+            "metadata": {},
+            "personnel": []
+          },
+          {
+            "title_english": "Deputy Director",
+            "title_chinese": "副主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Liu Haixing (executive)",
+                "name_chinese": "劉海星",
+                "dob_year": 1963,
+                "dob_month": 4,
+                "assumed_office_date": "2022-11",
+                "cross_reference_symbols": [
+                  "◎"
+                ],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": [
+                  "executive"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "positions": [
+      {
+        "title_english": "Head",
+        "title_chinese": "主席",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Xi Jinping",
+            "name_chinese": "習近平",
+            "dob_year": 1953,
+            "dob_month": 6,
+            "assumed_office_date": "2014-01-24",
+            "cross_reference_symbols": [
+              "☆"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Deputy heads",
+        "title_chinese": "副主席",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Li Qiang",
+            "name_chinese": "李強",
+            "dob_year": 1959,
+            "dob_month": 7,
+            "assumed_office_date": "2023-05",
+            "cross_reference_symbols": [
+              "☆"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Zhao Leji",
+            "name_chinese": "趙樂際",
+            "dob_year": 1957,
+            "dob_month": 3,
+            "assumed_office_date": "2023-05",
+            "cross_reference_symbols": [
+              "☆"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Cai Qi",
+            "name_chinese": "蔡奇",
+            "dob_year": 1955,
+            "dob_month": 12,
+            "assumed_office_date": "2023-05",
+            "cross_reference_symbols": [
+              "☆"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      }
+    ]
+  }
+]

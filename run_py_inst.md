@@ -1,0 +1,1 @@
+python parse_directory.py cpc_directory.pdf output.json llama3:8b-instruct

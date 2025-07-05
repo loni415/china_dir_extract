@@ -1,0 +1,480 @@
+[
+  {
+    "organization_name_english": "Central Audit Commission",
+    "organization_name_chinese": "中央審計委員会",
+    "document_section_title": "Organs under Central Committee",
+    "metadata": {
+      "establishment_date": "2018-03"
+    },
+    "sub_organizations": [
+      {
+        "organization_name_english": "General Office",
+        "organization_name_chinese": "辦公室",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Hou Kai",
+                "name_chinese": "侯凱",
+                "dob_year": 1962,
+                "dob_month": 4,
+                "assumed_office_date": "2021-06",
+                "cross_reference_symbols": [
+                  "◎"
+                ],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "positions": [
+      {
+        "title_english": "Chairperson",
+        "title_chinese": "主任",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Xi Jinping",
+            "name_chinese": "習近平",
+            "dob_year": 1953,
+            "dob_month": 6,
+            "assumed_office_date": "2018-05",
+            "cross_reference_symbols": [
+              "☆"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Vice Chairpersons",
+        "title_chinese": "副主任",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Li Qiang",
+            "name_chinese": "李強",
+            "dob_year": 1959,
+            "dob_month": 7,
+            "assumed_office_date": "2023-05",
+            "cross_reference_symbols": [
+              "☆"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Li Xi",
+            "name_chinese": "李希",
+            "dob_year": 1956,
+            "dob_month": 10,
+            "assumed_office_date": "2023-05",
+            "cross_reference_symbols": [
+              "☆"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "organization_name_english": "Central Science and Technology Commission",
+    "organization_name_chinese": "中央科技委員会",
+    "document_section_title": "Organs under Central Committee",
+    "metadata": {
+      "establishment_date": "2023-03"
+    },
+    "sub_organizations": [],
+    "positions": [
+      {
+        "title_english": "Director",
+        "title_chinese": "主任",
+        "metadata": {},
+        "personnel": []
+      }
+    ]
+  },
+  {
+    "organization_name_english": "Central Commission for Guiding Ethic and Cultural Progress",
+    "organization_name_chinese": "中央精神文明建設指導委員会",
+    "document_section_title": "Organs under Central Committee",
+    "metadata": {
+      "establishment_date": "1997-05"
+    },
+    "sub_organizations": [
+      {
+        "organization_name_english": "General Office",
+        "organization_name_chinese": "辦公室",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [
+          {
+            "organization_name_english": "Secretarial Bureau",
+            "organization_name_chinese": "秘書局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhao Shujie",
+                    "name_chinese": "趙樹杰",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2018-03",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "1st Bureau",
+            "organization_name_chinese": "一局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Xue Songyan",
+                    "name_chinese": "薛松岩",
+                    "dob_year": 1972,
+                    "dob_month": 7,
+                    "assumed_office_date": "2023-03",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "2nd Bureau",
+            "organization_name_chinese": "二局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Xiong Datong",
+                    "name_chinese": "熊大同",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2023-04",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "3rd Bureau",
+            "organization_name_chinese": "三局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhao Shujie",
+                    "name_chinese": "趙樹杰",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2023-11",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Hu Heping",
+                "name_chinese": "胡和平",
+                "dob_year": 1962,
+                "dob_month": 10,
+                "assumed_office_date": "2023-10",
+                "cross_reference_symbols": [
+                  "◎"
+                ],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          },
+          {
+            "title_english": "Deputy Director",
+            "title_chinese": "副主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Hu Kaihong (full-time)",
+                "name_chinese": "胡凱紅",
+                "dob_year": 1968,
+                "dob_month": 8,
+                "assumed_office_date": "2023-08",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": [
+                  "full-time"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "positions": []
+  },
+  {
+    "organization_name_english": "Central Leading Group for Inspection Work",
+    "organization_name_chinese": "中央巡视工作領導小組",
+    "document_section_title": "Organs under Central Committee",
+    "metadata": {},
+    "sub_organizations": [
+      {
+        "organization_name_english": "General Office",
+        "organization_name_chinese": "辦公室",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Wang Hongjin",
+                "name_chinese": "王鴻津",
+                "dob_year": 1963,
+                "dob_month": 5,
+                "assumed_office_date": "2017-09",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "positions": [
+      {
+        "title_english": "Head",
+        "title_chinese": "組長",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Li Xi",
+            "name_chinese": "李希",
+            "dob_year": 1956,
+            "dob_month": 10,
+            "assumed_office_date": "2023-03",
+            "cross_reference_symbols": [
+              "☆"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Deputy Heads",
+        "title_chinese": "副組長",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Li Ganjie",
+            "name_chinese": "李干杰",
+            "dob_year": 1964,
+            "dob_month": 11,
+            "assumed_office_date": "2023-03",
+            "cross_reference_symbols": [
+              "※"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Liu Jinguo",
+            "name_chinese": "劉金国",
+            "dob_year": 1955,
+            "dob_month": 4,
+            "assumed_office_date": "2023-03",
+            "cross_reference_symbols": [
+              "◎"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "organization_name_english": "Central Coordinating Group for Tibet Affairs",
+    "organization_name_chinese": "中央西藏工作協調小組",
+    "document_section_title": "Organs under Central Committee",
+    "metadata": {},
+    "sub_organizations": [
+      {
+        "organization_name_english": "General Office",
+        "organization_name_chinese": "辦公室",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Lin Rui",
+                "name_chinese": "林銳",
+                "dob_year": 1967,
+                "dob_month": 8,
+                "assumed_office_date": "2023-05",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          },
+          {
+            "title_english": "Deputy Director",
+            "title_chinese": "副主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Zheng Dui",
+                "name_chinese": "鄭堆",
+                "dob_year": 1964,
+                "dob_month": 10,
+                "assumed_office_date": "2023-05",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "positions": [
+      {
+        "title_english": "Head",
+        "title_chinese": "組長",
+        "metadata": {},
+        "personnel": []
+      }
+    ]
+  },
+  {
+    "organization_name_english": "Central Coordinating Group for Xinjiang Affairs",
+    "organization_name_chinese": "中央新疆工作協調小組",
+    "document_section_title": "Organs under Central Committee",
+    "metadata": {},
+    "sub_organizations": [],
+    "positions": [
+      {
+        "title_english": "Head",
+        "title_chinese": "組長",
+        "metadata": {},
+        "personnel": []
+      }
+    ]
+  }
+]

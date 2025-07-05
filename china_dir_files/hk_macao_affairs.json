@@ -1,0 +1,464 @@
+[
+  {
+    "organization_name_english": "Central Leading Group for HK & Macao Affairs",
+    "organization_name_chinese": "中央港澳工作領導小組",
+    "document_section_title": "Organs under Central Committee",
+    "metadata": {},
+    "sub_organizations": [
+      {
+        "organization_name_english": "Central Office for H. K. & Macao Affairs (H. K. & Macao Affairs Office of State Council)",
+        "organization_name_chinese": "中央港澳工作辦公室 (国務院港澳事務辦公室)",
+        "document_section_title": null,
+        "metadata": {
+          "establishment_date": "2023-03"
+        },
+        "sub_organizations": [
+          {
+            "organization_name_english": "Secretarial Bureau",
+            "organization_name_chinese": "秘書局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": []
+              }
+            ]
+          },
+          {
+            "organization_name_english": "1st Bureau",
+            "organization_name_chinese": "一局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Wang Zhenmin",
+                    "name_chinese": "王振民",
+                    "dob_year": 1966,
+                    "dob_month": null,
+                    "assumed_office_date": "2023-10",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "2nd Bureau",
+            "organization_name_chinese": "二局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Chen Jiguang",
+                    "name_chinese": "陳維光",
+                    "dob_year": 1968,
+                    "dob_month": 11,
+                    "assumed_office_date": "2023-11",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "3rd Bureau",
+            "organization_name_chinese": "三局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Wu Wei",
+                    "name_chinese": "吳偉",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2023-10",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "4th Bureau",
+            "organization_name_chinese": "四局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Li Guoming (f)",
+                    "name_chinese": "李国明",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2023-11",
+                    "cross_reference_symbols": [],
+                    "gender": "female",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "5th Bureau",
+            "organization_name_chinese": "五局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Yang Guang",
+                    "name_chinese": "楊光",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2023-11",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "6th Bureau",
+            "organization_name_chinese": "六局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Xiao Xuejun",
+                    "name_chinese": "肖学軍",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2023-11",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "7th Bureau",
+            "organization_name_chinese": "七局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Zeng Jian",
+                    "name_chinese": "曾健",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2023-10",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "8th Bureau",
+            "organization_name_chinese": "八局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Yang Xiaoshan",
+                    "name_chinese": "楊曉山",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2023-11",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Xia Baolong",
+                "name_chinese": "夏宝龍",
+                "dob_year": 1952,
+                "dob_month": 12,
+                "assumed_office_date": "2020-02-13",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          },
+          {
+            "title_english": "Deputy Directors",
+            "title_chinese": "副主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Zhou Ji (executive/minister level)",
+                "name_chinese": "周霽",
+                "dob_year": 1964,
+                "dob_month": 5,
+                "assumed_office_date": "2023-06-30",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": [
+                  "executive",
+                  "minister level"
+                ]
+              },
+              {
+                "name_pinyin": "Zheng Yanxiong",
+                "name_chinese": "鄭雅雄",
+                "dob_year": 1963,
+                "dob_month": 8,
+                "assumed_office_date": "2023-06-30",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              },
+              {
+                "name_pinyin": "Zheng Xincong",
+                "name_chinese": "鄭新聡",
+                "dob_year": 1963,
+                "dob_month": 11,
+                "assumed_office_date": "2023-06-30",
+                "cross_reference_symbols": [
+                  "◎"
+                ],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              },
+              {
+                "name_pinyin": "Wang Linggui",
+                "name_chinese": "王靈桂",
+                "dob_year": 1967,
+                "dob_month": 11,
+                "assumed_office_date": "2022-02-01",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          },
+          {
+            "title_english": "Member of the Office Affairs Committee",
+            "title_chinese": "室務会成員",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Xiang Bin",
+                "name_chinese": "向斌",
+                "dob_year": 1964,
+                "dob_month": 11,
+                "assumed_office_date": "2023-07",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "positions": [
+      {
+        "title_english": "Head",
+        "title_chinese": "組長",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Ding Xuexiang",
+            "name_chinese": "丁薛祥",
+            "dob_year": 1962,
+            "dob_month": 9,
+            "assumed_office_date": "2023-03",
+            "cross_reference_symbols": [
+              "☆"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Deputy Heads",
+        "title_chinese": "副組長",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Xia Baolong (executive)",
+            "name_chinese": "夏宝龍",
+            "dob_year": 1952,
+            "dob_month": 12,
+            "assumed_office_date": "2020-06",
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": [
+              "executive"
+            ]
+          },
+          {
+            "name_pinyin": "Shi Taifeng",
+            "name_chinese": "石泰峰",
+            "dob_year": 1956,
+            "dob_month": 9,
+            "assumed_office_date": "2023-04",
+            "cross_reference_symbols": [
+              "※"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Chen Wenqing",
+            "name_chinese": "陳文清",
+            "dob_year": 1960,
+            "dob_month": 1,
+            "assumed_office_date": "2023-04",
+            "cross_reference_symbols": [
+              "※"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Wang Xiaohong",
+            "name_chinese": "王小洪",
+            "dob_year": 1957,
+            "dob_month": 7,
+            "assumed_office_date": "2023-04",
+            "cross_reference_symbols": [
+              "◎"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      }
+    ]
+  }
+]

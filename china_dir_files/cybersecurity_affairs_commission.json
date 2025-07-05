@@ -1,0 +1,506 @@
+[
+  {
+    "organization_name_english": "Central Cyberspace Affairs Commission",
+    "organization_name_chinese": "中央網絡安全和信息化委員会",
+    "document_section_title": "Organs under Central Committee",
+    "metadata": {
+      "establishment_date": "2018-03"
+    },
+    "sub_organizations": [
+      {
+        "organization_name_english": "General Office (Cyberspace Administration of China)",
+        "organization_name_chinese": "辦公室(国家互聯網信息辦公室)",
+        "document_section_title": null,
+        "metadata": {},
+        "sub_organizations": [
+          {
+            "organization_name_english": "Secretarial Bureau",
+            "organization_name_chinese": "秘書局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Wu Dong",
+                    "name_chinese": "呉東",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2017-11",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "Bureau of Policy Research",
+            "organization_name_chinese": "政策研究局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Yang Shuzhen",
+                    "name_chinese": "楊樹楨",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2022-08",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "Bureau of Internet Communications",
+            "organization_name_chinese": "網絡伝播局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Fan Xiaowei",
+                    "name_chinese": "范小偉",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2023-03",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "Bureau of Internet Public Opinion Management",
+            "organization_name_chinese": "網絡輿情管理局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Wen Youhua",
+                    "name_chinese": "文友華",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2021-05",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "Bureau of Comprehensive Internet Governance",
+            "organization_name_chinese": "網絡綜合治理局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhang Yongjun",
+                    "name_chinese": "張擁軍",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2021-05",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "Bureau of Rule of Law on Internet",
+            "organization_name_chinese": "網絡法治局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Li Changxi",
+                    "name_chinese": "李長喜",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2023-03",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "Bureau of Law Enforcement & Supervision on Internet",
+            "organization_name_chinese": "網絡執法与監督局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Hua Qing",
+                    "name_chinese": "華清",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2023-03",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "Bureau of Internet Social Work",
+            "organization_name_chinese": "網絡社会工作局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhang Xunhong",
+                    "name_chinese": "章勲宏",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2016-09",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "Bureau of Coordination for Cyber Security",
+            "organization_name_chinese": "網絡安全協調局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Gao Lin",
+                    "name_chinese": "高林",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2023-05",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "Bureau of Informatization Development",
+            "organization_name_chinese": "信息化発展局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": []
+              }
+            ]
+          },
+          {
+            "organization_name_english": "Bureau of Internet Data Management",
+            "organization_name_chinese": "網絡数据管理局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Hu Xiao",
+                    "name_chinese": "胡嘯",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2021-05",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "Bureau of Internet Management Technology",
+            "organization_name_chinese": "網絡管理技術局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Yu Yonghe",
+                    "name_chinese": "于永河",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2021-07",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "Bureau of International Cooperation",
+            "organization_name_chinese": "国際合作局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Qi Xiaoxia (f)",
+                    "name_chinese": "祁小夏",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2016-01",
+                    "cross_reference_symbols": [],
+                    "gender": "female",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "organization_name_english": "Cadres Bureau",
+            "organization_name_chinese": "幹部局",
+            "document_section_title": null,
+            "metadata": {},
+            "sub_organizations": [],
+            "positions": [
+              {
+                "title_english": "Director",
+                "title_chinese": "局長",
+                "metadata": {},
+                "personnel": [
+                  {
+                    "name_pinyin": "Yang Jianwen",
+                    "name_chinese": "楊建文",
+                    "dob_year": null,
+                    "dob_month": null,
+                    "assumed_office_date": "2020-09",
+                    "cross_reference_symbols": [],
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank": null,
+                    "rank_chinese": null,
+                    "other_notes": []
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "positions": [
+          {
+            "title_english": "Director",
+            "title_chinese": "主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Zhuang Rongwen",
+                "name_chinese": "荘栄文",
+                "dob_year": 1961,
+                "dob_month": 2,
+                "assumed_office_date": "2018-08-07",
+                "cross_reference_symbols": [
+                  "◎"
+                ],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          },
+          {
+            "title_english": "Deputy Directors",
+            "title_chinese": "副主任",
+            "metadata": {},
+            "personnel": [
+              {
+                "name_pinyin": "Niu Yibing",
+                "name_chinese": "牛一兵",
+                "dob_year": 1966,
+                "dob_month": 3,
+                "assumed_office_date": "2020-12-14",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              },
+              {
+                "name_pinyin": "Wang Song",
+                "name_chinese": "王崧",
+                "dob_year": 1971,
+                "dob_month": 2,
+                "assumed_office_date": "2023-07-23",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              },
+              {
+                "name_pinyin": "Wang Jingtao",
+                "name_chinese": "王京濤",
+                "dob_year": null,
+                "dob_month": null,
+                "assumed_office_date": "2023-10-10",
+                "cross_reference_symbols": [],
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank": null,
+                "rank_chinese": null,
+                "other_notes": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "positions": [
+      {
+        "title_english": "Director",
+        "title_chinese": "主任",
+        "metadata": {},
+        "personnel": [
+          {
+            "name_pinyin": "Xi Jinping",
+            "name_chinese": "習近平",
+            "dob_year": 1953,
+            "dob_month": 6,
+            "assumed_office_date": "2018-04",
+            "cross_reference_symbols": [
+              "☆"
+            ],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      }
+    ]
+  }
+]
