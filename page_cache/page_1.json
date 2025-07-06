@@ -1,0 +1,488 @@
+[
+  {
+    "organization_name_english": "Communist Party of China",
+    "organization_name_chinese": "中八公司",
+    "document_section_title": null,
+    "metadata": {},
+    "sub_organizations": [
+      {
+        "organization_name_english": "20th Central Committee",
+        "organization_name_chinese": "一十平园公司"
+      }
+    ],
+    "positions": [
+      {
+        "title_english": "Secretary General",
+        "title_chinese": "纽人管理前",
+        "metadata": {
+          "count": null,
+          "list_order_note": null
+        },
+        "personnel": [
+          {
+            "name_pinyin": "Xi Jinping",
+            "name_chinese": "彩亚一四",
+            "dob_year": 1969,
+            "dob_month": 6,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Standing Committee Members (7)",
+        "title_chinese": "平公司产有员",
+        "metadata": {
+          "count": null,
+          "list_order_note": null
+        },
+        "personnel": [
+          {
+            "name_pinyin": "Xi Jinping",
+            "name_chinese": "彩亚一四",
+            "dob_year": 1969,
+            "dob_month": 6,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Li Keqiang",
+            "name_chinese": "李号五",
+            "dob_year": 1955,
+            "dob_month": 3,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Zhao Leji",
+            "name_chinese": "超主号",
+            "dob_year": 1966,
+            "dob_month": 3,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Wang Huning",
+            "name_chinese": "王平伊",
+            "dob_year": 1955,
+            "dob_month": 10,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Cai Qi",
+            "name_chinese": "決张",
+            "dob_year": 1963,
+            "dob_month": 12,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Ding Xuexiang",
+            "name_chinese": "钱张为",
+            "dob_year": 1962,
+            "dob_month": 9,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Li Xi",
+            "name_chinese": "李张",
+            "dob_year": 1966,
+            "dob_month": 10,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      },
+      {
+        "title_english": "Members (24)",
+        "title_chinese": "员产(24个)",
+        "metadata": {
+          "count": null,
+          "list_order_note": null
+        },
+        "personnel": [
+          {
+            "name_pinyin": "*Ding Xuexiang",
+            "name_chinese": "钱张为",
+            "dob_year": 1962,
+            "dob_month": 9,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "*Xi Jinping",
+            "name_chinese": "彩亚一四",
+            "dob_year": 1969,
+            "dob_month": 6,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Ma Xingrui",
+            "name_chinese": "龙平代",
+            "dob_year": 1960,
+            "dob_month": 10,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Wang Yi",
+            "name_chinese": "王为",
+            "dob_year": 1953,
+            "dob_month": 10,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "*Wang Huning",
+            "name_chinese": "王平伊",
+            "dob_year": 1955,
+            "dob_month": 12,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Yin Li",
+            "name_chinese": "決李",
+            "dob_year": 1962,
+            "dob_month": 8,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Shi Taifeng",
+            "name_chinese": "西安为",
+            "dob_year": 1966,
+            "dob_month": 9,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Liu Guozhong",
+            "name_chinese": "李四为",
+            "dob_year": 1962,
+            "dob_month": 7,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "*Li Xi",
+            "name_chinese": "李张",
+            "dob_year": 1966,
+            "dob_month": 10,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "*Li Qiang",
+            "name_chinese": "李号五",
+            "dob_year": 1959,
+            "dob_month": 7,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "*Li Shulei",
+            "name_chinese": "李张为",
+            "dob_year": 1964,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Li Ganjie",
+            "name_chinese": "李张为",
+            "dob_year": 1961,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Li Hongzhong",
+            "name_chinese": "李张浦为",
+            "dob_year": 1960,
+            "dob_month": 8,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "He Weidong",
+            "name_chinese": "为张浦一",
+            "dob_year": 1962,
+            "dob_month": 5,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "He Lifeng",
+            "name_chinese": "为张浦一",
+            "dob_year": 1960,
+            "dob_month": 2,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "Zhang Youxia",
+            "name_chinese": "张为浦一",
+            "dob_year": 1950,
+            "dob_month": 7,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "*Cai Qi",
+            "name_chinese": "決张",
+            "dob_year": 1963,
+            "dob_month": 12,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "*Ding Xuexiang",
+            "name_chinese": "钱张为",
+            "dob_year": 1962,
+            "dob_month": 9,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "*Li Xi",
+            "name_chinese": "李张",
+            "dob_year": 1966,
+            "dob_month": 10,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "*Li Qiang",
+            "name_chinese": "李号五",
+            "dob_year": 1959,
+            "dob_month": 7,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "*Li Shulei",
+            "name_chinese": "李张为",
+            "dob_year": 1964,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "*Li Ganjie",
+            "name_chinese": "李张为",
+            "dob_year": 1961,
+            "dob_month": null,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "*Li Hongzhong",
+            "name_chinese": "李张浦为",
+            "dob_year": 1960,
+            "dob_month": 8,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "*He Weidong",
+            "name_chinese": "为张浦一",
+            "dob_year": 1962,
+            "dob_month": 5,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "*He Lifeng",
+            "name_chinese": "为张浦一",
+            "dob_year": 1960,
+            "dob_month": 2,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          },
+          {
+            "name_pinyin": "*Zhang Youxia",
+            "name_chinese": "张为浦一",
+            "dob_year": 1950,
+            "dob_month": 7,
+            "assumed_office_date": null,
+            "cross_reference_symbols": [],
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank": null,
+            "rank_chinese": null,
+            "other_notes": []
+          }
+        ]
+      }
+    ]
+  }
+]
