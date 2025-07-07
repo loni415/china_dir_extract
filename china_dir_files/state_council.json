@@ -1,0 +1,461 @@
+[
+  {
+    "source_pdf_page": 83,
+    "organization_name_english": "State Council",
+    "organization_name_chinese": "国務院",
+    "metadata": {
+      "establishment_date": null,
+      "list_order_note": null,
+      "count": null
+    },
+    "positions": [
+      {
+        "title_english": "Premier",
+        "title_chinese": "総理",
+        "personnel": [
+          {
+            "name_pinyin": "Li Qiang",
+            "name_chinese": "李強",
+            "raw_cn_jp_entry": "☆李強(59.7)",
+            "assumed_office_date": "2023-03-11",
+            "birth_year": 1959,
+            "birth_month": 7,
+            "birth_day": null,
+            "cross_reference_symbol": "☆",
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank_english": null,
+            "rank_chinese": null,
+            "other_notes_en": [],
+            "other_notes_cn_jp": []
+          }
+        ]
+      },
+      {
+        "title_english": "Vice Premiers",
+        "title_chinese": "副総理",
+        "personnel": [
+          {
+            "name_pinyin": "Ding Xuexiang",
+            "name_chinese": "丁薛祥",
+            "raw_cn_jp_entry": "☆丁薛祥(62.9)",
+            "assumed_office_date": "2023-03-12",
+            "birth_year": 1962,
+            "birth_month": 9,
+            "birth_day": null,
+            "cross_reference_symbol": "☆",
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank_english": null,
+            "rank_chinese": null,
+            "other_notes_en": [],
+            "other_notes_cn_jp": []
+          },
+          {
+            "name_pinyin": "He Lifeng",
+            "name_chinese": "何立峰",
+            "raw_cn_jp_entry": "※何立峰(55.2)",
+            "assumed_office_date": "2023-03-12",
+            "birth_year": 1955,
+            "birth_month": 2,
+            "birth_day": null,
+            "cross_reference_symbol": "※",
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank_english": null,
+            "rank_chinese": null,
+            "other_notes_en": [],
+            "other_notes_cn_jp": []
+          },
+          {
+            "name_pinyin": "Zhang Guoqing",
+            "name_chinese": "張国清",
+            "raw_cn_jp_entry": "※張国清(64.8)",
+            "assumed_office_date": "2023-03-12",
+            "birth_year": 1964,
+            "birth_month": 8,
+            "birth_day": null,
+            "cross_reference_symbol": "※",
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank_english": null,
+            "rank_chinese": null,
+            "other_notes_en": [],
+            "other_notes_cn_jp": []
+          },
+          {
+            "name_pinyin": "Liu Guozhong",
+            "name_chinese": "劉国中",
+            "raw_cn_jp_entry": "※劉国中(62.7)",
+            "assumed_office_date": "2023-03-12",
+            "birth_year": 1962,
+            "birth_month": 7,
+            "birth_day": null,
+            "cross_reference_symbol": "※",
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank_english": null,
+            "rank_chinese": null,
+            "other_notes_en": [],
+            "other_notes_cn_jp": []
+          }
+        ]
+      },
+      {
+        "title_english": "State Councillors",
+        "title_chinese": "国務委員",
+        "personnel": [
+          {
+            "name_pinyin": "Li Shangfu",
+            "name_chinese": "李尚福",
+            "raw_cn_jp_entry": "◎李尚福(解任/上将58.2)",
+            "assumed_office_date": "2023-03-12",
+            "birth_year": 1958,
+            "birth_month": 2,
+            "birth_day": null,
+            "cross_reference_symbol": "◎",
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank_english": "General",
+            "rank_chinese": "上将",
+            "other_notes_en": [
+              "dismissed",
+              "Gen"
+            ],
+            "other_notes_cn_jp": [
+              "解任"
+            ]
+          },
+          {
+            "name_pinyin": "Wang Xiaohong",
+            "name_chinese": "王小洪",
+            "raw_cn_jp_entry": "◎王小洪(57.7)",
+            "assumed_office_date": "2023-03-12",
+            "birth_year": 1957,
+            "birth_month": 7,
+            "birth_day": null,
+            "cross_reference_symbol": "◎",
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank_english": null,
+            "rank_chinese": null,
+            "other_notes_en": [],
+            "other_notes_cn_jp": []
+          },
+          {
+            "name_pinyin": "Wu Zhenglong",
+            "name_chinese": "吳政隆",
+            "raw_cn_jp_entry": "◎吳政隆(64.11)",
+            "assumed_office_date": "2023-03-12",
+            "birth_year": 1964,
+            "birth_month": 11,
+            "birth_day": null,
+            "cross_reference_symbol": "◎",
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank_english": null,
+            "rank_chinese": null,
+            "other_notes_en": [],
+            "other_notes_cn_jp": []
+          },
+          {
+            "name_pinyin": "Shen Yiqin",
+            "name_chinese": "諶貽琴",
+            "raw_cn_jp_entry": "◎諶貽琴(女59.12)",
+            "assumed_office_date": "2023-03-12",
+            "birth_year": 1959,
+            "birth_month": 12,
+            "birth_day": null,
+            "cross_reference_symbol": "◎",
+            "gender": "female",
+            "ethnicity": "Han",
+            "rank_english": null,
+            "rank_chinese": null,
+            "other_notes_en": [
+              "f"
+            ],
+            "other_notes_cn_jp": []
+          },
+          {
+            "name_pinyin": "Qin Gang",
+            "name_chinese": "秦剛",
+            "raw_cn_jp_entry": "◎秦剛(解任/66.3)",
+            "assumed_office_date": "2023-03-12",
+            "birth_year": 1966,
+            "birth_month": 3,
+            "birth_day": null,
+            "cross_reference_symbol": "◎",
+            "gender": "male",
+            "ethnicity": "Han",
+            "rank_english": null,
+            "rank_chinese": null,
+            "other_notes_en": [
+              "dismissed"
+            ],
+            "other_notes_cn_jp": [
+              "解任"
+            ]
+          }
+        ]
+      }
+    ],
+    "sub_organizations": [
+      {
+        "source_pdf_page": 83,
+        "organization_name_english": "General Office",
+        "organization_name_chinese": "辦公庁",
+        "metadata": {
+          "establishment_date": null,
+          "list_order_note": null,
+          "count": null
+        },
+        "positions": [
+          {
+            "title_english": "Secretary General",
+            "title_chinese": "秘書長",
+            "personnel": [
+              {
+                "name_pinyin": "Wu Zhenglong",
+                "name_chinese": "吳政隆",
+                "raw_cn_jp_entry": "◎吳政隆(64.11)",
+                "assumed_office_date": "2023-03-12",
+                "birth_year": 1964,
+                "birth_month": 11,
+                "birth_day": null,
+                "cross_reference_symbol": "◎",
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null,
+                "other_notes_en": [],
+                "other_notes_cn_jp": []
+              }
+            ]
+          },
+          {
+            "title_english": "Deputy Secretaries General",
+            "title_chinese": "副秘書長",
+            "personnel": [
+              {
+                "name_pinyin": "Wang Zhijun",
+                "name_chinese": "王志軍",
+                "raw_cn_jp_entry": "◎王志軍(常務/部長級65.9)",
+                "assumed_office_date": "2023-06-30",
+                "birth_year": 1965,
+                "birth_month": 9,
+                "birth_day": null,
+                "cross_reference_symbol": "◎",
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null,
+                "other_notes_en": [
+                  "executive",
+                  "minister level"
+                ],
+                "other_notes_cn_jp": [
+                  "常務",
+                  "部長級"
+                ]
+              },
+              {
+                "name_pinyin": "Meng Yang",
+                "name_chinese": "孟揚",
+                "raw_cn_jp_entry": "孟揚(65.)",
+                "assumed_office_date": "2015-05-07",
+                "birth_year": 1965,
+                "birth_month": null,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null,
+                "other_notes_en": [],
+                "other_notes_cn_jp": []
+              },
+              {
+                "name_pinyin": "Liu Jianbo",
+                "name_chinese": "劉建波",
+                "raw_cn_jp_entry": "劉建波",
+                "assumed_office_date": "2021-05-17",
+                "birth_year": null,
+                "birth_month": null,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null,
+                "other_notes_en": [],
+                "other_notes_cn_jp": []
+              },
+              {
+                "name_pinyin": "Guo Wei",
+                "name_chinese": "郭瑋",
+                "raw_cn_jp_entry": "郭瑋",
+                "assumed_office_date": "2021-07-18",
+                "birth_year": null,
+                "birth_month": null,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null,
+                "other_notes_en": [],
+                "other_notes_cn_jp": []
+              },
+              {
+                "name_pinyin": "Wang Yonghong",
+                "name_chinese": "王永紅",
+                "raw_cn_jp_entry": "○王永紅(69.6)",
+                "assumed_office_date": "2023-06-30",
+                "birth_year": 1969,
+                "birth_month": 6,
+                "birth_day": null,
+                "cross_reference_symbol": "○",
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null,
+                "other_notes_en": [],
+                "other_notes_cn_jp": []
+              },
+              {
+                "name_pinyin": "Xu Shouben",
+                "name_chinese": "徐守本",
+                "raw_cn_jp_entry": "徐守本(69.4)",
+                "assumed_office_date": "2023-08-19",
+                "birth_year": 1969,
+                "birth_month": 4,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null,
+                "other_notes_en": [],
+                "other_notes_cn_jp": []
+              },
+              {
+                "name_pinyin": "Sun Guangyu",
+                "name_chinese": "孫広宇",
+                "raw_cn_jp_entry": "孫広宇(66.12)",
+                "assumed_office_date": "2023-10-10",
+                "birth_year": 1966,
+                "birth_month": 12,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null,
+                "other_notes_en": [],
+                "other_notes_cn_jp": []
+              },
+              {
+                "name_pinyin": "Liu Yuhui",
+                "name_chinese": "劉宇輝",
+                "raw_cn_jp_entry": "劉宇輝(67.3)",
+                "assumed_office_date": "2023-12",
+                "birth_year": 1967,
+                "birth_month": 3,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null,
+                "other_notes_en": [],
+                "other_notes_cn_jp": []
+              }
+            ]
+          },
+          {
+            "title_english": "Premier's Office Director",
+            "title_chinese": "総理辦公室主任",
+            "personnel": [
+              {
+                "name_pinyin": "Kang Xuping",
+                "name_chinese": "康旭平",
+                "raw_cn_jp_entry": "康旭平(66.12)",
+                "assumed_office_date": "2023-05",
+                "birth_year": 1966,
+                "birth_month": 12,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null,
+                "other_notes_en": [],
+                "other_notes_cn_jp": []
+              }
+            ]
+          },
+          {
+            "title_english": "First Secretariat",
+            "title_chinese": "秘書一局",
+            "personnel": []
+          },
+          {
+            "title_english": "Second Secretariat",
+            "title_chinese": "秘書二局",
+            "personnel": []
+          },
+          {
+            "title_english": "Third Secretariat",
+            "title_chinese": "秘書三局",
+            "personnel": []
+          },
+          {
+            "title_english": "Administrative Department",
+            "title_chinese": "行政司",
+            "personnel": [
+              {
+                "name_pinyin": "Liu Huizeng",
+                "name_chinese": "劉会増",
+                "raw_cn_jp_entry": "劉会増(66.1)",
+                "assumed_office_date": "2018-06",
+                "birth_year": 1966,
+                "birth_month": 1,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null,
+                "other_notes_en": [],
+                "other_notes_cn_jp": []
+              }
+            ]
+          },
+          {
+            "title_english": "E-Government Office",
+            "title_chinese": "電子政務辦公室",
+            "personnel": [
+              {
+                "name_pinyin": "Chen Hongqu",
+                "name_chinese": "陳宏曲",
+                "raw_cn_jp_entry": "陳宏曲",
+                "assumed_office_date": "2021-11",
+                "birth_year": null,
+                "birth_month": null,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null,
+                "other_notes_en": [],
+                "other_notes_cn_jp": []
+              }
+            ]
+          }
+        ],
+        "sub_organizations": []
+      }
+    ]
+  }
+]
