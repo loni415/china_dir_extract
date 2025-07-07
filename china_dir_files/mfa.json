@@ -1,0 +1,3177 @@
+{
+  "source_pdf_page": 84,
+  "organization_name_english": "Ministry of Foreign Affairs",
+  "organization_name_chinese": "外交部",
+  "metadata": {
+    "establishment_date": null,
+    "list_order_note": null,
+    "count": null
+  },
+  "positions": [
+    {
+      "title_english": "Party Committee Secretary",
+      "title_chinese": "党委書記",
+      "personnel": [
+        {
+          "name_pinyin": "Qi Yu",
+          "name_chinese": "斉玉",
+          "raw_cn_jp_entry": "◎斉玉(61.4)",
+          "assumed_office_date": "2019-01",
+          "birth_year": 1961,
+          "birth_month": 4,
+          "birth_day": null,
+          "cross_reference_symbol": "◎",
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Minister",
+      "title_chinese": "部長",
+      "personnel": [
+        {
+          "name_pinyin": "Qin Gang",
+          "name_chinese": "秦剛",
+          "raw_cn_jp_entry": "◎秦剛(解任/66.3)",
+          "assumed_office_date": "2022-12-30",
+          "birth_year": 1966,
+          "birth_month": 3,
+          "birth_day": null,
+          "cross_reference_symbol": "◎",
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [
+            "dismissed"
+          ],
+          "other_notes_cn_jp": [
+            "解任"
+          ]
+        },
+        {
+          "name_pinyin": "Wang Yi",
+          "name_chinese": "王毅",
+          "raw_cn_jp_entry": "※王毅(53.10)",
+          "assumed_office_date": "2023-07-25",
+          "birth_year": 1953,
+          "birth_month": 10,
+          "birth_day": null,
+          "cross_reference_symbol": "※",
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Vice Ministers",
+      "title_chinese": "副部長",
+      "personnel": [
+        {
+          "name_pinyin": "Ma Zhaoxu",
+          "name_chinese": "馬朝旭",
+          "raw_cn_jp_entry": "馬朝旭(常務/部長級63.9)",
+          "assumed_office_date": "2019-06-15",
+          "birth_year": 1963,
+          "birth_month": 9,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [
+            "executive",
+            "minister level"
+          ],
+          "other_notes_cn_jp": [
+            "常務",
+            "部長級"
+          ]
+        },
+        {
+          "name_pinyin": "Sun Weidong",
+          "name_chinese": "孫衛東",
+          "raw_cn_jp_entry": "孫衛東(66.9)",
+          "assumed_office_date": "2022-08-30",
+          "birth_year": 1966,
+          "birth_month": 9,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Deng Li",
+          "name_chinese": "鄧励",
+          "raw_cn_jp_entry": "鄧励(65.5)",
+          "assumed_office_date": "2021-10-17",
+          "birth_year": 1965,
+          "birth_month": 5,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Assistant Ministers",
+      "title_chinese": "部長助理",
+      "personnel": [
+        {
+          "name_pinyin": "Hua Chunying",
+          "name_chinese": "華春瑩",
+          "raw_cn_jp_entry": "華春瑩(女70.4)",
+          "assumed_office_date": "2021-10-17",
+          "birth_year": 1970,
+          "birth_month": 4,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "female",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [
+            "f"
+          ],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Nong Rong",
+          "name_chinese": "農融",
+          "raw_cn_jp_entry": "農融(67.9)",
+          "assumed_office_date": "2023-01-03",
+          "birth_year": 1967,
+          "birth_month": 9,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Miao Deyu",
+          "name_chinese": "苗得雨",
+          "raw_cn_jp_entry": "苗得雨(71.10)",
+          "assumed_office_date": "2023-12",
+          "birth_year": 1971,
+          "birth_month": 10,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Special Envoy for Asian Affairs",
+      "title_chinese": "外交部亜洲事務特使",
+      "personnel": [
+        {
+          "name_pinyin": "Deng Xijun",
+          "name_chinese": "鄧錫軍",
+          "raw_cn_jp_entry": "鄧錫軍(62.6)",
+          "assumed_office_date": "2022-12",
+          "birth_year": 1962,
+          "birth_month": 6,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Special Envoy for Afghan Affairs",
+      "title_chinese": "外交部阿富汗事務特使",
+      "personnel": [
+        {
+          "name_pinyin": "Yue Xiaoyong",
+          "name_chinese": "岳曉勇",
+          "raw_cn_jp_entry": "岳曉勇(59.)",
+          "assumed_office_date": "2021-07",
+          "birth_year": 1959,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Ambassador for the East China Sea & the Yellow Sea Affairs",
+      "title_chinese": "外交部東黄海事務大使",
+      "personnel": [
+        {
+          "name_pinyin": "Guo Yan",
+          "name_chinese": "郭燕",
+          "raw_cn_jp_entry": "郭燕(女)",
+          "assumed_office_date": "2022-11",
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "female",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [
+            "f"
+          ],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Special Envoy for Middle East Issues",
+      "title_chinese": "中東問題特使",
+      "personnel": [
+        {
+          "name_pinyin": "Zhai Jun",
+          "name_chinese": "翟雋",
+          "raw_cn_jp_entry": "翟雋(54.12)",
+          "assumed_office_date": "2019-09-02",
+          "birth_year": 1954,
+          "birth_month": 12,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Special Envoy for Syrian Issues",
+      "title_chinese": "叙利亜問題特使",
+      "personnel": [
+        {
+          "name_pinyin": "Xie Xiaoyan",
+          "name_chinese": "解曉岩",
+          "raw_cn_jp_entry": "解曉岩(54.3)",
+          "assumed_office_date": "2016-03",
+          "birth_year": 1954,
+          "birth_month": 3,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Ambassador for China-Arab States Cooperation Forum Affairs",
+      "title_chinese": "外交部中阿合作論壇事務大使",
+      "personnel": [
+        {
+          "name_pinyin": "Li Chen",
+          "name_chinese": "李琛",
+          "raw_cn_jp_entry": "李琛(63.9)",
+          "assumed_office_date": "2022-07",
+          "birth_year": 1963,
+          "birth_month": 9,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Special Representative for African Affairs",
+      "title_chinese": "中国政府非洲事務特別代表",
+      "personnel": [
+        {
+          "name_pinyin": "Liu Yuxi",
+          "name_chinese": "劉豫錫",
+          "raw_cn_jp_entry": "劉豫錫(61.11)",
+          "assumed_office_date": "2022-08",
+          "birth_year": 1961,
+          "birth_month": 11,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Special Envoy for Horn of Africa Affairs",
+      "title_chinese": "外交部非洲之角事務特使",
+      "personnel": [
+        {
+          "name_pinyin": "Xue Bing",
+          "name_chinese": "薛冰",
+          "raw_cn_jp_entry": "薛冰(65.7)",
+          "assumed_office_date": "2022-02",
+          "birth_year": 1965,
+          "birth_month": 7,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Special Representative for European-Central Asian Affairs",
+      "title_chinese": "中国政府欧亜事務特別代表",
+      "personnel": [
+        {
+          "name_pinyin": "Li Hui",
+          "name_chinese": "李輝",
+          "raw_cn_jp_entry": "李輝",
+          "assumed_office_date": "2019-11",
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Special Representative for Arctic Affairs",
+      "title_chinese": "外交部北極事務特別代表",
+      "personnel": [
+        {
+          "name_pinyin": "Gao Feng",
+          "name_chinese": "高風",
+          "raw_cn_jp_entry": "高風",
+          "assumed_office_date": "2017-06",
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Special Representative for European Affairs",
+      "title_chinese": "中国政府欧洲事務特別代表",
+      "personnel": [
+        {
+          "name_pinyin": "Wu Hongbo",
+          "name_chinese": "吳紅波",
+          "raw_cn_jp_entry": "吳紅波(52.5)",
+          "assumed_office_date": "2019-11",
+          "birth_year": 1952,
+          "birth_month": 5,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Special Envoy for Pacific Island Countries Affairs",
+      "title_chinese": "中国政府太平洋島国事務特使",
+      "personnel": [
+        {
+          "name_pinyin": "Qian Bo",
+          "name_chinese": "銭波",
+          "raw_cn_jp_entry": "銭波",
+          "assumed_office_date": "2023-02",
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Special Representative for Latin American affairs",
+      "title_chinese": "中国政府拉美事務特別代表",
+      "personnel": [
+        {
+          "name_pinyin": "Qiu Xiaoqi",
+          "name_chinese": "邱小琪",
+          "raw_cn_jp_entry": "邱小琪(56.6)",
+          "assumed_office_date": "2021-09",
+          "birth_year": 1956,
+          "birth_month": 6,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Special Representative for Human Rights Affairs",
+      "title_chinese": "外交部人権事務特別代表",
+      "personnel": [
+        {
+          "name_pinyin": "Yang Xiaokun",
+          "name_chinese": "楊曉坤",
+          "raw_cn_jp_entry": "楊曉坤",
+          "assumed_office_date": "2023-05",
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Special Representative for Korean Peninsula Affairs",
+      "title_chinese": "中国政府朝鮮半島事務特別代表",
+      "personnel": [
+        {
+          "name_pinyin": "Liu Xiaoming",
+          "name_chinese": "劉曉明",
+          "raw_cn_jp_entry": "劉曉明(56.1.16)",
+          "assumed_office_date": "2021-04",
+          "birth_year": 1956,
+          "birth_month": 1,
+          "birth_day": 16,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Special Representative for Climate Change Negotiations",
+      "title_chinese": "外交部気候変化談判特別代表",
+      "personnel": [
+        {
+          "name_pinyin": "Qi Dahai",
+          "name_chinese": "斉大海",
+          "raw_cn_jp_entry": "斉大海",
+          "assumed_office_date": "2022-08",
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "External Security Commissioner",
+      "title_chinese": "涉外安全事務專員",
+      "personnel": [
+        {
+          "name_pinyin": "Cheng Guoping",
+          "name_chinese": "程国平",
+          "raw_cn_jp_entry": "程国平(52.5)",
+          "assumed_office_date": "2019-12",
+          "birth_year": 1952,
+          "birth_month": 5,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    }
+  ],
+  "sub_organizations": [
+    {
+      "source_pdf_page": 84,
+      "organization_name_english": "General Office",
+      "organization_name_chinese": "辦公庁",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "主任",
+          "personnel": [
+            {
+              "name_pinyin": "Sun Xianghua",
+              "name_chinese": "孫祥華",
+              "raw_cn_jp_entry": "孫祥華(71.4)",
+              "assumed_office_date": "2021-07",
+              "birth_year": 1971,
+              "birth_month": 4,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副主任",
+          "personnel": [
+            {
+              "name_pinyin": "Chen Wen",
+              "name_chinese": "陳雯",
+              "raw_cn_jp_entry": "陳雯(女)",
+              "assumed_office_date": "2021-04",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Wang Shu",
+              "name_chinese": "汪澍",
+              "raw_cn_jp_entry": "汪澍",
+              "assumed_office_date": "2022-12",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Jiang Annan",
+              "name_chinese": "蒋安南",
+              "raw_cn_jp_entry": "蒋安南",
+              "assumed_office_date": "2022-12",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Chen Wei",
+              "name_chinese": "陳偉",
+              "raw_cn_jp_entry": "陳偉",
+              "assumed_office_date": "2023-08",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 84,
+      "organization_name_english": "Department of Policy Planning",
+      "organization_name_chinese": "政策規画司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": []
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Wang Yu",
+              "name_chinese": "王昱",
+              "raw_cn_jp_entry": "王昱",
+              "assumed_office_date": "2021-12",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Li Fan",
+              "name_chinese": "李凡",
+              "raw_cn_jp_entry": "李凡(女)",
+              "assumed_office_date": "2022-07",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Liu Wei",
+              "name_chinese": "劉威",
+              "raw_cn_jp_entry": "劉威",
+              "assumed_office_date": "2023-03",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 84,
+      "organization_name_english": "Department of Asian Affairs",
+      "organization_name_chinese": "亜洲司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Liu Jinsong",
+              "name_chinese": "劉勁松",
+              "raw_cn_jp_entry": "劉勁松(72.)",
+              "assumed_office_date": "2021-07",
+              "birth_year": 1972,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Fang Hong",
+              "name_chinese": "方虹",
+              "raw_cn_jp_entry": "方虹(女)",
+              "assumed_office_date": "2020-12",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Chen Shaochun",
+              "name_chinese": "陳少春",
+              "raw_cn_jp_entry": "陳少春",
+              "assumed_office_date": "2022-03",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Liang Jianjun",
+              "name_chinese": "梁建軍",
+              "raw_cn_jp_entry": "梁建軍",
+              "assumed_office_date": "2022-10",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Zhang Maoming",
+              "name_chinese": "張茂明",
+              "raw_cn_jp_entry": "張茂明",
+              "assumed_office_date": "2023-06",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 85,
+      "organization_name_english": "Department of West Asian & North African Affairs",
+      "organization_name_chinese": "西亜北非司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Wang Di",
+              "name_chinese": "王鏑",
+              "raw_cn_jp_entry": "王鏑(68.6)",
+              "assumed_office_date": "2019-05",
+              "birth_year": 1968,
+              "birth_month": 6,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Cai Weiming",
+              "name_chinese": "蔡蔚鳴",
+              "raw_cn_jp_entry": "蔡蔚鳴",
+              "assumed_office_date": "2021-06",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Hua Xin",
+              "name_chinese": "華昕",
+              "raw_cn_jp_entry": "華昕",
+              "assumed_office_date": "2021-07",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 85,
+      "organization_name_english": "Department of African Affairs",
+      "organization_name_chinese": "非洲司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Wu Peng",
+              "name_chinese": "呉鵬",
+              "raw_cn_jp_entry": "呉鵬(67.2)",
+              "assumed_office_date": "2020-07",
+              "birth_year": 1967,
+              "birth_month": 2,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Zhou Ping",
+              "name_chinese": "周平",
+              "raw_cn_jp_entry": "周平",
+              "assumed_office_date": "2020-12",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Zhang Bin",
+              "name_chinese": "張斌",
+              "raw_cn_jp_entry": "張斌",
+              "assumed_office_date": "2021-04",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Yu Yong",
+              "name_chinese": "余勇",
+              "raw_cn_jp_entry": "余勇",
+              "assumed_office_date": "2022-05",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 85,
+      "organization_name_english": "Department of European-Central Asian Affairs",
+      "organization_name_chinese": "欧亜司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Liu Bin",
+              "name_chinese": "劉彬",
+              "raw_cn_jp_entry": "劉彬(71.11)",
+              "assumed_office_date": "2021-11",
+              "birth_year": 1971,
+              "birth_month": 11,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Cheng Yikun",
+              "name_chinese": "程一堃",
+              "raw_cn_jp_entry": "程一堃",
+              "assumed_office_date": "2020-06",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Liu Jiangping",
+              "name_chinese": "劉江平",
+              "raw_cn_jp_entry": "劉江平(女)",
+              "assumed_office_date": "2022-07",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Mao Wenchong",
+              "name_chinese": "毛文翀",
+              "raw_cn_jp_entry": "毛文翀",
+              "assumed_office_date": "2023-09",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 86,
+      "organization_name_english": "Department of European Affairs",
+      "organization_name_chinese": "欧洲司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Wang Lutong",
+              "name_chinese": "王魯彤",
+              "raw_cn_jp_entry": "王魯彤(69.9)",
+              "assumed_office_date": "2019-08",
+              "birth_year": 1969,
+              "birth_month": 9,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Zheng Huiyu",
+              "name_chinese": "鄭暉宇",
+              "raw_cn_jp_entry": "鄭暉宇",
+              "assumed_office_date": "2022-03",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Qi Han",
+              "name_chinese": "亓菡",
+              "raw_cn_jp_entry": "亓菡(女)",
+              "assumed_office_date": "2020-03",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Wang Xiaoyao",
+              "name_chinese": "王曉瑶",
+              "raw_cn_jp_entry": "王曉瑶(女)",
+              "assumed_office_date": "2021-06",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 86,
+      "organization_name_english": "Department of North American and Oceanian Affairs",
+      "organization_name_chinese": "北美大洋洲司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Yang Tao",
+              "name_chinese": "楊濤",
+              "raw_cn_jp_entry": "楊濤",
+              "assumed_office_date": "2021-12",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Zheng Liqiao",
+              "name_chinese": "鄭立樵",
+              "raw_cn_jp_entry": "鄭立樵",
+              "assumed_office_date": "2021-11",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Qiu Wenxing",
+              "name_chinese": "邱文星",
+              "raw_cn_jp_entry": "邱文星",
+              "assumed_office_date": "2020-10",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Tang Zhiwen",
+              "name_chinese": "唐志文",
+              "raw_cn_jp_entry": "唐志文",
+              "assumed_office_date": "2022-09",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Yao Ming",
+              "name_chinese": "姚明",
+              "raw_cn_jp_entry": "姚明",
+              "assumed_office_date": "2023-05",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 86,
+      "organization_name_english": "Department of Latin American & Caribbean Affairs",
+      "organization_name_chinese": "拉丁美洲和加勒比司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Cai Wei",
+              "name_chinese": "蔡偉",
+              "raw_cn_jp_entry": "蔡偉(71.3)",
+              "assumed_office_date": "2021-02",
+              "birth_year": 1971,
+              "birth_month": 3,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Wang Liang",
+              "name_chinese": "王亮",
+              "raw_cn_jp_entry": "王亮",
+              "assumed_office_date": "2021-07",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Qu Yuhui",
+              "name_chinese": "瞿瑜輝",
+              "raw_cn_jp_entry": "瞿瑜輝",
+              "assumed_office_date": "2023-08",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 86,
+      "organization_name_english": "Department of International Organizations and Conferences",
+      "organization_name_chinese": "国際司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Shen Bo",
+              "name_chinese": "申博",
+              "raw_cn_jp_entry": "申博",
+              "assumed_office_date": "2022-10",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Sun Lei",
+              "name_chinese": "孫磊",
+              "raw_cn_jp_entry": "孫磊",
+              "assumed_office_date": "2020-09",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Jiang Yingfeng",
+              "name_chinese": "江映峰",
+              "raw_cn_jp_entry": "江映峰",
+              "assumed_office_date": "2023-03",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 87,
+      "organization_name_english": "Department of International Economic Affairs",
+      "organization_name_chinese": "国際経済司",
+      "metadata": {
+        "establishment_date": "2012-10",
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Li Kexin",
+              "name_chinese": "李克新",
+              "raw_cn_jp_entry": "李克新(69.1)",
+              "assumed_office_date": "2022-01",
+              "birth_year": 1969,
+              "birth_month": 1,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Lu Mei",
+              "name_chinese": "魯梅",
+              "raw_cn_jp_entry": "魯梅(女)",
+              "assumed_office_date": "2021-11",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Guo Xuejun",
+              "name_chinese": "郭学軍",
+              "raw_cn_jp_entry": "郭学軍",
+              "assumed_office_date": "2019-02",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Wang Gang",
+              "name_chinese": "王剛",
+              "raw_cn_jp_entry": "王剛",
+              "assumed_office_date": "2023-10",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 87,
+      "organization_name_english": "Department of Arms Control",
+      "organization_name_chinese": "軍控司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Sun Xiaobo",
+              "name_chinese": "孫曉波",
+              "raw_cn_jp_entry": "孫曉波",
+              "assumed_office_date": "2022-12",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Director-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Ma Shengkun",
+              "name_chinese": "馬昇琨",
+              "raw_cn_jp_entry": "馬昇琨",
+              "assumed_office_date": "2019-02",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 87,
+      "organization_name_english": "Department of Treaty and Law",
+      "organization_name_chinese": "条約法律司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Ma Xinmin",
+              "name_chinese": "馬新民",
+              "raw_cn_jp_entry": "馬新民(64.11)",
+              "assumed_office_date": "2023-01",
+              "birth_year": 1964,
+              "birth_month": 11,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Gou Haibo",
+              "name_chinese": "苟海波",
+              "raw_cn_jp_entry": "苟海波",
+              "assumed_office_date": "2020-12",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Qi Dahai",
+              "name_chinese": "斉大海",
+              "raw_cn_jp_entry": "斉大海",
+              "assumed_office_date": "2023-08",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 87,
+      "organization_name_english": "Department of Boundary and Ocean Affairs",
+      "organization_name_chinese": "边界与海洋事務司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Hong Liang",
+              "name_chinese": "洪亮",
+              "raw_cn_jp_entry": "洪亮(69.9)",
+              "assumed_office_date": "2019-07",
+              "birth_year": 1969,
+              "birth_month": 9,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Zhao Lijian",
+              "name_chinese": "趙立堅",
+              "raw_cn_jp_entry": "趙立堅(72.11)",
+              "assumed_office_date": "2023-01",
+              "birth_year": 1972,
+              "birth_month": 11,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Yang Renhuo",
+              "name_chinese": "楊仁火",
+              "raw_cn_jp_entry": "楊仁火",
+              "assumed_office_date": "2021-12",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Wang Jinfeng",
+              "name_chinese": "王錦峰",
+              "raw_cn_jp_entry": "王錦峰",
+              "assumed_office_date": "2022-10",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 87,
+      "organization_name_english": "Information Department",
+      "organization_name_chinese": "新聞司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": []
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Wang Wenbin",
+              "name_chinese": "汪文斌",
+              "raw_cn_jp_entry": "汪文斌(71.4)",
+              "assumed_office_date": "2020-07",
+              "birth_year": 1971,
+              "birth_month": 4,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Mao Ning",
+              "name_chinese": "毛寧",
+              "raw_cn_jp_entry": "毛寧(女72.12)",
+              "assumed_office_date": "2022-08",
+              "birth_year": 1972,
+              "birth_month": 12,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Hu Jian",
+              "name_chinese": "胡鍵",
+              "raw_cn_jp_entry": "胡鍵(78.8)",
+              "assumed_office_date": "2020-10",
+              "birth_year": 1978,
+              "birth_month": 8,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Jiang Xiaoyan",
+              "name_chinese": "蒋小燕",
+              "raw_cn_jp_entry": "蒋小燕(女)",
+              "assumed_office_date": "2020-09",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 87,
+      "organization_name_english": "Protocol Department",
+      "organization_name_chinese": "礼賓司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Hong Lei",
+              "name_chinese": "洪磊",
+              "raw_cn_jp_entry": "洪磊(69.8)",
+              "assumed_office_date": "2019-02",
+              "birth_year": 1969,
+              "birth_month": 8,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Li Xiang",
+              "name_chinese": "李響",
+              "raw_cn_jp_entry": "李響",
+              "assumed_office_date": "2019-05",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Wang Min",
+              "name_chinese": "王敏",
+              "raw_cn_jp_entry": "王敏(女)",
+              "assumed_office_date": "2020-03",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Song Jia",
+              "name_chinese": "宋嘉",
+              "raw_cn_jp_entry": "宋嘉(女)",
+              "assumed_office_date": "2021-04",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Li Hanlu",
+              "name_chinese": "李晗璐",
+              "raw_cn_jp_entry": "李晗璐(女)",
+              "assumed_office_date": "2022-08",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 88,
+      "organization_name_english": "Department of Consular Affairs (Centre for Consular Assistance and Protection)",
+      "organization_name_chinese": "領事司 (領事保護中心)",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Wu Xi",
+              "name_chinese": "呉璽",
+              "raw_cn_jp_entry": "呉璽(女)",
+              "assumed_office_date": "2022-01",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Zhang Yang",
+              "name_chinese": "張洋",
+              "raw_cn_jp_entry": "張洋",
+              "assumed_office_date": "2020-10",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Meng Yuhong",
+              "name_chinese": "孟宇宏",
+              "raw_cn_jp_entry": "孟宇宏(女)",
+              "assumed_office_date": "2021-07",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Wu Demin",
+              "name_chinese": "武徳民",
+              "raw_cn_jp_entry": "武徳民",
+              "assumed_office_date": "2022-02",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Tong Xuejun",
+              "name_chinese": "童学軍",
+              "raw_cn_jp_entry": "童学軍",
+              "assumed_office_date": "2023-08",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 88,
+      "organization_name_english": "Department of H. K., Macao and Taiwan Affairs",
+      "organization_name_chinese": "香港澳門台湾事務司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Yang Yirui",
+              "name_chinese": "楊義瑞",
+              "raw_cn_jp_entry": "楊義瑞(69.1)",
+              "assumed_office_date": "2023-05",
+              "birth_year": 1969,
+              "birth_month": 1,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Lin Dong",
+              "name_chinese": "林動",
+              "raw_cn_jp_entry": "林動",
+              "assumed_office_date": "2020-07",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Chen Haiping",
+              "name_chinese": "陳海平",
+              "raw_cn_jp_entry": "陳海平",
+              "assumed_office_date": "2019-01",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 88,
+      "organization_name_english": "Department of Translation and Interpretation",
+      "organization_name_chinese": "翻訳司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Zhou Jingxing",
+              "name_chinese": "周景興",
+              "raw_cn_jp_entry": "周景興",
+              "assumed_office_date": "2022-09",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Zhang Lu",
+              "name_chinese": "張璐",
+              "raw_cn_jp_entry": "張璐(女77.)",
+              "assumed_office_date": "2021-04",
+              "birth_year": 1977,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Zhu Kewei",
+              "name_chinese": "朱克瑋",
+              "raw_cn_jp_entry": "朱克瑋(女)",
+              "assumed_office_date": "2022-12",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 88,
+      "organization_name_english": "Department of Foreign Affairs Management",
+      "organization_name_chinese": "外事管理司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Chen Li",
+              "name_chinese": "陳立",
+              "raw_cn_jp_entry": "陳立(68.6)",
+              "assumed_office_date": "2022-05",
+              "birth_year": 1968,
+              "birth_month": 6,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Zhang Wenchuan",
+              "name_chinese": "張汶川",
+              "raw_cn_jp_entry": "張汶川",
+              "assumed_office_date": "2020-10",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Yao Shaojun",
+              "name_chinese": "姚紹俊",
+              "raw_cn_jp_entry": "姚紹俊",
+              "assumed_office_date": "2022-10",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Zuo Xianglei",
+              "name_chinese": "左向蕾",
+              "raw_cn_jp_entry": "左向蕾",
+              "assumed_office_date": "2023-02",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 88,
+      "organization_name_english": "Department of External Security Affairs",
+      "organization_name_chinese": "涉外安全事務司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Bai Tian",
+              "name_chinese": "白天",
+              "raw_cn_jp_entry": "白天(71.4.27)",
+              "assumed_office_date": "2020-12",
+              "birth_year": 1971,
+              "birth_month": 4,
+              "birth_day": 27,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Yang Yang",
+              "name_chinese": "楊揚",
+              "raw_cn_jp_entry": "楊揚(女)",
+              "assumed_office_date": "2021-11",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Cheng Weihua",
+              "name_chinese": "程衛華",
+              "raw_cn_jp_entry": "程衛華",
+              "assumed_office_date": "2023-01",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Zhang Xumin",
+              "name_chinese": "張徐民",
+              "raw_cn_jp_entry": "張徐民",
+              "assumed_office_date": "2023-06",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 89,
+      "organization_name_english": "Department of Personnel",
+      "organization_name_chinese": "幹部司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Bian Lixin",
+              "name_chinese": "卞立新",
+              "raw_cn_jp_entry": "卞立新(女)",
+              "assumed_office_date": "2021-07",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Wang Yong",
+              "name_chinese": "王永",
+              "raw_cn_jp_entry": "王永",
+              "assumed_office_date": "2022-03",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Jiang Xuebin",
+              "name_chinese": "姜学斌",
+              "raw_cn_jp_entry": "姜学斌",
+              "assumed_office_date": "2020-08",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Wu Xiaojun",
+              "name_chinese": "吳小俊",
+              "raw_cn_jp_entry": "吳小俊",
+              "assumed_office_date": "2020-10",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 89,
+      "organization_name_english": "Bureau for Retired Personnel",
+      "organization_name_chinese": "離退休幹部局",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "局長",
+          "personnel": [
+            {
+              "name_pinyin": "Zhou Wenzhi",
+              "name_chinese": "周文智",
+              "raw_cn_jp_entry": "周文智(女)",
+              "assumed_office_date": "2015-07",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副局長",
+          "personnel": [
+            {
+              "name_pinyin": "Liang Caide",
+              "name_chinese": "梁才徳",
+              "raw_cn_jp_entry": "梁才徳",
+              "assumed_office_date": "2023-09",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Ma Xiaoming",
+              "name_chinese": "馬曉明",
+              "raw_cn_jp_entry": "馬曉明(女)",
+              "assumed_office_date": "2020-12",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Zhu Jian",
+              "name_chinese": "朱健",
+              "raw_cn_jp_entry": "朱健",
+              "assumed_office_date": "2021-03",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 89,
+      "organization_name_english": "Administrative Department",
+      "organization_name_chinese": "行政司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Hu Zhangliang",
+              "name_chinese": "胡張良",
+              "raw_cn_jp_entry": "胡張良(73.4)",
+              "assumed_office_date": "2022-11",
+              "birth_year": 1973,
+              "birth_month": 4,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Zhou Bin",
+              "name_chinese": "周斌",
+              "raw_cn_jp_entry": "周斌",
+              "assumed_office_date": "2017-10",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Xu Wei",
+              "name_chinese": "許蔚",
+              "raw_cn_jp_entry": "許蔚(女)",
+              "assumed_office_date": "2019-05",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Chen Chuang",
+              "name_chinese": "陳闖",
+              "raw_cn_jp_entry": "陳闖",
+              "assumed_office_date": "2020-03",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 89,
+      "organization_name_english": "Department of Finance",
+      "organization_name_chinese": "財務司",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "司長",
+          "personnel": [
+            {
+              "name_pinyin": "Hu Yinquan",
+              "name_chinese": "胡銀全",
+              "raw_cn_jp_entry": "胡銀全",
+              "assumed_office_date": "2018-01",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors-General",
+          "title_chinese": "副司長",
+          "personnel": [
+            {
+              "name_pinyin": "Dong Bin",
+              "name_chinese": "董斌",
+              "raw_cn_jp_entry": "董斌",
+              "assumed_office_date": "2018-10",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Niu Peiping",
+              "name_chinese": "牛培萍",
+              "raw_cn_jp_entry": "牛培萍(女)",
+              "assumed_office_date": "2021-08",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 89,
+      "organization_name_english": "Party-related Affairs Committee (Department for Diplomatic Missions Abroad)",
+      "organization_name_chinese": "機関党委員会 (部党委国外工作局)",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Executive Deputy Secretary (Director-General)",
+          "title_chinese": "常務副書記(局長)",
+          "personnel": [
+            {
+              "name_pinyin": "Chen Xingzhong",
+              "name_chinese": "陳興忠",
+              "raw_cn_jp_entry": "陳興忠(70.10)",
+              "assumed_office_date": "2023-02",
+              "birth_year": 1970,
+              "birth_month": 10,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Party-related Affairs Discipline Inspection Committee Secretary",
+          "title_chinese": "機関紀律検査委書記",
+          "personnel": [
+            {
+              "name_pinyin": "Jiang Yan",
+              "name_chinese": "姜岩",
+              "raw_cn_jp_entry": "姜岩(女)",
+              "assumed_office_date": "2023-06",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Secretaries (Deputy Directors-General)",
+          "title_chinese": "副書記(副局長)",
+          "personnel": [
+            {
+              "name_pinyin": "Chen Lan",
+              "name_chinese": "陳嵐",
+              "raw_cn_jp_entry": "陳嵐(女)",
+              "assumed_office_date": "2017-05",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Zhang Xiangyan",
+              "name_chinese": "張祥焱",
+              "raw_cn_jp_entry": "張祥焱",
+              "assumed_office_date": "2020-11",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Zhao Ningning",
+              "name_chinese": "趙寧寧",
+              "raw_cn_jp_entry": "趙寧寧(女)",
+              "assumed_office_date": "2022-10",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 90,
+      "organization_name_english": "Bureau of Archives",
+      "organization_name_chinese": "档案館",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Chief Archivist",
+          "title_chinese": "館長",
+          "personnel": [
+            {
+              "name_pinyin": "Li Xing",
+              "name_chinese": "李星",
+              "raw_cn_jp_entry": "李星",
+              "assumed_office_date": "2021-04",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 90,
+      "organization_name_english": "Department of Services for Foreign Ministry Home and Overseas Offices",
+      "organization_name_chinese": "機関及駐外機構服務中心",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director-General",
+          "title_chinese": "主任",
+          "personnel": [
+            {
+              "name_pinyin": "Jin Zhijian",
+              "name_chinese": "金智健",
+              "raw_cn_jp_entry": "金智健(65.12)",
+              "assumed_office_date": "2021-11",
+              "birth_year": 1965,
+              "birth_month": 12,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 90,
+      "organization_name_english": "China Institute of International Studies",
+      "organization_name_chinese": "中国国際問題研究院",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Director",
+          "title_chinese": "院長",
+          "personnel": [
+            {
+              "name_pinyin": "Chen Bo",
+              "name_chinese": "陳波",
+              "raw_cn_jp_entry": "陳波(女70.1)",
+              "assumed_office_date": "2023-08",
+              "birth_year": 1970,
+              "birth_month": 1,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "f"
+              ],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors",
+          "title_chinese": "副院長",
+          "personnel": [
+            {
+              "name_pinyin": "Rong Ying",
+              "name_chinese": "栄鷹",
+              "raw_cn_jp_entry": "栄鷹",
+              "assumed_office_date": "2016-12",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Yu Jiang",
+              "name_chinese": "于江",
+              "raw_cn_jp_entry": "于江",
+              "assumed_office_date": "2020-12",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Liu Qing",
+              "name_chinese": "劉卿",
+              "raw_cn_jp_entry": "劉卿",
+              "assumed_office_date": "2020-09",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 90,
+      "organization_name_english": "Office of Commissioner of Ministry of Foreign Affairs in HKSAR",
+      "organization_name_chinese": "駐香港特別行政区特派員公署",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Commissioner",
+          "title_chinese": "特派員",
+          "personnel": []
+        },
+        {
+          "title_english": "Vice Commissioners",
+          "title_chinese": "副特派員",
+          "personnel": [
+            {
+              "name_pinyin": "Li Yongsheng",
+              "name_chinese": "李永勝",
+              "raw_cn_jp_entry": "李永勝(71.10)",
+              "assumed_office_date": "2023-09",
+              "birth_year": 1971,
+              "birth_month": 10,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Pan Yundong",
+              "name_chinese": "潘雲東",
+              "raw_cn_jp_entry": "潘雲東(65.5)",
+              "assumed_office_date": "2021-03",
+              "birth_year": 1965,
+              "birth_month": 5,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Fang Jianming",
+              "name_chinese": "方建明",
+              "raw_cn_jp_entry": "方建明(64.11)",
+              "assumed_office_date": "2021-02",
+              "birth_year": 1964,
+              "birth_month": 11,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 90,
+      "organization_name_english": "Office of Commissioner of Ministry of Foreign Affairs in MSAR",
+      "organization_name_chinese": "駐澳門特別行政区特派員公署",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [
+        {
+          "title_english": "Commissioner",
+          "title_chinese": "特派員",
+          "personnel": [
+            {
+              "name_pinyin": "Liu Xianfa",
+              "name_chinese": "劉顕法",
+              "raw_cn_jp_entry": "劉顕法(63.4)",
+              "assumed_office_date": "2021-02",
+              "birth_year": 1963,
+              "birth_month": 4,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Vice Commissioner",
+          "title_chinese": "副特派員",
+          "personnel": [
+            {
+              "name_pinyin": "Sun Xiangyang",
+              "name_chinese": "孫向陽",
+              "raw_cn_jp_entry": "孫向陽(69.1)",
+              "assumed_office_date": "2022-07",
+              "birth_year": 1969,
+              "birth_month": 1,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 90,
+      "organization_name_english": "Ministry of National Defense",
+      "organization_name_chinese": "国防部",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null
+      },
+      "positions": [],
+      "sub_organizations": []
+    }
+  ]
+}
+
