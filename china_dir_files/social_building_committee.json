@@ -1,0 +1,191 @@
+{
+  "source_pdf_page": 52,
+  "organization_name_english": "Social Building Committee",
+  "organization_name_chinese": "社会建設委員会",
+  "metadata": {
+    "establishment_date": null,
+    "list_order_note": null,
+    "count": null
+  },
+  "positions": [
+    {
+      "title_english": "Chairperson",
+      "title_chinese": "主任委員",
+      "personnel": [
+        {
+          "name_pinyin": "Yang Zhenwu",
+          "name_chinese": "楊振武",
+          "raw_cn_jp_entry": "楊振武(55.5)",
+          "assumed_office_date": "2023-03-12",
+          "birth_year": 1955,
+          "birth_month": 5,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Vice Chairpersons",
+      "title_chinese": "副主任委員",
+      "personnel": [
+        {
+          "name_pinyin": "Song Xiuyan",
+          "name_chinese": "宋秀岩",
+          "raw_cn_jp_entry": "宋秀岩(女)",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "female",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [
+            "f"
+          ],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Yuan Yubai",
+          "name_chinese": "袁誉柏",
+          "raw_cn_jp_entry": "袁誉柏(上将)",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": "Admiral",
+          "rank_chinese": "上将",
+          "other_notes_en": [
+            "Adm"
+          ],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Qin Shengxiang",
+          "name_chinese": "秦生祥",
+          "raw_cn_jp_entry": "秦生祥(上将)",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": "Admiral",
+          "rank_chinese": "上将",
+          "other_notes_en": [
+            "Adm"
+          ],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Jing Hanchao",
+          "name_chinese": "景漢朝",
+          "raw_cn_jp_entry": "景漢朝",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Tan Tianxing",
+          "name_chinese": "譚天星",
+          "raw_cn_jp_entry": "譚天星",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Sun Jusheng",
+          "name_chinese": "孫菊生",
+          "raw_cn_jp_entry": "孫菊生",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Li Yong",
+          "name_chinese": "李勇",
+          "raw_cn_jp_entry": "李勇",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Liu Wei",
+          "name_chinese": "劉偉",
+          "raw_cn_jp_entry": "劉偉",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Wang Tiemin",
+          "name_chinese": "汪鉄民",
+          "raw_cn_jp_entry": "汪鉄民",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    }
+  ],
+  "sub_organizations": []
+}

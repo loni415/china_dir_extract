@@ -1,0 +1,141 @@
+{
+  "source_pdf_page": 51,
+  "organization_name_english": "Overseas Chinese Affairs Committee",
+  "organization_name_chinese": "華僑委員会",
+  "metadata": {
+    "establishment_date": null,
+    "list_order_note": null,
+    "count": null
+  },
+  "positions": [
+    {
+      "title_english": "Chairperson",
+      "title_chinese": "主任委員",
+      "personnel": [
+        {
+          "name_pinyin": "Yu Weiguo",
+          "name_chinese": "于偉国",
+          "raw_cn_jp_entry": "于偉国(55.10)",
+          "assumed_office_date": "2023-03-12",
+          "birth_year": 1955,
+          "birth_month": 10,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Vice Chairpersons",
+      "title_chinese": "副主任委員",
+      "personnel": [
+        {
+          "name_pinyin": "Huang Zhixian",
+          "name_chinese": "黄志賢",
+          "raw_cn_jp_entry": "黄志賢",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Li Yumei",
+          "name_chinese": "李玉妹",
+          "raw_cn_jp_entry": "李玉妹(女)",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "female",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [
+            "f"
+          ],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Wan Lijun",
+          "name_chinese": "万立駿",
+          "raw_cn_jp_entry": "◎万立駿",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": "◎",
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Ding Laihang",
+          "name_chinese": "丁来杭",
+          "raw_cn_jp_entry": "丁来杭(上将)",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": "General",
+          "rank_chinese": "上将",
+          "other_notes_en": [
+            "Gen"
+          ],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Zheng Jianmin",
+          "name_chinese": "鄭建閩",
+          "raw_cn_jp_entry": "鄭建閩",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Cao Hongming",
+          "name_chinese": "曹鴻鳴",
+          "raw_cn_jp_entry": "曹鴻鳴",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    }
+  ],
+  "sub_organizations": []
+}

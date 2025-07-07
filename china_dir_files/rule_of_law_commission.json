@@ -28,10 +28,10 @@
                   {
                     "name_pinyin": "Liu Changchun (f)",
                     "name_chinese": "劉長春",
-                    "dob_year": 1966,
+                    "birth_year": 1966,
                     "dob_month": 1,
                     "assumed_office_date": "2022-10",
-                    "cross_reference_symbols": [],
+                    "cross_reference_symbol": [],
                     "gender": "female",
                     "ethnicity": "Han",
                     "rank": null,
@@ -58,10 +58,10 @@
               {
                 "name_pinyin": "He Rong (f)",
                 "name_chinese": "賀栄",
-                "dob_year": 1962,
+                "birth_year": 1962,
                 "dob_month": 10,
                 "assumed_office_date": "2023-02",
-                "cross_reference_symbols": [
+                "cross_reference_symbol": [
                   "◎"
                 ],
                 "gender": "female",
@@ -73,10 +73,10 @@
               {
                 "name_pinyin": "Yin Bai",
                 "name_chinese": "誾柏",
-                "dob_year": 1969,
+                "birth_year": 1969,
                 "dob_month": 4,
                 "assumed_office_date": "2023-04",
-                "cross_reference_symbols": [],
+                "cross_reference_symbol": [],
                 "gender": "male",
                 "ethnicity": "Han",
                 "rank": null,
@@ -97,10 +97,10 @@
           {
             "name_pinyin": "Xi Jinping",
             "name_chinese": "習近平",
-            "dob_year": 1953,
+            "birth_year": 1953,
             "dob_month": 6,
             "assumed_office_date": "2018-08",
-            "cross_reference_symbols": [
+            "cross_reference_symbol": [
               "☆"
             ],
             "gender": "male",
@@ -119,10 +119,10 @@
           {
             "name_pinyin": "Wang Huning",
             "name_chinese": "王滬寧",
-            "dob_year": 1955,
+            "birth_year": 1955,
             "dob_month": 10,
             "assumed_office_date": "2018-08",
-            "cross_reference_symbols": [
+            "cross_reference_symbol": [
               "☆"
             ],
             "gender": "male",

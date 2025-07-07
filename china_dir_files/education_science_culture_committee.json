@@ -1,0 +1,187 @@
+{
+  "source_pdf_page": 51,
+  "organization_name_english": "Education, Science, Culture & Public Health Committee",
+  "organization_name_chinese": "教育科学文化衛生委員会",
+  "metadata": {
+    "establishment_date": null,
+    "list_order_note": null,
+    "count": null
+  },
+  "positions": [
+    {
+      "title_english": "Chairperson",
+      "title_chinese": "主任委員",
+      "personnel": [
+        {
+          "name_pinyin": "Luo Shugang",
+          "name_chinese": "雒樹剛",
+          "raw_cn_jp_entry": "雒樹剛(55.5)",
+          "assumed_office_date": "2023-03-12",
+          "birth_year": 1955,
+          "birth_month": 5,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Vice Chairpersons",
+      "title_chinese": "副主任委員",
+      "personnel": [
+        {
+          "name_pinyin": "Zheng Weiping",
+          "name_chinese": "鄭衛平",
+          "raw_cn_jp_entry": "鄭衛平(上将)",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": "General",
+          "rank_chinese": "上将",
+          "other_notes_en": [
+            "Gen"
+          ],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Xu Dazhe",
+          "name_chinese": "許達哲",
+          "raw_cn_jp_entry": "許達哲",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Hou Jianguo",
+          "name_chinese": "侯建国",
+          "raw_cn_jp_entry": "◎侯建国",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": "◎",
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Li Jinghai",
+          "name_chinese": "李静海",
+          "raw_cn_jp_entry": "李静海",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Zhang Daohong",
+          "name_chinese": "張道宏",
+          "raw_cn_jp_entry": "張道宏",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Tian Xuejun",
+          "name_chinese": "田学軍",
+          "raw_cn_jp_entry": "田学軍",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Gu Xiaoyu",
+          "name_chinese": "古小玉",
+          "raw_cn_jp_entry": "古小玉",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Yang Guanlin",
+          "name_chinese": "楊関林",
+          "raw_cn_jp_entry": "楊関林",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Wang Xiqin",
+          "name_chinese": "王希勤",
+          "raw_cn_jp_entry": "王希勤",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    }
+  ],
+  "sub_organizations": []
+}

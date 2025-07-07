@@ -1,0 +1,155 @@
+{
+  "source_pdf_page": 51,
+  "organization_name_english": "Foreign Affairs Committee",
+  "organization_name_chinese": "外事委員会",
+  "metadata": {
+    "establishment_date": null,
+    "list_order_note": null,
+    "count": null
+  },
+  "positions": [
+    {
+      "title_english": "Chairperson",
+      "title_chinese": "主任委員",
+      "personnel": [
+        {
+          "name_pinyin": "Lou Qinjian",
+          "name_chinese": "婁勤倹",
+          "raw_cn_jp_entry": "婁勤倹(56.12)",
+          "assumed_office_date": "2023-03-12",
+          "birth_year": 1956,
+          "birth_month": 12,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Vice Chairpersons",
+      "title_chinese": "副主任委員",
+      "personnel": [
+        {
+          "name_pinyin": "Fu Ziying",
+          "name_chinese": "傅自応",
+          "raw_cn_jp_entry": "傅自応",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Zhou Yaning",
+          "name_chinese": "周亜寧",
+          "raw_cn_jp_entry": "周亜寧(上将)",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": "General",
+          "rank_chinese": "上将",
+          "other_notes_en": [
+            "Gen"
+          ],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Hao Ping",
+          "name_chinese": "郝平",
+          "raw_cn_jp_entry": "郝 平",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Wang Chao",
+          "name_chinese": "王超",
+          "raw_cn_jp_entry": "王超",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Guo Lei",
+          "name_chinese": "郭雷",
+          "raw_cn_jp_entry": "郭 雷",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Xu Ganlu",
+          "name_chinese": "許甘露",
+          "raw_cn_jp_entry": "許甘露",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Wang Ke",
+          "name_chinese": "王可",
+          "raw_cn_jp_entry": "王 可",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    }
+  ],
+  "sub_organizations": []
+}

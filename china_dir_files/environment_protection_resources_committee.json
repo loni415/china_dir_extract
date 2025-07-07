@@ -1,0 +1,161 @@
+{
+  "source_pdf_page": 51,
+  "organization_name_english": "Environment Protection and Resources Conservation Committee",
+  "organization_name_chinese": "環境与資源保護委員会",
+  "metadata": {
+    "establishment_date": null,
+    "list_order_note": null,
+    "count": null
+  },
+  "positions": [
+    {
+      "title_english": "Chairperson",
+      "title_chinese": "主任委員",
+      "personnel": [
+        {
+          "name_pinyin": "Lu Xinshe",
+          "name_chinese": "鹿心社",
+          "raw_cn_jp_entry": "鹿心社(56.11)",
+          "assumed_office_date": "2023-03-12",
+          "birth_year": 1956,
+          "birth_month": 11,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        }
+      ]
+    },
+    {
+      "title_english": "Vice Chairpersons",
+      "title_chinese": "副主任委員",
+      "personnel": [
+        {
+          "name_pinyin": "Yue Jingping",
+          "name_chinese": "鄂竞平",
+          "raw_cn_jp_entry": "鄂竞平",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Yu Zhongfu",
+          "name_chinese": "于忠福",
+          "raw_cn_jp_entry": "于忠福(上将)",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": "General",
+          "rank_chinese": "上将",
+          "other_notes_en": [
+            "Gen"
+          ],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Li Jinbin",
+          "name_chinese": "李錦斌",
+          "raw_cn_jp_entry": "李錦斌",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Buxiaolin",
+          "name_chinese": "布小林",
+          "raw_cn_jp_entry": "布小林(女)",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "female",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [
+            "f"
+          ],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Lu Zhongmei",
+          "name_chinese": "呂忠梅",
+          "raw_cn_jp_entry": "呂忠梅(女)",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "female",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [
+            "f"
+          ],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Wang Hong",
+          "name_chinese": "王宏",
+          "raw_cn_jp_entry": "王 宏",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [],
+          "other_notes_cn_jp": []
+        },
+        {
+          "name_pinyin": "Lu Caixia",
+          "name_chinese": "呂彩霞",
+          "raw_cn_jp_entry": "呂彩霞(女)",
+          "assumed_office_date": null,
+          "birth_year": null,
+          "birth_month": null,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "female",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null,
+          "other_notes_en": [
+            "f"
+          ],
+          "other_notes_cn_jp": []
+        }
+      ]
+    }
+  ],
+  "sub_organizations": []
+}

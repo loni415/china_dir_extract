@@ -323,7 +323,7 @@
         "personnel": [
           {
             "name_pinyin": "Wang Linggui",
-            "name_chinese": "王盒桂",
+            "name_chinese": "王靈桂",
             "dob_year": null,
             "dob_month": null,
             "assumed_office_date": null,
@@ -336,7 +336,7 @@
           },
           {
             "name_pinyin": "William Wong",
-            "name_chinese": "王鳴",
+            "name_chinese": "王鳴峰",
             "dob_year": null,
             "dob_month": null,
             "assumed_office_date": null,
@@ -362,7 +362,7 @@
           },
           {
             "name_pinyin": "Lee Hoey Simon",
-            "name_chinese": "李浩",
+            "name_chinese": "李浩然",
             "dob_year": null,
             "dob_month": null,
             "assumed_office_date": null,
@@ -459,7 +459,7 @@
             "name_chinese": "沈春耀",
             "dob_year": 1960,
             "dob_month": 5,
-            "assumed_office_date": null,
+            "assumed_office_date": "2019-12-28",
             "cross_reference_symbols": [
               "◎"
             ],
