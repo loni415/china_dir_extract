@@ -2,6 +2,7 @@ import json
 import pandas as pd
 import os
 import argparse
+import glob
 
 def process_personnel(positions, org_name_en, org_name_cn, sub_org_name_en='', sub_org_name_cn=''):
     """
@@ -37,6 +38,12 @@ def extract_all_organization_data(file_path):
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
+            
+        # Check if data is a dictionary (single org), and if so, wrap it in a list
+        if isinstance(data, dict):
+            print("Note: Input file contains a single organization object. Converting to list format.")
+            data = [data]
+            
     except FileNotFoundError:
         print(f"Error: The file '{file_path}' was not found.")
         return None
@@ -61,6 +68,43 @@ def extract_all_organization_data(file_path):
             output_data.extend(process_personnel(sub_org_positions, org_name_en, org_name_cn, sub_org_name_en, sub_org_name_cn))
 
     return output_data
+
+def process_directory(directory_path):
+    """
+    Process all JSON files in a directory and return combined data.
+    """
+    if not os.path.exists(directory_path):
+        print(f"Error: Directory '{directory_path}' does not exist.")
+        return None
+    
+    # Find all JSON files in the directory
+    json_files = glob.glob(os.path.join(directory_path, "*.json"))
+    
+    if not json_files:
+        print(f"No JSON files found in directory: {directory_path}")
+        return None
+    
+    print(f"Found {len(json_files)} JSON files to process:")
+    for file in json_files:
+        print(f"  - {os.path.basename(file)}")
+    
+    # Process each file and combine the results
+    all_data = []
+    processed_count = 0
+    
+    for file_path in json_files:
+        print(f"\nProcessing file {processed_count + 1} of {len(json_files)}: {os.path.basename(file_path)}")
+        file_data = extract_all_organization_data(file_path)
+        
+        if file_data:
+            all_data.extend(file_data)
+            processed_count += 1
+            print(f"  - Added {len(file_data)} personnel records")
+        else:
+            print(f"  - No data extracted from this file")
+    
+    print(f"\nFinished processing {processed_count} files. Total personnel records: {len(all_data)}")
+    return all_data
 
 def export_to_excel(data, filename):
     """
@@ -122,18 +166,26 @@ def export_to_excel(data, filename):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Extract organization data from JSON and append to an Excel file.")
-    parser.add_argument("input_file", nargs='?', default=None, help="Path to the input JSON file.")
+    parser = argparse.ArgumentParser(description="Extract organization data from JSON files and append to an Excel file.")
+    parser.add_argument("input", nargs='?', default=None, help="Path to the input JSON file or directory containing JSON files.")
     parser.add_argument("output_file", nargs='?', default=None, help="Path for the output Excel file.")
+    parser.add_argument("--dir", action="store_true", help="Process all JSON files in the input directory")
     args = parser.parse_args()
 
     # Set default filenames here if no command-line arguments are provided.
-    default_input_json = 'input_data.json'
+    default_input = 'input_data.json'
     default_output_excel = 'cumulative_organization_data.xlsx'
 
-    input_json_file = args.input_file if args.input_file else default_input_json
+    input_path = args.input if args.input else default_input
     output_excel_file = args.output_file if args.output_file else default_output_excel
     
-    extracted_data = extract_all_organization_data(input_json_file)
+    # Determine if we're processing a directory or a single file
+    if args.dir or (os.path.isdir(input_path) and not os.path.isfile(input_path)):
+        print(f"Processing all JSON files in directory: {input_path}")
+        extracted_data = process_directory(input_path)
+    else:
+        # Process a single file
+        print(f"Processing single JSON file: {input_path}")
+        extracted_data = extract_all_organization_data(input_path)
     
     export_to_excel(extracted_data, output_excel_file)
