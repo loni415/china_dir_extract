@@ -4,32 +4,6 @@ import os
 import argparse
 import glob
 
-def process_personnel(positions, org_name_en, org_name_cn, sub_org_name_en='', sub_org_name_cn=''):
-    """
-    Helper function to process a list of positions and extract personnel data.
-    """
-    personnel_list = []
-    for position in positions:
-        for person in position.get("personnel", []):
-            row = {
-                'organization_name_english': org_name_en,
-                'organization_name_chinese': org_name_cn,
-                'sub_organization_name_english': sub_org_name_en,
-                'sub_organization_name_chinese': sub_org_name_cn,
-                'title_english': position.get("title_english"),
-                'title_chinese': position.get("title_chinese"),
-                'name_pinyin': person.get("name_pinyin"),
-                'name_chinese': person.get("name_chinese"),
-                'birth_year': person.get("birth_year"),
-                'birth_month': person.get("birth_month"),
-                'birth_day': person.get("birth_day"),
-                'gender': person.get("gender"),
-                'ethnicity': person.get("ethnicity"),
-                'assumed_office_date': person.get("assumed_office_date")
-            }
-            personnel_list.append(row)
-    return personnel_list
-
 def extract_all_organization_data(file_path):
     """
     Extracts data for all organizations from a JSON file.
@@ -52,22 +26,78 @@ def extract_all_organization_data(file_path):
         return None
 
     output_data = []
-    for org in data:
+    # Track the organization order
+    for org_index, org in enumerate(data):
         org_name_en = org.get("organization_name_english")
         org_name_cn = org.get("organization_name_chinese")
+        source_pdf_page = org.get("source_pdf_page")  # Get the page number
+        
         if not org_name_en:
             continue
 
+        # Add order tracking for positions within main organization
         main_org_positions = org.get("positions", [])
-        output_data.extend(process_personnel(main_org_positions, org_name_en, org_name_cn))
+        for pos_index, position in enumerate(main_org_positions):
+            # Add order metadata to position
+            position['_org_order'] = org_index
+            position['_position_order'] = pos_index
+        
+        output_data.extend(process_personnel(main_org_positions, org_name_en, org_name_cn, source_pdf_page))
 
-        for sub_org in org.get("sub_organizations", []):
+        # Process sub-organizations with order tracking
+        for sub_org_index, sub_org in enumerate(org.get("sub_organizations", [])):
             sub_org_name_en = sub_org.get("organization_name_english")
             sub_org_name_cn = sub_org.get("organization_name_chinese")
             sub_org_positions = sub_org.get("positions", [])
-            output_data.extend(process_personnel(sub_org_positions, org_name_en, org_name_cn, sub_org_name_en, sub_org_name_cn))
+            
+            # Add order tracking for positions within sub-organization
+            for pos_index, position in enumerate(sub_org_positions):
+                # Add order metadata to position
+                position['_org_order'] = org_index
+                position['_sub_org_order'] = sub_org_index
+                position['_position_order'] = pos_index
+            
+            output_data.extend(process_personnel(sub_org_positions, org_name_en, org_name_cn, 
+                                               source_pdf_page, sub_org_name_en, sub_org_name_cn))
 
     return output_data
+
+def process_personnel(positions, org_name_en, org_name_cn, source_pdf_page, sub_org_name_en='', sub_org_name_cn=''):
+    """
+    Helper function to process a list of positions and extract personnel data.
+    """
+    personnel_list = []
+    for position in positions:
+        # Get order metadata
+        org_order = position.get('_org_order', 0)
+        sub_org_order = position.get('_sub_org_order', 0)
+        position_order = position.get('_position_order', 0)
+        
+        for person_index, person in enumerate(position.get("personnel", [])):
+            row = {
+                'source_pdf_page': source_pdf_page,  # Add source page number
+                'organization_name_english': org_name_en,
+                'organization_name_chinese': org_name_cn,
+                'sub_organization_name_english': sub_org_name_en,
+                'sub_organization_name_chinese': sub_org_name_cn,
+                'title_english': position.get("title_english"),
+                'title_chinese': position.get("title_chinese"),
+                'name_pinyin': person.get("name_pinyin"),
+                'name_chinese': person.get("name_chinese"),
+                'birth_year': person.get("birth_year"),
+                'birth_month': person.get("birth_month"),
+                'birth_day': person.get("birth_day"),
+                'gender': person.get("gender"),
+                'ethnicity': person.get("ethnicity"),
+                'assumed_office_date': person.get("assumed_office_date"),
+                # Add order tracking fields
+                '_org_order': org_order,
+                '_sub_org_order': sub_org_order,
+                '_position_order': position_order,
+                '_person_order': person_index
+            }
+            personnel_list.append(row)
+    return personnel_list
 
 def process_directory(directory_path):
     """
@@ -108,15 +138,17 @@ def process_directory(directory_path):
 
 def export_to_excel(data, filename):
     """
-    Exports data to an Excel file. If the file exists, it appends the new data
-    and removes duplicates. Otherwise, it creates a new file.
+    Exports data to an Excel file, sorted by source_pdf_page.
+    If the file exists, it appends the new data, removes duplicates,
+    and sorts everything by page number.
     """
     if data is None or not data:
         print("No new data was extracted to process.")
         return
 
-    # Define the desired column order
+    # Define the desired column order - add source_pdf_page to the columns
     column_order = [
+        'source_pdf_page',  # Added to ensure this column is preserved
         'organization_name_english', 'organization_name_chinese',
         'sub_organization_name_english', 'sub_organization_name_chinese',
         'title_english', 'title_chinese', 'name_pinyin', 'name_chinese',
@@ -126,6 +158,14 @@ def export_to_excel(data, filename):
     
     # Create a DataFrame for the new data and ensure it has the correct columns
     new_df = pd.DataFrame(data)
+    
+    # Ensure source_pdf_page is numeric for proper sorting
+    new_df['source_pdf_page'] = pd.to_numeric(new_df['source_pdf_page'], errors='coerce')
+    
+    # Sort the new data by source_pdf_page
+    new_df = new_df.sort_values(by='source_pdf_page')
+    
+    # Reorder columns
     new_df = new_df[column_order]
 
     # Check if the output file already exists
@@ -134,6 +174,14 @@ def export_to_excel(data, filename):
         try:
             # Read the existing data from the Excel sheet
             existing_df = pd.read_excel(filename)
+            
+            # Ensure the existing data has the source_pdf_page column
+            if 'source_pdf_page' not in existing_df.columns:
+                print("Adding source_pdf_page column to existing data")
+                existing_df['source_pdf_page'] = None
+            
+            # Ensure source_pdf_page is numeric in existing data
+            existing_df['source_pdf_page'] = pd.to_numeric(existing_df['source_pdf_page'], errors='coerce')
             
             # Combine the old and new data
             combined_df = pd.concat([existing_df, new_df], ignore_index=True)
@@ -146,7 +194,10 @@ def export_to_excel(data, filename):
             ]
             
             # Drop duplicates, keeping the last entry (useful for updating records)
-            final_df = combined_df.drop_duplicates(subset=unique_cols, keep='last')
+            combined_df = combined_df.drop_duplicates(subset=unique_cols, keep='last')
+            
+            # Sort the combined data by source_pdf_page
+            final_df = combined_df.sort_values(by='source_pdf_page')
             
             print(f"Original rows: {len(existing_df)}. New rows from source: {len(new_df)}. Total rows after append & deduplication: {len(final_df)}.")
 
@@ -160,7 +211,7 @@ def export_to_excel(data, filename):
     # Write the final DataFrame to the Excel file
     try:
         final_df.to_excel(filename, index=False, engine='openpyxl')
-        print(f"Success! Data saved to '{os.path.abspath(filename)}'")
+        print(f"Success! Data saved to '{os.path.abspath(filename)}', sorted by page number.")
     except Exception as e:
         print(f"An error occurred while writing to Excel: {e}")
 
