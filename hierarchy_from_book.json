@@ -1,0 +1,978 @@
+{
+  "source_pdf_page": {
+    "organization_name_english": {
+      "sub_organization_name_english": {}
+    }
+  },
+  "51": {
+    "Education, Science, Culture & Public Health Committee": {},
+    "NPC Special Committees": {
+      "Education, Science, Culture & Public Health Committee": {},
+      "Environment Protection & Resources Conservation Committee": {}
+    }
+  },
+  "NATIONAL PEOPLE'S CONGRESS": {
+    "Special Committees": {
+      "Environment Protection and Resources Conservation Committee": {},
+      "Foreign Affairs Committee": {},
+      "Overseas Chinese Affairs Committee": {},
+      "Social Building Committee": {},
+      "Agriculture and Rural Affairs Committee": {},
+      "Ethnic Affairs Committee": {},
+      "Constitution and Law Committee": {},
+      "Supervision and Judicial Affairs Committee": {},
+      "Financial and Economic Affairs Committee": {}
+    }
+  },
+  "83": {
+    "State Council": {
+      "General Office": {}
+    }
+  },
+  "84": {
+    "Ministry of Foreign Affairs": {
+      "Department of Services for Foreign Ministry Home and Overseas Offices": {},
+      "Department of Finance": {},
+      "Bureau of Archives": {},
+      "Party-related Affairs Committee (Department for Diplomatic Missions Abroad)": {},
+      "Administrative Department": {},
+      "Bureau for Retired Personnel": {},
+      "Department of Personnel": {},
+      "China Institute of International Studies": {},
+      "Department of External Security Affairs": {},
+      "Office of Commissioner of Ministry of Foreign Affairs in MSAR": {},
+      "Office of Commissioner of Ministry of Foreign Affairs in HKSAR": {},
+      "Department of African Affairs": {},
+      "Department of European-Central Asian Affairs": {},
+      "Department of European Affairs": {},
+      "Department of North American and Oceanian Affairs": {},
+      "Department of West Asian & North African Affairs": {},
+      "General Office": {},
+      "Department of Latin American & Caribbean Affairs": {},
+      "Department of Policy Planning": {},
+      "Department of Asian Affairs": {},
+      "Department of International Organizations and Conferences": {},
+      "Protocol Department": {},
+      "Information Department": {},
+      "Department of Boundary and Ocean Affairs": {},
+      "Department of Treaty and Law": {},
+      "Department of Arms Control": {},
+      "Department of Foreign Affairs Management": {},
+      "Department of Translation and Interpretation": {},
+      "Department of H. K., Macao and Taiwan Affairs": {},
+      "Department of Consular Affairs (Centre for Consular Assistance and Protection)": {},
+      "Department of International Economic Affairs": {}
+    }
+  },
+  "91": {
+    "National Development and Reform Commission": {
+      "Department of Employment, Income Distribution and Consumption": {},
+      "Bureau of Economic Operations Adjustment": {},
+      "Department of Comprehensive System Reform": {},
+      "Department of Fixed Asset Investment": {},
+      "Department of Regional Economy": {},
+      "Department of Regional Revitalization": {},
+      "Department of Regional Opening-up": {},
+      "Department of Infrastructure Development": {},
+      "Department of National Economy": {},
+      "Department of Price": {},
+      "Department of Fiscal and Financial Affairs, and Credit Construction": {},
+      "Department of Economic and Trade Department": {},
+      "Department of Industrial Development": {},
+      "Department of Rural Economy": {},
+      "Department of Development Strategies & Planning": {},
+      "Department of Social Development": {},
+      "Office of Policy Studies": {},
+      "Department of Resource Conservation and Environmental Protection": {}
+    }
+  },
+  "93": {
+    "Ministry of Education": {
+      "Department of Science, Technology & Informatization": {},
+      "Department of College Students Affairs": {},
+      "Department of Degree Management & Postgraduate Education": {},
+      "Department of Language Application & Administration": {},
+      "Department of Social Sciences": {},
+      "Department of Language Information Management": {},
+      "Department of International Cooperation & Exchanges (Office of Hong Kong, Macao and Taiwan Affairs)": {},
+      "General Office": {},
+      "Department of Policies and Regulations": {},
+      "Department of Development Planning": {},
+      "Department of Comprehensive Reforms": {},
+      "Department of International Cooperation": {},
+      "Department of Personnel": {},
+      "Department of Coordinated Development of Economy and National Defense": {},
+      "Department of Finance": {},
+      "Department of National Textbook": {},
+      "Department of Basic Education": {},
+      "Department for Supervision of After-School Tutoring Institutions": {},
+      "Department of Vocational and Adult Education": {},
+      "Department of Higher Education": {},
+      "Office of National Education Inspection": {},
+      "Department of Minority Education": {},
+      "Department of Teacher Education": {},
+      "Department of Physical, Health & Arts Education": {},
+      "Department for Ideological and Political Work": {},
+      "Department of Evaluation and Supervision": {}
+    }
+  },
+  "95": {
+    "Department of Degree Management & Postgraduate Education": {},
+    "Ministry of Science and Technology": {
+      "General Office": {},
+      "Department of Personnel": {},
+      "State Natural Sciences Foundation": {},
+      "Department of International Cooperation (Hong Kong, Macao and Taiwan Affairs Office)": {},
+      "Department of S&T Talent and Popularization": {},
+      "Department of Foreign Expert Services": {},
+      "Department of S&T for Rural Development": {},
+      "Department of Major S&T Project": {},
+      "Department of Supervision & Scientific Integrity": {},
+      "Department of Resource Allocation & Management": {},
+      "Department of Policy, Regulation & Innovation System": {},
+      "Department of Strategy and Planning": {}
+    },
+    "State Language Work Committee": {},
+    "Department of International Cooperation & Exchanges (Office of Hong Kong, Macao and Taiwan Affairs)": {},
+    "Department of Language Information Management": {},
+    "Department of Language Application & Administration": {},
+    "Department of College Students Affairs": {},
+    "Department of Science, Technology & Informatization": {}
+  },
+  "96": {
+    "State Natural Sciences Foundation": {}
+  },
+  "99": {
+    "National Space Administration": {},
+    "State Atomic Energy Authority": {},
+    "State Ethnic Affairs Commission": {
+      "General Office": {},
+      "Coordination Promotion Department": {},
+      "Department of Theoretical Research": {},
+      "Department of Policy and Regulations": {}
+    }
+  },
+  "100": {
+    "Ministry of Public Security": {
+      "Police Service Support Bureau": {},
+      "Information and Publicity Bureau": {},
+      "National Unity Promotion Department": {},
+      "Department of Common Development": {},
+      "Culture and Publicity Department": {},
+      "Department of Education": {},
+      "International Exchange Department (Hong Kong, Macao and Taiwan Affairs Office)": {},
+      "Personnel Department": {},
+      "Political Department": {},
+      "Supervision and Audit Bureau": {},
+      "Personnel and Training Bureau": {},
+      "Bureau of Prison Administration": {},
+      "Security Management Bureau (3rd Bureau)": {},
+      "Traffic Control Bureau": {},
+      "Legal System Bureau": {},
+      "Economic Crimes Investigation Bureau (2nd Bureau)": {},
+      "International Cooperation Bureau": {},
+      "Equipment and Financial Affairs Bureau": {},
+      "Narcotics Control Bureau": {},
+      "Technology and Informatization Bureau": {},
+      "General Administration of Customs Anti-Smuggling Bureau": {},
+      "Political Security and Protection Bureau (1st Bureau/Taiwan, Hong Kong & Macao Affairs Office)": {},
+      "Railway Public Security Bureau (Tenth Bureau)": {},
+      "Special Service Bureau": {},
+      "Food and Drug Crime Investigation Bureau": {},
+      "Anti-Terrorism Bureau": {},
+      "Prevention and Treatment of Cult Crime Bureau (Fourth Bureau)": {},
+      "Criminal Investigation Bureau": {},
+      "Cybersecurity Protection Bureau": {}
+    }
+  },
+  "103": {
+    "Ministry of Civil Affairs": {
+      "General Office (International Cooperation Department)": {},
+      "Policy and Law Department": {},
+      "Administrative Division & Place Name Department": {},
+      "Social Aid Department": {},
+      "Social Affairs Department": {},
+      "Elderly Services Department": {},
+      "Child Welfare Department": {},
+      "Charity Promotion Department": {},
+      "Planning and Financial Affairs Department": {},
+      "Personnel Department": {}
+    },
+    "Ministry of State Security": {
+      "Political Department": {},
+      "China Institutes of Contemporary International Relations": {}
+    },
+    "Civil Aviation Administration of China (CAAC) Public Security Bureau": {}
+  },
+  "104": {
+    "Ministry of Justice": {
+      "Fourth Legislation Bureau": {},
+      "Political Department": {},
+      "Second Legislation Bureau": {},
+      "First Legislation Bureau": {},
+      "Bureau of Rule by Law Supervision": {},
+      "Bureau of Rule of Law Research": {},
+      "Bureau of Prison Administration": {},
+      "Secretariat of the General Office of the Central Commission for Comprehensive Rule of Law": {},
+      "Bureau of Drug Rehabilitation Administration": {},
+      "General Office": {},
+      "Administrative Law Enforcement Coordination and Supervision Bureau": {},
+      "Bureau of Equipment and Finance": {},
+      "Bureau of International Cooperation": {},
+      "Bureau of Legal Professional Qualifications Administration": {},
+      "Bureau of Administrative Reconsideration and Response": {},
+      "Bureau of Public Legal Services Administration": {},
+      "Bureau of People's Participation and Promotion of Rule of Law": {},
+      "Bureau of Law Popularization and Rule of Law": {},
+      "Bureau of Lawyers' Work": {}
+    }
+  },
+  "106": {
+    "Ministry of Finance": {
+      "General Office": {},
+      "Policy Research Department": {},
+      "General Financial Affairs Department": {},
+      "Treaty and Law Department": {},
+      "Taxation Policy Department": {},
+      "Budget Department": {},
+      "Treasury Department (Government Procurement Management Office)": {},
+      "National Defense Department": {},
+      "Social Security Department": {},
+      "Agriculture and Rural Areas Department": {},
+      "Asset Management Department": {},
+      "International Economic Relations Department (Hong Kong, Macao and Taiwan Affairs Office)": {},
+      "International Financial Cooperation Department": {},
+      "Accounting Department": {},
+      "Supervision and Evaluation Bureau": {},
+      "Personnel and Education Department": {},
+      "Economic Construction Department": {},
+      "Administrative Policy and Law Department": {},
+      "Science, Education and Culture Department": {},
+      "Natural Resources & Ecological Environment Department": {},
+      "Monetary Department": {}
+    }
+  },
+  "108": {
+    "National Council for Social Security Foundation": {}
+  },
+  "109": {
+    "Ministry of Human Resources & Social Security": {
+      "Public Institution Personnel Management Department": {},
+      "Social Insurance Fund Supervision & Management Bureau": {},
+      "Rural Social Insurance Department": {},
+      "Workers' Accident Compensation Insurance Department": {},
+      "Unemployment Insurance Department": {},
+      "Endowment Insurance Department": {},
+      "Wages and Welfare Department": {},
+      "Labor Relations Department": {},
+      "Migrant Workers' Affairs Department": {},
+      "International Cooperation Department": {},
+      "Mediation & Arbitration Management Department": {},
+      "Human Resources Flow Management Department": {},
+      "Planning and Financial Affairs Department": {},
+      "Laws and Regulations Department": {},
+      "Policy Research Department": {},
+      "Professionals Management Department": {},
+      "Vocational Ability Building Department": {},
+      "Employment Promotion Department": {},
+      "Labor and Social Security Supervision Bureau": {}
+    }
+  },
+  "110": {
+    "Ministry of Natural Resources": {
+      "China Geological Survey": {},
+      "General Office": {},
+      "Comprehensive Department": {},
+      "Laws and Regulations Department": {},
+      "Natural Resources Surveying & Monitoring Department": {},
+      "Natural Resources Confirmation & Registration Bureau": {},
+      "Natural Resources Development and Utilization Department": {},
+      "Land Space Planning Bureau": {},
+      "Land Space Use Control Department": {},
+      "State Oceanic Administration": {},
+      "Land Space Ecological Restoration Department": {},
+      "Geological Survey Management Department": {},
+      "Mining Right Management Department": {},
+      "Mineral Resources Protection & Supervision Department": {},
+      "Ocean Strategic Planning & Economy Department": {},
+      "Marine Island Management Department": {},
+      "Marine Early Warning & Monitoring Department": {},
+      "National Land Surveying & Mapping Department": {},
+      "Geoinformation Management Department": {},
+      "Science & Technology Development Department": {},
+      "Finance & Capital Use Department": {},
+      "Personnel Department": {},
+      "Cultivated Land Protection & Supervision Department": {},
+      "Natural Resources Owner's Rights Department": {}
+    },
+    "State Administration of Foreign Experts Affairs": {}
+  },
+  "112": {
+    "Ministry of Ecology and Environment": {
+      "Climate Change Department": {},
+      "Ecological and Environmental Monitoring Department": {},
+      "Radiation Source Safety Regulation Department": {},
+      "Nuclear Power Safety Regulation Department": {},
+      "Nuclear Facility Safety Regulation Department": {},
+      "Solid Wastes and Chemicals Department": {},
+      "Soil Ecology and Environment Department": {},
+      "Marine Ecology and Environment Department": {},
+      "International Cooperation Department": {},
+      "General Office": {},
+      "General Affairs Department": {},
+      "Laws, Regulations, and Standards Department": {},
+      "Science, Technology, and Finance Department": {},
+      "Nature and Ecology Conservation Department": {},
+      "Water Ecology and Environment Department": {},
+      "Communications and Education Department": {},
+      "Bureau of Ecological and Environmental Enforcement": {}
+    }
+  },
+  "114": {
+    "National Nuclear Safety Administration": {}
+  },
+  "115": {
+    "Ministry of Housing & Urban-Rural Development": {
+      "General Office": {},
+      "Housing & Real Estate Market Management Department": {},
+      "Housing Reform and Development Department (Research Office)": {},
+      "Standards and Quotas Department": {},
+      "Construction Market Management Department": {},
+      "Rural Development Department": {},
+      "Project Quality, Safety Supervision Department": {},
+      "Building Energy Efficiency & Technology Department": {},
+      "Public Housing Reserve Supervision Department": {},
+      "Urban Administration and Supervision Bureau": {},
+      "Planning, Financial & Foreign Affairs Department": {},
+      "Personnel Department": {},
+      "Housing Security Department": {},
+      "Urban Development Department": {},
+      "Laws and Regulations Department": {}
+    }
+  },
+  "116": {
+    "Ministry of Transport": {
+      "Science and Technology Department": {},
+      "Finance Audit Department": {},
+      "Safety and Quality Supervision and Management Department": {},
+      "Transportation Service Department": {},
+      "International Cooperation Department": {},
+      "Road Bureau": {},
+      "Personnel and Education Department": {},
+      "General Planning Department": {},
+      "Legislative Affairs Department": {},
+      "Water Transport Bureau": {},
+      "General Office": {},
+      "PRC Maritime Safety Administration": {},
+      "Policy Research Department": {}
+    }
+  },
+  "117": {
+    "Ministry of Water Resources": {
+      "Water Project Construction Management Department": {},
+      "General Office": {},
+      "Planning and Programming Department": {},
+      "Policies, Law and Regulation Department": {},
+      "Finance Department": {},
+      "Human Resources Department": {},
+      "Water Resources Management Department": {},
+      "Water Project Operation Management Department": {},
+      "Water Project Resettlement Department": {},
+      "Water and Soil Conservation Department": {},
+      "Rural Water and Hydropower Department": {},
+      "Supervision Department": {},
+      "Flood & Drought Disaster Prevention Department": {},
+      "Hydrology Department": {},
+      "Three Gorges Project Management Department": {},
+      "South-to-North Water Diversion Project Management Department": {},
+      "Water Diversion Management Department": {},
+      "International Cooperation, Science and Technology Department": {},
+      "River and Lake Management Department": {}
+    }
+  },
+  "119": {
+    "Ministry of Agriculture & Rural Affairs": {
+      "General Office": {},
+      "Personnel Department": {},
+      "Law Department": {},
+      "Policy and Reform Department": {},
+      "Development Planning Department": {},
+      "Planning and Finance Department": {},
+      "Rural Industry Development Department": {},
+      "Rural Social Undertakings Promotion Department": {},
+      "Rural Economic Cooperation Guidance Department": {},
+      "Market and Informatization Department": {},
+      "International Cooperation Department": {},
+      "Science, Technology and Education Department": {},
+      "Agricultural Food Quality & Safety Department": {},
+      "Crop Farming Administration Department": {},
+      "Fisheries Bureau": {},
+      "Agricultural Reclamation Bureau": {}
+    }
+  },
+  "121": {
+    "Ministry of Commerce": {
+      "West Asian and African Affairs Department": {},
+      "European-Central Asian Affairs Department": {},
+      "Asian Affairs Department": {},
+      "WTO Affairs Department": {},
+      "International Trade and Economic Affairs Department": {},
+      "General Office": {},
+      "Human Resources Department": {},
+      "Policy Research Department": {},
+      "Comprehensive Department": {},
+      "European Affairs Department": {},
+      "Treaty and Law Department": {},
+      "Market System Development Department": {},
+      "Circulation Industry Development Department": {},
+      "Market Operation & Consumption Promotion Department (National Cocoon and Silk Coordination Office)": {},
+      "Foreign Trade Department": {},
+      "Trade in Services & Commercial Services Department": {},
+      "Industry Safety, Import & Export Control Bureau": {},
+      "Foreign Investment Management Department": {},
+      "Pilot Free Trade Zone and Free Trade Port Department": {},
+      "Outward Investment and Economic Cooperation Department": {},
+      "Trade Remedy and Investigation Bureau": {},
+      "Financial Affairs Department": {},
+      "American and Oceanian Affairs Department": {},
+      "Electronic Commerce & Informatization Department": {},
+      "Taiwan, Hong Kong & Macao Affairs Department": {},
+      "Foreign Affairs Department": {}
+    }
+  },
+  "123": {
+    "Ministry of Culture and Tourism": {
+      "Resources Development Department": {},
+      "General Office": {},
+      "Policy and Law Department": {},
+      "Personnel Department": {},
+      "Financial Affairs Department": {},
+      "Public Services Department": {},
+      "Science, Technology and Education Department": {},
+      "Intangible Cultural Heritage Department": {},
+      "Industry Development Department": {},
+      "Market Management Department": {},
+      "Arts Department": {},
+      "Comprehensive Law Enforcement and Supervision Bureau of Cultural Market": {},
+      "International Exchange & Cooperation Bureau": {}
+    }
+  },
+  "125": {
+    "National Health Commission": {
+      "Primary Health Department": {},
+      "Health Emergency Department": {},
+      "Population Surveillance & Family Planning Department": {},
+      "Medical Administration Department": {},
+      "Structural Reform Department": {},
+      "Laws and Regulations Department": {},
+      "Financial Affairs Department": {},
+      "Planning Development & Informatization Department": {},
+      "Occupational Health Department": {},
+      "Personnel Department": {},
+      "Drug Policy & Essential Drugs System Department": {},
+      "Food Safety Standards & Monitoring Evaluation Department": {},
+      "Elderly Health Department": {},
+      "General Office": {},
+      "Women's & Children's Health Department": {},
+      "Science, Technology and Education Department": {},
+      "International Cooperation Department": {}
+    }
+  },
+  "127": {
+    "Ministry of Emergency Management": {
+      "Science, Technology & Informatization Department": {},
+      "Press and Publicity Department": {},
+      "Survey Evaluation and Statistics Department": {},
+      "International Cooperation & Rescue Department": {},
+      "Policy and Law Department": {},
+      "Disaster Relief & Material Support Department": {},
+      "Department for Comprehensive Coordination of Safety Work": {},
+      "Regulatory Bureau for Safety Production Law Enforcement & Industry and Trade Safety": {},
+      "2nd Department for Safety Supervision & Management of Hazardous Chemicals": {},
+      "1st Department for Safety Supervision & Management of Hazardous Chemicals": {},
+      "Earthquake & Geological Hazard Rescue Department": {},
+      "Risk Monitoring & Comprehensive Fire Prevention Department": {},
+      "Rescue Coordination & Plan Management Bureau": {},
+      "Comprehensive Disaster Mitigation & Reform Coordination Department": {},
+      "Team Building Bureau": {},
+      "Personnel Department": {},
+      "Emergency Command Center (National Fire & Rescue Administration Command Center)": {},
+      "General Office": {},
+      "Political Department": {},
+      "Planning and Financial Affairs Department": {}
+    }
+  },
+  "129": {
+    "People's Bank of China": {
+      "Anti-Moneylaundering Bureau (Security Bureau)": {},
+      "Accounting and Treasury Department": {},
+      "Internal Auditing Department": {},
+      "Monetary Policy Committee": {},
+      "Credit Information System Bureau": {},
+      "International Department": {},
+      "Technology Department": {},
+      "Currency, Gold and Silver Bureau": {},
+      "Financial Survey and Statistics Department": {},
+      "Financial Stability Bureau": {},
+      "Macroprudential Policy Bureau": {},
+      "Monetary Policy Department": {},
+      "Research Bureau": {},
+      "Legal Affairs Department": {},
+      "General Administration Department": {},
+      "State Treasury Bureau": {},
+      "Payment System Department": {}
+    },
+    "China Earthquake Administration": {}
+  },
+  "131": {
+    "National Audit Office": {
+      "Enterprise Audit Department": {},
+      "Internal Audit Guidance and Supervision Department": {},
+      "Legal Affairs Department": {},
+      "Office for Policy Research": {},
+      "General Office": {},
+      "Office of Central Inter-ministerial Joint Meeting of Economic Responsibility Audit": {},
+      "Personnel and Education Department": {},
+      "International Cooperation Department": {},
+      "Accountability Audit Department": {},
+      "Foreign Audit Department": {},
+      "Financial System Audit Department": {},
+      "Electronic Data Audit Department": {},
+      "Audit on Tax Collection & Administration Department": {},
+      "Interrogation Processing Department": {},
+      "Agricultural and Rural Audit Department": {},
+      "Fixed Assets Investment Audit Department": {},
+      "Social Security Audit Department": {},
+      "Natural Resources and Ecological Environment Audit Department": {},
+      "Administrative Audit Department": {}
+    }
+  },
+  "134": {
+    "State-owned Assets Supervision and Administration Commission": {
+      "Personnel Bureau": {},
+      "General Office": {},
+      "International Cooperation Bureau": {},
+      "Social Responsibility Bureau": {},
+      "Publicity Work Bureau": {},
+      "2nd Bureau of Corporate Executives Administration": {},
+      "Comprehensive Research Bureau": {},
+      "1st Bureau of Corporate Executives Administration": {},
+      "Comprehensive Supervision Bureau": {},
+      "Capital Operation & Profit Management Bureau": {},
+      "Evaluation and Remuneration Bureau": {},
+      "Property Management Bureau": {},
+      "Planning and Development Bureau": {},
+      "Policy and Regulations Bureau": {},
+      "Party Building Bureau": {},
+      "Financial Oversight and Operational Evaluation Bureau": {}
+    }
+  },
+  "136": {
+    "General Administration of Customs": {
+      "General Office (National Port Management Office)": {}
+    }
+  },
+  "137": {
+    "State Administration of Taxation": {
+      "General Office": {}
+    }
+  },
+  "139": {
+    "State Administration for Market Regulation": {
+      "Law Enforcement and Inspection Bureau": {},
+      "Registration Bureau": {},
+      "Credit Regulatory Department": {},
+      "1st Anti-Monopoly Enforcement Department": {},
+      "Price Supervision and Anti-Unfair Competition Bureau": {},
+      "Online Trading Regulatory Department": {},
+      "General Planning Department": {},
+      "Advertising Regulatory Department": {},
+      "General Office": {},
+      "Laws and Regulations Department": {},
+      "Department of Product Quality Safety Regulatory": {},
+      "Department of Food Safety Coordination": {},
+      "Certification Regulatory Department": {},
+      "Quality Development Bureau": {},
+      "Accreditation & Inspection Regulatory Department": {},
+      "Department of Sampling Inspection of Food Safety": {},
+      "Bureau of Special Equipment Safety Supervision": {},
+      "Department of Special Food Safety Regulatory": {},
+      "Department of Food Business Safety Regulatory": {},
+      "Metrology Department": {},
+      "Standard Innovation Management Department": {},
+      "International Cooperation Department": {},
+      "Science, Technology and Finance Department": {},
+      "Press and Publicity Department": {},
+      "Department of Food Production Safety Regulatory": {},
+      "Standard Technology Management Department": {}
+    }
+  },
+  "144": {
+    "National Radio and Television Administration": {
+      "Science and Technology Department": {},
+      "International Cooperation Department (Hong Kong, Macao and Taiwan Affairs Office)": {},
+      "Public Services Department": {},
+      "Planning and Financial Affairs Department": {},
+      "Media Convergence Development Department": {},
+      "Secure Transmission Support Department": {},
+      "Management of the Media Agencies Department": {},
+      "TV Drama Management Department": {},
+      "Publicity Department": {},
+      "Policy and Law Department": {},
+      "General Office": {},
+      "Network Audio and Visual Programs Department": {}
+    }
+  },
+  "145": {
+    "General Administration of Sport of China": {
+      "Department of Mass Sports": {},
+      "General Office": {},
+      "Policy and Law Department": {},
+      "Department of Competitive Sports": {},
+      "Department of Youth Sports": {},
+      "Department of Sports Economics": {},
+      "Personnel Department": {},
+      "Department of Foreign Liaison": {}
+    }
+  },
+  "146": {
+    "State Bureau for Letters and Calls": {
+      "Research Office": {},
+      "Supervision Office": {},
+      "Personnel Department": {},
+      "2nd Letters Department": {},
+      "Comprehensive Guidance Department": {},
+      "1st Letters Department": {}
+    }
+  },
+  "147": {
+    "National Bureau of Statistics": {
+      "Bureau for Statistical Law Enforcement Supervision": {},
+      "General Office": {},
+      "Service Statistics Department": {},
+      "Department for Statistical Designs": {},
+      "Department for Comprehensive Statistics of National Economy": {},
+      "Department for Statistics of Trade and Foreign Economic Relations": {},
+      "Department for Industrial Statistics": {},
+      "Department for Energy Statistics": {},
+      "Department for Fixed Assets Investment Statistics": {},
+      "Personnel Department": {},
+      "Department for Statistics of Population & Employment": {},
+      "Department for Social, Science & Technology, & Cultural Statistics": {},
+      "Rural Surveys Department": {},
+      "Urban Surveys Department": {},
+      "Household Survey Department": {},
+      "Department for National Economic Accounting": {},
+      "Financial Affairs Department": {}
+    }
+  },
+  "150": {
+    "National Healthcare Security Administration": {
+      "Personnel Department": {},
+      "Fund Supervision Department": {},
+      "Pharmaceutical Price & Bidding Procurement Department": {},
+      "Medical Services Management Department": {},
+      "Treatment Guarantee Department": {},
+      "Planning Financial Affairs & Law Department": {},
+      "General Office": {}
+    }
+  },
+  "153": {
+    "Xinhua News Agency": {
+      "Foreign Affairs Bureau": {},
+      "General Editorial Office": {},
+      "General Office": {}
+    },
+    "Development Research Center of State Council": {
+      "Research Department of Social & Cultural Development": {},
+      "Research Department of Foreign Economic Relations": {},
+      "Research Department of Innovation & Development": {},
+      "Research Department of Industrial Economy": {},
+      "Research Department of Rural Economy": {},
+      "Research Department of Development Strategy and Regional Economy": {},
+      "Research Department of Macro Economy": {},
+      "International Cooperation Bureau": {},
+      "General Office (Personnel Bureau)": {}
+    }
+  },
+  "154": {
+    "China Media Group (\"Voice of China\")": {
+      "General Editorial Office": {},
+      "General Office": {}
+    }
+  },
+  "155": {
+    "China Meteorological Administration": {
+      "General Office": {},
+      "State Satellite Meteorological Center": {},
+      "Department of Science & Technology and Climate Change": {},
+      "Department of Planning and Finance": {},
+      "Department of Human Resources": {},
+      "Department of Policy and Regulations": {},
+      "Department of International Cooperation": {},
+      "Central Meteorological Observatory (National Meteorological Center)": {},
+      "Department of Integrated Observations": {},
+      "Department of Forecasting and Information System": {}
+    }
+  },
+  "32": {
+    "Bureau of Maritime Rights and Interests": {
+      "Office for Protecting Maritime Rights and Interests": {}
+    },
+    "Central Institutional Organization Commission": {
+      "General Office": {}
+    },
+    "Central Committee for Air Traffic Management": {
+      "General Office": {}
+    }
+  },
+  "29": {
+    "Central Leading Group for Taiwan Affairs": {
+      "Central Office for Taiwan Affairs (Taiwan Affairs Office of State Council)": {}
+    }
+  },
+  "33": {
+    "Central Leading Group for HK & Macao Affairs": {
+      "Central Office for H. K. & Macao Affairs (H. K. & Macao Affairs Office of State Council)": {}
+    },
+    "Central Financial Work Commission": {},
+    "Central Financial Commission": {
+      "General Office": {}
+    }
+  },
+  "17": {
+    "Organization Department": {},
+    "General Office": {
+      "Veteran Cadres Bureau": {},
+      "Administration Bureau for Organs under Central Committee": {}
+    }
+  },
+  "18": {
+    "Organization Department": {
+      "General Office": {},
+      "Cadres Education Bureau": {},
+      "Second Organization Bureau": {},
+      "First Cadres Bureau": {},
+      "Second Cadres Bureau": {},
+      "Third Cadres Bureau": {},
+      "Veteran Cadres Bureau": {},
+      "Personnel Work Bureau": {},
+      "First Civil Service Bureau": {},
+      "Second Civil Service Bureau": {}
+    },
+    "Publicity Department": {}
+  },
+  "Central Organization Department": {
+    "State Administration of Civil Service": {}
+  },
+  "31": {
+    "Central Foreign Affairs Commission": {
+      "Office (Central Office for Foreign Affairs)": {}
+    },
+    "Central Leading Group for Rural Work": {
+      "General Office": {}
+    }
+  },
+  "48": {
+    "Credentials Committee": {},
+    "Legislative Affairs Commission": {},
+    "Budgetary Affairs Commission": {},
+    "HKSAR Basic Law Committee": {}
+  },
+  "49": {
+    "HKSAR Basic Law Committee": {},
+    "MSAR Basic Law Committee": {},
+    "Deputies Affairs Commission": {}
+  },
+  "21": {
+    "United Front Work Department": {
+      "General Office": {},
+      "Theory and Policy Research Office": {},
+      "First Bureau (Democratic Parties Work Bureau)": {}
+    }
+  },
+  "22": {
+    "United Front Work Department": {
+      "Second Bureau (Ethnic Work Bureau)": {},
+      "Third Bureau (United Front Work in Hong Kong, Macau & Taiwan Bureau)": {},
+      "Fourth Bureau (Non-Public Economy Work Bureau)": {},
+      "Fifth Bureau (Non-Affiliates and Non-Party Intellectuals Work Bureau)": {},
+      "Sixth Bureau (New Social Stratum Work Bureau)": {},
+      "Eighth Bureau (Xinjiang Work Bureau)": {},
+      "Ninth Bureau (Overseas Chinese Affairs General Bureau)": {},
+      "Tenth Bureau (Overseas Chinese Affairs Bureau)": {},
+      "Eleventh Bureau (Religious Affairs General Bureau)": {},
+      "Twelfth Bureau (Religious Work Bureau)": {}
+    }
+  },
+  "Central United Front Work Department": {
+    "State Administration of Religious Affairs": {}
+  },
+  "24": {
+    "Social Work Department": {},
+    "Central Commission of Political Science and Law": {},
+    "International Department": {
+      "7th (North America, Oceania & Scandinavia) Bureau": {},
+      "8th (Western Europe) Bureau": {},
+      "Information Dissemination Bureau": {},
+      "Protocol Bureau": {}
+    }
+  },
+  "36": {
+    "Central Commission for Comprehensive Rule of Law": {
+      "General Office": {}
+    },
+    "Central Audit Commission": {
+      "General Office": {}
+    },
+    "Central Overall Reform Commission": {
+      "General Office": {}
+    }
+  },
+  "34": {
+    "Work Committee for Organs under Central Committee & Central Government": {}
+  },
+  "35": {
+    "Work Committee for Organs under Central Committee & Central Government": {
+      "General Office": {},
+      "Policy Research Department": {},
+      "Publicity Department": {},
+      "Party Building Supervision Department": {},
+      "Department of Guidance for Grassroots Organization Development": {},
+      "Mass Work Department": {},
+      "Department of Party Building Affairs for Industry Associations and Chambers of Commerce": {},
+      "Discipline Inspection & Supervision Work Commission for Organs under Central Committee & Government": {}
+    },
+    "Central Overall Reform Commission": {}
+  },
+  "16": {
+    "General Office": {
+      "Secretary Bureau": {},
+      "Regulations Bureau": {},
+      "Bodyguards Bureau": {},
+      "Confidential Work Bureau (State Bureau of Password Management)": {}
+    }
+  },
+  "37": {
+    "Central Commission for Guiding Ethic and Cultural Progress": {
+      "General Office": {}
+    },
+    "Central Leading Group for Inspection Work": {
+      "General Office": {}
+    },
+    "Central Coordinating Group for Tibet Affairs": {
+      "General Office": {}
+    }
+  },
+  "52": {
+    "NPC Special Committees": {
+      "Agriculture & Rural Affairs Committee": {}
+    }
+  },
+  "28": {
+    "Central Commission for Integrated Military and Civilian Development": {
+      "General Office": {}
+    }
+  },
+  "26": {
+    "National Security Commission of CPC Central Committee": {},
+    "Central Institute of Socialism": {},
+    "Central Policy Research Center": {
+      "Political Research Bureau": {},
+      "Economic Affairs Bureau": {},
+      "Party Building Research Bureau": {},
+      "Comprehensive Research Bureau": {},
+      "Rural Affairs Research Bureau": {},
+      "Social Research Bureau": {},
+      "Information Research Bureau": {}
+    }
+  },
+  "27": {
+    "National Security Commission of CPC Central Committee": {
+      "General Office": {}
+    },
+    "Central Cyberspace Affairs Commission": {
+      "General Office (Cyberspace Administration of China)": {}
+    }
+  },
+  "30": {
+    "Central Finance and Economics Commission": {
+      "General Office": {}
+    }
+  },
+  "38": {
+    "Central Institute of Archives (State Administration of Archives)": {},
+    "Central Committee of Secrecy": {
+      "General Office (State Bureau of Secrecy)": {}
+    },
+    "Central Party School (Chinese Academy of Governance)": {}
+  },
+  "39": {
+    "Central Party School (Chinese Academy of Governance)": {
+      "Marxism School": {},
+      "International Strategic Studies Institute": {},
+      "Graduate Institute": {}
+    },
+    "Central Party History & Literature Research Center": {
+      "Central Compilation & Translation Bureau": {}
+    },
+    "People's Daily": {}
+  },
+  "40": {
+    "People's Daily": {},
+    "Qiushi (Seeking Truth)": {},
+    "Guangming Daily": {}
+  },
+  "19": {
+    "Publicity Department": {
+      "General Office": {},
+      "Cadres Bureau": {},
+      "External Information Bureau": {},
+      "Public Opinion Information Bureau": {},
+      "Theoretical Bureau": {},
+      "Publicity and Education Bureau": {},
+      "Information Publication Bureau": {},
+      "Publication Bureau": {},
+      "Literature and Art Bureau": {},
+      "International Liaison Bureau": {}
+    }
+  },
+  "20": {
+    "Publicity Department": {
+      "Hong Kong, Macao and Taiwan Information Bureau": {},
+      "External Spread Bureau": {},
+      "Human Rights Affairs Bureau": {},
+      "Media Supervision and Management Bureau": {},
+      "Printing and Distribution Bureau": {},
+      "Anti-Illegal and Anti-Prohibition Bureau": {},
+      "Copyright Management Bureau": {},
+      "Import and Export Management Bureau": {}
+    }
+  },
+  "Central Publicity Department": {
+    "Information Office of State Council": {}
+  },
+  "25": {
+    "Central Commission of Political Science and Law": {
+      "Bureau of Guidance and Supervision for Comprehensive Governance of Public Security": {},
+      "Bureau of Political Security": {},
+      "Bureau of Guidance for Stability Maintenance": {},
+      "Bureau of Coordination for Anti-cult": {},
+      "Bureau of Grassroots Social Governance": {},
+      "Bureau of Guidance for Team Building": {},
+      "Bureau of Publicity and Education": {},
+      "Bureau of Rule of Law": {}
+    }
+  },
+  "23": {
+    "International Department": {
+      "Research Office": {},
+      "1st (South and Southeast Asia) Bureau": {},
+      "2nd (Northeast Asian & Indochina) Bureau": {},
+      "3rd (West Asia and North Africa) Bureau": {},
+      "4th (Africa) Bureau": {},
+      "5th (Latin America) Bureau": {},
+      "6th (Eastern Europe and Central Asia) Bureau": {}
+    }
+  }
+}
