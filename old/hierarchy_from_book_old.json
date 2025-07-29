@@ -4,11 +4,262 @@
       "sub_organization_name_english": {}
     }
   },
+  "16": {
+    "General Office": {
+      "Secretary Bureau": {},
+      "Regulations Bureau": {},
+      "Bodyguards Bureau": {},
+      "Confidential Work Bureau (State Bureau of Password Management)": {}
+    }
+  },
+  "17": {
+    "Organization Department": {},
+    "General Office": {
+      "Veteran Cadres Bureau": {},
+      "Administration Bureau for Organs under Central Committee": {}
+    }
+  },
+  "18": {
+    "Organization Department": {
+      "General Office": {},
+      "Cadres Education Bureau": {},
+      "Second Organization Bureau": {},
+      "First Cadres Bureau": {},
+      "Second Cadres Bureau": {},
+      "Third Cadres Bureau": {},
+      "Veteran Cadres Bureau": {},
+      "Personnel Work Bureau": {},
+      "First Civil Service Bureau": {},
+      "Second Civil Service Bureau": {}
+    },
+    "Publicity Department": {}
+  },
+  "19": {
+    "Publicity Department": {
+      "General Office": {},
+      "Cadres Bureau": {},
+      "External Information Bureau": {},
+      "Public Opinion Information Bureau": {},
+      "Theoretical Bureau": {},
+      "Publicity and Education Bureau": {},
+      "Information Publication Bureau": {},
+      "Publication Bureau": {},
+      "Literature and Art Bureau": {},
+      "International Liaison Bureau": {}
+    }
+  },
+  "20": {
+    "Publicity Department": {
+      "Hong Kong, Macao and Taiwan Information Bureau": {},
+      "External Spread Bureau": {},
+      "Human Rights Affairs Bureau": {},
+      "Media Supervision and Management Bureau": {},
+      "Printing and Distribution Bureau": {},
+      "Anti-Illegal and Anti-Prohibition Bureau": {},
+      "Copyright Management Bureau": {},
+      "Import and Export Management Bureau": {}
+    }
+  },
+  "21": {
+    "United Front Work Department": {
+      "General Office": {},
+      "Theory and Policy Research Office": {},
+      "First Bureau (Democratic Parties Work Bureau)": {}
+    }
+  },
+  "22": {
+    "United Front Work Department": {
+      "Second Bureau (Ethnic Work Bureau)": {},
+      "Third Bureau (United Front Work in Hong Kong, Macau & Taiwan Bureau)": {},
+      "Fourth Bureau (Non-Public Economy Work Bureau)": {},
+      "Fifth Bureau (Non-Affiliates and Non-Party Intellectuals Work Bureau)": {},
+      "Sixth Bureau (New Social Stratum Work Bureau)": {},
+      "Eighth Bureau (Xinjiang Work Bureau)": {},
+      "Ninth Bureau (Overseas Chinese Affairs General Bureau)": {},
+      "Tenth Bureau (Overseas Chinese Affairs Bureau)": {},
+      "Eleventh Bureau (Religious Affairs General Bureau)": {},
+      "Twelfth Bureau (Religious Work Bureau)": {}
+    }
+  },
+  "23": {
+    "International Department": {
+      "Research Office": {},
+      "1st (South and Southeast Asia) Bureau": {},
+      "2nd (Northeast Asian & Indochina) Bureau": {},
+      "3rd (West Asia and North Africa) Bureau": {},
+      "4th (Africa) Bureau": {},
+      "5th (Latin America) Bureau": {},
+      "6th (Eastern Europe and Central Asia) Bureau": {}
+    }
+  },
+  "24": {
+    "Social Work Department": {},
+    "Central Commission of Political Science and Law": {},
+    "International Department": {
+      "7th (North America, Oceania & Scandinavia) Bureau": {},
+      "8th (Western Europe) Bureau": {},
+      "Information Dissemination Bureau": {},
+      "Protocol Bureau": {}
+    }
+  },
+  "25": {
+    "Central Commission of Political Science and Law": {
+      "Bureau of Guidance and Supervision for Comprehensive Governance of Public Security": {},
+      "Bureau of Political Security": {},
+      "Bureau of Guidance for Stability Maintenance": {},
+      "Bureau of Coordination for Anti-cult": {},
+      "Bureau of Grassroots Social Governance": {},
+      "Bureau of Guidance for Team Building": {},
+      "Bureau of Publicity and Education": {},
+      "Bureau of Rule of Law": {}
+    }
+  },
+  "26": {
+    "National Security Commission of CPC Central Committee": {},
+    "Central Institute of Socialism": {},
+    "Central Policy Research Center": {
+      "Political Research Bureau": {},
+      "Economic Affairs Bureau": {},
+      "Party Building Research Bureau": {},
+      "Comprehensive Research Bureau": {},
+      "Rural Affairs Research Bureau": {},
+      "Social Research Bureau": {},
+      "Information Research Bureau": {}
+    }
+  },
+  "27": {
+    "National Security Commission of CPC Central Committee": {
+      "General Office": {}
+    },
+    "Central Cyberspace Affairs Commission": {
+      "General Office (Cyberspace Administration of China)": {}
+    }
+  },
+  "28": {
+    "Central Commission for Integrated Military and Civilian Development": {
+      "General Office": {}
+    }
+  },
+  "29": {
+    "Central Leading Group for Taiwan Affairs": {
+      "Central Office for Taiwan Affairs (Taiwan Affairs Office of State Council)": {}
+    }
+  },
+  "30": {
+    "Central Finance and Economics Commission": {
+      "General Office": {}
+    }
+  },
+  "31": {
+    "Central Foreign Affairs Commission": {
+      "Office (Central Office for Foreign Affairs)": {}
+    },
+    "Central Leading Group for Rural Work": {
+      "General Office": {}
+    }
+  },
+  "32": {
+    "Bureau of Maritime Rights and Interests": {
+      "Office for Protecting Maritime Rights and Interests": {}
+    },
+    "Central Institutional Organization Commission": {
+      "General Office": {}
+    },
+    "Central Committee for Air Traffic Management": {
+      "General Office": {}
+    }
+  },
+  "33": {
+    "Central Leading Group for HK & Macao Affairs": {
+      "Central Office for H. K. & Macao Affairs (H. K. & Macao Affairs Office of State Council)": {}
+    },
+    "Central Financial Work Commission": {},
+    "Central Financial Commission": {
+      "General Office": {}
+    }
+  },
+  "34": {
+    "Work Committee for Organs under Central Committee & Central Government": {}
+  },
+  "35": {
+    "Work Committee for Organs under Central Committee & Central Government": {
+      "General Office": {},
+      "Policy Research Department": {},
+      "Publicity Department": {},
+      "Party Building Supervision Department": {},
+      "Department of Guidance for Grassroots Organization Development": {},
+      "Mass Work Department": {},
+      "Department of Party Building Affairs for Industry Associations and Chambers of Commerce": {},
+      "Discipline Inspection & Supervision Work Commission for Organs under Central Committee & Government": {}
+    },
+    "Central Overall Reform Commission": {}
+  },
+  "36": {
+    "Central Commission for Comprehensive Rule of Law": {
+      "General Office": {}
+    },
+    "Central Audit Commission": {
+      "General Office": {}
+    },
+    "Central Overall Reform Commission": {
+      "General Office": {}
+    }
+  },
+  "37": {
+    "Central Commission for Guiding Ethic and Cultural Progress": {
+      "General Office": {}
+    },
+    "Central Leading Group for Inspection Work": {
+      "General Office": {}
+    },
+    "Central Coordinating Group for Tibet Affairs": {
+      "General Office": {}
+    }
+  },
+  "38": {
+    "Central Institute of Archives (State Administration of Archives)": {},
+    "Central Committee of Secrecy": {
+      "General Office (State Bureau of Secrecy)": {}
+    },
+    "Central Party School (Chinese Academy of Governance)": {}
+  },
+  "39": {
+    "Central Party School (Chinese Academy of Governance)": {
+      "Marxism School": {},
+      "International Strategic Studies Institute": {},
+      "Graduate Institute": {}
+    },
+    "Central Party History & Literature Research Center": {
+      "Central Compilation & Translation Bureau": {}
+    },
+    "People's Daily": {}
+  },
+  "40": {
+    "People's Daily": {},
+    "Qiushi (Seeking Truth)": {},
+    "Guangming Daily": {}
+  },
+  "48": {
+    "Credentials Committee": {},
+    "Legislative Affairs Commission": {},
+    "Budgetary Affairs Commission": {},
+    "HKSAR Basic Law Committee": {}
+  },
+  "49": {
+    "HKSAR Basic Law Committee": {},
+    "MSAR Basic Law Committee": {},
+    "Deputies Affairs Commission": {}
+  },
   "51": {
     "Education, Science, Culture & Public Health Committee": {},
     "NPC Special Committees": {
       "Education, Science, Culture & Public Health Committee": {},
       "Environment Protection & Resources Conservation Committee": {}
+    }
+  },
+  "52": {
+    "NPC Special Committees": {
+      "Agriculture & Rural Affairs Committee": {}
     }
   },
   "NATIONAL PEOPLE'S CONGRESS": {
@@ -23,6 +274,15 @@
       "Supervision and Judicial Affairs Committee": {},
       "Financial and Economic Affairs Committee": {}
     }
+  },
+  "Central Organization Department": {
+    "State Administration of Civil Service": {}
+  },
+  "Central United Front Work Department": {
+    "State Administration of Religious Affairs": {}
+  },
+  "Central Publicity Department": {
+    "Information Office of State Council": {}
   },
   "83": {
     "State Council": {
@@ -713,266 +973,6 @@
       "Central Meteorological Observatory (National Meteorological Center)": {},
       "Department of Integrated Observations": {},
       "Department of Forecasting and Information System": {}
-    }
-  },
-  "32": {
-    "Bureau of Maritime Rights and Interests": {
-      "Office for Protecting Maritime Rights and Interests": {}
-    },
-    "Central Institutional Organization Commission": {
-      "General Office": {}
-    },
-    "Central Committee for Air Traffic Management": {
-      "General Office": {}
-    }
-  },
-  "29": {
-    "Central Leading Group for Taiwan Affairs": {
-      "Central Office for Taiwan Affairs (Taiwan Affairs Office of State Council)": {}
-    }
-  },
-  "33": {
-    "Central Leading Group for HK & Macao Affairs": {
-      "Central Office for H. K. & Macao Affairs (H. K. & Macao Affairs Office of State Council)": {}
-    },
-    "Central Financial Work Commission": {},
-    "Central Financial Commission": {
-      "General Office": {}
-    }
-  },
-  "17": {
-    "Organization Department": {},
-    "General Office": {
-      "Veteran Cadres Bureau": {},
-      "Administration Bureau for Organs under Central Committee": {}
-    }
-  },
-  "18": {
-    "Organization Department": {
-      "General Office": {},
-      "Cadres Education Bureau": {},
-      "Second Organization Bureau": {},
-      "First Cadres Bureau": {},
-      "Second Cadres Bureau": {},
-      "Third Cadres Bureau": {},
-      "Veteran Cadres Bureau": {},
-      "Personnel Work Bureau": {},
-      "First Civil Service Bureau": {},
-      "Second Civil Service Bureau": {}
-    },
-    "Publicity Department": {}
-  },
-  "Central Organization Department": {
-    "State Administration of Civil Service": {}
-  },
-  "31": {
-    "Central Foreign Affairs Commission": {
-      "Office (Central Office for Foreign Affairs)": {}
-    },
-    "Central Leading Group for Rural Work": {
-      "General Office": {}
-    }
-  },
-  "48": {
-    "Credentials Committee": {},
-    "Legislative Affairs Commission": {},
-    "Budgetary Affairs Commission": {},
-    "HKSAR Basic Law Committee": {}
-  },
-  "49": {
-    "HKSAR Basic Law Committee": {},
-    "MSAR Basic Law Committee": {},
-    "Deputies Affairs Commission": {}
-  },
-  "21": {
-    "United Front Work Department": {
-      "General Office": {},
-      "Theory and Policy Research Office": {},
-      "First Bureau (Democratic Parties Work Bureau)": {}
-    }
-  },
-  "22": {
-    "United Front Work Department": {
-      "Second Bureau (Ethnic Work Bureau)": {},
-      "Third Bureau (United Front Work in Hong Kong, Macau & Taiwan Bureau)": {},
-      "Fourth Bureau (Non-Public Economy Work Bureau)": {},
-      "Fifth Bureau (Non-Affiliates and Non-Party Intellectuals Work Bureau)": {},
-      "Sixth Bureau (New Social Stratum Work Bureau)": {},
-      "Eighth Bureau (Xinjiang Work Bureau)": {},
-      "Ninth Bureau (Overseas Chinese Affairs General Bureau)": {},
-      "Tenth Bureau (Overseas Chinese Affairs Bureau)": {},
-      "Eleventh Bureau (Religious Affairs General Bureau)": {},
-      "Twelfth Bureau (Religious Work Bureau)": {}
-    }
-  },
-  "Central United Front Work Department": {
-    "State Administration of Religious Affairs": {}
-  },
-  "24": {
-    "Social Work Department": {},
-    "Central Commission of Political Science and Law": {},
-    "International Department": {
-      "7th (North America, Oceania & Scandinavia) Bureau": {},
-      "8th (Western Europe) Bureau": {},
-      "Information Dissemination Bureau": {},
-      "Protocol Bureau": {}
-    }
-  },
-  "36": {
-    "Central Commission for Comprehensive Rule of Law": {
-      "General Office": {}
-    },
-    "Central Audit Commission": {
-      "General Office": {}
-    },
-    "Central Overall Reform Commission": {
-      "General Office": {}
-    }
-  },
-  "34": {
-    "Work Committee for Organs under Central Committee & Central Government": {}
-  },
-  "35": {
-    "Work Committee for Organs under Central Committee & Central Government": {
-      "General Office": {},
-      "Policy Research Department": {},
-      "Publicity Department": {},
-      "Party Building Supervision Department": {},
-      "Department of Guidance for Grassroots Organization Development": {},
-      "Mass Work Department": {},
-      "Department of Party Building Affairs for Industry Associations and Chambers of Commerce": {},
-      "Discipline Inspection & Supervision Work Commission for Organs under Central Committee & Government": {}
-    },
-    "Central Overall Reform Commission": {}
-  },
-  "16": {
-    "General Office": {
-      "Secretary Bureau": {},
-      "Regulations Bureau": {},
-      "Bodyguards Bureau": {},
-      "Confidential Work Bureau (State Bureau of Password Management)": {}
-    }
-  },
-  "37": {
-    "Central Commission for Guiding Ethic and Cultural Progress": {
-      "General Office": {}
-    },
-    "Central Leading Group for Inspection Work": {
-      "General Office": {}
-    },
-    "Central Coordinating Group for Tibet Affairs": {
-      "General Office": {}
-    }
-  },
-  "52": {
-    "NPC Special Committees": {
-      "Agriculture & Rural Affairs Committee": {}
-    }
-  },
-  "28": {
-    "Central Commission for Integrated Military and Civilian Development": {
-      "General Office": {}
-    }
-  },
-  "26": {
-    "National Security Commission of CPC Central Committee": {},
-    "Central Institute of Socialism": {},
-    "Central Policy Research Center": {
-      "Political Research Bureau": {},
-      "Economic Affairs Bureau": {},
-      "Party Building Research Bureau": {},
-      "Comprehensive Research Bureau": {},
-      "Rural Affairs Research Bureau": {},
-      "Social Research Bureau": {},
-      "Information Research Bureau": {}
-    }
-  },
-  "27": {
-    "National Security Commission of CPC Central Committee": {
-      "General Office": {}
-    },
-    "Central Cyberspace Affairs Commission": {
-      "General Office (Cyberspace Administration of China)": {}
-    }
-  },
-  "30": {
-    "Central Finance and Economics Commission": {
-      "General Office": {}
-    }
-  },
-  "38": {
-    "Central Institute of Archives (State Administration of Archives)": {},
-    "Central Committee of Secrecy": {
-      "General Office (State Bureau of Secrecy)": {}
-    },
-    "Central Party School (Chinese Academy of Governance)": {}
-  },
-  "39": {
-    "Central Party School (Chinese Academy of Governance)": {
-      "Marxism School": {},
-      "International Strategic Studies Institute": {},
-      "Graduate Institute": {}
-    },
-    "Central Party History & Literature Research Center": {
-      "Central Compilation & Translation Bureau": {}
-    },
-    "People's Daily": {}
-  },
-  "40": {
-    "People's Daily": {},
-    "Qiushi (Seeking Truth)": {},
-    "Guangming Daily": {}
-  },
-  "19": {
-    "Publicity Department": {
-      "General Office": {},
-      "Cadres Bureau": {},
-      "External Information Bureau": {},
-      "Public Opinion Information Bureau": {},
-      "Theoretical Bureau": {},
-      "Publicity and Education Bureau": {},
-      "Information Publication Bureau": {},
-      "Publication Bureau": {},
-      "Literature and Art Bureau": {},
-      "International Liaison Bureau": {}
-    }
-  },
-  "20": {
-    "Publicity Department": {
-      "Hong Kong, Macao and Taiwan Information Bureau": {},
-      "External Spread Bureau": {},
-      "Human Rights Affairs Bureau": {},
-      "Media Supervision and Management Bureau": {},
-      "Printing and Distribution Bureau": {},
-      "Anti-Illegal and Anti-Prohibition Bureau": {},
-      "Copyright Management Bureau": {},
-      "Import and Export Management Bureau": {}
-    }
-  },
-  "Central Publicity Department": {
-    "Information Office of State Council": {}
-  },
-  "25": {
-    "Central Commission of Political Science and Law": {
-      "Bureau of Guidance and Supervision for Comprehensive Governance of Public Security": {},
-      "Bureau of Political Security": {},
-      "Bureau of Guidance for Stability Maintenance": {},
-      "Bureau of Coordination for Anti-cult": {},
-      "Bureau of Grassroots Social Governance": {},
-      "Bureau of Guidance for Team Building": {},
-      "Bureau of Publicity and Education": {},
-      "Bureau of Rule of Law": {}
-    }
-  },
-  "23": {
-    "International Department": {
-      "Research Office": {},
-      "1st (South and Southeast Asia) Bureau": {},
-      "2nd (Northeast Asian & Indochina) Bureau": {},
-      "3rd (West Asia and North Africa) Bureau": {},
-      "4th (Africa) Bureau": {},
-      "5th (Latin America) Bureau": {},
-      "6th (Eastern Europe and Central Asia) Bureau": {}
     }
   }
 }

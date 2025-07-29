@@ -1,0 +1,420 @@
+{
+  "source_pdf_page": 167,
+  "organization_name_english": "JUDICIAL ORGANIZATIONS",
+  "organization_name_chinese": "司法机关",
+  "metadata": {
+    "establishment_date": null,
+    "list_order_note": null,
+    "count": null,
+    "warnings": []
+  },
+  "positions": [],
+  "sub_organizations": [
+    {
+      "source_pdf_page": 167,
+      "organization_name_english": "Supreme People's Court",
+      "organization_name_chinese": "最高人民法院",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null,
+        "warnings": []
+      },
+      "positions": [
+        {
+          "title_english": "President",
+          "title_chinese": "院长",
+          "personnel": [
+            {
+              "name_pinyin": "Zhang Jun",
+              "name_chinese": "张军",
+              "raw_cn_jp_entry": "张军(56.10)",
+              "assumed_office_date": "2023-03",
+              "birth_year": 1956,
+              "birth_month": 10,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": null,
+              "ethnicity": null,
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Vice President",
+          "title_chinese": "副院长",
+          "personnel": [
+            {
+              "name_pinyin": "Deng Xiuming",
+              "name_chinese": "邓修明",
+              "raw_cn_jp_entry": "邓修明(64.12)",
+              "assumed_office_date": "2022-12",
+              "birth_year": 1964,
+              "birth_month": 12,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": null,
+              "ethnicity": null,
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "Executive"
+              ],
+              "other_notes_cn_jp": [
+                "常务"
+              ]
+            },
+            {
+              "name_pinyin": "Tao Kaiyuan",
+              "name_chinese": "陶凯元",
+              "raw_cn_jp_entry": "◎陶凯元(女 64.3)",
+              "assumed_office_date": "2013-12",
+              "birth_year": 1964,
+              "birth_month": 3,
+              "birth_day": null,
+              "cross_reference_symbol": "◎",
+              "gender": "female",
+              "ethnicity": null,
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Gao Jinghong",
+              "name_chinese": "高憬宏",
+              "raw_cn_jp_entry": "高憬宏(59.8)",
+              "assumed_office_date": "2019-01",
+              "birth_year": 1959,
+              "birth_month": 8,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": null,
+              "ethnicity": null,
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "He Rong",
+              "name_chinese": "贺荣",
+              "raw_cn_jp_entry": "◎贺荣(女 62.10)",
+              "assumed_office_date": "2020-04",
+              "birth_year": 1962,
+              "birth_month": 10,
+              "birth_day": null,
+              "cross_reference_symbol": "◎",
+              "gender": "female",
+              "ethnicity": null,
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Yang Wanming",
+              "name_chinese": "杨万明",
+              "raw_cn_jp_entry": "杨万明(61.1)",
+              "assumed_office_date": "2021-08",
+              "birth_year": 1961,
+              "birth_month": 1,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": null,
+              "ethnicity": null,
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Yang Linping",
+              "name_chinese": "杨临萍",
+              "raw_cn_jp_entry": "◎杨临萍(女 63.9)",
+              "assumed_office_date": "2022-09",
+              "birth_year": 1963,
+              "birth_month": 9,
+              "birth_day": null,
+              "cross_reference_symbol": "◎",
+              "gender": "female",
+              "ethnicity": null,
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "He Xiaorong",
+              "name_chinese": "贺小荣",
+              "raw_cn_jp_entry": "贺小荣(62.5)",
+              "assumed_office_date": "2022-09",
+              "birth_year": 1962,
+              "birth_month": 5,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": null,
+              "ethnicity": null,
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Shen Liang",
+              "name_chinese": "沈亮",
+              "raw_cn_jp_entry": "沈亮(64.5)",
+              "assumed_office_date": "2022-09",
+              "birth_year": 1964,
+              "birth_month": 5,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": null,
+              "ethnicity": null,
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Li Yong",
+              "name_chinese": "李勇",
+              "raw_cn_jp_entry": "李勇(63.8)",
+              "assumed_office_date": "2023-07",
+              "birth_year": 1963,
+              "birth_month": 8,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": null,
+              "ethnicity": null,
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 170,
+      "organization_name_english": "Supreme People's Procuratorate",
+      "organization_name_chinese": "最高人民检察院",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null,
+        "warnings": []
+      },
+      "positions": [
+        {
+          "title_english": "Procurator-General",
+          "title_chinese": "检察长",
+          "personnel": [
+            {
+              "name_pinyin": "Ying Yong",
+              "name_chinese": "应勇",
+              "raw_cn_jp_entry": "应勇(57.11)",
+              "assumed_office_date": "2023-03",
+              "birth_year": 1957,
+              "birth_month": 11,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": null,
+              "ethnicity": null,
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Procurator-General",
+          "title_chinese": "副检察长",
+          "personnel": [
+            {
+              "name_pinyin": "Tong Jianming",
+              "name_chinese": "童建明",
+              "raw_cn_jp_entry": "童建明(63.6)",
+              "assumed_office_date": "2018-06",
+              "birth_year": 1963,
+              "birth_month": 6,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": null,
+              "ethnicity": null,
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [
+                "Executive"
+              ],
+              "other_notes_cn_jp": [
+                "常务"
+              ]
+            },
+            {
+              "name_pinyin": "Sun Qian",
+              "name_chinese": "孙谦",
+              "raw_cn_jp_entry": "孙谦(59.12)",
+              "assumed_office_date": "2014-04",
+              "birth_year": 1959,
+              "birth_month": 12,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": null,
+              "ethnicity": null,
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Su Deyong",
+              "name_chinese": "苏德永",
+              "raw_cn_jp_entry": "苏德永(60.1)",
+              "assumed_office_date": "2018-08",
+              "birth_year": 1960,
+              "birth_month": 1,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": null,
+              "ethnicity": null,
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Zhang Xueqiao",
+              "name_chinese": "张雪樵",
+              "raw_cn_jp_entry": "◎张雪樵(63.12)",
+              "assumed_office_date": "2017-04",
+              "birth_year": 1963,
+              "birth_month": 12,
+              "birth_day": null,
+              "cross_reference_symbol": "◎",
+              "gender": null,
+              "ethnicity": null,
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Chen Guoqing",
+              "name_chinese": "陈国庆",
+              "raw_cn_jp_entry": "陈国庆(63.10)",
+              "assumed_office_date": "2018-06",
+              "birth_year": 1963,
+              "birth_month": 10,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": null,
+              "ethnicity": null,
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Yang Chunlei",
+              "name_chinese": "杨春雷",
+              "raw_cn_jp_entry": "杨春雷(65.1)",
+              "assumed_office_date": "2021-04",
+              "birth_year": 1965,
+              "birth_month": 1,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": null,
+              "ethnicity": "Manchu",
+              "rank_english": null,
+              "rank_chinese": "满族",
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            },
+            {
+              "name_pinyin": "Gong Ming",
+              "name_chinese": "宫鸣",
+              "raw_cn_jp_entry": "宫鸣(62.9)",
+              "assumed_office_date": "2023-07",
+              "birth_year": 1962,
+              "birth_month": 9,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": null,
+              "ethnicity": "Manchu",
+              "rank_english": null,
+              "rank_chinese": "满族",
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    },
+    {
+      "source_pdf_page": 172,
+      "organization_name_english": "Legal Organs Concerned",
+      "organization_name_chinese": "有关法律机构",
+      "metadata": {
+        "establishment_date": null,
+        "list_order_note": null,
+        "count": null,
+        "warnings": []
+      },
+      "positions": [
+        {
+          "title_english": "President, China Law Society",
+          "title_chinese": "中国法学会会长",
+          "personnel": [
+            {
+              "name_pinyin": "Wang Chen",
+              "name_chinese": "王晨",
+              "raw_cn_jp_entry": "王晨(50.12)",
+              "assumed_office_date": "2019-03",
+              "birth_year": 1950,
+              "birth_month": 12,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": null,
+              "ethnicity": null,
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        },
+        {
+          "title_english": "Executive Vice President, China Law Society",
+          "title_chinese": "中国法学会常务副会长",
+          "personnel": [
+            {
+              "name_pinyin": "Wang Qijiang",
+              "name_chinese": "王其江",
+              "raw_cn_jp_entry": "王其江(54.10)",
+              "assumed_office_date": "2018-06",
+              "birth_year": 1954,
+              "birth_month": 10,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": null,
+              "ethnicity": null,
+              "rank_english": null,
+              "rank_chinese": null,
+              "other_notes_en": [],
+              "other_notes_cn_jp": []
+            }
+          ]
+        }
+      ],
+      "sub_organizations": []
+    }
+  ]
+}

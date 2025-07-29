@@ -80,7 +80,7 @@ def restructure_data(sorted_data, hierarchy_map):
 def main():
     """Main function to run the restructuring process."""
     hierarchy_file = 'hierarchy_from_book.json'
-    sorted_data_file = 'sorted_by_page.json'
+    sorted_data_file = 'sorted_by_page.json' #maybe just use aggregated jsons
     output_file = 'final_hierarchical_data.json'
 
     try:

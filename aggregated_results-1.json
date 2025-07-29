@@ -1,0 +1,457 @@
+{
+  "COMMUNIST PARTY OF CHINA": {
+    "source_pdf_page": 5,
+    "organization_name_english": "COMMUNIST PARTY OF CHINA",
+    "organization_name_chinese": "中国共产党",
+    "metadata": {
+      "establishment_date": null,
+      "list_order_note": null,
+      "count": null,
+      "warnings": []
+    },
+    "positions": [],
+    "sub_organizations": {
+      "20TH CENTRAL COMMITTEE": {
+        "source_pdf_page": 5,
+        "organization_name_english": "20TH CENTRAL COMMITTEE",
+        "organization_name_chinese": "第20届中央委员会",
+        "metadata": {
+          "establishment_date": null,
+          "list_order_note": null,
+          "count": null,
+          "warnings": []
+        },
+        "positions": [
+          {
+            "title_english": "General Secretary",
+            "title_chinese": "总书记",
+            "personnel": [
+              {
+                "name_pinyin": "Xi Jinping",
+                "name_chinese": "习近平",
+                "raw_cn_jp_entry": "习近平(53.6)",
+                "assumed_office_date": "2022-10-23",
+                "birth_year": 1953,
+                "birth_month": 6,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "Male",
+                "ethnicity": null,
+                "rank_english": null,
+                "rank_chinese": null,
+                "other_notes_en": [
+                  "Elected at First Plenary Session of CPC Central Committee on Oct. 23, 2022"
+                ],
+                "other_notes_cn_jp": [
+                  "2022年10月23日の一中全会で選出"
+                ]
+              }
+            ]
+          }
+        ],
+        "sub_organizations": {
+          "Political Bureau": {
+            "source_pdf_page": 5,
+            "organization_name_english": "Political Bureau",
+            "organization_name_chinese": "政治局",
+            "metadata": {
+              "establishment_date": null,
+              "list_order_note": "Listed in the order of the number of strokes in their surnames",
+              "count": 7,
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Standing Committee Members",
+                "title_chinese": "常务委员会委员",
+                "personnel": [
+                  {
+                    "name_pinyin": "Xi Jinping",
+                    "name_chinese": "习近平",
+                    "raw_cn_jp_entry": "习近平(53.6)",
+                    "assumed_office_date": "2022-10-23",
+                    "birth_year": 1953,
+                    "birth_month": 6,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "Male",
+                    "ethnicity": null,
+                    "rank_english": null,
+                    "rank_chinese": null,
+                    "other_notes_en": [],
+                    "other_notes_cn_jp": []
+                  },
+                  {
+                    "name_pinyin": "Li Qiang",
+                    "name_chinese": "李强",
+                    "raw_cn_jp_entry": "李强(59.7)",
+                    "assumed_office_date": "2022-10-23",
+                    "birth_year": 1959,
+                    "birth_month": 7,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "Male",
+                    "ethnicity": null,
+                    "rank_english": null,
+                    "rank_chinese": null,
+                    "other_notes_en": [],
+                    "other_notes_cn_jp": []
+                  },
+                  {
+                    "name_pinyin": "Zhao Leji",
+                    "name_chinese": "赵乐际",
+                    "raw_cn_jp_entry": "赵乐际(57.3)",
+                    "assumed_office_date": "2022-10-23",
+                    "birth_year": 1957,
+                    "birth_month": 3,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "Male",
+                    "ethnicity": null,
+                    "rank_english": null,
+                    "rank_chinese": null,
+                    "other_notes_en": [],
+                    "other_notes_cn_jp": []
+                  },
+                  {
+                    "name_pinyin": "Wang Huning",
+                    "name_chinese": "王沪宁",
+                    "raw_cn_jp_entry": "王沪宁(55.10)",
+                    "assumed_office_date": "2022-10-23",
+                    "birth_year": 1955,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "Male",
+                    "ethnicity": null,
+                    "rank_english": null,
+                    "rank_chinese": null,
+                    "other_notes_en": [],
+                    "other_notes_cn_jp": []
+                  },
+                  {
+                    "name_pinyin": "Cai Qi",
+                    "name_chinese": "蔡奇",
+                    "raw_cn_jp_entry": "蔡奇(55.12)",
+                    "assumed_office_date": "2022-10-23",
+                    "birth_year": 1955,
+                    "birth_month": 12,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "Male",
+                    "ethnicity": null,
+                    "rank_english": null,
+                    "rank_chinese": null,
+                    "other_notes_en": [],
+                    "other_notes_cn_jp": []
+                  },
+                  {
+                    "name_pinyin": "Ding Xuexiang",
+                    "name_chinese": "丁薛祥",
+                    "raw_cn_jp_entry": "丁薛祥(62.9)",
+                    "assumed_office_date": "2022-10-23",
+                    "birth_year": 1962,
+                    "birth_month": 9,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "Male",
+                    "ethnicity": null,
+                    "rank_english": null,
+                    "rank_chinese": null,
+                    "other_notes_en": [],
+                    "other_notes_cn_jp": []
+                  },
+                  {
+                    "name_pinyin": "Li Xi",
+                    "name_chinese": "李希",
+                    "raw_cn_jp_entry": "李希(56.10)",
+                    "assumed_office_date": "2022-10-23",
+                    "birth_year": 1956,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "Male",
+                    "ethnicity": null,
+                    "rank_english": null,
+                    "rank_chinese": null,
+                    "other_notes_en": [],
+                    "other_notes_cn_jp": []
+                  }
+                ]
+              }
+            ]
+          },
+          "Secretariat": {
+            "source_pdf_page": 6,
+            "organization_name_english": "Secretariat",
+            "organization_name_chinese": "书记处",
+            "metadata": {
+              "establishment_date": null,
+              "list_order_note": null,
+              "count": 7,
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Members",
+                "title_chinese": "书记",
+                "personnel": [
+                  {
+                    "name_pinyin": "Cai Qi",
+                    "name_chinese": "蔡奇",
+                    "raw_cn_jp_entry": "蔡奇(55.12)",
+                    "assumed_office_date": "2022-10-23",
+                    "birth_year": 1955,
+                    "birth_month": 12,
+                    "birth_day": null,
+                    "cross_reference_symbol": "☆",
+                    "gender": "Male",
+                    "ethnicity": null,
+                    "rank_english": null,
+                    "rank_chinese": null,
+                    "other_notes_en": [
+                      "Approved at First Plenary Session of CPC Central Committee on Oct. 23, 2022"
+                    ],
+                    "other_notes_cn_jp": [
+                      "2022年10月23日の一中全会で承認"
+                    ]
+                  },
+                  {
+                    "name_pinyin": "Shi Taifeng",
+                    "name_chinese": "石泰峰",
+                    "raw_cn_jp_entry": "石泰峰(56.9)",
+                    "assumed_office_date": "2022-10-23",
+                    "birth_year": 1956,
+                    "birth_month": 9,
+                    "birth_day": null,
+                    "cross_reference_symbol": "※",
+                    "gender": "Male",
+                    "ethnicity": null,
+                    "rank_english": null,
+                    "rank_chinese": null,
+                    "other_notes_en": [],
+                    "other_notes_cn_jp": []
+                  },
+                  {
+                    "name_pinyin": "Li Ganjie",
+                    "name_chinese": "李干杰",
+                    "raw_cn_jp_entry": "李干杰(64.11)",
+                    "assumed_office_date": "2022-10-23",
+                    "birth_year": 1964,
+                    "birth_month": 11,
+                    "birth_day": null,
+                    "cross_reference_symbol": "※",
+                    "gender": "Male",
+                    "ethnicity": null,
+                    "rank_english": null,
+                    "rank_chinese": null,
+                    "other_notes_en": [],
+                    "other_notes_cn_jp": []
+                  },
+                  {
+                    "name_pinyin": "Li Shulei",
+                    "name_chinese": "李书磊",
+                    "raw_cn_jp_entry": "李书磊(64.1)",
+                    "assumed_office_date": "2022-10-23",
+                    "birth_year": 1964,
+                    "birth_month": 1,
+                    "birth_day": null,
+                    "cross_reference_symbol": "※",
+                    "gender": "Male",
+                    "ethnicity": null,
+                    "rank_english": null,
+                    "rank_chinese": null,
+                    "other_notes_en": [],
+                    "other_notes_cn_jp": []
+                  },
+                  {
+                    "name_pinyin": "Chen Wenqing",
+                    "name_chinese": "陈文清",
+                    "raw_cn_jp_entry": "陈文清(60.1)",
+                    "assumed_office_date": "2022-10-23",
+                    "birth_year": 1960,
+                    "birth_month": 1,
+                    "birth_day": null,
+                    "cross_reference_symbol": "※",
+                    "gender": "Male",
+                    "ethnicity": null,
+                    "rank_english": null,
+                    "rank_chinese": null,
+                    "other_notes_en": [],
+                    "other_notes_cn_jp": []
+                  },
+                  {
+                    "name_pinyin": "Liu Jinguo",
+                    "name_chinese": "刘金国",
+                    "raw_cn_jp_entry": "刘金国(55.4)",
+                    "assumed_office_date": "2022-10-23",
+                    "birth_year": 1955,
+                    "birth_month": 4,
+                    "birth_day": null,
+                    "cross_reference_symbol": "◎",
+                    "gender": "Male",
+                    "ethnicity": null,
+                    "rank_english": null,
+                    "rank_chinese": null,
+                    "other_notes_en": [],
+                    "other_notes_cn_jp": []
+                  },
+                  {
+                    "name_pinyin": "Wang Xiaohong",
+                    "name_chinese": "王小洪",
+                    "raw_cn_jp_entry": "王小洪(57.7)",
+                    "assumed_office_date": "2022-10-23",
+                    "birth_year": 1957,
+                    "birth_month": 7,
+                    "birth_day": null,
+                    "cross_reference_symbol": "◎",
+                    "gender": "Male",
+                    "ethnicity": null,
+                    "rank_english": null,
+                    "rank_chinese": null,
+                    "other_notes_en": [],
+                    "other_notes_cn_jp": []
+                  }
+                ]
+              }
+            ]
+          },
+          "Central Committee Members": {
+            "source_pdf_page": 6,
+            "organization_name_english": "Central Committee Members",
+            "organization_name_chinese": "中央委员",
+            "metadata": {
+              "establishment_date": null,
+              "list_order_note": "Elected at 20th National Congress of CPC on Oct. 22, 2022; listed in the order of the number of strokes in their surnames, excluding newly elected members",
+              "count": 205,
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Members",
+                "title_chinese": "中央委员",
+                "personnel": [
+                  {
+                    "name_pinyin": "Ding Xuedong",
+                    "name_chinese": "丁学东",
+                    "raw_cn_jp_entry": "丁学东",
+                    "assumed_office_date": null,
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": null,
+                    "ethnicity": null,
+                    "rank_english": null,
+                    "rank_chinese": null,
+                    "other_notes_en": [],
+                    "other_notes_cn_jp": []
+                  },
+                  {
+                    "name_pinyin": "Ding Xuexiang",
+                    "name_chinese": "丁薛祥",
+                    "raw_cn_jp_entry": "☆丁薛祥",
+                    "assumed_office_date": null,
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": "☆",
+                    "gender": null,
+                    "ethnicity": null,
+                    "rank_english": null,
+                    "rank_chinese": null,
+                    "other_notes_en": [],
+                    "other_notes_cn_jp": []
+                  },
+                  {
+                    "name_pinyin": "Wan Lijun",
+                    "name_chinese": "万立骏",
+                    "raw_cn_jp_entry": "万立骏",
+                    "assumed_office_date": null,
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": null,
+                    "ethnicity": null,
+                    "rank_english": null,
+                    "rank_chinese": null,
+                    "other_notes_en": [],
+                    "other_notes_cn_jp": []
+                  },
+                  {
+                    "name_pinyin": "Xi Jinping",
+                    "name_chinese": "习近平",
+                    "raw_cn_jp_entry": "☆习近平",
+                    "assumed_office_date": null,
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": "☆",
+                    "gender": null,
+                    "ethnicity": null,
+                    "rank_english": null,
+                    "rank_chinese": null,
+                    "other_notes_en": [],
+                    "other_notes_cn_jp": []
+                  },
+                  {
+                    "name_pinyin": "Ma Xingrui",
+                    "name_chinese": "马兴瑞",
+                    "raw_cn_jp_entry": "※马兴瑞",
+                    "assumed_office_date": null,
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": "※",
+                    "gender": null,
+                    "ethnicity": null,
+                    "rank_english": null,
+                    "rank_chinese": null,
+                    "other_notes_en": [],
+                    "other_notes_cn_jp": []
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Central Commission for Discipline Inspection": {
+        "source_pdf_page": 7,
+        "organization_name_english": "Central Commission for Discipline Inspection",
+        "organization_name_chinese": "中央纪律检查委员会",
+        "metadata": {
+          "establishment_date": null,
+          "list_order_note": "20th National Congress of CPC on Oct. 22, 2022 elected members of the commission; the First Plenary Session of the commission on Oct. 23 elected its leading body",
+          "count": null,
+          "warnings": []
+        },
+        "positions": [
+          {
+            "title_english": "Secretary",
+            "title_chinese": "书记",
+            "personnel": [
+              {
+                "name_pinyin": "Li Xi",
+                "name_chinese": "李希",
+                "raw_cn_jp_entry": "☆李希(56.10)",
+                "assumed_office_date": "2022-10-23",
+                "birth_year": 1956,
+                "birth_month": 10,
+                "birth_day": null,
+                "cross_reference_symbol": "☆",
+                "gender": "Male",
+                "ethnicity": null,
+                "rank_english": null,
+                "rank_chinese": null,
+                "other_notes_en": [],
+                "other_notes_cn_jp": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

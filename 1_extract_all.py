@@ -1,3 +1,6 @@
+# python 1_extract_all.py input_file.json output_data.xlsx 
+# python 1_extract_all.py /directory output_data.xlsx ?
+
 import json
 import pandas as pd
 import os

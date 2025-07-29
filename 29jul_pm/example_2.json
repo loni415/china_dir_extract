@@ -1,0 +1,643 @@
+{
+  "source_pdf_page": 16,
+  "organization_name_english": "Organs under Central Committee",
+  "organization_name_chinese": "中央直属機関",
+  "positions": [],
+  "sub_organizations": [
+    {
+      "source_pdf_page": 16,
+      "organization_name_english": "General Office",
+      "organization_name_chinese": "辦公庁",
+      "positions": [
+        {
+          "title_english": "Director",
+          "title_chinese": "主任",
+          "personnel": [
+            {
+              "name_pinyin": "Cai Qi",
+              "name_chinese": "蔡奇",
+              "assumed_office_date": "2023-03",
+              "birth_year": 1955,
+              "birth_month": 12,
+              "birth_day": null,
+              "cross_reference_symbol": "☆",
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Directors",
+          "title_chinese": "副主任",
+          "personnel": [
+            {
+              "name_pinyin": "Meng Xiangfeng",
+              "name_chinese": "孟祥鋒",
+              "assumed_office_date": "2020-11",
+              "birth_year": 1964,
+              "birth_month": 12,
+              "birth_day": null,
+              "cross_reference_symbol": "◎",
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": "executive",
+              "rank_chinese": "常務"
+            },
+            {
+              "name_pinyin": "Kong Shaoxun",
+              "name_chinese": "孔紹遜",
+              "assumed_office_date": "2022-04",
+              "birth_year": 1969,
+              "birth_month": 2,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null
+            }
+          ]
+        }
+      ],
+      "sub_organizations": [
+        {
+          "source_pdf_page": 16,
+          "organization_name_english": "General Secretary's Office",
+          "organization_name_chinese": "総書記辦公室",
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "主任",
+              "personnel": []
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 16,
+          "organization_name_english": "Survey and Research Office",
+          "organization_name_chinese": "調研室",
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "主任",
+              "personnel": []
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 16,
+          "organization_name_english": "Secretary Bureau",
+          "organization_name_chinese": "秘書局",
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "局長",
+              "personnel": [
+                {
+                  "name_pinyin": "Kong Shaoxun",
+                  "name_chinese": "孔紹遜",
+                  "assumed_office_date": "2022-04",
+                  "birth_year": 1969,
+                  "birth_month": 2,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 16,
+          "organization_name_english": "Regulations Bureau",
+          "organization_name_chinese": "法規局",
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "局長",
+              "personnel": [
+                {
+                  "name_pinyin": "Song Gongde",
+                  "name_chinese": "宋功徳",
+                  "assumed_office_date": "2018-06",
+                  "birth_year": 1971,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 16,
+          "organization_name_english": "Bodyguards Bureau",
+          "organization_name_chinese": "警衛局",
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "局長",
+              "personnel": [
+                {
+                  "name_pinyin": "Zhou Hongxu",
+                  "name_chinese": "周洪許",
+                  "assumed_office_date": "2023-04",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": "Maj Gen",
+                  "rank_chinese": "少将"
+                }
+              ]
+            },
+            {
+              "title_english": "Deputy Directors",
+              "title_chinese": "副局長",
+              "personnel": [
+                {
+                  "name_pinyin": "Cao Xuefang",
+                  "name_chinese": "曹雪芳",
+                  "assumed_office_date": "2013-03",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": "Maj Gen",
+                  "rank_chinese": "少将"
+                },
+                {
+                  "name_pinyin": "Xi Guorong",
+                  "name_chinese": "奚国栄",
+                  "assumed_office_date": "2012-11",
+                  "birth_year": 1962,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": "Maj Gen",
+                  "rank_chinese": "少将"
+                },
+                {
+                  "name_pinyin": "Yi Qingran",
+                  "name_chinese": "衣慶然",
+                  "assumed_office_date": "2015-12",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": "Maj Gen",
+                  "rank_chinese": "少将"
+                },
+                {
+                  "name_pinyin": "Zhao Peng",
+                  "name_chinese": "趙鵬",
+                  "assumed_office_date": "2015-12",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": "Maj Gen",
+                  "rank_chinese": "少将"
+                },
+                {
+                  "name_pinyin": "Chen Denglu",
+                  "name_chinese": "陳登鋁",
+                  "assumed_office_date": "2019-07",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            },
+            {
+              "title_english": "Political Department Director",
+              "title_chinese": "政治部主任",
+              "personnel": [
+                {
+                  "name_pinyin": "Zhao Peng",
+                  "name_chinese": "趙鵬",
+                  "assumed_office_date": "2021-07",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": "Maj Gen",
+                  "rank_chinese": "少将"
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 16,
+          "organization_name_english": "Confidential Work Bureau (State Bureau of Password Management)",
+          "organization_name_chinese": "機要局(国家密碼管理局)",
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "局長",
+              "personnel": [
+                {
+                  "name_pinyin": "Liu Dongfang",
+                  "name_chinese": "劉東方",
+                  "assumed_office_date": "2021-06",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 16,
+          "organization_name_english": "Personnel Bureau",
+          "organization_name_chinese": "人事局",
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "局長",
+              "personnel": []
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 17,
+          "organization_name_english": "Veteran Cadres Bureau",
+          "organization_name_chinese": "老幹部局",
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "局長",
+              "personnel": [
+                {
+                  "name_pinyin": "Zhang Qian",
+                  "name_chinese": "張謙",
+                  "assumed_office_date": "2019-05",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 17,
+          "organization_name_english": "Administration Bureau for Organs under Central Committee",
+          "organization_name_chinese": "中央直属機関事務管理局",
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "局長",
+              "personnel": [
+                {
+                  "name_pinyin": "Ji Zheng",
+                  "name_chinese": "紀正",
+                  "assumed_office_date": "2020-01",
+                  "birth_year": 1964,
+                  "birth_month": 11,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        }
+      ]
+    },
+    {
+      "source_pdf_page": 17,
+      "organization_name_english": "Organization Department",
+      "organization_name_chinese": "組織部",
+      "positions": [
+        {
+          "title_english": "Head",
+          "title_chinese": "部長",
+          "personnel": [
+            {
+              "name_pinyin": "Li Ganjie",
+              "name_chinese": "李干杰",
+              "assumed_office_date": "2023-04",
+              "birth_year": 1964,
+              "birth_month": 11,
+              "birth_day": null,
+              "cross_reference_symbol": "※",
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null
+            }
+          ]
+        },
+        {
+          "title_english": "Deputy Heads",
+          "title_chinese": "副部長",
+          "personnel": [
+            {
+              "name_pinyin": "Jiang Xinzhi",
+              "name_chinese": "姜信治",
+              "assumed_office_date": "2015-12",
+              "birth_year": 1958,
+              "birth_month": 2,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": "executive/minister level",
+              "rank_chinese": "常務/部長級"
+            },
+            {
+              "name_pinyin": "Li Xiaoxin",
+              "name_chinese": "李小新",
+              "assumed_office_date": "2020-08",
+              "birth_year": 1962,
+              "birth_month": 10,
+              "birth_day": null,
+              "cross_reference_symbol": "◎",
+              "gender": "female",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null
+            },
+            {
+              "name_pinyin": "Peng Jinhui",
+              "name_chinese": "彭金輝",
+              "assumed_office_date": "2022-05",
+              "birth_year": 1964,
+              "birth_month": 12,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null
+            },
+            {
+              "name_pinyin": "Xu Qifang",
+              "name_chinese": "徐啓方",
+              "assumed_office_date": "2022-10",
+              "birth_year": 1965,
+              "birth_month": 8,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null
+            },
+            {
+              "name_pinyin": "Zhang Guangjun",
+              "name_chinese": "張光軍",
+              "assumed_office_date": "2023-02",
+              "birth_year": 1968,
+              "birth_month": 2,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null
+            },
+            {
+              "name_pinyin": "Huang Jianfa",
+              "name_chinese": "黄建発",
+              "assumed_office_date": "2023-03",
+              "birth_year": 1965,
+              "birth_month": 1,
+              "birth_day": null,
+              "cross_reference_symbol": "◎",
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null
+            }
+          ]
+        },
+        {
+          "title_english": "Department Affairs Members",
+          "title_chinese": "部務委員",
+          "personnel": [
+            {
+              "name_pinyin": "Mao Dingzhi",
+              "name_chinese": "毛定之",
+              "assumed_office_date": "2019-01",
+              "birth_year": 1963,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null
+            },
+            {
+              "name_pinyin": "Qi Jiabin",
+              "name_chinese": "斉家濱",
+              "assumed_office_date": "2021-08",
+              "birth_year": 1967,
+              "birth_month": 9,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null
+            }
+          ]
+        },
+        {
+          "title_english": "Secretary General",
+          "title_chinese": "秘書長",
+          "personnel": [
+            {
+              "name_pinyin": "Hu Jinqi",
+              "name_chinese": "胡金旗",
+              "assumed_office_date": "2020-06",
+              "birth_year": null,
+              "birth_month": null,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null
+            }
+          ]
+        }
+      ],
+      "sub_organizations": [
+        {
+          "source_pdf_page": 17,
+          "organization_name_english": "General Office",
+          "organization_name_chinese": "辦公庁",
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "主任",
+              "personnel": [
+                {
+                  "name_pinyin": "Liu Guoping",
+                  "name_chinese": "劉国平",
+                  "assumed_office_date": "2021-10",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 17,
+          "organization_name_english": "Cadres Education Bureau",
+          "organization_name_chinese": "幹部教育局",
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "局長",
+              "personnel": [
+                {
+                  "name_pinyin": "Zhang Fugen",
+                  "name_chinese": "張福根",
+                  "assumed_office_date": "2019-06",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 17,
+          "organization_name_english": "First Organization Bureau",
+          "organization_name_chinese": "組織一局",
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "局長",
+              "personnel": []
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 17,
+          "organization_name_english": "Second Organization Bureau",
+          "organization_name_chinese": "組織二局",
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "局長",
+              "personnel": [
+                {
+                  "name_pinyin": "Yao Yuan",
+                  "name_chinese": "姚遠",
+                  "assumed_office_date": "2023-03",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 17,
+          "organization_name_english": "First Cadres Bureau",
+          "organization_name_chinese": "幹部一局",
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "局長",
+              "personnel": [
+                {
+                  "name_pinyin": "Mao Dingzhi",
+                  "name_chinese": "毛定之",
+                  "assumed_office_date": "2022-07",
+                  "birth_year": 1963,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        }
+      ]
+    }
+  ]
+}

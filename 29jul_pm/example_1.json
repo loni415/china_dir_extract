@@ -1,0 +1,208 @@
+{
+  "source_pdf_page": 15,
+  "organization_name_english": "National Supervision Commission",
+  "organization_name_chinese": "国家監察委員会",
+  "positions": [
+    {
+      "title_english": "Director",
+      "title_chinese": "主任",
+      "personnel": [
+        {
+          "name_pinyin": "Liu Jinguo",
+          "name_chinese": "劉金国",
+          "assumed_office_date": "2023-03-11",
+          "birth_year": 1955,
+          "birth_month": 4,
+          "birth_day": null,
+          "cross_reference_symbol": "◎",
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null
+        }
+      ]
+    },
+    {
+      "title_english": "Deputy Directors",
+      "title_chinese": "副主任",
+      "personnel": [
+        {
+          "name_pinyin": "Xiao Pei",
+          "name_chinese": "肖培",
+          "assumed_office_date": "2018-03-21",
+          "birth_year": 1961,
+          "birth_month": 1,
+          "birth_day": null,
+          "cross_reference_symbol": "◎",
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null
+        },
+        {
+          "name_pinyin": "Yu Hongqiu",
+          "name_chinese": "喻紅秋",
+          "assumed_office_date": "2021-02-28",
+          "birth_year": 1960,
+          "birth_month": 10,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "female",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null
+        },
+        {
+          "name_pinyin": "Fu Kui",
+          "name_chinese": "傅奎",
+          "assumed_office_date": "2021-02-28",
+          "birth_year": 1962,
+          "birth_month": 9,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null
+        },
+        {
+          "name_pinyin": "Sun Xinyang",
+          "name_chinese": "孫新陽",
+          "assumed_office_date": "2022-10-30",
+          "birth_year": 1964,
+          "birth_month": 6,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null
+        },
+        {
+          "name_pinyin": "Liu Xuexin",
+          "name_chinese": "劉学新",
+          "assumed_office_date": "2022-10-30",
+          "birth_year": 1963,
+          "birth_month": 12,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null
+        },
+        {
+          "name_pinyin": "Zhang Fuhai",
+          "name_chinese": "張福海",
+          "assumed_office_date": "2022-10-30",
+          "birth_year": 1964,
+          "birth_month": 12,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null
+        }
+      ]
+    },
+    {
+      "title_english": "Members",
+      "title_chinese": "委員",
+      "personnel": [
+        {
+          "name_pinyin": "Wang Aiwen",
+          "name_chinese": "王愛文",
+          "assumed_office_date": "2022-10-30",
+          "birth_year": 1962,
+          "birth_month": 10,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null
+        },
+        {
+          "name_pinyin": "Wang Hongjin",
+          "name_chinese": "王鴻津",
+          "assumed_office_date": "2018-03-21",
+          "birth_year": 1963,
+          "birth_month": 5,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null
+        },
+        {
+          "name_pinyin": "Xu Luode",
+          "name_chinese": "許羅徳",
+          "assumed_office_date": "2022-10-30",
+          "birth_year": 1962,
+          "birth_month": 5,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null
+        },
+        {
+          "name_pinyin": "Li Xinran",
+          "name_chinese": "李欣然",
+          "assumed_office_date": "2022-10-30",
+          "birth_year": 1972,
+          "birth_month": 3,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null
+        },
+        {
+          "name_pinyin": "Zhao Shiyong",
+          "name_chinese": "趙世勇",
+          "assumed_office_date": "2022-10-30",
+          "birth_year": 1966,
+          "birth_month": 5,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null
+        },
+        {
+          "name_pinyin": "Yin Bai",
+          "name_chinese": "間柏",
+          "assumed_office_date": "2022-10-30",
+          "birth_year": 1969,
+          "birth_month": 4,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "male",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null
+        },
+        {
+          "name_pinyin": "Mu Hongyu",
+          "name_chinese": "穆紅玉",
+          "assumed_office_date": "2022-10-30",
+          "birth_year": 1963,
+          "birth_month": 8,
+          "birth_day": null,
+          "cross_reference_symbol": null,
+          "gender": "female",
+          "ethnicity": "Han",
+          "rank_english": null,
+          "rank_chinese": null
+        }
+      ]
+    }
+  ],
+  "sub_organizations": []
+}
