@@ -1,4 +1,4 @@
-Generated json
+[
 {
   "source_pdf_page": 21,
   "organization_name_english": "Central United Front Work Department",
@@ -638,6 +638,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 23,
   "organization_name_english": "Central International Department",
@@ -1131,6 +1132,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 24,
   "organization_name_english": "Central Social Work Department",
@@ -1210,6 +1212,7 @@ Generated json
   ],
   "sub_organizations": []
 }
+,
 {
   "source_pdf_page": 24,
   "organization_name_english": "Central Commission of Political Science and Law",
@@ -1756,6 +1759,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 26,
   "organization_name_english": "Central Policy Research Center",
@@ -2066,6 +2070,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 26,
   "organization_name_english": "National Security Commission of CPC Central Committee",
@@ -2145,6 +2150,7 @@ Generated json
   ],
   "sub_organizations": []
 }
+,
 {
   "source_pdf_page": 27,
   "organization_name_english": "Central Cyberspace Affairs Commission",
@@ -2742,6 +2748,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 28,
   "organization_name_english": "Central Commission for Integrated Military and Civilian Development",
@@ -2895,6 +2902,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 29,
   "organization_name_english": "Central Leading Group for Taiwan Affairs",
@@ -3386,6 +3394,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 30,
   "organization_name_english": "Central Finance and Economics Commission",
@@ -3725,6 +3734,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 31,
   "organization_name_english": "Central Leading Group for Rural Work",
@@ -3795,6 +3805,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 31,
   "organization_name_english": "Central Foreign Affairs Commission",
@@ -4066,6 +4077,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 32,
   "organization_name_english": "Central Institutional Organization Commission",
@@ -4333,6 +4345,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 32,
   "organization_name_english": "Central Committee for Air Traffic Management",
@@ -4383,6 +4396,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 33,
   "organization_name_english": "Central Financial Commission",
@@ -4480,6 +4494,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 33,
   "organization_name_english": "Central Financial Work Commission",
@@ -4545,6 +4560,7 @@ Generated json
   ],
   "sub_organizations": []
 }
+,
 {
   "source_pdf_page": 33,
   "organization_name_english": "Central Leading Group for H.K. & Macao Affairs",
@@ -5019,6 +5035,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 34,
   "organization_name_english": "Work Committee for Organs under Central Committee & Central Government",
@@ -5427,6 +5444,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 35,
   "organization_name_english": "Central Overall Reform Commission",
@@ -5639,6 +5657,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 36,
   "organization_name_english": "Central Commission for Comprehensive Rule of Law",
@@ -5776,6 +5795,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 36,
   "organization_name_english": "Central Audit Commission",
@@ -5873,6 +5893,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 37,
   "organization_name_english": "Central Science and Technology Commission",
@@ -5891,6 +5912,7 @@ Generated json
   ],
   "sub_organizations": []
 }
+,
 {
   "source_pdf_page": 37,
   "organization_name_english": "Central Commission for Guiding Ethic and Cultural Progress",
@@ -6079,6 +6101,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 37,
   "organization_name_english": "Central Leading Group for Inspection Work",
@@ -6176,6 +6199,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 37,
   "organization_name_english": "Central Coordinating Group for Tibet Affairs",
@@ -6246,6 +6270,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 38,
   "organization_name_english": "Central Coordinating Group for Xinjiang Affairs",
@@ -6264,6 +6289,7 @@ Generated json
   ],
   "sub_organizations": []
 }
+,
 {
   "source_pdf_page": 38,
   "organization_name_english": "Central Institute of Archives (State Administration of Archives)",
@@ -6357,6 +6383,7 @@ Generated json
   ],
   "sub_organizations": []
 }
+,
 {
   "source_pdf_page": 38,
   "organization_name_english": "Central Committee of Secrecy",
@@ -6502,6 +6529,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 38,
   "organization_name_english": "Central Party School (Chinese Academy of Governance)",
@@ -6700,6 +6728,7 @@ Generated json
   ],
   "sub_organizations": []
 }
+,
 {
   "source_pdf_page": 39,
   "organization_name_english": "Central Party History & Literature Research Center",
@@ -6845,6 +6874,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 39,
   "organization_name_english": "People's Daily",
@@ -7049,6 +7079,7 @@ Generated json
   ],
   "sub_organizations": []
 }
+,
 {
   "source_pdf_page": 40,
   "organization_name_english": "Qiushi (Seeking Truth)",
@@ -7100,6 +7131,7 @@ Generated json
   ],
   "sub_organizations": []
 }
+,
 {
   "source_pdf_page": 40,
   "organization_name_english": "Guangming Daily",
@@ -7165,6 +7197,7 @@ Generated json
   ],
   "sub_organizations": []
 }
+,
 {
   "source_pdf_page": 40,
   "organization_name_english": "Central Institute of Socialism",
@@ -7236,6 +7269,7 @@ Generated json
   ],
   "sub_organizations": []
 }
+,
 {
   "source_pdf_page": 42,
   "organization_name_english": "PRESIDENCY OF THE PEOPLE'S REPUBLIC OF CHINA",
@@ -7336,6 +7370,7 @@ Generated json
     }
   ]
 }
+,
 {
   "source_pdf_page": 44,
   "organization_name_english": "NATIONAL PEOPLE'S CONGRESS",
@@ -9114,3 +9149,4 @@ Generated json
     }
   ]
 }
+]
