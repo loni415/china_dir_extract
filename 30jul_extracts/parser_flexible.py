@@ -62,8 +62,8 @@ def process_data(data):
 
 
 def main():
-    input_json_file = '/Users/lukasfiller/dev/china_directory/31jul_fix51-75/china_dir_2024-p53-75_corrected.json'  # or 'restructured_stud_30jul.json'
-    output_xlsx_file = '/Users/lukasfiller/dev/china_directory/31jul_fix51-75/china_dir_2024-p53-75_corrected.xlsx'
+    input_json_file = '/Users/lukasfiller/dev/china_directory/31jul_fix5-50/china_dir_2024_corrected_hierarchy.json'  # or 'restructured_stud_30jul.json'
+    output_xlsx_file = '/Users/lukasfiller/dev/china_directory/31jul_fix5-50/china_dir_2024_corrected_hierarchy.xlsx'
 
     print(f"Loading JSON from {input_json_file}...")
     with open(input_json_file, 'r', encoding='utf-8') as f:
