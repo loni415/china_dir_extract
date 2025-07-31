@@ -50,17 +50,20 @@ def flatten_data_dict(org_data, parent_orgs=[]):
 def process_data(data):
     all_rows = []
     if isinstance(data, dict):
-        for top_level_name, top_level_org in data.items():
-            top_level_org["organization_name_english"] = top_level_name
-            all_rows.extend(flatten_data_dict(top_level_org, []))
+        all_rows.extend(flatten_data_dict(data, []))
     elif isinstance(data, list):
         for top_level_org in data:
-            all_rows.extend(flatten_data_dict(top_level_org, []))
+            if isinstance(top_level_org, dict):
+                all_rows.extend(flatten_data_dict(top_level_org, []))
+            else:
+                print(f"Skipping non-dict top-level org in list: {type(top_level_org)}")
     return all_rows
 
+
+
 def main():
-    input_json_file = 'restructured_stud_30jul.json'  # or 'restructured_stud_30jul.json'
-    output_xlsx_file = 'output_leadership_flexible.xlsx'
+    input_json_file = '/Users/lukasfiller/dev/china_directory/31jul_fix51-75/china_dir_2024-p53-75_corrected.json'  # or 'restructured_stud_30jul.json'
+    output_xlsx_file = '/Users/lukasfiller/dev/china_directory/31jul_fix51-75/china_dir_2024-p53-75_corrected.xlsx'
 
     print(f"Loading JSON from {input_json_file}...")
     with open(input_json_file, 'r', encoding='utf-8') as f:
