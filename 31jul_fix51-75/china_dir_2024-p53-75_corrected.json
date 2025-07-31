@@ -1,0 +1,5075 @@
+[
+  {
+    "source_pdf_page": 44,
+    "organization_name_english": "NATIONAL PEOPLE'S CONGRESS",
+    "organization_name_chinese": "全人代",
+    "metadata": {
+      "warnings": []
+    },
+    "positions": [],
+    "sub_organizations": []
+  },
+  {
+    "source_pdf_page": 53,
+    "organization_name_english": "List of Diplomats by Country",
+    "organization_name_chinese": "各国外交官",
+    "metadata": {
+      "warnings": []
+    },
+    "positions": [],
+    "sub_organizations": [
+      {
+        "source_pdf_page": 56,
+        "organization_name_english": "Viet Nam",
+        "organization_name_chinese": "越南",
+        "metadata": {
+          "warnings": []
+        },
+        "positions": [
+          {
+            "title_english": "Ambassador",
+            "title_chinese": null,
+            "personnel": [
+              {
+                "name_pinyin": "Xiong Bo",
+                "name_chinese": "熊波",
+                "raw_cn_jp_entry": "熊 波(64.1)",
+                "assumed_office_date": "2018-11-17",
+                "birth_year": 1964,
+                "birth_month": 1,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              }
+            ]
+          }
+        ],
+        "sub_organizations": []
+      },
+      {
+        "source_pdf_page": 56,
+        "organization_name_english": "Laos",
+        "organization_name_chinese": "老撾",
+        "metadata": {
+          "warnings": [
+            "No PRC ambassador listed for Laos in the source document."
+          ]
+        },
+        "positions": [],
+        "sub_organizations": []
+      },
+      {
+        "source_pdf_page": 56,
+        "organization_name_english": "Cambodia",
+        "organization_name_chinese": "柬埔寨",
+        "metadata": {
+          "warnings": []
+        },
+        "positions": [
+          {
+            "title_english": "Ambassador",
+            "title_chinese": null,
+            "personnel": [
+              {
+                "name_pinyin": "Wang Wentian",
+                "name_chinese": "王文天",
+                "raw_cn_jp_entry": "王文天(63.8)",
+                "assumed_office_date": "2018-12",
+                "birth_year": 1963,
+                "birth_month": 8,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              }
+            ]
+          }
+        ],
+        "sub_organizations": []
+      },
+      {
+        "source_pdf_page": 56,
+        "organization_name_english": "Malaysia",
+        "organization_name_chinese": "馬来西亜",
+        "metadata": {
+          "warnings": []
+        },
+        "positions": [
+          {
+            "title_english": "Ambassador",
+            "title_chinese": null,
+            "personnel": [
+              {
+                "name_pinyin": "Ouyang Yujing",
+                "name_chinese": "欧陽玉靖",
+                "raw_cn_jp_entry": "欧陽玉靖(65. 8. 8)",
+                "assumed_office_date": "2020-12",
+                "birth_year": 1965,
+                "birth_month": 8,
+                "birth_day": 8,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              }
+            ]
+          }
+        ],
+        "sub_organizations": []
+      },
+      {
+        "source_pdf_page": 56,
+        "organization_name_english": "Brunei",
+        "organization_name_chinese": "文莱",
+        "metadata": {
+          "warnings": []
+        },
+        "positions": [
+          {
+            "title_english": "Ambassador",
+            "title_chinese": null,
+            "personnel": [
+              {
+                "name_pinyin": "Xiao Jianguo",
+                "name_chinese": "肖建国",
+                "raw_cn_jp_entry": "肖建国(65.4)",
+                "assumed_office_date": "2023-03",
+                "birth_year": 1965,
+                "birth_month": 4,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              }
+            ]
+          }
+        ],
+        "sub_organizations": []
+      },
+      {
+        "source_pdf_page": 56,
+        "organization_name_english": "Timor-Leste",
+        "organization_name_chinese": "東帝汶",
+        "metadata": {
+          "warnings": []
+        },
+        "positions": [
+          {
+            "title_english": "Ambassador",
+            "title_chinese": null,
+            "personnel": [
+              {
+                "name_pinyin": "Wang Wenli",
+                "name_chinese": "王文麗",
+                "raw_cn_jp_entry": "王文麗(女71.6)",
+                "assumed_office_date": "2023-10-20",
+                "birth_year": 1971,
+                "birth_month": 6,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "female",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              }
+            ]
+          }
+        ],
+        "sub_organizations": []
+      },
+      {
+        "source_pdf_page": 56,
+        "organization_name_english": "Singapore",
+        "organization_name_chinese": "新加坡",
+        "metadata": {
+          "warnings": [
+            "No PRC ambassador listed for Singapore in the source document."
+          ]
+        },
+        "positions": [],
+        "sub_organizations": []
+      },
+      {
+        "source_pdf_page": 57,
+        "organization_name_english": "Thailand",
+        "organization_name_chinese": "泰 国",
+        "metadata": {
+          "warnings": []
+        },
+        "positions": [
+          {
+            "title_english": "Ambassador",
+            "title_chinese": null,
+            "personnel": [
+              {
+                "name_pinyin": "Han Zhiqiang",
+                "name_chinese": "韓志強",
+                "raw_cn_jp_entry": "韓志強(63.11)",
+                "assumed_office_date": "2021-09",
+                "birth_year": 1963,
+                "birth_month": 11,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              }
+            ]
+          }
+        ],
+        "sub_organizations": []
+      },
+      {
+        "source_pdf_page": 57,
+        "organization_name_english": "Myanmar (Burma)",
+        "organization_name_chinese": "緬甸",
+        "metadata": {
+          "warnings": []
+        },
+        "positions": [
+          {
+            "title_english": "Ambassador",
+            "title_chinese": null,
+            "personnel": [
+              {
+                "name_pinyin": "Chen Hai",
+                "name_chinese": "陳海",
+                "raw_cn_jp_entry": "陳 海(71.12)",
+                "assumed_office_date": "2019-06",
+                "birth_year": 1971,
+                "birth_month": 12,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              }
+            ]
+          }
+        ],
+        "sub_organizations": []
+      },
+      {
+        "source_pdf_page": 57,
+        "organization_name_english": "India",
+        "organization_name_chinese": "印度",
+        "metadata": {
+          "warnings": [
+            "No PRC ambassador listed for India in the source document."
+          ]
+        },
+        "positions": [],
+        "sub_organizations": []
+      },
+      {
+        "source_pdf_page": 57,
+        "organization_name_english": "Pakistan",
+        "organization_name_chinese": "巴基斯坦",
+        "metadata": {
+          "warnings": []
+        },
+        "positions": [
+          {
+            "title_english": "Ambassador",
+            "title_chinese": null,
+            "personnel": [
+              {
+                "name_pinyin": "Jiang Zaidong",
+                "name_chinese": "姜再冬",
+                "raw_cn_jp_entry": "姜再冬(70.2)",
+                "assumed_office_date": "2023-09-12",
+                "birth_year": 1970,
+                "birth_month": 2,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              }
+            ]
+          }
+        ],
+        "sub_organizations": []
+      },
+      {
+        "source_pdf_page": 57,
+        "organization_name_english": "Bangladesh",
+        "organization_name_chinese": "孟加拉国",
+        "metadata": {
+          "warnings": []
+        },
+        "positions": [
+          {
+            "title_english": "Ambassador",
+            "title_chinese": null,
+            "personnel": [
+              {
+                "name_pinyin": "Yao Wen",
+                "name_chinese": "姚文",
+                "raw_cn_jp_entry": "姚 文(73.8)",
+                "assumed_office_date": "2023-01",
+                "birth_year": 1973,
+                "birth_month": 8,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              }
+            ]
+          }
+        ],
+        "sub_organizations": []
+      },
+      {
+        "source_pdf_page": 57,
+        "organization_name_english": "Sri Lanka",
+        "organization_name_chinese": "斯里蘭卡",
+        "metadata": {
+          "warnings": []
+        },
+        "positions": [
+          {
+            "title_english": "Ambassador",
+            "title_chinese": null,
+            "personnel": [
+              {
+                "name_pinyin": "Qi Zhenhong",
+                "name_chinese": "戚振宏",
+                "raw_cn_jp_entry": "戚振宏(65.9)",
+                "assumed_office_date": "2020-11",
+                "birth_year": 1965,
+                "birth_month": 9,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              }
+            ]
+          }
+        ],
+        "sub_organizations": []
+      },
+      {
+        "source_pdf_page": 57,
+        "organization_name_english": "Afghanistan",
+        "organization_name_chinese": "阿富汗",
+        "metadata": {
+          "warnings": []
+        },
+        "positions": [
+          {
+            "title_english": "Ambassador",
+            "title_chinese": null,
+            "personnel": [
+              {
+                "name_pinyin": "Zhao Xing",
+                "name_chinese": "趙星",
+                "raw_cn_jp_entry": "趙 星(74.11)",
+                "assumed_office_date": "2023-09-13",
+                "birth_year": 1974,
+                "birth_month": 11,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              }
+            ]
+          }
+        ],
+        "sub_organizations": []
+      },
+      {
+        "source_pdf_page": 58,
+        "organization_name_english": "OCEANIA",
+        "organization_name_chinese": "大洋洲",
+        "metadata": {
+          "warnings": []
+        },
+        "positions": [],
+        "sub_organizations": [
+          {
+            "source_pdf_page": 58,
+            "organization_name_english": "New Zealand",
+            "organization_name_chinese": "新西蘭",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Wang Xiaolong",
+                    "name_chinese": "王小龍",
+                    "raw_cn_jp_entry": "王小龍(兼任65.6)",
+                    "assumed_office_date": "2022-01",
+                    "birth_year": 1965,
+                    "birth_month": 6,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": "concurrently",
+                    "rank_chinese": "兼任"
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 58,
+            "organization_name_english": "Papua New Guinea",
+            "organization_name_chinese": "巴布亞新幾內亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zeng Fanhua",
+                    "name_chinese": "曾凡華",
+                    "raw_cn_jp_entry": "曾凡華(73.12)",
+                    "assumed_office_date": "2021-07",
+                    "birth_year": 1973,
+                    "birth_month": 12,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 58,
+            "organization_name_english": "Fiji",
+            "organization_name_chinese": "斐済",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhou Jian",
+                    "name_chinese": "周剣",
+                    "raw_cn_jp_entry": "周 剣(68.3)",
+                    "assumed_office_date": "2023-02",
+                    "birth_year": 1968,
+                    "birth_month": 3,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 59,
+            "organization_name_english": "Vanuatu",
+            "organization_name_chinese": "瓦努阿図",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Li Minggang",
+                    "name_chinese": "李名剛",
+                    "raw_cn_jp_entry": "李名 剛(67.5)",
+                    "assumed_office_date": "2022-08-30",
+                    "birth_year": 1967,
+                    "birth_month": 5,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 59,
+            "organization_name_english": "Tonga",
+            "organization_name_chinese": "湯加",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Cao Xiaolin",
+                    "name_chinese": "曹小林",
+                    "raw_cn_jp_entry": "曹小林",
+                    "assumed_office_date": "2020-01",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 59,
+            "organization_name_english": "Nauru",
+            "organization_name_chinese": "瑙",
+            "metadata": {
+              "warnings": [
+                "Diplomatic relations suspended since 2005-05-27."
+              ]
+            },
+            "positions": [],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 59,
+            "organization_name_english": "Samoa",
+            "organization_name_chinese": "薩摩亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Chao Xiaoliang",
+                    "name_chinese": "巢小良",
+                    "raw_cn_jp_entry": "巢小良(64.6)",
+                    "assumed_office_date": "2019-05",
+                    "birth_year": 1964,
+                    "birth_month": 6,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 59,
+            "organization_name_english": "Solomon Islands",
+            "organization_name_chinese": "所羅門群島",
+            "metadata": {
+              "warnings": [
+                "No personnel listed for this position in the source document."
+              ]
+            },
+            "positions": [],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 59,
+            "organization_name_english": "Kiribati",
+            "organization_name_chinese": "基里巴斯",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhou Limin",
+                    "name_chinese": "周立民",
+                    "raw_cn_jp_entry": "周立民(67.7)",
+                    "assumed_office_date": "2023-10-03",
+                    "birth_year": 1967,
+                    "birth_month": 7,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 59,
+            "organization_name_english": "Micronesia",
+            "organization_name_chinese": "密克羅尼西亞",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Wu Wei",
+                    "name_chinese": "吳偉",
+                    "raw_cn_jp_entry": "吳 偉(72.8)",
+                    "assumed_office_date": "2023-06",
+                    "birth_year": 1972,
+                    "birth_month": 8,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 59,
+            "organization_name_english": "Marshall Islands",
+            "organization_name_chinese": "馬紹爾群島",
+            "metadata": {
+              "warnings": [
+                "Diplomatic relations suspended since 1998-12-11."
+              ]
+            },
+            "positions": [],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 59,
+            "organization_name_english": "Cook Islands",
+            "organization_name_chinese": "庫克群島",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Wang Xiaolong",
+                    "name_chinese": "王小龍",
+                    "raw_cn_jp_entry": "王小龍(兼任65.6)",
+                    "assumed_office_date": "2022-01",
+                    "birth_year": 1965,
+                    "birth_month": 6,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": "concurrently",
+                    "rank_chinese": "兼任"
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 59,
+            "organization_name_english": "Niue",
+            "organization_name_chinese": "紐埃",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Wang Xiaolong",
+                    "name_chinese": "王小龍",
+                    "raw_cn_jp_entry": "王小龍 (兼任65.6)",
+                    "assumed_office_date": "2022-01",
+                    "birth_year": 1965,
+                    "birth_month": 6,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": "concurrently",
+                    "rank_chinese": "兼任"
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          }
+        ]
+      },
+      {
+        "source_pdf_page": 59,
+        "organization_name_english": "MIDDLE EAST",
+        "organization_name_chinese": "中東",
+        "metadata": {
+          "warnings": []
+        },
+        "positions": [],
+        "sub_organizations": [
+          {
+            "source_pdf_page": 60,
+            "organization_name_english": "Israel",
+            "organization_name_chinese": "以色列",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Cai Run",
+                    "name_chinese": "蔡潤",
+                    "raw_cn_jp_entry": "蔡 潤(67.6)",
+                    "assumed_office_date": "2021-01",
+                    "birth_year": 1967,
+                    "birth_month": 6,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 60,
+            "organization_name_english": "Iran",
+            "organization_name_chinese": "伊朗",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Chang Hua",
+                    "name_chinese": "常華",
+                    "raw_cn_jp_entry": "常 華(66.3)",
+                    "assumed_office_date": "2019-06",
+                    "birth_year": 1966,
+                    "birth_month": 3,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 60,
+            "organization_name_english": "Egypt",
+            "organization_name_chinese": "埃及",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Liao Liqiang",
+                    "name_chinese": "廖力強",
+                    "raw_cn_jp_entry": "廖力強(64.7)",
+                    "assumed_office_date": "2019-06",
+                    "birth_year": 1964,
+                    "birth_month": 7,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 60,
+            "organization_name_english": "Syria",
+            "organization_name_chinese": "叙利亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Shi Hongwei",
+                    "name_chinese": "史宏微",
+                    "raw_cn_jp_entry": "史宏微(72.12)",
+                    "assumed_office_date": "2023-02",
+                    "birth_year": 1972,
+                    "birth_month": 12,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 60,
+            "organization_name_english": "Lebanon",
+            "organization_name_chinese": "黎巴嫩",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Qian Minjian",
+                    "name_chinese": "銭敏堅",
+                    "raw_cn_jp_entry": "銭 敏堅(75, 8)",
+                    "assumed_office_date": "2021-07",
+                    "birth_year": 1975,
+                    "birth_month": 8,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 60,
+            "organization_name_english": "Jordan",
+            "organization_name_chinese": "約旦",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Chen Chuandong",
+                    "name_chinese": "陳伝東",
+                    "raw_cn_jp_entry": "陳 伝東",
+                    "assumed_office_date": "2021-01",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 60,
+            "organization_name_english": "Iraq",
+            "organization_name_chinese": "伊拉克",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Cui Wei",
+                    "name_chinese": "崔巍",
+                    "raw_cn_jp_entry": "崔 巍(73.5)",
+                    "assumed_office_date": "2022-04",
+                    "birth_year": 1973,
+                    "birth_month": 5,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 60,
+            "organization_name_english": "Saudi Arabia",
+            "organization_name_chinese": "沙特阿拉伯",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Chen Weiqing",
+                    "name_chinese": "陳偉慶",
+                    "raw_cn_jp_entry": "陳偉慶(69.10)",
+                    "assumed_office_date": "2019-05",
+                    "birth_year": 1969,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 61,
+            "organization_name_english": "Kuwait",
+            "organization_name_chinese": "科威特",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhang Jianwei",
+                    "name_chinese": "張建衛",
+                    "raw_cn_jp_entry": "張建 衛(68.6)",
+                    "assumed_office_date": "2022-06",
+                    "birth_year": 1968,
+                    "birth_month": 6,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 61,
+            "organization_name_english": "Yemen",
+            "organization_name_chinese": "也門",
+            "metadata": {
+              "warnings": [
+                "No PRC ambassador listed for Yemen in the source document."
+              ]
+            },
+            "positions": [],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 61,
+            "organization_name_english": "Oman",
+            "organization_name_chinese": "阿曼",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Li Lingbing",
+                    "name_chinese": "李凌冰",
+                    "raw_cn_jp_entry": "李凌冰(女)",
+                    "assumed_office_date": "2019-01",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "female",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 61,
+            "organization_name_english": "United Arab Emirates",
+            "organization_name_chinese": "阿拉伯聯合酋長国",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhang Yiming",
+                    "name_chinese": "張益明",
+                    "raw_cn_jp_entry": "張益明(69.5)",
+                    "assumed_office_date": "2022-05",
+                    "birth_year": 1969,
+                    "birth_month": 5,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 61,
+            "organization_name_english": "Qatar",
+            "organization_name_chinese": "卡塔爾",
+            "metadata": {
+              "warnings": [
+                "No PRC ambassador listed for Qatar in the source document."
+              ]
+            },
+            "positions": [],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 61,
+            "organization_name_english": "Palestine",
+            "organization_name_chinese": "巴勒斯坦",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Director of Office to Palestine",
+                "title_chinese": "駐巴勒斯坦辦事処主任",
+                "personnel": [
+                  {
+                    "name_pinyin": "Zeng Jixin",
+                    "name_chinese": "會継新",
+                    "raw_cn_jp_entry": "會 継新(大使級71.10)",
+                    "assumed_office_date": "2023-05-17",
+                    "birth_year": 1971,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": "Ambassador Level",
+                    "rank_chinese": "大使級"
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 61,
+            "organization_name_english": "Bahrain",
+            "organization_name_chinese": "巴林",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Ni Ruchi",
+                    "name_chinese": "倪汝池",
+                    "raw_cn_jp_entry": "倪 汝池(65.7)",
+                    "assumed_office_date": "2023-04",
+                    "birth_year": 1965,
+                    "birth_month": 7,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          }
+        ]
+      },
+      {
+        "source_pdf_page": 61,
+        "organization_name_english": "AFRICA",
+        "organization_name_chinese": "系",
+        "metadata": {
+          "warnings": []
+        },
+        "positions": [],
+        "sub_organizations": [
+          {
+            "source_pdf_page": 62,
+            "organization_name_english": "Tunisia",
+            "organization_name_chinese": "突尼斯",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Wan Li",
+                    "name_chinese": "万黎",
+                    "raw_cn_jp_entry": "万 黎(69.6)",
+                    "assumed_office_date": "2023-02",
+                    "birth_year": 1969,
+                    "birth_month": 6,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 62,
+            "organization_name_english": "Algeria",
+            "organization_name_chinese": "阿爾及利亞",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Li Jian",
+                    "name_chinese": "李健",
+                    "raw_cn_jp_entry": "李 健(72.9)",
+                    "assumed_office_date": "2022-07",
+                    "birth_year": 1972,
+                    "birth_month": 9,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 62,
+            "organization_name_english": "Morocco",
+            "organization_name_chinese": "摩洛哥",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Li Changlin",
+                    "name_chinese": "李昌林",
+                    "raw_cn_jp_entry": "李昌林(65.4)",
+                    "assumed_office_date": "2021-05",
+                    "birth_year": 1965,
+                    "birth_month": 4,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 62,
+            "organization_name_english": "Mauritania",
+            "organization_name_chinese": "毛里塔尼亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Li Baijun",
+                    "name_chinese": "李柏軍",
+                    "raw_cn_jp_entry": "李柏軍(64.3)",
+                    "assumed_office_date": "2021-04",
+                    "birth_year": 1964,
+                    "birth_month": 3,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 62,
+            "organization_name_english": "Somalia",
+            "organization_name_chinese": "索馬里",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Fei Shengchao",
+                    "name_chinese": "費勝潮",
+                    "raw_cn_jp_entry": "費勝潮(73.10)",
+                    "assumed_office_date": "2021-09",
+                    "birth_year": 1973,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 62,
+            "organization_name_english": "Djibouti",
+            "organization_name_chinese": "吉布提",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Hu Bin",
+                    "name_chinese": "胡斌",
+                    "raw_cn_jp_entry": "胡 斌(70, 1)",
+                    "assumed_office_date": "2021-07",
+                    "birth_year": 1970,
+                    "birth_month": 1,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 62,
+            "organization_name_english": "Ethiopia",
+            "organization_name_chinese": "埃塞俄比亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhao Zhiyuan",
+                    "name_chinese": "趙志遠",
+                    "raw_cn_jp_entry": "趙志遠(68.4)",
+                    "assumed_office_date": "2020-11",
+                    "birth_year": 1968,
+                    "birth_month": 4,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 62,
+            "organization_name_english": "Eritrea",
+            "organization_name_chinese": "厄立特里亜",
+            "metadata": {
+              "warnings": [
+                "No PRC ambassador listed for Eritrea in the source document."
+              ]
+            },
+            "positions": [],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 62,
+            "organization_name_english": "Kenya",
+            "organization_name_chinese": "肯尼亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhou Pingjian",
+                    "name_chinese": "周平剣",
+                    "raw_cn_jp_entry": "周平剣(兼任71.10)",
+                    "assumed_office_date": "2020-09-02",
+                    "birth_year": 1971,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": "concurrently",
+                    "rank_chinese": "兼任"
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 62,
+            "organization_name_english": "Uganda",
+            "organization_name_chinese": "烏干達",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhang Lizhong",
+                    "name_chinese": "張利忠",
+                    "raw_cn_jp_entry": "張利忠(69. 1)",
+                    "assumed_office_date": "2021-07",
+                    "birth_year": 1969,
+                    "birth_month": 1,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 62,
+            "organization_name_english": "Tanzania",
+            "organization_name_chinese": "坦桑尼亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Chen Mingjian",
+                    "name_chinese": "陳明健",
+                    "raw_cn_jp_entry": "陳明健(女)",
+                    "assumed_office_date": "2021-10",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "female",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 63,
+            "organization_name_english": "Mali",
+            "organization_name_chinese": "馬里",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Chen Zhihong",
+                    "name_chinese": "陳志宏",
+                    "raw_cn_jp_entry": "陳志宏",
+                    "assumed_office_date": "2021-11",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 63,
+            "organization_name_english": "Niger",
+            "organization_name_chinese": "尼日爾",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Jiang Feng",
+                    "name_chinese": "蒋烽",
+                    "raw_cn_jp_entry": "蒋 烽(70.11)",
+                    "assumed_office_date": "2021-09",
+                    "birth_year": 1970,
+                    "birth_month": 11,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 63,
+            "organization_name_english": "Chad",
+            "organization_name_chinese": "乍得",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Wang Xining",
+                    "name_chinese": "王晰寧",
+                    "raw_cn_jp_entry": "王晰 寧(70.10)",
+                    "assumed_office_date": "2022-09",
+                    "birth_year": 1970,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 63,
+            "organization_name_english": "Senegal",
+            "organization_name_chinese": "塞内加爾",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Xiao Han",
+                    "name_chinese": "肖晗",
+                    "raw_cn_jp_entry": "肖 晗",
+                    "assumed_office_date": "2020-10",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 63,
+            "organization_name_english": "Gambia",
+            "organization_name_chinese": "岡比亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Liu Jin",
+                    "name_chinese": "劉晋",
+                    "raw_cn_jp_entry": "劉 晋(65.11)",
+                    "assumed_office_date": "2022-08",
+                    "birth_year": 1965,
+                    "birth_month": 11,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 63,
+            "organization_name_english": "Guinea-Bissau",
+            "organization_name_chinese": "幾內亞比紹",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Guo Ce",
+                    "name_chinese": "郭策",
+                    "raw_cn_jp_entry": "郭 策(70.9)",
+                    "assumed_office_date": "2020-11",
+                    "birth_year": 1970,
+                    "birth_month": 9,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 63,
+            "organization_name_english": "Guinea",
+            "organization_name_chinese": "幾內亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Huang Wei",
+                    "name_chinese": "黄巍",
+                    "raw_cn_jp_entry": "黄 巍",
+                    "assumed_office_date": "2018-09",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 63,
+            "organization_name_english": "Sierra Leone",
+            "organization_name_chinese": "塞拉利昂",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Wang Qing",
+                    "name_chinese": "王擎",
+                    "raw_cn_jp_entry": "王 擎(74.4)",
+                    "assumed_office_date": "2023-02",
+                    "birth_year": 1974,
+                    "birth_month": 4,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 63,
+            "organization_name_english": "Burkina Faso",
+            "organization_name_chinese": "布基納法索",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Lu Shan",
+                    "name_chinese": "盧山",
+                    "raw_cn_jp_entry": "盧 山 (71.1)",
+                    "assumed_office_date": "2022-06",
+                    "birth_year": 1971,
+                    "birth_month": 1,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 63,
+            "organization_name_english": "Liberia",
+            "organization_name_chinese": "利比里亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Yin Chengwu",
+                    "name_chinese": "尹承武",
+                    "raw_cn_jp_entry": "尹承武(73.5)",
+                    "assumed_office_date": "2023-10-09",
+                    "birth_year": 1973,
+                    "birth_month": 5,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 64,
+            "organization_name_english": "Cote d'Ivoire",
+            "organization_name_chinese": "科特迪瓦",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Wu Jie",
+                    "name_chinese": "吳杰",
+                    "raw_cn_jp_entry": "吳 杰(67.9)",
+                    "assumed_office_date": "2023-05",
+                    "birth_year": 1967,
+                    "birth_month": 9,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 64,
+            "organization_name_english": "Togo",
+            "organization_name_chinese": "多哥",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Chao Weidong",
+                    "name_chinese": "巣衛東",
+                    "raw_cn_jp_entry": "巣 衛東",
+                    "assumed_office_date": "2018-09",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 64,
+            "organization_name_english": "Benin",
+            "organization_name_chinese": "貝寧",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Peng Jingtao",
+                    "name_chinese": "彭驚濤",
+                    "raw_cn_jp_entry": "彭 驚濤(67. 2)",
+                    "assumed_office_date": "2018-04",
+                    "birth_year": 1967,
+                    "birth_month": 2,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 64,
+            "organization_name_english": "Nigeria",
+            "organization_name_chinese": "尼日利亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Cui Jianchun",
+                    "name_chinese": "崔建春",
+                    "raw_cn_jp_entry": "崔建春 (64.7)",
+                    "assumed_office_date": "2021-04",
+                    "birth_year": 1964,
+                    "birth_month": 7,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 64,
+            "organization_name_english": "Ghana",
+            "organization_name_chinese": "加納",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Lu Kun",
+                    "name_chinese": "盧坤",
+                    "raw_cn_jp_entry": "盧 坤(63.)",
+                    "assumed_office_date": "2021-02",
+                    "birth_year": 1963,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 64,
+            "organization_name_english": "Cameroon",
+            "organization_name_chinese": "喀麦隆",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Wang Yingwu",
+                    "name_chinese": "王英武",
+                    "raw_cn_jp_entry": "王英武",
+                    "assumed_office_date": "2018-07",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 64,
+            "organization_name_english": "Rwanda",
+            "organization_name_chinese": "盧旺達",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Wang Xuekun",
+                    "name_chinese": "王雪坤",
+                    "raw_cn_jp_entry": "王雪坤(68.3)",
+                    "assumed_office_date": "2022-06",
+                    "birth_year": 1968,
+                    "birth_month": 3,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 64,
+            "organization_name_english": "Burundi",
+            "organization_name_chinese": "布隆迪",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhao Jiangping",
+                    "name_chinese": "趙江平",
+                    "raw_cn_jp_entry": "趙江平(女64.11)",
+                    "assumed_office_date": "2021-05",
+                    "birth_year": 1964,
+                    "birth_month": 11,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "female",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 64,
+            "organization_name_english": "Republic of Congo",
+            "organization_name_chinese": "剛果共和国",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Li Yan",
+                    "name_chinese": "李岩",
+                    "raw_cn_jp_entry": "李 岩(女72.12)",
+                    "assumed_office_date": "2023-09-27",
+                    "birth_year": 1972,
+                    "birth_month": 12,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "female",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 64,
+            "organization_name_english": "Democratic Congo",
+            "organization_name_chinese": "民主剛果",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhao Bin",
+                    "name_chinese": "趙斌",
+                    "raw_cn_jp_entry": "趙 斌(72.8)",
+                    "assumed_office_date": "2023-06",
+                    "birth_year": 1972,
+                    "birth_month": 8,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 64,
+            "organization_name_english": "Equatorial Guinea",
+            "organization_name_chinese": "赤道幾内亜",
+            "metadata": {
+              "warnings": [
+                "No PRC ambassador listed for Equatorial Guinea in the source document."
+              ]
+            },
+            "positions": [],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 65,
+            "organization_name_english": "Gabon",
+            "organization_name_chinese": "加蓬",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Li Jinjin",
+                    "name_chinese": "李津津",
+                    "raw_cn_jp_entry": "李 津津(71.2)",
+                    "assumed_office_date": "2022-08",
+                    "birth_year": 1971,
+                    "birth_month": 2,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 65,
+            "organization_name_english": "Central Africa",
+            "organization_name_chinese": "中非",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Li Qinfeng",
+                    "name_chinese": "李欽峰",
+                    "raw_cn_jp_entry": "李欽 峰(69.10)",
+                    "assumed_office_date": "2023-02",
+                    "birth_year": 1969,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 65,
+            "organization_name_english": "Cabo Verde",
+            "organization_name_chinese": "佛得角",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Xu Jie",
+                    "name_chinese": "徐杰",
+                    "raw_cn_jp_entry": "徐 杰(64.6)",
+                    "assumed_office_date": "2022-07",
+                    "birth_year": 1964,
+                    "birth_month": 6,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 65,
+            "organization_name_english": "Sao Tome and Principe",
+            "organization_name_chinese": "聖多美和普林西比",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Xu Yingzhen",
+                    "name_chinese": "徐迎真",
+                    "raw_cn_jp_entry": "徐迎真(女68.1)",
+                    "assumed_office_date": "2020-11",
+                    "birth_year": 1968,
+                    "birth_month": 1,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "female",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 65,
+            "organization_name_english": "Angola",
+            "organization_name_chinese": "安哥拉",
+            "metadata": {
+              "warnings": [
+                "No PRC ambassador listed for Angola in the source document."
+              ]
+            },
+            "positions": [],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 65,
+            "organization_name_english": "Mozambique",
+            "organization_name_chinese": "莫桑比克",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Wang Hejun",
+                    "name_chinese": "王賀軍",
+                    "raw_cn_jp_entry": "王賀軍",
+                    "assumed_office_date": "2020-09",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 65,
+            "organization_name_english": "Zambia",
+            "organization_name_chinese": "贊比亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Du Xiaohui",
+                    "name_chinese": "杜曉暉",
+                    "raw_cn_jp_entry": "杜曉暉 (75.3)",
+                    "assumed_office_date": "2022-04",
+                    "birth_year": 1975,
+                    "birth_month": 3,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 65,
+            "organization_name_english": "Malawi",
+            "organization_name_chinese": "馬拉維",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Long Zhou",
+                    "name_chinese": "龍舟",
+                    "raw_cn_jp_entry": "龍 舟(69.12)",
+                    "assumed_office_date": "2022-07",
+                    "birth_year": 1969,
+                    "birth_month": 12,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 65,
+            "organization_name_english": "Botswana",
+            "organization_name_chinese": "博茨瓦納",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Wang Xuefeng",
+                    "name_chinese": "王雪峰",
+                    "raw_cn_jp_entry": "王雪峰 (66.4)",
+                    "assumed_office_date": "2021-05",
+                    "birth_year": 1966,
+                    "birth_month": 4,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 65,
+            "organization_name_english": "Lesotho",
+            "organization_name_chinese": "莱索托",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Lei Kezhong",
+                    "name_chinese": "雷克中",
+                    "raw_cn_jp_entry": "雷克 中(66.7)",
+                    "assumed_office_date": "2019-08-21",
+                    "birth_year": 1966,
+                    "birth_month": 7,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 65,
+            "organization_name_english": "Zimbabwe",
+            "organization_name_chinese": "津巴布韋",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhou Ding",
+                    "name_chinese": "周鼎",
+                    "raw_cn_jp_entry": "周 鼎(69.4)",
+                    "assumed_office_date": "2023-06",
+                    "birth_year": 1969,
+                    "birth_month": 4,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 66,
+            "organization_name_english": "South Africa",
+            "organization_name_chinese": "南非",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Chen Xiaodong",
+                    "name_chinese": "陳曉東",
+                    "raw_cn_jp_entry": "陳曉東 (65.12)",
+                    "assumed_office_date": "2020-09",
+                    "birth_year": 1965,
+                    "birth_month": 12,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 66,
+            "organization_name_english": "Namibia",
+            "organization_name_chinese": "納米比亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhao Weiping",
+                    "name_chinese": "趙衛平",
+                    "raw_cn_jp_entry": "趙衛平(67.7)",
+                    "assumed_office_date": "2023-02",
+                    "birth_year": 1967,
+                    "birth_month": 7,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 66,
+            "organization_name_english": "Madagascar",
+            "organization_name_chinese": "馬達加斯加",
+            "metadata": {
+              "warnings": [
+                "No PRC ambassador listed for Madagascar in the source document."
+              ]
+            },
+            "positions": [],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 66,
+            "organization_name_english": "Mauritius",
+            "organization_name_chinese": "毛里求斯",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhu Liying",
+                    "name_chinese": "朱立英",
+                    "raw_cn_jp_entry": "朱立英 (65.10)",
+                    "assumed_office_date": "2021-08",
+                    "birth_year": 1965,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 66,
+            "organization_name_english": "Comoros",
+            "organization_name_chinese": "科摩羅",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Guo Zhijun",
+                    "name_chinese": "郭志軍",
+                    "raw_cn_jp_entry": "郭志軍(68,)",
+                    "assumed_office_date": "2023-01",
+                    "birth_year": 1968,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 66,
+            "organization_name_english": "Seychelles",
+            "organization_name_chinese": "塞舌爾",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Guo Wei",
+                    "name_chinese": "郭瑋",
+                    "raw_cn_jp_entry": "郭 瑋(女62.9)",
+                    "assumed_office_date": "2018-11",
+                    "birth_year": 1962,
+                    "birth_month": 9,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "female",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          }
+        ]
+      },
+      {
+        "source_pdf_page": 66,
+        "organization_name_english": "THE AMERICAS",
+        "organization_name_chinese": "美洲",
+        "metadata": {
+          "warnings": []
+        },
+        "positions": [],
+        "sub_organizations": [
+          {
+            "source_pdf_page": 67,
+            "organization_name_english": "Consul General in San Francisco",
+            "organization_name_chinese": "駐旧金山総領事",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Consul General",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhang Jianmin",
+                    "name_chinese": "張建敏",
+                    "raw_cn_jp_entry": "張建敏(70, 3)",
+                    "assumed_office_date": "2022-06",
+                    "birth_year": 1970,
+                    "birth_month": 3,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 67,
+            "organization_name_english": "Consul General in Houston",
+            "organization_name_chinese": "駐休斯敦総領事",
+            "metadata": {
+              "warnings": [
+                "Consulate closed from 2020-07-24."
+              ]
+            },
+            "positions": [],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 67,
+            "organization_name_english": "Consul General in Chicago",
+            "organization_name_chinese": "駐芝加哥総領事",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Consul General",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhao Jian",
+                    "name_chinese": "趙建",
+                    "raw_cn_jp_entry": "趙建",
+                    "assumed_office_date": "2019-03",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 67,
+            "organization_name_english": "Consul General in Los Angeles",
+            "organization_name_chinese": "駐洛杉磯総領事",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Consul General",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Guo Shaochun",
+                    "name_chinese": "郭少春",
+                    "raw_cn_jp_entry": "郭少春(大使級68.2)",
+                    "assumed_office_date": "2023-02",
+                    "birth_year": 1968,
+                    "birth_month": 2,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": "Ambassador Level",
+                    "rank_chinese": "大使級"
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 67,
+            "organization_name_english": "Canada",
+            "organization_name_chinese": "加拿大",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Cong Peiwu",
+                    "name_chinese": "叢培武",
+                    "raw_cn_jp_entry": "叢培武(67.5)",
+                    "assumed_office_date": "2019-11-01",
+                    "birth_year": 1967,
+                    "birth_month": 5,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 67,
+            "organization_name_english": "Mexico",
+            "organization_name_chinese": "墨西哥",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhang Run",
+                    "name_chinese": "張潤",
+                    "raw_cn_jp_entry": "張 潤(72.10)",
+                    "assumed_office_date": "2023-02",
+                    "birth_year": 1972,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 67,
+            "organization_name_english": "Republic of Nicaragua",
+            "organization_name_chinese": "尼加拉瓜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Chen Xi",
+                    "name_chinese": "陳曦",
+                    "raw_cn_jp_entry": "陳曦 (65.6)",
+                    "assumed_office_date": "2022-06",
+                    "birth_year": 1965,
+                    "birth_month": 6,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 67,
+            "organization_name_english": "Panama",
+            "organization_name_chinese": "巴拿馬",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Wei Qiang",
+                    "name_chinese": "魏強",
+                    "raw_cn_jp_entry": "魏 強(63.6)",
+                    "assumed_office_date": "2017-10-24",
+                    "birth_year": 1963,
+                    "birth_month": 6,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 67,
+            "organization_name_english": "Costa Rica",
+            "organization_name_chinese": "哥斯達黎加",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Tang Heng",
+                    "name_chinese": "湯恒",
+                    "raw_cn_jp_entry": "湯 恒(65.7)",
+                    "assumed_office_date": "2017-06-02",
+                    "birth_year": 1965,
+                    "birth_month": 7,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 68,
+            "organization_name_english": "El Salvador",
+            "organization_name_chinese": "薩爾瓦多",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhang Yanhui",
+                    "name_chinese": "張艷輝",
+                    "raw_cn_jp_entry": "張艷輝(74.10)",
+                    "assumed_office_date": "2023-02",
+                    "birth_year": 1974,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 68,
+            "organization_name_english": "Cuba",
+            "organization_name_chinese": "古巴",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Ma Hui",
+                    "name_chinese": "馬輝",
+                    "raw_cn_jp_entry": "馬 輝(68.4)",
+                    "assumed_office_date": "2021-08",
+                    "birth_year": 1968,
+                    "birth_month": 4,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 68,
+            "organization_name_english": "Dominican Republic",
+            "organization_name_chinese": "多米尼加共和国",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Chen Luning",
+                    "name_chinese": "陳魯寧",
+                    "raw_cn_jp_entry": "陳魯寧",
+                    "assumed_office_date": "2023-05",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 68,
+            "organization_name_english": "Jamaica",
+            "organization_name_chinese": "牙買加",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Chen Daojiang",
+                    "name_chinese": "陳道江",
+                    "raw_cn_jp_entry": "陳道江(兼任70.7)",
+                    "assumed_office_date": "2022-05",
+                    "birth_year": 1970,
+                    "birth_month": 7,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": "concurrently",
+                    "rank_chinese": "兼任"
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 68,
+            "organization_name_english": "Barbados",
+            "organization_name_chinese": "巴巴多斯",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Yan Xiusheng",
+                    "name_chinese": "延秀生",
+                    "raw_cn_jp_entry": "延 秀生",
+                    "assumed_office_date": "2018-01",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 68,
+            "organization_name_english": "Bahamas",
+            "organization_name_chinese": "巴哈馬",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Dai Qingli",
+                    "name_chinese": "戴慶利",
+                    "raw_cn_jp_entry": "戴慶利(女73.10)",
+                    "assumed_office_date": "2021-08",
+                    "birth_year": 1973,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "female",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 68,
+            "organization_name_english": "Dominica",
+            "organization_name_chinese": "多米尼克",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Lin Xianjiang",
+                    "name_chinese": "林先江",
+                    "raw_cn_jp_entry": "林先江(74. 2)",
+                    "assumed_office_date": "2021-11",
+                    "birth_year": 1974,
+                    "birth_month": 2,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 68,
+            "organization_name_english": "Grenada",
+            "organization_name_chinese": "格林納達",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Wei Hongtian",
+                    "name_chinese": "韋宏添",
+                    "raw_cn_jp_entry": "韋宏添",
+                    "assumed_office_date": "2020-12",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 68,
+            "organization_name_english": "Trinidad and Tobago",
+            "organization_name_chinese": "特立尼達和多巴哥",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Fang Qiu",
+                    "name_chinese": "方遒",
+                    "raw_cn_jp_entry": "方 遒",
+                    "assumed_office_date": "2020-11",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 68,
+            "organization_name_english": "Saint Lucia",
+            "organization_name_chinese": "聖盧西亜",
+            "metadata": {
+              "warnings": [
+                "Diplomatic relations suspended since 2007-05-05."
+              ]
+            },
+            "positions": [],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 68,
+            "organization_name_english": "Antigua and Barbuda",
+            "organization_name_chinese": "安提瓜和巴布達",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhang Yanling",
+                    "name_chinese": "張艷玲",
+                    "raw_cn_jp_entry": "張艷玲(女71.2)",
+                    "assumed_office_date": "2021-12",
+                    "birth_year": 1971,
+                    "birth_month": 2,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "female",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 69,
+            "organization_name_english": "Argentina",
+            "organization_name_chinese": "阿根廷",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Wang Wei",
+                    "name_chinese": "王衛",
+                    "raw_cn_jp_entry": "王 衛(69.12)",
+                    "assumed_office_date": "2023-10-06",
+                    "birth_year": 1969,
+                    "birth_month": 12,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 69,
+            "organization_name_english": "Brazil",
+            "organization_name_chinese": "巴西",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhu Qingqiao",
+                    "name_chinese": "祝青橋",
+                    "raw_cn_jp_entry": "祝青橋(68.3)",
+                    "assumed_office_date": "2022-12",
+                    "birth_year": 1968,
+                    "birth_month": 3,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 69,
+            "organization_name_english": "Chile",
+            "organization_name_chinese": "智利",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Niu Qingbao",
+                    "name_chinese": "牛清報",
+                    "raw_cn_jp_entry": "牛清報(65.7)",
+                    "assumed_office_date": "2021-02",
+                    "birth_year": 1965,
+                    "birth_month": 7,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 69,
+            "organization_name_english": "Venezuela",
+            "organization_name_chinese": "委内瑞拉",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Lan Hu",
+                    "name_chinese": "藍虎",
+                    "raw_cn_jp_entry": "藍 虎(74.11)",
+                    "assumed_office_date": "2023-05",
+                    "birth_year": 1974,
+                    "birth_month": 11,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 69,
+            "organization_name_english": "Colombia",
+            "organization_name_chinese": "哥倫比亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhu Jingyang",
+                    "name_chinese": "朱京陽",
+                    "raw_cn_jp_entry": "朱京陽 (72.12)",
+                    "assumed_office_date": "2023-09-05",
+                    "birth_year": 1972,
+                    "birth_month": 12,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 69,
+            "organization_name_english": "Peru",
+            "organization_name_chinese": "秘魯",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Song Yang",
+                    "name_chinese": "宋揚",
+                    "raw_cn_jp_entry": "宋 揚(67.8)",
+                    "assumed_office_date": "2022-08",
+                    "birth_year": 1967,
+                    "birth_month": 8,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 69,
+            "organization_name_english": "Guyana",
+            "organization_name_chinese": "圭亚那",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Guo Haiyan",
+                    "name_chinese": "郭海燕",
+                    "raw_cn_jp_entry": "郭海燕 (女73.4)",
+                    "assumed_office_date": "2021-11",
+                    "birth_year": 1973,
+                    "birth_month": 4,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "female",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 69,
+            "organization_name_english": "Honduras",
+            "organization_name_chinese": "洪都拉斯",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Yu Bo",
+                    "name_chinese": "于波",
+                    "raw_cn_jp_entry": "于 波(68.3)",
+                    "assumed_office_date": "2023-08-28",
+                    "birth_year": 1968,
+                    "birth_month": 3,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 69,
+            "organization_name_english": "Suriname",
+            "organization_name_chinese": "蘇里南",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Han Jing",
+                    "name_chinese": "韓鏡",
+                    "raw_cn_jp_entry": "韓 鏡(72.11)",
+                    "assumed_office_date": "2021-08",
+                    "birth_year": 1972,
+                    "birth_month": 11,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 70,
+            "organization_name_english": "Ecuador",
+            "organization_name_chinese": "厄瓜多爾",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Chen Guoyou",
+                    "name_chinese": "陳国友",
+                    "raw_cn_jp_entry": "陳国友(66.3)",
+                    "assumed_office_date": "2019-05",
+                    "birth_year": 1966,
+                    "birth_month": 3,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 70,
+            "organization_name_english": "Bolivia",
+            "organization_name_chinese": "玻利維亜",
+            "metadata": {
+              "warnings": [
+                "No PRC ambassador listed for Bolivia in the source document."
+              ]
+            },
+            "positions": [],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 70,
+            "organization_name_english": "Uruguay",
+            "organization_name_chinese": "烏拉圭",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Huang Yazhong",
+                    "name_chinese": "黄亜中",
+                    "raw_cn_jp_entry": "黄亜 中(68.5)",
+                    "assumed_office_date": "2023-09-25",
+                    "birth_year": 1968,
+                    "birth_month": 5,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          }
+        ]
+      },
+      {
+        "source_pdf_page": 70,
+        "organization_name_english": "EUROPE/C. I. S.",
+        "organization_name_chinese": "欧洲・独聯体",
+        "metadata": {
+          "warnings": []
+        },
+        "positions": [],
+        "sub_organizations": [
+          {
+            "source_pdf_page": 71,
+            "organization_name_english": "Germany",
+            "organization_name_chinese": "德国",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Wu Ken",
+                    "name_chinese": "吳懇",
+                    "raw_cn_jp_entry": "吳 懇(61.1)",
+                    "assumed_office_date": "2019-03",
+                    "birth_year": 1961,
+                    "birth_month": 1,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 71,
+            "organization_name_english": "Italy",
+            "organization_name_chinese": "意大利",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Jia Guide",
+                    "name_chinese": "賈桂徳",
+                    "raw_cn_jp_entry": "賈桂徳(兼任66.10)",
+                    "assumed_office_date": "2023-01",
+                    "birth_year": 1966,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": "concurrently",
+                    "rank_chinese": "兼任"
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 71,
+            "organization_name_english": "Switzerland",
+            "organization_name_chinese": "瑞士",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Wang Shiting",
+                    "name_chinese": "王世廷",
+                    "raw_cn_jp_entry": "王世廷(67.6)",
+                    "assumed_office_date": "2020-09",
+                    "birth_year": 1967,
+                    "birth_month": 6,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 71,
+            "organization_name_english": "Liechtenstein",
+            "organization_name_chinese": "列支敦士登",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Consul General",
+                "title_chinese": "総領事",
+                "personnel": [
+                  {
+                    "name_pinyin": "Chen Yun",
+                    "name_chinese": "陳昀",
+                    "raw_cn_jp_entry": "陳 昀(女/兼任74.8)",
+                    "assumed_office_date": "2023-03",
+                    "birth_year": 1974,
+                    "birth_month": 8,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "female",
+                    "ethnicity": "Han",
+                    "rank_english": "concurrently",
+                    "rank_chinese": "兼任"
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 71,
+            "organization_name_english": "Spain",
+            "organization_name_chinese": "西班牙",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Yao Jing",
+                    "name_chinese": "姚敬",
+                    "raw_cn_jp_entry": "姚 敬(兼任69.4)",
+                    "assumed_office_date": "2023-10",
+                    "birth_year": 1969,
+                    "birth_month": 4,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": "concurrently",
+                    "rank_chinese": "兼任"
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 71,
+            "organization_name_english": "Portugal",
+            "organization_name_chinese": "葡萄牙",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhao Bentang",
+                    "name_chinese": "趙本堂",
+                    "raw_cn_jp_entry": "趙本堂",
+                    "assumed_office_date": "2021-03-02",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 72,
+            "organization_name_english": "Belgium",
+            "organization_name_chinese": "比利時",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Cao Zhongming",
+                    "name_chinese": "曹忠明",
+                    "raw_cn_jp_entry": "曹忠明(65.10)",
+                    "assumed_office_date": "2018-09",
+                    "birth_year": 1965,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 72,
+            "organization_name_english": "Netherlands",
+            "organization_name_chinese": "荷蘭",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Tan Jian",
+                    "name_chinese": "談踐",
+                    "raw_cn_jp_entry": "談 践(兼任65.3)",
+                    "assumed_office_date": "2020-12",
+                    "birth_year": 1965,
+                    "birth_month": 3,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": "concurrently",
+                    "rank_chinese": "兼任"
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 72,
+            "organization_name_english": "Luxembourg",
+            "organization_name_chinese": "盧森堡",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Hua Ning",
+                    "name_chinese": "華寧",
+                    "raw_cn_jp_entry": "華 寧(71.5)",
+                    "assumed_office_date": "2022-08",
+                    "birth_year": 1971,
+                    "birth_month": 5,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 72,
+            "organization_name_english": "Austria",
+            "organization_name_chinese": "奥地利",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Qi Mei",
+                    "name_chinese": "亓玫",
+                    "raw_cn_jp_entry": "亓 玫(女71.8)",
+                    "assumed_office_date": "2023-03",
+                    "birth_year": 1971,
+                    "birth_month": 8,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "female",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 72,
+            "organization_name_english": "Greece (Hellas)",
+            "organization_name_chinese": "希臘",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Xiao Junzheng",
+                    "name_chinese": "肖軍正",
+                    "raw_cn_jp_entry": "肖軍 正(70.3)",
+                    "assumed_office_date": "2021-10",
+                    "birth_year": 1970,
+                    "birth_month": 3,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 72,
+            "organization_name_english": "Cyprus",
+            "organization_name_chinese": "塞浦路斯",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Liu Yantao",
+                    "name_chinese": "劉彥濤",
+                    "raw_cn_jp_entry": "劉彥濤(64.11)",
+                    "assumed_office_date": "2020-11",
+                    "birth_year": 1964,
+                    "birth_month": 11,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 72,
+            "organization_name_english": "Monaco",
+            "organization_name_chinese": "摩納哥",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Lu Shaye",
+                    "name_chinese": "盧沙野",
+                    "raw_cn_jp_entry": "盧沙 野(兼任64.10)",
+                    "assumed_office_date": "2019-08",
+                    "birth_year": 1964,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": "concurrently",
+                    "rank_chinese": "兼任"
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 72,
+            "organization_name_english": "Ireland",
+            "organization_name_chinese": "愛爾蘭",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "He Xiangdong",
+                    "name_chinese": "何向東",
+                    "raw_cn_jp_entry": "何向東(64.2)",
+                    "assumed_office_date": "2019-06",
+                    "birth_year": 1964,
+                    "birth_month": 2,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 72,
+            "organization_name_english": "Denmark",
+            "organization_name_chinese": "丹麦",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Feng Tie",
+                    "name_chinese": "馮鉄",
+                    "raw_cn_jp_entry": "馮 鉄(62.10)",
+                    "assumed_office_date": "2019-06",
+                    "birth_year": 1962,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 72,
+            "organization_name_english": "Finland",
+            "organization_name_chinese": "芬蘭",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Wang Tongqing",
+                    "name_chinese": "王同慶",
+                    "raw_cn_jp_entry": "王 同慶",
+                    "assumed_office_date": "2022-06-02",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 72,
+            "organization_name_english": "Sweden",
+            "organization_name_chinese": "瑞典",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Cui Aimin",
+                    "name_chinese": "崔愛民",
+                    "raw_cn_jp_entry": "崔愛民(65.12)",
+                    "assumed_office_date": "2022-01",
+                    "birth_year": 1965,
+                    "birth_month": 12,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 73,
+            "organization_name_english": "Norway",
+            "organization_name_chinese": "挪威",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Hou Yue",
+                    "name_chinese": "侯悦",
+                    "raw_cn_jp_entry": "侯悦(女70.5)",
+                    "assumed_office_date": "2023-01-26",
+                    "birth_year": 1970,
+                    "birth_month": 5,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "female",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 73,
+            "organization_name_english": "Iceland",
+            "organization_name_chinese": "冰島",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "He Rulong",
+                    "name_chinese": "何儒龍",
+                    "raw_cn_jp_entry": "何儒龍(73. 5)",
+                    "assumed_office_date": "2022-03",
+                    "birth_year": 1973,
+                    "birth_month": 5,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 73,
+            "organization_name_english": "Andorra",
+            "organization_name_chinese": "安道爾",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Yao Jing",
+                    "name_chinese": "姚敬",
+                    "raw_cn_jp_entry": "姚 敬(兼任69.4)",
+                    "assumed_office_date": "2023-09",
+                    "birth_year": 1969,
+                    "birth_month": 4,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": "concurrently",
+                    "rank_chinese": "兼任"
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 73,
+            "organization_name_english": "San Marino",
+            "organization_name_chinese": "聖馬力諾",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Jia Guide",
+                    "name_chinese": "賈桂徳",
+                    "raw_cn_jp_entry": "賈桂徳(兼任66.10)",
+                    "assumed_office_date": "2023-01",
+                    "birth_year": 1966,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": "concurrently",
+                    "rank_chinese": "兼任"
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 73,
+            "organization_name_english": "Malta",
+            "organization_name_chinese": "馬耳他",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Yu Dunhai",
+                    "name_chinese": "于敦海",
+                    "raw_cn_jp_entry": "于敦海(73.9)",
+                    "assumed_office_date": "2021-01",
+                    "birth_year": 1973,
+                    "birth_month": 9,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 73,
+            "organization_name_english": "Serbia",
+            "organization_name_chinese": "塞爾維亞",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Li Ming",
+                    "name_chinese": "李明",
+                    "raw_cn_jp_entry": "李 明(74.9)",
+                    "assumed_office_date": "2023-10-02",
+                    "birth_year": 1974,
+                    "birth_month": 9,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 73,
+            "organization_name_english": "Montenegro",
+            "organization_name_chinese": "黒山",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Fan Kun",
+                    "name_chinese": "范琨",
+                    "raw_cn_jp_entry": "范 琨(72.6)",
+                    "assumed_office_date": "2022-11",
+                    "birth_year": 1972,
+                    "birth_month": 6,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 73,
+            "organization_name_english": "Bosnia and Hercegovina",
+            "organization_name_chinese": "波斯尼亚和黑塞哥維那",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Ji Ping",
+                    "name_chinese": "季平",
+                    "raw_cn_jp_entry": "季 平(67.1)",
+                    "assumed_office_date": "2019-02",
+                    "birth_year": 1967,
+                    "birth_month": 1,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 73,
+            "organization_name_english": "Croatia",
+            "organization_name_chinese": "克羅地亞",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Qi Qianjin",
+                    "name_chinese": "斉前進",
+                    "raw_cn_jp_entry": "斉前進(65.12)",
+                    "assumed_office_date": "2021-12",
+                    "birth_year": 1965,
+                    "birth_month": 12,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 73,
+            "organization_name_english": "Slovenia",
+            "organization_name_chinese": "斯洛文尼亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Wang Shunqing",
+                    "name_chinese": "王順卿",
+                    "raw_cn_jp_entry": "王順卿(64.7)",
+                    "assumed_office_date": "2019-01",
+                    "birth_year": 1964,
+                    "birth_month": 7,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 73,
+            "organization_name_english": "North Macedonia",
+            "organization_name_chinese": "北馬其頓",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhang Zuo",
+                    "name_chinese": "張佐",
+                    "raw_cn_jp_entry": "張 佐(69. 2)",
+                    "assumed_office_date": "2019-09",
+                    "birth_year": 1969,
+                    "birth_month": 2,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 73,
+            "organization_name_english": "Poland",
+            "organization_name_chinese": "波蘭",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Sun Linjiang",
+                    "name_chinese": "孫森江",
+                    "raw_cn_jp_entry": "孫森江",
+                    "assumed_office_date": "2021-09",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 74,
+            "organization_name_english": "Czech",
+            "organization_name_chinese": "捷克",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Feng Biao",
+                    "name_chinese": "馮飚",
+                    "raw_cn_jp_entry": "馮 飚(68.4)",
+                    "assumed_office_date": "2022-10-27",
+                    "birth_year": 1968,
+                    "birth_month": 4,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 74,
+            "organization_name_english": "Slovakia",
+            "organization_name_chinese": "斯洛伐克",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Cai Ge",
+                    "name_chinese": "蔡革",
+                    "raw_cn_jp_entry": "蔡 革(66.6)",
+                    "assumed_office_date": "2023-10-18",
+                    "birth_year": 1966,
+                    "birth_month": 6,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 74,
+            "organization_name_english": "Hungary",
+            "organization_name_chinese": "匈牙利",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Gong Tao",
+                    "name_chinese": "龔韜",
+                    "raw_cn_jp_entry": "龔 韜(70.10)",
+                    "assumed_office_date": "2023-09-28",
+                    "birth_year": 1970,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 74,
+            "organization_name_english": "Romania",
+            "organization_name_chinese": "羅馬尼亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Han Chunlin",
+                    "name_chinese": "韓春霖",
+                    "raw_cn_jp_entry": "韓春霖(70.10)",
+                    "assumed_office_date": "2022-05",
+                    "birth_year": 1970,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 74,
+            "organization_name_english": "Bulgaria",
+            "organization_name_chinese": "保加利亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Dong Xiaojun",
+                    "name_chinese": "董曉軍",
+                    "raw_cn_jp_entry": "董曉軍(62,11)",
+                    "assumed_office_date": "2019-04",
+                    "birth_year": 1962,
+                    "birth_month": 11,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 74,
+            "organization_name_english": "Albania",
+            "organization_name_chinese": "阿爾巴尼亜",
+            "metadata": {
+              "warnings": [
+                "No PRC ambassador listed for Albania in the source document."
+              ]
+            },
+            "positions": [],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 74,
+            "organization_name_english": "Lithuania",
+            "organization_name_chinese": "立陶宛",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Qu Baihua",
+                    "name_chinese": "曲柏華",
+                    "raw_cn_jp_entry": "曲柏華(代理大使級)",
+                    "assumed_office_date": "2021-08",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": "charge d'affaires level",
+                    "rank_chinese": "代理大使級"
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 74,
+            "organization_name_english": "Latvia",
+            "organization_name_chinese": "拉脫維亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Tang Songgen",
+                    "name_chinese": "唐松根",
+                    "raw_cn_jp_entry": "唐松根(69,5)",
+                    "assumed_office_date": "2023-06",
+                    "birth_year": 1969,
+                    "birth_month": 5,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 74,
+            "organization_name_english": "Estonia",
+            "organization_name_chinese": "愛沙尼亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Guo Xiaomei",
+                    "name_chinese": "郭曉梅",
+                    "raw_cn_jp_entry": "郭曉梅(女71.3)",
+                    "assumed_office_date": "2023-10-03",
+                    "birth_year": 1971,
+                    "birth_month": 3,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "female",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 74,
+            "organization_name_english": "Armenia",
+            "organization_name_chinese": "亜美尼亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Fan Yong",
+                    "name_chinese": "范勇",
+                    "raw_cn_jp_entry": "范 勇(69.7)",
+                    "assumed_office_date": "2020-11",
+                    "birth_year": 1969,
+                    "birth_month": 7,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 74,
+            "organization_name_english": "Azerbaijan",
+            "organization_name_chinese": "阿塞拜疆",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Guo Min",
+                    "name_chinese": "郭敏",
+                    "raw_cn_jp_entry": "郭 敏(女63.10)",
+                    "assumed_office_date": "2019-07",
+                    "birth_year": 1963,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "female",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 74,
+            "organization_name_english": "Belarus",
+            "organization_name_chinese": "白俄羅斯",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Xie Xiaoyong",
+                    "name_chinese": "謝小用",
+                    "raw_cn_jp_entry": "謝小用(64.2)",
+                    "assumed_office_date": "2020-11",
+                    "birth_year": 1964,
+                    "birth_month": 2,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 75,
+            "organization_name_english": "Georgia",
+            "organization_name_chinese": "格魯吉亜",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhou Qian",
+                    "name_chinese": "周謙",
+                    "raw_cn_jp_entry": "周 謙(72.4)",
+                    "assumed_office_date": "2022-06",
+                    "birth_year": 1972,
+                    "birth_month": 4,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 75,
+            "organization_name_english": "Kazakhstan",
+            "organization_name_chinese": "哈薩克斯坦",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhang Xiao",
+                    "name_chinese": "張霄",
+                    "raw_cn_jp_entry": "張 霄(64.12)",
+                    "assumed_office_date": "2018-09",
+                    "birth_year": 1964,
+                    "birth_month": 12,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 75,
+            "organization_name_english": "Kyrgyz",
+            "organization_name_chinese": "吉爾吉斯",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Du Dewen",
+                    "name_chinese": "杜徳文",
+                    "raw_cn_jp_entry": "杜徳 文(女)",
+                    "assumed_office_date": "2019-04",
+                    "birth_year": null,
+                    "birth_month": null,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "female",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 75,
+            "organization_name_english": "Moldova",
+            "organization_name_chinese": "摩爾多瓦",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Yan Wenbin",
+                    "name_chinese": "焉文濱",
+                    "raw_cn_jp_entry": "焉 文濱(67.10)",
+                    "assumed_office_date": "2022-01",
+                    "birth_year": 1967,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 75,
+            "organization_name_english": "Russia",
+            "organization_name_chinese": "俄羅斯",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhang Hanhui",
+                    "name_chinese": "張漢暉",
+                    "raw_cn_jp_entry": "張漢暉(63.10)",
+                    "assumed_office_date": "2019-08",
+                    "birth_year": 1963,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 75,
+            "organization_name_english": "Tajikistan",
+            "organization_name_chinese": "塔吉克斯坦",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Ji Shumin",
+                    "name_chinese": "吉樹民",
+                    "raw_cn_jp_entry": "吉樹民(72.5)",
+                    "assumed_office_date": "2022-04",
+                    "birth_year": 1972,
+                    "birth_month": 5,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 75,
+            "organization_name_english": "Turkmenistan",
+            "organization_name_chinese": "土庫曼斯坦",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Ambassador",
+                "title_chinese": null,
+                "personnel": [
+                  {
+                    "name_pinyin": "Qian Naicheng",
+                    "name_chinese": "銭乃成",
+                    "raw_cn_jp_entry": "錢乃成(65.5)",
+                    "assumed_office_date": "2020-12",
+                    "birth_year": 1965,
+                    "birth_month": 5,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          }
+        ]
+      }
+    ]
+  }
+]

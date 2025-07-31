@@ -1,0 +1,514 @@
+{
+  "NATIONAL PEOPLE'S CONGRESS": {
+    "source_pdf_page": 51,
+    "sub_organizations": {
+      "Special Committees": {
+        "source_pdf_page": 51,
+        "sub_organizations": {
+          "Education, Science, Culture & Public Health Committee": { "source_pdf_page": 51 },
+          "Foreign Affairs Committee": { "source_pdf_page": 51 },
+          "Overseas Chinese Affairs Committee": { "source_pdf_page": 51 },
+          "Environment Protection and Resources Conservation Committee": { "source_pdf_page": 51 },
+          "Agriculture and Rural Affairs Committee": { "source_pdf_page": 52 },
+          "Social Building Committee": { "source_pdf_page": 52 }
+        }
+      }
+    }
+  },
+  "List of Diplomats by Country": {
+    "source_pdf_page": 53,
+    "sub_organizations": {
+      "ASIA": {
+        "source_pdf_page": 53,
+        "sub_organizations": {
+          "Japan": {
+            "source_pdf_page": 53,
+            "sub_organizations": {
+              "Chinese Embassy in Japan": {
+                "source_pdf_page": 53,
+                "sub_organizations": {
+                  "Consulate General in Osaka": { "source_pdf_page": 53 },
+                  "Consulate General in Sapporo": { "source_pdf_page": 53 },
+                  "Consulate General in Fukuoka": { "source_pdf_page": 53 },
+                  "Consulate General in Nagasaki": { "source_pdf_page": 53 },
+                  "Consulate General in Nagoya": { "source_pdf_page": 53 },
+                  "Consulate General in Niigata": { "source_pdf_page": 53 }
+                }
+              },
+              "Japanese Embassy in China": {
+                "source_pdf_page": 54,
+                "sub_organizations": {
+                  "Consulate General in Guangzhou": { "source_pdf_page": 54 },
+                  "Consulate General in Shanghai": { "source_pdf_page": 54 },
+                  "Consulate General in Chongqing": { "source_pdf_page": 54 },
+                  "Consulate General in Shenyang": { "source_pdf_page": 54 },
+                  "Consulate General in Qingdao": { "source_pdf_page": 54 },
+                  "Consulate General in Hong Kong": { "source_pdf_page": 54 }
+                }
+              }
+            }
+          },
+          "Mongolia": {
+            "source_pdf_page": 55,
+            "sub_organizations": {
+              "Consul General in Zamyn-uud": { "source_pdf_page": 55 }
+            }
+          },
+          "Republic of Korea": {
+            "source_pdf_page": 55,
+            "sub_organizations": {
+              "Consul General in Busan": { "source_pdf_page": 55 },
+              "Consul General in Gwangju": { "source_pdf_page": 55 },
+              "Consul General in Jeju": { "source_pdf_page": 55 }
+            }
+          },
+          "Democratic People's Republic of Korea": {
+            "source_pdf_page": 55,
+            "sub_organizations": {
+              "Consul General in Chongjin": { "source_pdf_page": 55 }
+            }
+          },
+          "Philippines": {
+            "source_pdf_page": 55,
+            "sub_organizations": {
+              "Consul General in Cebu": { "source_pdf_page": 55 },
+              "Consul General in Davao": { "source_pdf_page": 55 }
+            }
+          },
+          "Indonesia": {
+            "source_pdf_page": 55,
+            "sub_organizations": {
+              "Consul General in Surabaya": { "source_pdf_page": 55 },
+              "Consul General in Medan": { "source_pdf_page": 55 },
+              "Consul General in Denpasar": { "source_pdf_page": 55 }
+            }
+          },
+          "Viet Nam": {
+            "source_pdf_page": 56,
+            "sub_organizations": {
+              "Consul General in Ho Chi Minh": { "source_pdf_page": 56 },
+              "Consul General in Da Nang": { "source_pdf_page": 56 }
+            }
+          },
+          "Laos": {
+            "source_pdf_page": 56,
+            "sub_organizations": {
+              "Consul General in Luang Prabang": { "source_pdf_page": 56 }
+            }
+          },
+          "Cambodia": { "source_pdf_page": 56 },
+          "Malaysia": {
+            "source_pdf_page": 56,
+            "sub_organizations": {
+              "Consul General in Penang": { "source_pdf_page": 56 },
+              "Consul General in Kota Kinabalu": { "source_pdf_page": 56 },
+              "Consul General in Kuching": { "source_pdf_page": 56 }
+            }
+          },
+          "Brunei": { "source_pdf_page": 56 },
+          "Timor-Leste": { "source_pdf_page": 56 },
+          "Singapore": { "source_pdf_page": 56 },
+          "Thailand": {
+            "source_pdf_page": 57,
+            "sub_organizations": {
+              "Consul General in Chiang Mai": { "source_pdf_page": 57 },
+              "Consul General in Songkhla": { "source_pdf_page": 57 },
+              "Consul General in Khon Kaen": { "source_pdf_page": 57 }
+            }
+          },
+          "Myanmar (Burma)": {
+            "source_pdf_page": 57,
+            "sub_organizations": {
+              "Consul General in Mandalay": { "source_pdf_page": 57 }
+            }
+          },
+          "India": {
+            "source_pdf_page": 57,
+            "sub_organizations": {
+              "Consul General in Mumbai": { "source_pdf_page": 57 },
+              "Consul General in Kolkata": { "source_pdf_page": 57 }
+            }
+          },
+          "Pakistan": {
+            "source_pdf_page": 57,
+            "sub_organizations": {
+              "Consul General in Karachi": { "source_pdf_page": 57 },
+              "Consul General in Lahore": { "source_pdf_page": 57 }
+            }
+          },
+          "Bangladesh": { "source_pdf_page": 57 },
+          "Sri Lanka": { "source_pdf_page": 57 },
+          "Afghanistan": { "source_pdf_page": 57 }
+        }
+      },
+      "OCEANIA": {
+        "source_pdf_page": 58,
+        "sub_organizations": {
+          "Australia": {
+            "source_pdf_page": 58,
+            "sub_organizations": {
+              "Consul General in Adelaide": { "source_pdf_page": 58 },
+              "Consul General in Brisbane": { "source_pdf_page": 58 },
+              "Consul General in Melbourne": { "source_pdf_page": 58 },
+              "Consul General in Perth": { "source_pdf_page": 58 },
+              "Consul General in Sydney": { "source_pdf_page": 58 }
+            }
+          },
+          "New Zealand": {
+            "source_pdf_page": 58,
+            "sub_organizations": {
+              "Consul General in Auckland": { "source_pdf_page": 58 },
+              "Consul General in Christchurch": { "source_pdf_page": 58 }
+            }
+          },
+          "Papua New Guinea": { "source_pdf_page": 58 },
+          "Fiji": { "source_pdf_page": 58 },
+          "Vanuatu": { "source_pdf_page": 59 },
+          "Tonga": { "source_pdf_page": 59 },
+          "Nauru": { "source_pdf_page": 59 },
+          "Samoa": { "source_pdf_page": 59 },
+          "Solomon Islands": { "source_pdf_page": 59 },
+          "Kiribati": { "source_pdf_page": 59 },
+          "Micronesia": { "source_pdf_page": 59 },
+          "Marshall Islands": { "source_pdf_page": 59 },
+          "Cook Islands": { "source_pdf_page": 59 },
+          "Niue": { "source_pdf_page": 59 }
+        }
+      },
+      "MIDDLE EAST": {
+        "source_pdf_page": 59,
+        "sub_organizations": {
+          "Turkey": {
+            "source_pdf_page": 59,
+            "sub_organizations": {
+              "Consul General in Istanbul": { "source_pdf_page": 59 }
+            }
+          },
+          "Israel": { "source_pdf_page": 60 },
+          "Iran": {
+            "source_pdf_page": 60,
+            "sub_organizations": {
+              "Consul General in Bandar Abbas": { "source_pdf_page": 60 }
+            }
+          },
+          "Egypt": {
+            "source_pdf_page": 60,
+            "sub_organizations": {
+              "Consul General in Alexandria": { "source_pdf_page": 60 }
+            }
+          },
+          "Syria": { "source_pdf_page": 60 },
+          "Lebanon": { "source_pdf_page": 60 },
+          "Jordan": { "source_pdf_page": 60 },
+          "Iraq": {
+            "source_pdf_page": 60,
+            "sub_organizations": {
+              "Consul General in Arbil": { "source_pdf_page": 60 },
+              "Consul General in Basra": { "source_pdf_page": 60 }
+            }
+          },
+          "Saudi Arabia": {
+            "source_pdf_page": 60,
+            "sub_organizations": {
+              "Consul General in Jeddah": { "source_pdf_page": 60 }
+            }
+          },
+          "Kuwait": { "source_pdf_page": 61 },
+          "Yemen": { "source_pdf_page": 61 },
+          "Oman": { "source_pdf_page": 61 },
+          "United Arab Emirates": {
+            "source_pdf_page": 61,
+            "sub_organizations": {
+              "Consul General in Dubai": { "source_pdf_page": 61 }
+            }
+          },
+          "Qatar": { "source_pdf_page": 61 },
+          "Palestine": { "source_pdf_page": 61 },
+          "Bahrain": { "source_pdf_page": 61 }
+        }
+      },
+      "AFRICA": {
+        "source_pdf_page": 61,
+        "sub_organizations": {
+          "Sudan": { "source_pdf_page": 61 },
+          "South Sudan": { "source_pdf_page": 61 },
+          "Libya": { "source_pdf_page": 61 },
+          "Tunisia": { "source_pdf_page": 62 },
+          "Algeria": { "source_pdf_page": 62 },
+          "Morocco": { "source_pdf_page": 62 },
+          "Mauritania": { "source_pdf_page": 62 },
+          "Somalia": { "source_pdf_page": 62 },
+          "Djibouti": { "source_pdf_page": 62 },
+          "Ethiopia": { "source_pdf_page": 62 },
+          "Eritrea": { "source_pdf_page": 62 },
+          "Kenya": { "source_pdf_page": 62 },
+          "Uganda": { "source_pdf_page": 62 },
+          "Tanzania": {
+            "source_pdf_page": 62,
+            "sub_organizations": {
+              "Consul General in Zanzibar": { "source_pdf_page": 62 }
+            }
+          },
+          "Mali": { "source_pdf_page": 63 },
+          "Niger": { "source_pdf_page": 63 },
+          "Chad": { "source_pdf_page": 63 },
+          "Senegal": { "source_pdf_page": 63 },
+          "Gambia": { "source_pdf_page": 63 },
+          "Guinea-Bissau": { "source_pdf_page": 63 },
+          "Guinea": { "source_pdf_page": 63 },
+          "Sierra Leone": { "source_pdf_page": 63 },
+          "Burkina Faso": { "source_pdf_page": 63 },
+          "Liberia": { "source_pdf_page": 63 },
+          "Cote d'Ivoire": { "source_pdf_page": 64 },
+          "Togo": { "source_pdf_page": 64 },
+          "Benin": { "source_pdf_page": 64 },
+          "Nigeria": {
+            "source_pdf_page": 64,
+            "sub_organizations": {
+              "Consul General in Lagos": { "source_pdf_page": 64 }
+            }
+          },
+          "Ghana": { "source_pdf_page": 64 },
+          "Cameroon": { "source_pdf_page": 64 },
+          "Rwanda": { "source_pdf_page": 64 },
+          "Burundi": { "source_pdf_page": 64 },
+          "Republic of Congo": { "source_pdf_page": 64 },
+          "Democratic Congo": { "source_pdf_page": 64 },
+          "Equatorial Guinea": {
+            "source_pdf_page": 64,
+            "sub_organizations": {
+              "Consul General in Bata": { "source_pdf_page": 64 }
+            }
+          },
+          "Gabon": { "source_pdf_page": 65 },
+          "Central Africa": { "source_pdf_page": 65 },
+          "Cabo Verde": { "source_pdf_page": 65 },
+          "Sao Tome and Principe": { "source_pdf_page": 65 },
+          "Angola": { "source_pdf_page": 65 },
+          "Mozambique": { "source_pdf_page": 65 },
+          "Zambia": { "source_pdf_page": 65 },
+          "Malawi": { "source_pdf_page": 65 },
+          "Botswana": { "source_pdf_page": 65 },
+          "Lesotho": { "source_pdf_page": 65 },
+          "Zimbabwe": { "source_pdf_page": 65 },
+          "South Africa": {
+            "source_pdf_page": 66,
+            "sub_organizations": {
+              "Consul General in Johannesburg": { "source_pdf_page": 66 },
+              "Consul General in Cape Town": { "source_pdf_page": 66 },
+              "Consul General in Durban": { "source_pdf_page": 66 }
+            }
+          },
+          "Namibia": { "source_pdf_page": 66 },
+          "Madagascar": { "source_pdf_page": 66 },
+          "Mauritius": { "source_pdf_page": 66 },
+          "Comoros": { "source_pdf_page": 66 },
+          "Seychelles": { "source_pdf_page": 66 }
+        }
+      },
+      "THE AMERICAS": {
+        "source_pdf_page": 66,
+        "sub_organizations": {
+          "United States of America": {
+            "source_pdf_page": 66,
+            "sub_organizations": {
+              "Consul General in New York": { "source_pdf_page": 66 },
+              "Consul General in San Francisco": { "source_pdf_page": 67 },
+              "Consul General in Houston": { "source_pdf_page": 67 },
+              "Consul General in Chicago": { "source_pdf_page": 67 },
+              "Consul General in Los Angeles": { "source_pdf_page": 67 }
+            }
+          },
+          "Canada": {
+            "source_pdf_page": 67,
+            "sub_organizations": {
+              "Consul General in Vancouver": { "source_pdf_page": 67 },
+              "Consul General in Toronto": { "source_pdf_page": 67 },
+              "Consul General in Calgary": { "source_pdf_page": 67 },
+              "Consul General in Montreal": { "source_pdf_page": 67 }
+            }
+          },
+          "Mexico": {
+            "source_pdf_page": 67,
+            "sub_organizations": {
+              "Consul General in Tijuana": { "source_pdf_page": 67 }
+            }
+          },
+          "Republic of Nicaragua": { "source_pdf_page": 67 },
+          "Panama": { "source_pdf_page": 67 },
+          "Costa Rica": { "source_pdf_page": 67 },
+          "El Salvador": { "source_pdf_page": 68 },
+          "Cuba": { "source_pdf_page": 68 },
+          "Dominican Republic": { "source_pdf_page": 68 },
+          "Jamaica": { "source_pdf_page": 68 },
+          "Barbados": { "source_pdf_page": 68 },
+          "Bahamas": { "source_pdf_page": 68 },
+          "Dominica": { "source_pdf_page": 68 },
+          "Grenada": { "source_pdf_page": 68 },
+          "Trinidad and Tobago": { "source_pdf_page": 68 },
+          "Saint Lucia": { "source_pdf_page": 68 },
+          "Antigua and Barbuda": { "source_pdf_page": 68 },
+          "Argentina": { "source_pdf_page": 69 },
+          "Brazil": {
+            "source_pdf_page": 69,
+            "sub_organizations": {
+              "Consul General in Sao Paulo": { "source_pdf_page": 69 },
+              "Consul General in Rio de Janeiro": { "source_pdf_page": 69 },
+              "Consul General in Recife": { "source_pdf_page": 69 }
+            }
+          },
+          "Chile": {
+            "source_pdf_page": 69,
+            "sub_organizations": {
+              "Consul General in Iquique": { "source_pdf_page": 69 }
+            }
+          },
+          "Venezuela": { "source_pdf_page": 69 },
+          "Colombia": { "source_pdf_page": 69 },
+          "Peru": { "source_pdf_page": 69 },
+          "Guyana": { "source_pdf_page": 69 },
+          "Honduras": { "source_pdf_page": 69 },
+          "Suriname": { "source_pdf_page": 69 },
+          "Ecuador": {
+            "source_pdf_page": 70,
+            "sub_organizations": {
+              "Consul General in Guayaquil": { "source_pdf_page": 70 }
+            }
+          },
+          "Bolivia": {
+            "source_pdf_page": 70,
+            "sub_organizations": {
+              "Consul General in Santa Cruz": { "source_pdf_page": 70 }
+            }
+          },
+          "Uruguay": { "source_pdf_page": 70 }
+        }
+      },
+      "EUROPE/C. I. S.": {
+        "source_pdf_page": 70,
+        "sub_organizations": {
+          "Great Britain": {
+            "source_pdf_page": 70,
+            "sub_organizations": {
+              "Consul General in Manchester": { "source_pdf_page": 70 },
+              "Consul General in Belfast": { "source_pdf_page": 70 },
+              "Consul General in Edinburgh": { "source_pdf_page": 70 }
+            }
+          },
+          "France": {
+            "source_pdf_page": 70,
+            "sub_organizations": {
+              "Consul General in Marseilles": { "source_pdf_page": 70 },
+              "Consul General in Strasbourg": { "source_pdf_page": 70 },
+              "Consul General in Saint-Denis": { "source_pdf_page": 70 },
+              "Consul General in Lyon": { "source_pdf_page": 70 },
+              "Consul in Papeete": { "source_pdf_page": 70 }
+            }
+          },
+          "Germany": {
+            "source_pdf_page": 71,
+            "sub_organizations": {
+              "Consul General in Hamburg": { "source_pdf_page": 71 },
+              "Consul General in Munich": { "source_pdf_page": 71 },
+              "Consul General in Frankfurt": { "source_pdf_page": 71 },
+              "Consul General in Dusseldorf": { "source_pdf_page": 71 }
+            }
+          },
+          "Italy": {
+            "source_pdf_page": 71,
+            "sub_organizations": {
+              "Consul General in Milano": { "source_pdf_page": 71 },
+              "Consul General in Firenze": { "source_pdf_page": 71 }
+            }
+          },
+          "Switzerland": {
+            "source_pdf_page": 71,
+            "sub_organizations": {
+              "Consul General in Zurich": { "source_pdf_page": 71 }
+            }
+          },
+          "Liechtenstein": { "source_pdf_page": 71 },
+          "Spain": {
+            "source_pdf_page": 71,
+            "sub_organizations": {
+              "Consul General in Barcelona": { "source_pdf_page": 71 }
+            }
+          },
+          "Portugal": { "source_pdf_page": 71 },
+          "Belgium": { "source_pdf_page": 72 },
+          "Netherlands": {
+            "source_pdf_page": 72,
+            "sub_organizations": {
+              "Consul General in Willemstad": { "source_pdf_page": 72 }
+            }
+          },
+          "Luxembourg": { "source_pdf_page": 72 },
+          "Austria": { "source_pdf_page": 72 },
+          "Greece (Hellas)": { "source_pdf_page": 72 },
+          "Cyprus": { "source_pdf_page": 72 },
+          "Monaco": { "source_pdf_page": 72 },
+          "Ireland": { "source_pdf_page": 72 },
+          "Denmark": { "source_pdf_page": 72 },
+          "Finland": { "source_pdf_page": 72 },
+          "Sweden": {
+            "source_pdf_page": 72,
+            "sub_organizations": {
+              "Consul General in Goteborg": { "source_pdf_page": 72 }
+            }
+          },
+          "Norway": { "source_pdf_page": 73 },
+          "Iceland": { "source_pdf_page": 73 },
+          "Andorra": { "source_pdf_page": 73 },
+          "San Marino": { "source_pdf_page": 73 },
+          "Malta": { "source_pdf_page": 73 },
+          "Serbia": { "source_pdf_page": 73 },
+          "Montenegro": { "source_pdf_page": 73 },
+          "Bosnia and Hercegovina": { "source_pdf_page": 73 },
+          "Croatia": { "source_pdf_page": 73 },
+          "Slovenia": { "source_pdf_page": 73 },
+          "North Macedonia": { "source_pdf_page": 73 },
+          "Poland": {
+            "source_pdf_page": 73,
+            "sub_organizations": {
+              "Consul General in Gdansk": { "source_pdf_page": 73 }
+            }
+          },
+          "Czech": { "source_pdf_page": 74 },
+          "Slovakia": { "source_pdf_page": 74 },
+          "Hungary": { "source_pdf_page": 74 },
+          "Romania": { "source_pdf_page": 74 },
+          "Bulgaria": { "source_pdf_page": 74 },
+          "Albania": { "source_pdf_page": 74 },
+          "Lithuania": { "source_pdf_page": 74 },
+          "Latvia": { "source_pdf_page": 74 },
+          "Estonia": { "source_pdf_page": 74 },
+          "Armenia": { "source_pdf_page": 74 },
+          "Azerbaijan": { "source_pdf_page": 74 },
+          "Belarus": { "source_pdf_page": 74 },
+          "Georgia": { "source_pdf_page": 75 },
+          "Kazakhstan": {
+            "source_pdf_page": 75,
+            "sub_organizations": {
+              "Consul General in Almaty": { "source_pdf_page": 75 }
+            }
+          },
+          "Kyrgyz": { "source_pdf_page": 75 },
+          "Moldova": { "source_pdf_page": 75 },
+          "Russia": {
+            "source_pdf_page": 75,
+            "sub_organizations": {
+              "Consul General in Irkutsk": { "source_pdf_page": 75 },
+              "Consul General in Ekaterinburg": { "source_pdf_page": 75 },
+              "Consul General in Khabarovsk": { "source_pdf_page": 75 },
+              "Consul General in St. Petersburg": { "source_pdf_page": 75 },
+              "Consul General in Vladivostok": { "source_pdf_page": 75 },
+              "Consul General in Kazan": { "source_pdf_page": 75 }
+            }
+          },
+          "Tajikistan": { "source_pdf_page": 75 },
+          "Turkmenistan": { "source_pdf_page": 75 }
+        }
+      }
+    }
+  }
+}

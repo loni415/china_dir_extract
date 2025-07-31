@@ -1,0 +1,646 @@
+{
+  "organization_name_english": "State Council",
+  "organization_name_chinese": "国務院",
+  "source_pdf_page": 83,
+  "sub_organizations": {
+    "General Office": {
+      "organization_name_english": "General Office",
+      "organization_name_chinese": "辦公庁",
+      "source_pdf_page": 83,
+      "sub_organizations": {
+        "Premier's Office": {
+          "organization_name_english": "Premier's Office",
+          "organization_name_chinese": "総理辦公室",
+          "source_pdf_page": 83,
+          "sub_organizations": {}
+        },
+        "First Secretariat": {
+          "organization_name_english": "First Secretariat",
+          "organization_name_chinese": "秘書一局",
+          "source_pdf_page": 83,
+          "sub_organizations": {}
+        },
+        "Second Secretariat": {
+          "organization_name_english": "Second Secretariat",
+          "organization_name_chinese": "秘書二局",
+          "source_pdf_page": 83,
+          "sub_organizations": {}
+        },
+        "Third Secretariat": {
+          "organization_name_english": "Third Secretariat",
+          "organization_name_chinese": "秘書三局",
+          "source_pdf_page": 83,
+          "sub_organizations": {}
+        },
+        "Administrative Department": {
+          "organization_name_english": "Administrative Department",
+          "organization_name_chinese": "行政司",
+          "source_pdf_page": 83,
+          "sub_organizations": {}
+        },
+        "E-Government Office": {
+          "organization_name_english": "E-Government Office",
+          "organization_name_chinese": "電子政務辦公室",
+          "source_pdf_page": 83,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "Ministry of Foreign Affairs": {
+      "organization_name_english": "Ministry of Foreign Affairs",
+      "organization_name_chinese": "外交部",
+      "source_pdf_page": 84,
+      "sub_organizations": {
+        "General Office": {
+          "organization_name_english": "General Office",
+          "organization_name_chinese": "辦公庁",
+          "source_pdf_page": 84,
+          "sub_organizations": {}
+        },
+        "Department of Policy Planning": {
+          "organization_name_english": "Department of Policy Planning",
+          "organization_name_chinese": "政策規画司",
+          "source_pdf_page": 84,
+          "sub_organizations": {}
+        },
+        "Department of Asian Affairs": {
+          "organization_name_english": "Department of Asian Affairs",
+          "organization_name_chinese": "亜洲司",
+          "source_pdf_page": 84,
+          "sub_organizations": {}
+        },
+        "Department of West Asian & North African Affairs": {
+          "organization_name_english": "Department of West Asian & North African Affairs",
+          "organization_name_chinese": "西亜北非司",
+          "source_pdf_page": 85,
+          "sub_organizations": {}
+        },
+        "Department of African Affairs": {
+          "organization_name_english": "Department of African Affairs",
+          "organization_name_chinese": "非洲司",
+          "source_pdf_page": 85,
+          "sub_organizations": {}
+        },
+        "Department of European-Central Asian Affairs": {
+          "organization_name_english": "Department of European-Central Asian Affairs",
+          "organization_name_chinese": "欧亜司",
+          "source_pdf_page": 85,
+          "sub_organizations": {}
+        },
+        "Department of European Affairs": {
+          "organization_name_english": "Department of European Affairs",
+          "organization_name_chinese": "欧洲司",
+          "source_pdf_page": 86,
+          "sub_organizations": {}
+        },
+        "Department of North American and Oceanian Affairs": {
+          "organization_name_english": "Department of North American and Oceanian Affairs",
+          "organization_name_chinese": "北美大洋洲司",
+          "source_pdf_page": 86,
+          "sub_organizations": {}
+        },
+        "Department of Latin American & Caribbean Affairs": {
+          "organization_name_english": "Department of Latin American & Caribbean Affairs",
+          "organization_name_chinese": "拉丁美洲和加勒比司",
+          "source_pdf_page": 86,
+          "sub_organizations": {}
+        },
+        "Department of International Organizations and Conferences": {
+          "organization_name_english": "Department of International Organizations and Conferences",
+          "organization_name_chinese": "国際司",
+          "source_pdf_page": 86,
+          "sub_organizations": {}
+        },
+        "Department of International Economic Affairs": {
+          "organization_name_english": "Department of International Economic Affairs",
+          "organization_name_chinese": "国際経済司",
+          "source_pdf_page": 87,
+          "sub_organizations": {}
+        },
+        "Department of Arms Control": {
+          "organization_name_english": "Department of Arms Control",
+          "organization_name_chinese": "軍控司",
+          "source_pdf_page": 87,
+          "sub_organizations": {}
+        },
+        "Department of Treaty and Law": {
+          "organization_name_english": "Department of Treaty and Law",
+          "organization_name_chinese": "条約法律司",
+          "source_pdf_page": 87,
+          "sub_organizations": {}
+        },
+        "Department of Boundary and Ocean Affairs": {
+          "organization_name_english": "Department of Boundary and Ocean Affairs",
+          "organization_name_chinese": "边界与海洋事務司",
+          "source_pdf_page": 87,
+          "sub_organizations": {}
+        },
+        "Information Department": {
+          "organization_name_english": "Information Department",
+          "organization_name_chinese": "新聞司",
+          "source_pdf_page": 87,
+          "sub_organizations": {}
+        },
+        "Protocol Department": {
+          "organization_name_english": "Protocol Department",
+          "organization_name_chinese": "礼賓司",
+          "source_pdf_page": 87,
+          "sub_organizations": {}
+        },
+        "Department of Consular Affairs": {
+          "organization_name_english": "Department of Consular Affairs",
+          "organization_name_chinese": "領事司",
+          "source_pdf_page": 88,
+          "sub_organizations": {}
+        },
+        "Department of H. K., Macao and Taiwan Affairs": {
+          "organization_name_english": "Department of H. K., Macao and Taiwan Affairs",
+          "organization_name_chinese": "香港澳門台湾事務司",
+          "source_pdf_page": 88,
+          "sub_organizations": {}
+        },
+        "Department of Translation and Interpretation": {
+          "organization_name_english": "Department of Translation and Interpretation",
+          "organization_name_chinese": "翻訳司",
+          "source_pdf_page": 88,
+          "sub_organizations": {}
+        },
+        "Department of Foreign Affairs Management": {
+          "organization_name_english": "Department of Foreign Affairs Management",
+          "organization_name_chinese": "外事管理司",
+          "source_pdf_page": 88,
+          "sub_organizations": {}
+        },
+        "Department of External Security Affairs": {
+          "organization_name_english": "Department of External Security Affairs",
+          "organization_name_chinese": "涉外安全事務司",
+          "source_pdf_page": 88,
+          "sub_organizations": {}
+        },
+        "Department of Personnel": {
+          "organization_name_english": "Department of Personnel",
+          "organization_name_chinese": "幹部司",
+          "source_pdf_page": 89,
+          "sub_organizations": {}
+        },
+        "Bureau for Retired Personnel": {
+          "organization_name_english": "Bureau for Retired Personnel",
+          "organization_name_chinese": "離退休幹部局",
+          "source_pdf_page": 89,
+          "sub_organizations": {}
+        },
+        "Administrative Department": {
+          "organization_name_english": "Administrative Department",
+          "organization_name_chinese": "行政司",
+          "source_pdf_page": 89,
+          "sub_organizations": {}
+        },
+        "Department of Finance": {
+          "organization_name_english": "Department of Finance",
+          "organization_name_chinese": "財務司",
+          "source_pdf_page": 89,
+          "sub_organizations": {}
+        },
+        "Party-related Affairs Committee": {
+          "organization_name_english": "Party-related Affairs Committee",
+          "organization_name_chinese": "機関党委員会",
+          "source_pdf_page": 89,
+          "sub_organizations": {}
+        },
+        "Party-related Affairs Discipline Inspection Committee": {
+          "organization_name_english": "Party-related Affairs Discipline Inspection Committee",
+          "organization_name_chinese": "機関紀律検査委",
+          "source_pdf_page": 89,
+          "sub_organizations": {}
+        },
+        "Bureau of Archives": {
+          "organization_name_english": "Bureau of Archives",
+          "organization_name_chinese": "档案館",
+          "source_pdf_page": 90,
+          "sub_organizations": {}
+        },
+        "Department of Services for Foreign Ministry Home and Overseas Offices": {
+          "organization_name_english": "Department of Services for Foreign Ministry Home and Overseas Offices",
+          "organization_name_chinese": "機関及駐外機構服務中心",
+          "source_pdf_page": 90,
+          "sub_organizations": {}
+        },
+        "China Institute of International Studies": {
+          "organization_name_english": "China Institute of International Studies",
+          "organization_name_chinese": "中国国際問題研究院",
+          "source_pdf_page": 90,
+          "sub_organizations": {}
+        },
+        "Office of Commissioner of Ministry of Foreign Affairs in HKSAR": {
+          "organization_name_english": "Office of Commissioner of Ministry of Foreign Affairs in HKSAR",
+          "organization_name_chinese": "駐香港特別行政区特派員公署",
+          "source_pdf_page": 90,
+          "sub_organizations": {}
+        },
+        "Office of Commissioner of Ministry of Foreign Affairs in MSAR": {
+          "organization_name_english": "Office of Commissioner of Ministry of Foreign Affairs in MSAR",
+          "organization_name_chinese": "駐澳門特別行政区特派員公署",
+          "source_pdf_page": 90,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "Ministry of National Defense": {
+      "organization_name_english": "Ministry of National Defense",
+      "organization_name_chinese": "国防部",
+      "source_pdf_page": 90,
+      "sub_organizations": {}
+    },
+    "National Development and Reform Commission": {
+      "organization_name_english": "National Development and Reform Commission",
+      "organization_name_chinese": "国家発展和改革委員会",
+      "source_pdf_page": 91,
+      "sub_organizations": {}
+    },
+    "Ministry of Education": {
+      "organization_name_english": "Ministry of Education",
+      "organization_name_chinese": "教育部",
+      "source_pdf_page": 93,
+      "sub_organizations": {
+        "State Language Work Committee": {
+          "organization_name_english": "State Language Work Committee",
+          "organization_name_chinese": "国家語言文字工作委員会",
+          "source_pdf_page": 95,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "Ministry of Science and Technology": {
+      "organization_name_english": "Ministry of Science and Technology",
+      "organization_name_chinese": "科学技術部",
+      "source_pdf_page": 95,
+      "sub_organizations": {
+        "State Natural Sciences Foundation": {
+          "organization_name_english": "State Natural Sciences Foundation",
+          "organization_name_chinese": "国家自然科学基金委員会",
+          "source_pdf_page": 96,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "Ministry of Industry and Information Technology": {
+      "organization_name_english": "Ministry of Industry and Information Technology",
+      "organization_name_chinese": "工業和信息化部",
+      "source_pdf_page": 97,
+      "sub_organizations": {
+        "National Space Administration": {
+          "organization_name_english": "National Space Administration",
+          "organization_name_chinese": "国家航天局",
+          "source_pdf_page": 99,
+          "sub_organizations": {}
+        },
+        "State Atomic Energy Authority": {
+          "organization_name_english": "State Atomic Energy Authority",
+          "organization_name_chinese": "国家原子能機構",
+          "source_pdf_page": 99,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "State Ethnic Affairs Commission": {
+      "organization_name_english": "State Ethnic Affairs Commission",
+      "organization_name_chinese": "国家民族事務委員会",
+      "source_pdf_page": 99,
+      "sub_organizations": {}
+    },
+    "Ministry of Public Security": {
+      "organization_name_english": "Ministry of Public Security",
+      "organization_name_chinese": "公安部",
+      "source_pdf_page": 100,
+      "sub_organizations": {}
+    },
+    "Ministry of State Security": {
+      "organization_name_english": "Ministry of State Security",
+      "organization_name_chinese": "国家安全部",
+      "source_pdf_page": 103,
+      "sub_organizations": {}
+    },
+    "Ministry of Civil Affairs": {
+      "organization_name_english": "Ministry of Civil Affairs",
+      "organization_name_chinese": "民政部",
+      "source_pdf_page": 103,
+      "sub_organizations": {}
+    },
+    "Ministry of Justice": {
+      "organization_name_english": "Ministry of Justice",
+      "organization_name_chinese": "司法部",
+      "source_pdf_page": 104,
+      "sub_organizations": {}
+    },
+    "Ministry of Finance": {
+      "organization_name_english": "Ministry of Finance",
+      "organization_name_chinese": "財政部",
+      "source_pdf_page": 106,
+      "sub_organizations": {
+        "National Council for Social Security Foundation": {
+          "organization_name_english": "National Council for Social Security Foundation",
+          "organization_name_chinese": "全国社会保障基金理事会",
+          "source_pdf_page": 108,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "Ministry of Human Resources and Social Security": {
+      "organization_name_english": "Ministry of Human Resources & Social Security",
+      "organization_name_chinese": "人力資源和社会保障部",
+      "source_pdf_page": 109,
+      "sub_organizations": {
+        "State Administration of Foreign Experts Affairs": {
+          "organization_name_english": "State Administration of Foreign Experts Affairs",
+          "organization_name_chinese": "国家外国専家局",
+          "source_pdf_page": 110,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "Ministry of Natural Resources": {
+      "organization_name_english": "Ministry of Natural Resources",
+      "organization_name_chinese": "自然資源部",
+      "source_pdf_page": 110,
+      "sub_organizations": {
+        "China Geological Survey": {
+          "organization_name_english": "China Geological Survey",
+          "organization_name_chinese": "中国地質調査局",
+          "source_pdf_page": 112,
+          "sub_organizations": {}
+        },
+        "State Oceanic Administration": {
+          "organization_name_english": "State Oceanic Administration",
+          "organization_name_chinese": "国家海洋局",
+          "source_pdf_page": 112,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "Ministry of Ecology and Environment": {
+      "organization_name_english": "Ministry of Ecology and Environment",
+      "organization_name_chinese": "生態環境部",
+      "source_pdf_page": 112,
+      "sub_organizations": {
+        "National Nuclear Safety Administration": {
+          "organization_name_english": "National Nuclear Safety Administration",
+          "organization_name_chinese": "国家核安全局",
+          "source_pdf_page": 114,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "Ministry of Housing & Urban-Rural Development": {
+      "organization_name_english": "Ministry of Housing & Urban-Rural Development",
+      "organization_name_chinese": "住房和城鄉建設部",
+      "source_pdf_page": 115,
+      "sub_organizations": {}
+    },
+    "Ministry of Transport": {
+      "organization_name_english": "Ministry of Transport",
+      "organization_name_chinese": "交通運輸部",
+      "source_pdf_page": 116,
+      "sub_organizations": {
+        "PRC Maritime Safety Administration": {
+          "organization_name_english": "PRC Maritime Safety Administration",
+          "organization_name_chinese": "中国海事局",
+          "source_pdf_page": 117,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "Ministry of Water Resources": {
+      "organization_name_english": "Ministry of Water Resources",
+      "organization_name_chinese": "水利部",
+      "source_pdf_page": 117,
+      "sub_organizations": {}
+    },
+    "Ministry of Agriculture & Rural Affairs": {
+      "organization_name_english": "Ministry of Agriculture & Rural Affairs",
+      "organization_name_chinese": "農業農村部",
+      "source_pdf_page": 119,
+      "sub_organizations": {
+        "National Administration for Rural Vitalization": {
+          "organization_name_english": "National Administration for Rural Vitalization",
+          "organization_name_chinese": "国家郷村振興局",
+          "source_pdf_page": 121,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "Ministry of Commerce": {
+      "organization_name_english": "Ministry of Commerce",
+      "organization_name_chinese": "商務部",
+      "source_pdf_page": 121,
+      "sub_organizations": {}
+    },
+    "Ministry of Culture and Tourism": {
+      "organization_name_english": "Ministry of Culture and Tourism",
+      "organization_name_chinese": "文化和旅遊部",
+      "source_pdf_page": 123,
+      "sub_organizations": {}
+    },
+    "National Health Commission": {
+      "organization_name_english": "National Health Commission",
+      "organization_name_chinese": "国家衛生健康委員会",
+      "source_pdf_page": 125,
+      "sub_organizations": {}
+    },
+    "Ministry of Veterans Affairs": {
+      "organization_name_english": "Ministry of Veterans Affairs",
+      "organization_name_chinese": "退役軍人事務部",
+      "source_pdf_page": 126,
+      "sub_organizations": {}
+    },
+    "Ministry of Emergency Management": {
+      "organization_name_english": "Ministry of Emergency Management",
+      "organization_name_chinese": "応急管理部",
+      "source_pdf_page": 127,
+      "sub_organizations": {
+        "China Earthquake Administration": {
+          "organization_name_english": "China Earthquake Administration",
+          "organization_name_chinese": "中国地震局",
+          "source_pdf_page": 129,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "People's Bank of China": {
+      "organization_name_english": "People's Bank of China",
+      "organization_name_chinese": "中国人民銀行",
+      "source_pdf_page": 129,
+      "sub_organizations": {
+        "Monetary Policy Committee": {
+          "organization_name_english": "Monetary Policy Committee",
+          "organization_name_chinese": "貨幣政策委員会",
+          "source_pdf_page": 131,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "National Audit Office": {
+      "organization_name_english": "National Audit Office",
+      "organization_name_chinese": "審計署",
+      "source_pdf_page": 131,
+      "sub_organizations": {}
+    },
+    "State-owned Assets Supervision and Administration Commission": {
+      "organization_name_english": "State-owned Assets Supervision and Administration Commission",
+      "organization_name_chinese": "国有資產監督管理委員会",
+      "source_pdf_page": 134,
+      "sub_organizations": {}
+    },
+    "General Administration of Customs": {
+      "organization_name_english": "General Administration of Customs",
+      "organization_name_chinese": "海関総署",
+      "source_pdf_page": 136,
+      "sub_organizations": {}
+    },
+    "State Administration of Taxation": {
+      "organization_name_english": "State Administration of Taxation",
+      "organization_name_chinese": "国家税務総局",
+      "source_pdf_page": 137,
+      "sub_organizations": {}
+    },
+    "State Administration for Market Regulation": {
+      "organization_name_english": "State Administration for Market Regulation",
+      "organization_name_chinese": "国家市場監督管理総局",
+      "source_pdf_page": 139,
+      "sub_organizations": {
+        "National Bureau for Anti-Monopoly": {
+          "organization_name_english": "National Bureau for Anti-Monopoly",
+          "organization_name_chinese": "国家反独占局",
+          "source_pdf_page": 142,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "National Financial Regulatory Administration": {
+      "organization_name_english": "National Financial Regulatory Administration",
+      "organization_name_chinese": "国家金融監督管理総局",
+      "source_pdf_page": 142,
+      "sub_organizations": {}
+    },
+    "China Securities Regulatory Commission": {
+      "organization_name_english": "China Securities Regulatory Commission",
+      "organization_name_chinese": "中国証券監督管理委員会",
+      "source_pdf_page": 142,
+      "sub_organizations": {}
+    },
+    "National Radio and Television Administration": {
+      "organization_name_english": "National Radio and Television Administration",
+      "organization_name_chinese": "国家広播電視総局",
+      "source_pdf_page": 144,
+      "sub_organizations": {}
+    },
+    "General Administration of Sport of China": {
+      "organization_name_english": "General Administration of Sport of China",
+      "organization_name_chinese": "国家体育総局",
+      "source_pdf_page": 145,
+      "sub_organizations": {}
+    },
+    "State Bureau for Letters and Calls": {
+      "organization_name_english": "State Bureau for Letters and Calls",
+      "organization_name_chinese": "国家信訪局",
+      "source_pdf_page": 146,
+      "sub_organizations": {}
+    },
+    "National Bureau of Statistics": {
+      "organization_name_english": "National Bureau of Statistics",
+      "organization_name_chinese": "国家統計局",
+      "source_pdf_page": 147,
+      "sub_organizations": {}
+    },
+    "State Intellectual Property Office": {
+      "organization_name_english": "State Intellectual Property Office",
+      "organization_name_chinese": "国家知識產権局",
+      "source_pdf_page": 148,
+      "sub_organizations": {}
+    },
+    "State International Development Cooperation Agency": {
+      "organization_name_english": "State International Development Cooperation Agency",
+      "organization_name_chinese": "国家国際発展合作署",
+      "source_pdf_page": 149,
+      "sub_organizations": {}
+    },
+    "National Healthcare Security Administration": {
+      "organization_name_english": "National Healthcare Security Administration",
+      "organization_name_chinese": "国家医療保障局",
+      "source_pdf_page": 150,
+      "sub_organizations": {}
+    },
+    "Counsellors' Office of State Council": {
+      "organization_name_english": "Counsellors' Office of State Council",
+      "organization_name_chinese": "国務院参事室",
+      "source_pdf_page": 151,
+      "sub_organizations": {}
+    },
+    "National Government Offices Administration": {
+      "organization_name_english": "National Government Offices Administration",
+      "organization_name_chinese": "国家機関事務管理局",
+      "source_pdf_page": 151,
+      "sub_organizations": {}
+    },
+    "Research Office of State Council": {
+      "organization_name_english": "Research Office of State Council",
+      "organization_name_chinese": "国務院研究室",
+      "source_pdf_page": 152,
+      "sub_organizations": {}
+    },
+    "Xinhua News Agency": {
+      "organization_name_english": "Xinhua News Agency",
+      "organization_name_chinese": "新華通訊社",
+      "source_pdf_page": 153,
+      "sub_organizations": {}
+    },
+    "Chinese Academy of Sciences": {
+      "organization_name_english": "Chinese Academy of Sciences",
+      "organization_name_chinese": "中国科学院",
+      "source_pdf_page": 153,
+      "sub_organizations": {}
+    },
+    "Chinese Academy of Social Sciences": {
+      "organization_name_english": "Chinese Academy of Social Sciences",
+      "organization_name_chinese": "中国社会科学院",
+      "source_pdf_page": 153,
+      "sub_organizations": {}
+    },
+    "Chinese Academy of Engineering": {
+      "organization_name_english": "Chinese Academy of Engineering",
+      "organization_name_chinese": "中国工程院",
+      "source_pdf_page": 153,
+      "sub_organizations": {}
+    },
+    "Development Research Center of State Council": {
+      "organization_name_english": "Development Research Center of State Council",
+      "organization_name_chinese": "国務院発展研究中心",
+      "source_pdf_page": 153,
+      "sub_organizations": {}
+    },
+    "China Media Group (\"Voice of China\")": {
+      "organization_name_english": "China Media Group (\"Voice of China\")",
+      "organization_name_chinese": "中央広播電視総台(「中国の声」)",
+      "source_pdf_page": 154,
+      "sub_organizations": {}
+    },
+    "China Meteorological Administration": {
+      "organization_name_english": "China Meteorological Administration",
+      "organization_name_chinese": "中国気象局",
+      "source_pdf_page": 155,
+      "sub_organizations": {
+        "National Climate Center": {
+          "organization_name_english": "National Climate Center",
+          "organization_name_chinese": "国家気候中心",
+          "source_pdf_page": 156,
+          "sub_organizations": {}
+        },
+        "State Satellite Meteorological Center": {
+          "organization_name_english": "State Satellite Meteorological Center",
+          "organization_name_chinese": "国家衛星気象中心",
+          "source_pdf_page": 156,
+          "sub_organizations": {}
+        }
+      }
+    }
+  }
+}

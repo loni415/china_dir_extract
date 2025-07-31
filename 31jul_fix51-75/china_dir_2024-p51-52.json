@@ -1,0 +1,879 @@
+[
+{
+  "source_pdf_page": 44,
+  "organization_name_english": "NATIONAL PEOPLE'S CONGRESS",
+  "organization_name_chinese": "全人代",
+  "metadata": {
+    "warnings": []
+  },
+  "positions": [],
+  "sub_organizations": [
+    {
+      "source_pdf_page": 50,
+      "organization_name_english": "Special Committees",
+      "organization_name_chinese": "N. P. C.",
+      "metadata": {
+        "warnings": []
+      },
+      "positions": [],
+      "sub_organizations": [
+        {
+          "source_pdf_page": 51,
+          "organization_name_english": "Education, Science, Culture & Public Health Committee",
+          "organization_name_chinese": "教育科学文化衛生委員会",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Chairperson",
+              "title_chinese": "主任委員",
+              "personnel": [
+                {
+                  "name_pinyin": "Luo Shugang",
+                  "name_chinese": "雒樹剛",
+                  "raw_cn_jp_entry": "雒樹剛(55.5)",
+                  "assumed_office_date": "2023-03-12",
+                  "birth_year": 1955,
+                  "birth_month": 5,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            },
+            {
+              "title_english": "Vice Chairpersons",
+              "title_chinese": "副主任委員",
+              "personnel": [
+                {
+                  "name_pinyin": "Zheng Weiping",
+                  "name_chinese": "鄭衛平",
+                  "raw_cn_jp_entry": "鄭衛平(上将)",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": "Gen",
+                  "rank_chinese": "上将"
+                },
+                {
+                  "name_pinyin": "Xu Dazhe",
+                  "name_chinese": "許達",
+                  "raw_cn_jp_entry": "許達",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Hou Jianguo",
+                  "name_chinese": "侯建国",
+                  "raw_cn_jp_entry": "◎侯建国",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": "◎",
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Li Jinghai",
+                  "name_chinese": "李静海",
+                  "raw_cn_jp_entry": "李静海",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Zhang Daohong",
+                  "name_chinese": "張道宏",
+                  "raw_cn_jp_entry": "張道宏",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Tian Xuejun",
+                  "name_chinese": "田学軍",
+                  "raw_cn_jp_entry": "田学軍",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Gu Xiaoyu",
+                  "name_chinese": "古小玉",
+                  "raw_cn_jp_entry": "古小玉",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Yang Guanlin",
+                  "name_chinese": "楊関林",
+                  "raw_cn_jp_entry": "楊関林",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Wang Xiqin",
+                  "name_chinese": "王希勤",
+                  "raw_cn_jp_entry": "王希勤",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 51,
+          "organization_name_english": "Foreign Affairs Committee",
+          "organization_name_chinese": "外事委員会",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Chairperson",
+              "title_chinese": "主任委員",
+              "personnel": [
+                {
+                  "name_pinyin": "Lou Qinjian",
+                  "name_chinese": "婁勤",
+                  "raw_cn_jp_entry": "婁勤 (56.12)",
+                  "assumed_office_date": "2023-03-12",
+                  "birth_year": 1956,
+                  "birth_month": 12,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            },
+            {
+              "title_english": "Vice Chairpersons",
+              "title_chinese": "副主任委員",
+              "personnel": [
+                {
+                  "name_pinyin": "Fu Ziying",
+                  "name_chinese": "傅自応",
+                  "raw_cn_jp_entry": "傅自応",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Zhou Yaning",
+                  "name_chinese": "周亜寧",
+                  "raw_cn_jp_entry": "周亜寧(上将)",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": "Gen",
+                  "rank_chinese": "上将"
+                },
+                {
+                  "name_pinyin": "Hao Ping",
+                  "name_chinese": "郝平",
+                  "raw_cn_jp_entry": "郝 平",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Wang Chao",
+                  "name_chinese": "王超",
+                  "raw_cn_jp_entry": "王超",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Guo Lei",
+                  "name_chinese": "郭雷",
+                  "raw_cn_jp_entry": "郭 雷",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Xu Ganlu",
+                  "name_chinese": "許甘露",
+                  "raw_cn_jp_entry": "許甘露",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Wang Ke",
+                  "name_chinese": "王可",
+                  "raw_cn_jp_entry": "王 可",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 51,
+          "organization_name_english": "Overseas Chinese Affairs Committee",
+          "organization_name_chinese": "華僑委員会",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Chairperson",
+              "title_chinese": "主任委員",
+              "personnel": [
+                {
+                  "name_pinyin": "Yu Weiguo",
+                  "name_chinese": "于偉国",
+                  "raw_cn_jp_entry": "于偉国(55.10)",
+                  "assumed_office_date": "2023-03-12",
+                  "birth_year": 1955,
+                  "birth_month": 10,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            },
+            {
+              "title_english": "Vice Chairpersons",
+              "title_chinese": "副主任委員",
+              "personnel": [
+                {
+                  "name_pinyin": "Huang Zhixian",
+                  "name_chinese": "黄志賢",
+                  "raw_cn_jp_entry": "黄志賢",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Li Yumei",
+                  "name_chinese": "李玉妹",
+                  "raw_cn_jp_entry": "李玉妹(女)",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "female",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Wan Lijun",
+                  "name_chinese": "万立駿",
+                  "raw_cn_jp_entry": "◎万立駿",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": "◎",
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Ding Laihang",
+                  "name_chinese": "丁来杭",
+                  "raw_cn_jp_entry": "丁来杭(上将)",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": "Gen",
+                  "rank_chinese": "上将"
+                },
+                {
+                  "name_pinyin": "Zheng Jianmin",
+                  "name_chinese": "鄭建閩",
+                  "raw_cn_jp_entry": "鄭建閩",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Cao Hongming",
+                  "name_chinese": "曹鴻鳴",
+                  "raw_cn_jp_entry": "曹鴻鳴",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 51,
+          "organization_name_english": "Environment Protection and Resources Conservation Committee",
+          "organization_name_chinese": "環境与資源保護委員会",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Chairperson",
+              "title_chinese": "主任委員",
+              "personnel": [
+                {
+                  "name_pinyin": "Lu Xinshe",
+                  "name_chinese": "鹿心社",
+                  "raw_cn_jp_entry": "鹿心社(56.11)",
+                  "assumed_office_date": "2023-03-12",
+                  "birth_year": 1956,
+                  "birth_month": 11,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            },
+            {
+              "title_english": "Vice Chairpersons",
+              "title_chinese": "副主任委員",
+              "personnel": [
+                {
+                  "name_pinyin": "Yue Jingping",
+                  "name_chinese": "鄂竞平",
+                  "raw_cn_jp_entry": "鄂竞平",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Yu Zhongfu",
+                  "name_chinese": "于忠福",
+                  "raw_cn_jp_entry": "于忠福(上将)",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": "Gen",
+                  "rank_chinese": "上将"
+                },
+                {
+                  "name_pinyin": "Li Jinbin",
+                  "name_chinese": "李錦斌",
+                  "raw_cn_jp_entry": "李錦斌",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Buxiaolin",
+                  "name_chinese": "布小林",
+                  "raw_cn_jp_entry": "布小林(女)",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "female",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Lu Zhongmei",
+                  "name_chinese": "呂忠梅",
+                  "raw_cn_jp_entry": "呂忠梅(女)",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "female",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Wang Hong",
+                  "name_chinese": "王宏",
+                  "raw_cn_jp_entry": "王 宏",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Lu Caixia",
+                  "name_chinese": "呂彩霞",
+                  "raw_cn_jp_entry": "呂彩霞(女)",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "female",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 52,
+          "organization_name_english": "Agriculture and Rural Affairs Committee",
+          "organization_name_chinese": "農業与農村委員会",
+          "metadata": {
+            "warnings": [
+              "Chinese name for 'Fan Xiaojun' appears to be incomplete in source document, captured as '駿'."
+            ]
+          },
+          "positions": [
+            {
+              "title_english": "Chairperson",
+              "title_chinese": "主任委員",
+              "personnel": [
+                {
+                  "name_pinyin": "Du Jiahao",
+                  "name_chinese": "杜家毫",
+                  "raw_cn_jp_entry": "杜家毫(55.7)",
+                  "assumed_office_date": "2023-03-12",
+                  "birth_year": 1955,
+                  "birth_month": 7,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            },
+            {
+              "title_english": "Vice Chairpersons",
+              "title_chinese": "副主任委員",
+              "personnel": [
+                {
+                  "name_pinyin": "Li Jiheng",
+                  "name_chinese": "李紀恒",
+                  "raw_cn_jp_entry": "李紀恒",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Fan Xiaojun",
+                  "name_chinese": "駿",
+                  "raw_cn_jp_entry": "駿(上将)",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": "Gen",
+                  "rank_chinese": "上将"
+                },
+                {
+                  "name_pinyin": "Duan Chunhua",
+                  "name_chinese": "段春華",
+                  "raw_cn_jp_entry": "段春華",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Tang Huajun",
+                  "name_chinese": "唐華俊",
+                  "raw_cn_jp_entry": "唐華俊",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 52,
+          "organization_name_english": "Social Building Committee",
+          "organization_name_chinese": "社会建設委員会",
+          "metadata": {
+            "warnings": [
+              "The name 'Li Yong' was present in the Pinyin list but absent from the Chinese list and appears to be a transcription error for 'Liu Wei'. 'Li Yong' was omitted from the final output."
+            ]
+          },
+          "positions": [
+            {
+              "title_english": "Chairperson",
+              "title_chinese": "主任委員",
+              "personnel": [
+                {
+                  "name_pinyin": "Yang Zhenwu",
+                  "name_chinese": "楊振武",
+                  "raw_cn_jp_entry": "楊振武(55. 5)",
+                  "assumed_office_date": "2023-03-12",
+                  "birth_year": 1955,
+                  "birth_month": 5,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            },
+            {
+              "title_english": "Vice Chairpersons",
+              "title_chinese": "副主任委員",
+              "personnel": [
+                {
+                  "name_pinyin": "Jiang Chaoliang",
+                  "name_chinese": "蒋超良",
+                  "raw_cn_jp_entry": "蒋超良",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Jiang Jinquan",
+                  "name_chinese": "江金権",
+                  "raw_cn_jp_entry": "江金権",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Wang Gang",
+                  "name_chinese": "王剛",
+                  "raw_cn_jp_entry": "王剛",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Deng Xiuxin",
+                  "name_chinese": "鄧秀新",
+                  "raw_cn_jp_entry": "鄧秀新",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Yuan Yubai",
+                  "name_chinese": "袁誉柏",
+                  "raw_cn_jp_entry": "袁誉柏(上将)",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": "Adm",
+                  "rank_chinese": "上将"
+                },
+                {
+                  "name_pinyin": "Song Xiuyan",
+                  "name_chinese": "宋秀岩",
+                  "raw_cn_jp_entry": "宋秀岩(女)",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "female",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Qin Shengxiang",
+                  "name_chinese": "秦生祥",
+                  "raw_cn_jp_entry": "秦生祥(上将)",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": "Adm",
+                  "rank_chinese": "上将"
+                },
+                {
+                  "name_pinyin": "Jing Hanchao",
+                  "name_chinese": "景漢朝",
+                  "raw_cn_jp_entry": "景漢朝",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Tan Tianxing",
+                  "name_chinese": "譚天星",
+                  "raw_cn_jp_entry": "譚天星",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Sun Jusheng",
+                  "name_chinese": "孫菊生",
+                  "raw_cn_jp_entry": "孫菊生",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Liu Wei",
+                  "name_chinese": "劉偉",
+                  "raw_cn_jp_entry": "劉 偉",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                },
+                {
+                  "name_pinyin": "Wang Tiemin",
+                  "name_chinese": "汪鉄民",
+                  "raw_cn_jp_entry": "汪鉄民",
+                  "assumed_office_date": null,
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        }
+      ]
+    }
+  ]
+}
