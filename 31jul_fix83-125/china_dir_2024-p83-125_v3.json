@@ -2522,7 +2522,7 @@
         },
         {
           "source_pdf_page": 89,
-          "organization_name_english": "Party-related Affairs Committee (Department for Diplomatic Missions Abroad)",
+          "organization_name_english": "Party-related Affairs Committee",
           "organization_name_chinese": "機関党委員会(部党委国外工作局)",
           "metadata": {
             "warnings": []
@@ -5926,54 +5926,6 @@
           "source_pdf_page": 98,
           "organization_name_english": "Personnel and Education Department",
           "organization_name_chinese": "人事教育司",
-          "metadata": {
-            "warnings": []
-          },
-          "positions": [
-            {
-              "title_english": "Director",
-              "title_chinese": "司長",
-              "personnel": []
-            }
-          ],
-          "sub_organizations": []
-        },
-        {
-          "source_pdf_page": 99,
-          "organization_name_english": "Department of High and New Technology",
-          "organization_name_chinese": "高新技術司",
-          "metadata": {
-            "warnings": []
-          },
-          "positions": [
-            {
-              "title_english": "Director",
-              "title_chinese": "司長",
-              "personnel": []
-            }
-          ],
-          "sub_organizations": []
-        },
-        {
-          "source_pdf_page": 99,
-          "organization_name_english": "Department of High and New Technology",
-          "organization_name_chinese": "高新技術司",
-          "metadata": {
-            "warnings": []
-          },
-          "positions": [
-            {
-              "title_english": "Director",
-              "title_chinese": "司長",
-              "personnel": []
-            }
-          ],
-          "sub_organizations": []
-        },
-        {
-          "source_pdf_page": 99,
-          "organization_name_english": "Department of Research Commercialization & Regional Innovation",
-          "organization_name_chinese": "成果転化与区域創新司",
           "metadata": {
             "warnings": []
           },
@@ -11982,7 +11934,7 @@
         }
       ]
     },
-    {
+{
       "source_pdf_page": 115,
       "organization_name_english": "Ministry of Housing & Urban-Rural Development",
       "organization_name_chinese": "住房和城鄉建設部",
@@ -12243,398 +12195,346 @@
               "personnel": [
                 {
                   "name_pinyin": "Zhang Qiguang",
-"name_chinese": "張其光",
-"raw_cn_jp_entry": "張其光",
-"assumed_office_date": "2020-05",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 115,
-"organization_name_english": "Construction Market Management Department",
-"organization_name_chinese": "建築市場監管司",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "司長",
-"personnel": [
-{
-"name_pinyin": "Zeng Xianxin",
-"name_chinese": "曾憲新",
-"raw_cn_jp_entry": "曾憲新",
-"assumed_office_date": "2022-03",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 115,
-"organization_name_english": "Urban Development Department",
-"organization_name_chinese": "城市建設司",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "司長",
-"personnel": [
-{
-"name_pinyin": "Hu Zijian",
-"name_chinese": "胡子健",
-"raw_cn_jp_entry": "胡子健",
-"assumed_office_date": "2022-12",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 115,
-"organization_name_english": "Rural Development Department",
-"organization_name_chinese": "村鎮建設司",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "司長",
-"personnel": [
-{
-"name_pinyin": "Qin Haixiang",
-"name_chinese": "秦海翔",
-"raw_cn_jp_entry": "秦海翔(69.7)",
-"assumed_office_date": "2022-02",
-"birth_year": 1969,
-"birth_month": 7,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 115,
-"organization_name_english": "Project Quality, Safety Supervision Department",
-"organization_name_chinese": "工程質量安全監管司",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "司長",
-"personnel": [
-{
-"name_pinyin": "Qu Qi",
-"name_chinese": "曲琦",
-"raw_cn_jp_entry": "曲 琦",
-"assumed_office_date": "2019-11",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-}
-]
-},
-{
-"source_pdf_page": 116,
-"organization_name_english": "Ministry of Transport",
-"organization_name_chinese": "交通運輸部",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Minister",
-"title_chinese": "部長",
-"personnel": [
-{
-"name_pinyin": "Li Xiaopeng",
-"name_chinese": "李小鵬",
-"raw_cn_jp_entry": "李小鵬(59.6)",
-"assumed_office_date": "2016-09-03",
-"birth_year": 1959,
-"birth_month": 6,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Vice Ministers",
-"title_chinese": "副部長",
-"personnel": [
-{
-"name_pinyin": "Xu Chengguang",
-"name_chinese": "徐成光",
-"raw_cn_jp_entry": "徐成光(67.4)",
-"assumed_office_date": "2022-04-28",
-"birth_year": 1967,
-"birth_month": 4,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Fu Xuyin",
-"name_chinese": "付緒銀",
-"raw_cn_jp_entry": "付緒銀(65.5)",
-"assumed_office_date": "2022-11-25",
-"birth_year": 1965,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Wang Gang",
-"name_chinese": "王剛",
-"raw_cn_jp_entry": "王 剛(71.1)",
-"assumed_office_date": "2023-04-30",
-"birth_year": 1971,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Li Yang",
-"name_chinese": "李揚",
-"raw_cn_jp_entry": "李 揚(69.12)",
-"assumed_office_date": "2023-08-30",
-"birth_year": 1969,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": [
-{
-"source_pdf_page": 116,
-"organization_name_english": "Building Energy Efficiency & Technology Department",
-"organization_name_chinese": "建築節能与科技司",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "司長",
-"personnel": [
-{
-"name_pinyin": "Su Yunshan",
-"name_chinese": "蘇蘊山",
-"raw_cn_jp_entry": "蘇蘊山",
-"assumed_office_date": "2021-06",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 116,
-"organization_name_english": "Public Housing Reserve Supervision Department",
-"organization_name_chinese": "住房公積金監管司",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "司長",
-"personnel": [
-{
-"name_pinyin": "Yang Jiayan",
-"name_chinese": "楊佳燕",
-"raw_cn_jp_entry": "楊佳燕",
-"assumed_office_date": "2020-04",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 116,
-"organization_name_english": "Urban Administration and Supervision Bureau",
-"organization_name_chinese": "城市管理監督局",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "局長",
-"personnel": [
-{
-"name_pinyin": "Wang Ruichun",
-"name_chinese": "王瑞春",
-"raw_cn_jp_entry": "王瑞春",
-"assumed_office_date": "2021-07",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 116,
-"organization_name_english": "Planning, Financial & Foreign Affairs Department",
-"organization_name_chinese": "計画財務与外事司",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "司長",
-"personnel": [
-{
-"name_pinyin": "Song Youchun",
-"name_chinese": "宋友春",
-"raw_cn_jp_entry": "宋友春",
-"assumed_office_date": "2023-04",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 116,
-"organization_name_english": "Personnel Department",
-"organization_name_chinese": "人事司",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "司長",
-"personnel": [
-{
-"name_pinyin": "Jiang Xiaoqun",
-"name_chinese": "江小群",
-"raw_cn_jp_entry": "江小群",
-"assumed_office_date": "2016-04",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-}
-]
-},
+                  "name_chinese": "張其光",
+                  "raw_cn_jp_entry": "張其光",
+                  "assumed_office_date": "2020-05",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 115,
+          "organization_name_english": "Construction Market Management Department",
+          "organization_name_chinese": "建築市場監管司",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "司長",
+              "personnel": [
+                {
+                  "name_pinyin": "Zeng Xianxin",
+                  "name_chinese": "曾憲新",
+                  "raw_cn_jp_entry": "曾憲新",
+                  "assumed_office_date": "2022-03",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 115,
+          "organization_name_english": "Urban Development Department",
+          "organization_name_chinese": "城市建設司",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "司長",
+              "personnel": [
+                {
+                  "name_pinyin": "Hu Zijian",
+                  "name_chinese": "胡子健",
+                  "raw_cn_jp_entry": "胡子健",
+                  "assumed_office_date": "2022-12",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 115,
+          "organization_name_english": "Rural Development Department",
+          "organization_name_chinese": "村鎮建設司",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "司長",
+              "personnel": [
+                {
+                  "name_pinyin": "Qin Haixiang",
+                  "name_chinese": "秦海翔",
+                  "raw_cn_jp_entry": "秦海翔(69.7)",
+                  "assumed_office_date": "2022-02",
+                  "birth_year": 1969,
+                  "birth_month": 7,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 115,
+          "organization_name_english": "Project Quality, Safety Supervision Department",
+          "organization_name_chinese": "工程質量安全監管司",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "司長",
+              "personnel": [
+                {
+                  "name_pinyin": "Qu Qi",
+                  "name_chinese": "曲琦",
+                  "raw_cn_jp_entry": "曲 琦",
+                  "assumed_office_date": "2019-11",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 116,
+          "organization_name_english": "Building Energy Efficiency & Technology Department",
+          "organization_name_chinese": "建築節能与科技司",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "司長",
+              "personnel": [
+                {
+                  "name_pinyin": "Su Yunshan",
+                  "name_chinese": "蘇蘊山",
+                  "raw_cn_jp_entry": "蘇蘊山",
+                  "assumed_office_date": "2021-06",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 116,
+          "organization_name_english": "Public Housing Reserve Supervision Department",
+          "organization_name_chinese": "住房公積金監管司",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "司長",
+              "personnel": [
+                {
+                  "name_pinyin": "Yang Jiayan",
+                  "name_chinese": "楊佳燕",
+                  "raw_cn_jp_entry": "楊佳燕",
+                  "assumed_office_date": "2020-04",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 116,
+          "organization_name_english": "Urban Administration and Supervision Bureau",
+          "organization_name_chinese": "城市管理監督局",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "局長",
+              "personnel": [
+                {
+                  "name_pinyin": "Wang Ruichun",
+                  "name_chinese": "王瑞春",
+                  "raw_cn_jp_entry": "王瑞春",
+                  "assumed_office_date": "2021-07",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 116,
+          "organization_name_english": "Planning, Financial & Foreign Affairs Department",
+          "organization_name_chinese": "計画財務与外事司",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "司長",
+              "personnel": [
+                {
+                  "name_pinyin": "Song Youchun",
+                  "name_chinese": "宋友春",
+                  "raw_cn_jp_entry": "宋友春",
+                  "assumed_office_date": "2023-04",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 116,
+          "organization_name_english": "Personnel Department",
+          "organization_name_chinese": "人事司",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "司長",
+              "personnel": [
+                {
+                  "name_pinyin": "Jiang Xiaoqun",
+                  "name_chinese": "江小群",
+                  "raw_cn_jp_entry": "江小群",
+                  "assumed_office_date": "2016-04",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        }
+      ]
+    },
+    {
+      "source_pdf_page": 116,
+      "organization_name_english": "Ministry of Transport",
+      "organization_name_chinese": "交通運輸部",
+      "metadata": {
+        "warnings": []
+      },
+      "positions": [],
+      "sub_organizations": [
+        {
+          "source_pdf_page": 117,
+          "organization_name_english": "PRC Maritime Safety Administration",
+          "organization_name_chinese": "中国海事局",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "局長",
+              "personnel": [
+                {
+                  "name_pinyin": "Fu Xuyin",
+                  "name_chinese": "付緒銀",
+                  "raw_cn_jp_entry": "付緒銀(65.5)",
+                  "assumed_office_date": "2023-05",
+                  "birth_year": 1965,
+                  "birth_month": 5,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        }
+      ]
+    },
 {
 "source_pdf_page": 117,
 "organization_name_english": "Ministry of Water Resources",
@@ -12740,39 +12640,7 @@
 ]
 }
 ],
-"sub_organizations": [
-{
-"source_pdf_page": 117,
-"organization_name_english": "PRC Maritime Safety Administration",
-"organization_name_chinese": "中国海事局",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "局長",
-"personnel": [
-{
-"name_pinyin": "Fu Xuyin",
-"name_chinese": "付緒銀",
-"raw_cn_jp_entry": "付緒銀(65.5)",
-"assumed_office_date": "2023-05",
-"birth_year": 1965,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
 "sub_organizations": []
-}
-]
 },
 {
 "source_pdf_page": 119,
@@ -13051,433 +12919,507 @@
 ],
 "sub_organizations": []
 },
-{
-"source_pdf_page": 123,
-"organization_name_english": "Ministry of Culture and Tourism",
-"organization_name_chinese": "文化和旅遊部",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Group Secretary",
-"title_chinese": "党組書記",
-"personnel": [
-{
-"name_pinyin": "Sun Yeli",
-"name_chinese": "孫業礼",
-"raw_cn_jp_entry": "孫業礼(64.12)",
-"assumed_office_date": "2023-11",
-"birth_year": 1964,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
+    {
+      "source_pdf_page": 123,
+      "organization_name_english": "Ministry of Culture and Tourism",
+      "organization_name_chinese": "文化和旅遊部",
+      "metadata": {
+        "warnings": []
+      },
+      "positions": [
+        {
+          "title_english": "Party Group Secretary",
+          "title_chinese": "党組書記",
+          "personnel": [
+            {
+              "name_pinyin": "Sun Yeli",
+              "name_chinese": "孫業礼",
+              "raw_cn_jp_entry": "孫業礼(64.12)",
+              "assumed_office_date": "2023-11",
+              "birth_year": 1964,
+              "birth_month": 12,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null
+            }
+          ]
+        },
+        {
+          "title_english": "Minister",
+          "title_chinese": "部長",
+          "personnel": []
+        },
+        {
+          "title_english": "Vice Ministers",
+          "title_chinese": "副部長",
+          "personnel": [
+            {
+              "name_pinyin": "Li Qun",
+              "name_chinese": "李群",
+              "raw_cn_jp_entry": "李 群(62.2)",
+              "assumed_office_date": "2018-03-20",
+              "birth_year": 1962,
+              "birth_month": 2,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null
+            },
+            {
+              "name_pinyin": "Lu Yingchuan",
+              "name_chinese": "盧映川",
+              "raw_cn_jp_entry": "盧映川(68.5)",
+              "assumed_office_date": "2021-10-15",
+              "birth_year": 1968,
+              "birth_month": 5,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null
+            },
+            {
+              "name_pinyin": "Du Jiang",
+              "name_chinese": "杜江",
+              "raw_cn_jp_entry": "杜 江(64.11)",
+              "assumed_office_date": "2020-12-11",
+              "birth_year": 1964,
+              "birth_month": 11,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null
+            },
+            {
+              "name_pinyin": "Rao Quan",
+              "name_chinese": "饒権",
+              "raw_cn_jp_entry": "饒 権(66.3)",
+              "assumed_office_date": "2021-05-24",
+              "birth_year": 1966,
+              "birth_month": 3,
+              "birth_day": null,
+              "cross_reference_symbol": null,
+              "gender": "male",
+              "ethnicity": "Han",
+              "rank_english": null,
+              "rank_chinese": null
+            }
+          ]
+        }
+      ],
+      "sub_organizations": [
+        {
+          "source_pdf_page": 124,
+          "organization_name_english": "General Office",
+          "organization_name_chinese": "辦公庁",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "主任",
+              "personnel": [
+                {
+                  "name_pinyin": "Zhang Yongxin",
+                  "name_chinese": "張永新",
+                  "raw_cn_jp_entry": "張永新",
+                  "assumed_office_date": "2021-07",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 124,
+          "organization_name_english": "Policy and Law Department",
+          "organization_name_chinese": "政策法規司",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "司長",
+              "personnel": [
+                {
+                  "name_pinyin": "Cai Ping",
+                  "name_chinese": "蔡萍",
+                  "raw_cn_jp_entry": "蔡 萍",
+                  "assumed_office_date": "2023-04",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 124,
+          "organization_name_english": "Personnel Department",
+          "organization_name_chinese": "人事司",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "司長",
+              "personnel": [
+                {
+                  "name_pinyin": "Wang Jianhua",
+                  "name_chinese": "王建華",
+                  "raw_cn_jp_entry": "王建華",
+                  "assumed_office_date": "2023-06",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 124,
+          "organization_name_english": "Financial Affairs Department",
+          "organization_name_chinese": "財務司",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "司長",
+              "personnel": [
+                {
+                  "name_pinyin": "Ma Qinlin",
+                  "name_chinese": "馬秦臨",
+                  "raw_cn_jp_entry": "馬秦臨(女)",
+                  "assumed_office_date": "2018-05",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "female",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 124,
+          "organization_name_english": "Arts Department",
+          "organization_name_chinese": "藝術司",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "司長",
+              "personnel": [
+                {
+                  "name_pinyin": "Ming Wenjun",
+                  "name_chinese": "明文軍",
+                  "raw_cn_jp_entry": "明文軍",
+                  "assumed_office_date": "2020-11",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 124,
+          "organization_name_english": "Public Services Department",
+          "organization_name_chinese": "公共服務司",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "司長",
+              "personnel": [
+                {
+                  "name_pinyin": "Chen Binbin",
+                  "name_chinese": "陳彬斌",
+                  "raw_cn_jp_entry": "陳彬斌",
+                  "assumed_office_date": "2023-07",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 124,
+          "organization_name_english": "Science, Technology and Education Department",
+          "organization_name_chinese": "科技教育司",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "司長",
+              "personnel": [
+                {
+                  "name_pinyin": "Tao Cheng",
+                  "name_chinese": "陶誠",
+                  "raw_cn_jp_entry": "陶 誠",
+                  "assumed_office_date": "2022-06",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 124,
+          "organization_name_english": "Intangible Cultural Heritage Department",
+          "organization_name_chinese": "非物質文化遺産司",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "司長",
+              "personnel": [
+                {
+                  "name_pinyin": "Wang Chenyang",
+                  "name_chinese": "王晨陽",
+                  "raw_cn_jp_entry": "王晨陽(66.11)",
+                  "assumed_office_date": "2021-06",
+                  "birth_year": 1966,
+                  "birth_month": 11,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 124,
+          "organization_name_english": "Industry Development Department",
+          "organization_name_chinese": "産業発展司",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "司長",
+              "personnel": [
+                {
+                  "name_pinyin": "Miao Muyang",
+                  "name_chinese": "繆沐陽",
+                  "raw_cn_jp_entry": "繆沐陽",
+                  "assumed_office_date": "2022-01",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 124,
+          "organization_name_english": "Resources Development Department",
+          "organization_name_chinese": "資源開発司",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "司長",
+              "personnel": [
+                {
+                  "name_pinyin": "Shan Gangxin",
+                  "name_chinese": "単鋼新",
+                  "raw_cn_jp_entry": "単鋼新",
+                  "assumed_office_date": "2020-07",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 124,
+          "organization_name_english": "Market Management Department",
+          "organization_name_chinese": "市場管理司",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "司長",
+              "personnel": [
+                {
+                  "name_pinyin": "Hou Zhengang",
+                  "name_chinese": "侯振剛",
+                  "raw_cn_jp_entry": "侯振剛",
+                  "assumed_office_date": "2021-06",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 124,
+          "organization_name_english": "Comprehensive Law Enforcement and Supervision Bureau of Cultural Market",
+          "organization_name_chinese": "文化市場綜合執法監督局",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "局長",
+              "personnel": [
+                {
+                  "name_pinyin": "Wu Jiangbo",
+                  "name_chinese": "吳江波",
+                  "raw_cn_jp_entry": "吳江波",
+                  "assumed_office_date": "2019-01",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        },
+        {
+          "source_pdf_page": 124,
+          "organization_name_english": "International Exchange & Cooperation Bureau",
+          "organization_name_chinese": "国際交流与合作局",
+          "metadata": {
+            "warnings": []
+          },
+          "positions": [
+            {
+              "title_english": "Director",
+              "title_chinese": "局長",
+              "personnel": [
+                {
+                  "name_pinyin": "Gao Zheng",
+                  "name_chinese": "高政",
+                  "raw_cn_jp_entry": "高 政",
+                  "assumed_office_date": "2022-02",
+                  "birth_year": null,
+                  "birth_month": null,
+                  "birth_day": null,
+                  "cross_reference_symbol": null,
+                  "gender": "male",
+                  "ethnicity": "Han",
+                  "rank_english": null,
+                  "rank_chinese": null
+                }
+              ]
+            }
+          ],
+          "sub_organizations": []
+        }
+      ]
+    }
+  ]
 }
-]
-},
-{
-"title_english": "Minister",
-"title_chinese": "部長",
-"personnel": []
-},
-{
-"title_english": "Vice Ministers",
-"title_chinese": "副部長",
-"personnel": [
-{
-"name_pinyin": "Li Qun",
-"name_chinese": "李群",
-"raw_cn_jp_entry": "李 群(62.2)",
-"assumed_office_date": "2018-03-20",
-"birth_year": 1962,
-"birth_month": 2,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Lu Yingchuan",
-"name_chinese": "盧映川",
-"raw_cn_jp_entry": "盧映川(68.5)",
-"assumed_office_date": "2021-10-15",
-"birth_year": 1968,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Du Jiang",
-"name_chinese": "杜江",
-"raw_cn_jp_entry": "杜 江(64.11)",
-"assumed_office_date": "2020-12-11",
-"birth_year": 1964,
-"birth_month": 11,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Rao Quan",
-"name_chinese": "饒権",
-"raw_cn_jp_entry": "饒 権(66.3)",
-"assumed_office_date": "2021-05-24",
-"birth_year": 1966,
-"birth_month": 3,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 125,
-"organization_name_english": "National Health Commission",
-"organization_name_chinese": "国家衛生健康委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Minister",
-"title_chinese": "主任",
-"personnel": [
-{
-"name_pinyin": "Ma Xiaowei",
-"name_chinese": "馬曉偉",
-"raw_cn_jp_entry": "◎馬曉偉(59.12)",
-"assumed_office_date": "2018-03-19",
-"birth_year": 1959,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": "◎",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Vice Ministers",
-"title_chinese": "副主任",
-"personnel": [
-{
-"name_pinyin": "Li Bin",
-"name_chinese": "李斌",
-"raw_cn_jp_entry": "李 斌(63.4)",
-"assumed_office_date": "2020-02-09",
-"birth_year": 1963,
-"birth_month": 4,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Zeng Yixin",
-"name_chinese": "曾益新",
-"raw_cn_jp_entry": "◎曾益新(62.10)",
-"assumed_office_date": "2018-02",
-"birth_year": 1962,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": "◎",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Lei Haichao",
-"name_chinese": "雷海潮",
-"raw_cn_jp_entry": "雷海潮(68.4)",
-"assumed_office_date": "2020-10-21",
-"birth_year": 1968,
-"birth_month": 4,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Cao Xuetao",
-"name_chinese": "曹雪涛",
-"raw_cn_jp_entry": "曹雪涛(64.7)",
-"assumed_office_date": "2022-07-25",
-"birth_year": 1964,
-"birth_month": 7,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Yu Yanhong",
-"name_chinese": "于学軍",
-"raw_cn_jp_entry": "于学軍(女/中医薬局長 63.6)",
-"assumed_office_date": "2018-06",
-"birth_year": 1963,
-"birth_month": 6,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": "Director of the State Administration of Traditional Chinese Medicine",
-"rank_chinese": "中医薬局長"
-}
-]
-}
-],
-"sub_organizations": [
-{
-"source_pdf_page": 125,
-"organization_name_english": "General Office",
-"organization_name_chinese": "辦公庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "主任",
-"personnel": [
-{
-"name_pinyin": "Nie Chunlei",
-"name_chinese": "聶春雷",
-"raw_cn_jp_entry": "聶春雷",
-"assumed_office_date": "2022-09",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 125,
-"organization_name_english": "Department of Policies and Regulations",
-"organization_name_chinese": "法規司",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "司長",
-"personnel": []
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 125,
-"organization_name_english": "Department of System Reform",
-"organization_name_chinese": "体制改革司",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "司長",
-"personnel": [
-{
-"name_pinyin": "Xu Shuqiang",
-"name_chinese": "許樹強",
-"raw_cn_jp_entry": "許樹強",
-"assumed_office_date": "2018-09",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 125,
-"organization_name_english": "Planning, Development and Information Department",
-"organization_name_chinese": "規画発展与信息化司",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "司長",
-"personnel": [
-{
-"name_pinyin": "Mao Qunan",
-"name_chinese": "毛群安",
-"raw_cn_jp_entry": "毛群安",
-"assumed_office_date": "2018-09",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 125,
-"organization_name_english": "Health Emergency Response Office (Leading Office of Public Health Emergency Command)",
-"organization_name_chinese": "衛生応急辦公室(突発公共衛生事件応急指揮中心)",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "主任",
-"personnel": [
-{
-"name_pinyin": "Guo Yanhong",
-"name_chinese": "郭燕紅",
-"raw_cn_jp_entry": "郭燕紅(女)",
-"assumed_office_date": "2023-01",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 125,
-"organization_name_english": "Finance Department",
-"organization_name_chinese": "財務司",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "司長",
-"personnel": [
-{
-"name_pinyin": "He Jinguo",
-"name_chinese": "何錦国",
-"raw_cn_jp_entry": "何錦国",
-"assumed_office_date": "2020-03",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 125,
-"organization_name_english": "Personnel Department",
-"organization_name_chinese": "人事司",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "司長",
-"personnel": [
-{
-"name_pinyin": "Li Zhongyu",
-"name_chinese": "李忠宇",
-"raw_cn_jp_entry": "李忠宇",
-"assumed_office_date": "2023-11",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 125,
-"organization_name_english": "Department of Science, Technology and Education",
-"organization_name_chinese": "科技教育司",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "司長",
-"personnel": []
-}
-],
-"sub_organizations": []
-}
-]
-}
-]
-}
-]
-Start typing a prompt
-
-Run
