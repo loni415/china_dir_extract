@@ -1,4 +1,276 @@
 {
+  "State Bureaus under Ministries/Commissions": {
+    "organization_name_english": "State Bureaus under Ministries/Commissions",
+    "organization_name_chinese": "部・委員会管理的国家局",
+    "source_pdf_page": 157,
+    "sub_organizations": {
+      "State Grain and Reserves Administration": {
+        "organization_name_english": "State Grain and Reserves Administration",
+        "organization_name_chinese": "国家糧食和物資儲備局",
+        "source_pdf_page": 157,
+        "sub_organizations": {}
+      },
+      "National Energy Administration": {
+        "organization_name_english": "National Energy Administration",
+        "organization_name_chinese": "国家能源局",
+        "source_pdf_page": 157,
+        "sub_organizations": {}
+      },
+      "National Data Administration": {
+        "organization_name_english": "National Data Administration",
+        "organization_name_chinese": "国家数据局",
+        "source_pdf_page": 157,
+        "sub_organizations": {}
+      },
+      "State Bureau of Science, Technology and Industry for National Defense": {
+        "organization_name_english": "State Bureau of Science, Technology and Industry for National Defense",
+        "organization_name_chinese": "国家国防科技工業局",
+        "source_pdf_page": 157,
+        "sub_organizations": {}
+      },
+      "State Tobacco Monopoly Bureau": {
+        "organization_name_english": "State Tobacco Monopoly Bureau",
+        "organization_name_chinese": "国家煙草專賣局",
+        "source_pdf_page": 157,
+        "sub_organizations": {}
+      },
+      "State Immigration Administration (PRC Exit and Entry Inspection Bureau)": {
+        "organization_name_english": "State Immigration Administration (PRC Exit and Entry Inspection Bureau)",
+        "organization_name_chinese": "国家移民管理局 (中華人民共和国出入境管理局)",
+        "source_pdf_page": 158,
+        "sub_organizations": {}
+      },
+      "National Forestry & Grassland Administration (National Park Administration)": {
+        "organization_name_english": "National Forestry & Grassland Administration (National Park Administration)",
+        "organization_name_chinese": "国家林業和草原局 (国家公園管理局)",
+        "source_pdf_page": 158,
+        "sub_organizations": {}
+      },
+      "National Railways Administration": {
+        "organization_name_english": "National Railways Administration",
+        "organization_name_chinese": "国家鉄路局",
+        "source_pdf_page": 158,
+        "sub_organizations": {}
+      },
+      "Civil Aviation Administration of China (CAAC)": {
+        "organization_name_english": "Civil Aviation Administration of China (CAAC)",
+        "organization_name_chinese": "中国民用航空局",
+        "source_pdf_page": 158,
+        "sub_organizations": {}
+      },
+      "State Post Bureau": {
+        "organization_name_english": "State Post Bureau",
+        "organization_name_chinese": "国家郵政局",
+        "source_pdf_page": 159,
+        "sub_organizations": {}
+      },
+      "State Administration of Cultural Heritage": {
+        "organization_name_english": "State Administration of Cultural Heritage",
+        "organization_name_chinese": "国家文物局",
+        "source_pdf_page": 159,
+        "sub_organizations": {}
+      },
+      "State Administration of Traditional Chinese Medicine": {
+        "organization_name_english": "State Administration of Traditional Chinese Medicine",
+        "organization_name_chinese": "国家中医薬管理局",
+        "source_pdf_page": 159,
+        "sub_organizations": {}
+      },
+      "National Administration of Disease Prevention and Control": {
+        "organization_name_english": "National Administration of Disease Prevention and Control",
+        "organization_name_chinese": "国家疾病預防控制局",
+        "source_pdf_page": 159,
+        "sub_organizations": {}
+      },
+      "National Mine Safety Administration": {
+        "organization_name_english": "National Mine Safety Administration",
+        "organization_name_chinese": "国家礦山安全監察局",
+        "source_pdf_page": 160,
+        "sub_organizations": {}
+      },
+      "National Fire and Rescue Administration": {
+        "organization_name_english": "National Fire and Rescue Administration",
+        "organization_name_chinese": "国家消防救援局",
+        "source_pdf_page": 160,
+        "sub_organizations": {}
+      },
+      "State Administration of Foreign Exchange": {
+        "organization_name_english": "State Administration of Foreign Exchange",
+        "organization_name_chinese": "国家外匯管理局",
+        "source_pdf_page": 160,
+        "sub_organizations": {}
+      },
+      "National Medical Products Administration": {
+        "organization_name_english": "National Medical Products Administration",
+        "organization_name_chinese": "国家薬品監督管理局",
+        "source_pdf_page": 160,
+        "sub_organizations": {}
+      }
+    }
+  },
+  "Coordination and Provisional Organizations under State Council": {
+    "organization_name_english": "Coordination and Provisional Organizations under State Council",
+    "organization_name_chinese": "国務院議事協調機構・臨時機構",
+    "source_pdf_page": 161,
+    "sub_organizations": {
+      "National Defense Mobilization Committee": {
+        "organization_name_english": "National Defense Mobilization Committee",
+        "organization_name_chinese": "国家国防動員委員会",
+        "source_pdf_page": 161,
+        "sub_organizations": {}
+      },
+      "National Border Control & Coastal Defense Committee": {
+        "organization_name_english": "National Border Control & Coastal Defense Committee",
+        "organization_name_chinese": "国家辺海防委員会",
+        "source_pdf_page": 161,
+        "sub_organizations": {}
+      },
+      "National Committee for Patriotic Health Campaign": {
+        "organization_name_english": "National Committee for Patriotic Health Campaign",
+        "organization_name_chinese": "全国愛国衛生運動委員会",
+        "source_pdf_page": 161,
+        "sub_organizations": {}
+      },
+      "National Afforestation & Greening Committee": {
+        "organization_name_english": "National Afforestation & Greening Committee",
+        "organization_name_chinese": "全国緑化委員会",
+        "source_pdf_page": 161,
+        "sub_organizations": {}
+      },
+      "State Flood Control & Drought Relief Headquarters": {
+        "organization_name_english": "State Flood Control & Drought Relief Headquarters",
+        "organization_name_chinese": "国家防汛抗旱総指揮部",
+        "source_pdf_page": 161,
+        "sub_organizations": {}
+      },
+      "National Working Committee on Children & Women under State Council": {
+        "organization_name_english": "National Working Committee on Children & Women under State Council",
+        "organization_name_chinese": "国務院婦女児童工作委員会",
+        "source_pdf_page": 162,
+        "sub_organizations": {}
+      },
+      "Leading Group for the Work of Supporting the Army, Giving Preferential Treatment to the Families of Armymen and Martyrs, Supporting the Government and Cherishing the People": {
+        "organization_name_english": "Leading Group for the Work of Supporting the Army, Giving Preferential Treatment to the Families of Armymen and Martyrs, Supporting the Government and Cherishing the People",
+        "organization_name_chinese": "全国擁軍優属擁政愛民(双擁)工作領導小組",
+        "source_pdf_page": 162,
+        "sub_organizations": {}
+      },
+      "Work Committee of State Council for Persons with Disabilities": {
+        "organization_name_english": "Work Committee of State Council for Persons with Disabilities",
+        "organization_name_chinese": "国務院残疾人工作委員会",
+        "source_pdf_page": 162,
+        "sub_organizations": {}
+      },
+      "State Leading Group for Anti-Terrorism Work": {
+        "organization_name_english": "State Leading Group for Anti-Terrorism Work",
+        "organization_name_chinese": "国家反恐怖工作領導小組",
+        "source_pdf_page": 162,
+        "sub_organizations": {}
+      },
+      "National Disaster Reduction Committee": {
+        "organization_name_english": "National Disaster Reduction Committee",
+        "organization_name_chinese": "国家減災委員会",
+        "source_pdf_page": 163,
+        "sub_organizations": {}
+      },
+      "National Leading Group for Fighting Against Intellectual Property Infringement and the Production and Sale of Fake and Shoddy Commodities": {
+        "organization_name_english": "National Leading Group for Fighting Against Intellectual Property Infringement and the Production and Sale of Fake and Shoddy Commodities",
+        "organization_name_chinese": "全国打擊侵犯知識産権和製售假冒偽劣商品工作領導小組",
+        "source_pdf_page": 163,
+        "sub_organizations": {}
+      },
+      "Leading Group for Placement of Demobilized Army Officers": {
+        "organization_name_english": "Leading Group for Placement of Demobilized Army Officers",
+        "organization_name_chinese": "国務院軍隊転業幹部安置工作小組",
+        "source_pdf_page": 163,
+        "sub_organizations": {}
+      },
+      "State Council Leading Group for the Work Related to Migrant Workers": {
+        "organization_name_english": "State Council Leading Group for the Work Related to Migrant Workers",
+        "organization_name_chinese": "国務院農民工工作領導小組",
+        "source_pdf_page": 163,
+        "sub_organizations": {}
+      },
+      "National Narcotics Control Commission": {
+        "organization_name_english": "National Narcotics Control Commission",
+        "organization_name_chinese": "国家禁毒委員会",
+        "source_pdf_page": 164,
+        "sub_organizations": {}
+      },
+      "National Working Commission on Ageing": {
+        "organization_name_english": "National Working Commission on Ageing",
+        "organization_name_chinese": "全国老龄工作委員会",
+        "source_pdf_page": 164,
+        "sub_organizations": {}
+      },
+      "Leading Group for Building \"One Belt and One Road\" (New Silk Road Economic Belt and the 21st Century Maritime Silk Road)": {
+        "organization_name_english": "Leading Group for Building \"One Belt and One Road\" (New Silk Road Economic Belt and the 21st Century Maritime Silk Road)",
+        "organization_name_chinese": "推進“一带一路”建設工作領導小組",
+        "source_pdf_page": 164,
+        "sub_organizations": {}
+      },
+      "National Leading Group for the Building of Manufacturing Power": {
+        "organization_name_english": "National Leading Group for the Building of Manufacturing Power",
+        "organization_name_chinese": "国家製造強国建設領導小組",
+        "source_pdf_page": 164,
+        "sub_organizations": {}
+      },
+      "Headquarters of State Council for Earthquake Relief": {
+        "organization_name_english": "Headquarters of State Council for Earthquake Relief",
+        "organization_name_chinese": "国務院抗震救災指揮部",
+        "source_pdf_page": 165,
+        "sub_organizations": {}
+      },
+      "State Council Leading Group for Deepening the Reform of Pharmaceutical and Healthcare System": {
+        "organization_name_english": "State Council Leading Group for Deepening the Reform of Pharmaceutical and Healthcare System",
+        "organization_name_chinese": "国務院深化医薬衛生体制改革領導小組",
+        "source_pdf_page": 165,
+        "sub_organizations": {}
+      },
+      "State Council Work Safety Committee": {
+        "organization_name_english": "State Council Work Safety Committee",
+        "organization_name_chinese": "国務院安全生産委員会",
+        "source_pdf_page": 165,
+        "sub_organizations": {}
+      },
+      "State Council Working Committee for Prevention and Control of AIDS": {
+        "organization_name_english": "State Council Working Committee for Prevention and Control of AIDS",
+        "organization_name_chinese": "国務院防治艾滋病工作委員会",
+        "source_pdf_page": 165,
+        "sub_organizations": {}
+      },
+      "National Headquarters for Forest & Grasslands Fire Prevention & Control": {
+        "organization_name_english": "National Headquarters for Forest & Grasslands Fire Prevention & Control",
+        "organization_name_chinese": "国家森林草原防滅火指揮部",
+        "source_pdf_page": 166,
+        "sub_organizations": {}
+      },
+      "State Council Anti-Monopoly Commission": {
+        "organization_name_english": "State Council Anti-Monopoly Commission",
+        "organization_name_chinese": "国務院反壟断委員会",
+        "source_pdf_page": 166,
+        "sub_organizations": {}
+      },
+      "State Council Leading Group for Employment Promotion and Labor Protection": {
+        "organization_name_english": "State Council Leading Group for Employment Promotion and Labor Protection",
+        "organization_name_chinese": "国務院就業促進和労動保護工作領導小組",
+        "source_pdf_page": 166,
+        "sub_organizations": {}
+      },
+      "State Council Leading Group for Employment": {
+        "organization_name_english": "State Council Leading Group for Employment",
+        "organization_name_chinese": "国務院就業工作領導小組",
+        "source_pdf_page": 166,
+        "sub_organizations": {}
+      },
+      "Healthy China Action Promotion Committee": {
+        "organization_name_english": "Healthy China Action Promotion Committee",
+        "organization_name_chinese": "健康中国行動推進委員会",
+        "source_pdf_page": 166,
+        "sub_organizations": {}
+      }
+    }
+  },
   "JUDICIAL ORGANIZATIONS": {
     "organization_name_english": "JUDICIAL ORGANIZATIONS",
     "organization_name_chinese": "司法機構",
@@ -423,105 +695,49 @@
         "organization_name_english": "Revolutionary Committee of Chinese Kuomintang",
         "organization_name_chinese": "中国国民党革命委員会",
         "source_pdf_page": 181,
-        "sub_organizations": {
-          "14th Central Committee": {
-            "organization_name_english": "14th Central Committee",
-            "organization_name_chinese": "第14届中央委員会",
-            "source_pdf_page": 181,
-            "sub_organizations": {}
-          }
-        }
+        "sub_organizations": {}
       },
       "China Democratic League": {
         "organization_name_english": "China Democratic League",
         "organization_name_chinese": "中国民主同盟",
         "source_pdf_page": 181,
-        "sub_organizations": {
-          "13th Central Committee": {
-            "organization_name_english": "13th Central Committee",
-            "organization_name_chinese": "第13届中央委員会",
-            "source_pdf_page": 181,
-            "sub_organizations": {}
-          }
-        }
+        "sub_organizations": {}
       },
       "China Democratic National Construction Association": {
         "organization_name_english": "China Democratic National Construction Association",
         "organization_name_chinese": "中国民主建国会",
         "source_pdf_page": 182,
-        "sub_organizations": {
-          "12th Central Committee": {
-            "organization_name_english": "12th Central Committee",
-            "organization_name_chinese": "第12届中央委員会",
-            "source_pdf_page": 182,
-            "sub_organizations": {}
-          }
-        }
+        "sub_organizations": {}
       },
       "China Association for Promoting Democracy": {
         "organization_name_english": "China Association for Promoting Democracy",
         "organization_name_chinese": "中国民主促進会",
         "source_pdf_page": 182,
-        "sub_organizations": {
-          "15th Central Committee": {
-            "organization_name_english": "15th Central Committee",
-            "organization_name_chinese": "第15届中央委員会",
-            "source_pdf_page": 182,
-            "sub_organizations": {}
-          }
-        }
+        "sub_organizations": {}
       },
       "Chinese Peasants' and Workers' Democratic Party": {
         "organization_name_english": "Chinese Peasants' and Workers' Democratic Party",
         "organization_name_chinese": "中国農工民主党",
         "source_pdf_page": 183,
-        "sub_organizations": {
-          "17th Central Committee": {
-            "organization_name_english": "17th Central Committee",
-            "organization_name_chinese": "第17届中央委員会",
-            "source_pdf_page": 183,
-            "sub_organizations": {}
-          }
-        }
+        "sub_organizations": {}
       },
       "China Zhi Gong Party (Party for Public Interests)": {
         "organization_name_english": "China Zhi Gong Party (Party for Public Interests)",
         "organization_name_chinese": "中国致公党",
         "source_pdf_page": 183,
-        "sub_organizations": {
-          "16th Central Committee": {
-            "organization_name_english": "16th Central Committee",
-            "organization_name_chinese": "第16届中央委員会",
-            "source_pdf_page": 183,
-            "sub_organizations": {}
-          }
-        }
+        "sub_organizations": {}
       },
       "Jiu San (September 3rd) Society": {
         "organization_name_english": "Jiu San (September 3rd) Society",
         "organization_name_chinese": "九三学社",
         "source_pdf_page": 184,
-        "sub_organizations": {
-          "15th Central Committee": {
-            "organization_name_english": "15th Central Committee",
-            "organization_name_chinese": "第15届中央委員会",
-            "source_pdf_page": 184,
-            "sub_organizations": {}
-          }
-        }
+        "sub_organizations": {}
       },
       "Taiwan Democratic Self-Government League": {
         "organization_name_english": "Taiwan Democratic Self-Government League",
         "organization_name_chinese": "台湾民主自治同盟",
         "source_pdf_page": 184,
-        "sub_organizations": {
-          "11th Central Committee": {
-            "organization_name_english": "11th Central Committee",
-            "organization_name_chinese": "第11届中央委員会",
-            "source_pdf_page": 184,
-            "sub_organizations": {}
-          }
-        }
+        "sub_organizations": {}
       }
     }
   },
