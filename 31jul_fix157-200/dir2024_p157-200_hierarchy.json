@@ -1,0 +1,1155 @@
+{
+  "JUDICIAL ORGANIZATIONS": {
+    "organization_name_english": "JUDICIAL ORGANIZATIONS",
+    "organization_name_chinese": "司法機構",
+    "source_pdf_page": 167,
+    "sub_organizations": {
+      "Supreme People's Court": {
+        "organization_name_english": "Supreme People's Court",
+        "organization_name_chinese": "最高人民法院",
+        "source_pdf_page": 167,
+        "sub_organizations": {
+          "General Office (Information Bureau)": {
+            "organization_name_english": "General Office (Information Bureau)",
+            "organization_name_chinese": "辦公庁 (新聞局)",
+            "source_pdf_page": 167,
+            "sub_organizations": {}
+          },
+          "Political Department": {
+            "organization_name_english": "Political Department",
+            "organization_name_chinese": "政治部",
+            "source_pdf_page": 167,
+            "sub_organizations": {}
+          },
+          "Case Division": {
+            "organization_name_english": "Case Division",
+            "organization_name_chinese": "立案庭",
+            "source_pdf_page": 167,
+            "sub_organizations": {}
+          },
+          "Criminal Adjudication Tribunal No. 1": {
+            "organization_name_english": "Criminal Adjudication Tribunal No. 1",
+            "organization_name_chinese": "刑事審判第一庭",
+            "source_pdf_page": 167,
+            "sub_organizations": {}
+          },
+          "Criminal Adjudication Tribunal No. 2": {
+            "organization_name_english": "Criminal Adjudication Tribunal No. 2",
+            "organization_name_chinese": "刑事審判第二庭",
+            "source_pdf_page": 167,
+            "sub_organizations": {}
+          },
+          "Criminal Adjudication Tribunal No. 3": {
+            "organization_name_english": "Criminal Adjudication Tribunal No. 3",
+            "organization_name_chinese": "刑事審判第三庭",
+            "source_pdf_page": 167,
+            "sub_organizations": {}
+          },
+          "Criminal Adjudication Tribunal No. 4": {
+            "organization_name_english": "Criminal Adjudication Tribunal No. 4",
+            "organization_name_chinese": "刑事審判第四庭",
+            "source_pdf_page": 168,
+            "sub_organizations": {}
+          },
+          "Criminal Adjudication Tribunal No. 5": {
+            "organization_name_english": "Criminal Adjudication Tribunal No. 5",
+            "organization_name_chinese": "刑事審判第五庭",
+            "source_pdf_page": 168,
+            "sub_organizations": {}
+          },
+          "Civil Adjudication Tribunal No. 1": {
+            "organization_name_english": "Civil Adjudication Tribunal No. 1",
+            "organization_name_chinese": "民事審判第一庭",
+            "source_pdf_page": 168,
+            "sub_organizations": {}
+          },
+          "Civil Adjudication Tribunal No. 2": {
+            "organization_name_english": "Civil Adjudication Tribunal No. 2",
+            "organization_name_chinese": "民事審判第二庭",
+            "source_pdf_page": 168,
+            "sub_organizations": {}
+          },
+          "Civil Adjudication Tribunal No. 3 (IPR Division)": {
+            "organization_name_english": "Civil Adjudication Tribunal No. 3 (IPR Division)",
+            "organization_name_chinese": "民事審判第三庭 (知識産権審判庭)",
+            "source_pdf_page": 168,
+            "sub_organizations": {}
+          },
+          "Civil Adjudication Tribunal No. 4": {
+            "organization_name_english": "Civil Adjudication Tribunal No. 4",
+            "organization_name_chinese": "民事審判第四庭",
+            "source_pdf_page": 168,
+            "sub_organizations": {}
+          },
+          "Adjudication Tribunal for Environment & Resources": {
+            "organization_name_english": "Adjudication Tribunal for Environment & Resources",
+            "organization_name_chinese": "環境資源審判庭",
+            "source_pdf_page": 168,
+            "sub_organizations": {}
+          },
+          "Administrative Adjudication Tribunal": {
+            "organization_name_english": "Administrative Adjudication Tribunal",
+            "organization_name_chinese": "行政審判庭",
+            "source_pdf_page": 168,
+            "sub_organizations": {}
+          },
+          "Trial Supervision Tribunal": {
+            "organization_name_english": "Trial Supervision Tribunal",
+            "organization_name_chinese": "審判監督庭",
+            "source_pdf_page": 168,
+            "sub_organizations": {}
+          },
+          "Compensation Committee Office": {
+            "organization_name_english": "Compensation Committee Office",
+            "organization_name_chinese": "賠償委員会辦公室",
+            "source_pdf_page": 168,
+            "sub_organizations": {}
+          },
+          "Enforcement Bureau (Enforcement Leadership Office)": {
+            "organization_name_english": "Enforcement Bureau (Enforcement Leadership Office)",
+            "organization_name_chinese": "執行局 (執行指揮辦公室)",
+            "source_pdf_page": 168,
+            "sub_organizations": {}
+          },
+          "Research Office": {
+            "organization_name_english": "Research Office",
+            "organization_name_chinese": "研究室",
+            "source_pdf_page": 168,
+            "sub_organizations": {}
+          },
+          "Trial Administration Office": {
+            "organization_name_english": "Trial Administration Office",
+            "organization_name_chinese": "審判管理辦公室",
+            "source_pdf_page": 169,
+            "sub_organizations": {}
+          },
+          "Supervision Bureau": {
+            "organization_name_english": "Supervision Bureau",
+            "organization_name_chinese": "督察局",
+            "source_pdf_page": 169,
+            "sub_organizations": {}
+          },
+          "International Cooperation Bureau": {
+            "organization_name_english": "International Cooperation Bureau",
+            "organization_name_chinese": "国際合作局",
+            "source_pdf_page": 169,
+            "sub_organizations": {}
+          },
+          "1st Circuit Court": {
+            "organization_name_english": "1st Circuit Court",
+            "organization_name_chinese": "第一巡回法庭",
+            "source_pdf_page": 169,
+            "sub_organizations": {}
+          },
+          "2nd Circuit Court": {
+            "organization_name_english": "2nd Circuit Court",
+            "organization_name_chinese": "第二巡回法庭",
+            "source_pdf_page": 169,
+            "sub_organizations": {}
+          },
+          "3rd Circuit Court": {
+            "organization_name_english": "3rd Circuit Court",
+            "organization_name_chinese": "第三巡回法庭",
+            "source_pdf_page": 169,
+            "sub_organizations": {}
+          },
+          "4th Circuit Court": {
+            "organization_name_english": "4th Circuit Court",
+            "organization_name_chinese": "第四巡回法庭",
+            "source_pdf_page": 169,
+            "sub_organizations": {}
+          },
+          "5th Circuit Court": {
+            "organization_name_english": "5th Circuit Court",
+            "organization_name_chinese": "第五巡回法庭",
+            "source_pdf_page": 169,
+            "sub_organizations": {}
+          },
+          "6th Circuit Court": {
+            "organization_name_english": "6th Circuit Court",
+            "organization_name_chinese": "第六巡回法庭",
+            "source_pdf_page": 169,
+            "sub_organizations": {}
+          },
+          "Intellectual Property Court": {
+            "organization_name_english": "Intellectual Property Court",
+            "organization_name_chinese": "知識産権法庭",
+            "source_pdf_page": 169,
+            "sub_organizations": {}
+          },
+          "Planning, Finance and Equipment Bureau": {
+            "organization_name_english": "Planning, Finance and Equipment Bureau",
+            "organization_name_chinese": "計画財務装備局",
+            "source_pdf_page": 172,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "Supreme People's Procuratorate": {
+        "organization_name_english": "Supreme People's Procuratorate",
+        "organization_name_chinese": "最高人民検察院",
+        "source_pdf_page": 170,
+        "sub_organizations": {
+          "General Office (Information Office)": {
+            "organization_name_english": "General Office (Information Office)",
+            "organization_name_chinese": "辦公庁 (新聞辦公室)",
+            "source_pdf_page": 170,
+            "sub_organizations": {}
+          },
+          "Political Department": {
+            "organization_name_english": "Political Department",
+            "organization_name_chinese": "政治部",
+            "source_pdf_page": 170,
+            "sub_organizations": {}
+          },
+          "1st Procurational Office (Ordinary Crime Procurational Office)": {
+            "organization_name_english": "1st Procurational Office (Ordinary Crime Procurational Office)",
+            "organization_name_chinese": "第一検察庁 (普通犯罪検察庁)",
+            "source_pdf_page": 170,
+            "sub_organizations": {}
+          },
+          "2nd Procurational Office (Major Crime Procurational Office)": {
+            "organization_name_english": "2nd Procurational Office (Major Crime Procurational Office)",
+            "organization_name_chinese": "第二検察庁 (重大犯罪検察庁)",
+            "source_pdf_page": 170,
+            "sub_organizations": {}
+          },
+          "3rd Procurational Office (Duty Crime Procurational Office)": {
+            "organization_name_english": "3rd Procurational Office (Duty Crime Procurational Office)",
+            "organization_name_chinese": "第三検察庁 (職務犯罪検察庁)",
+            "source_pdf_page": 170,
+            "sub_organizations": {}
+          },
+          "4th Procurational Office (Economic Crime Procurational Office)": {
+            "organization_name_english": "4th Procurational Office (Economic Crime Procurational Office)",
+            "organization_name_chinese": "第四検察庁 (経済犯罪検察庁)",
+            "source_pdf_page": 170,
+            "sub_organizations": {}
+          },
+          "5th Procurational Office (Criminal Execution Procurational Office)": {
+            "organization_name_english": "5th Procurational Office (Criminal Execution Procurational Office)",
+            "organization_name_chinese": "第五検察庁 (刑事執行検察庁)",
+            "source_pdf_page": 171,
+            "sub_organizations": {}
+          },
+          "6th Procurational Office (Civil Procurational Office)": {
+            "organization_name_english": "6th Procurational Office (Civil Procurational Office)",
+            "organization_name_chinese": "第六検察庁 (民事検察庁)",
+            "source_pdf_page": 171,
+            "sub_organizations": {}
+          },
+          "7th Procurational Office (Administration Procurational Office)": {
+            "organization_name_english": "7th Procurational Office (Administration Procurational Office)",
+            "organization_name_chinese": "第七検察庁 (行政検察庁)",
+            "source_pdf_page": 171,
+            "sub_organizations": {}
+          },
+          "8th Procurational Office (Public interest litigation Procurational Office)": {
+            "organization_name_english": "8th Procurational Office (Public interest litigation Procurational Office)",
+            "organization_name_chinese": "第八検察庁 (公益訴訟検察庁)",
+            "source_pdf_page": 171,
+            "sub_organizations": {}
+          },
+          "9th Procurational Office (Minors Procurational Office)": {
+            "organization_name_english": "9th Procurational Office (Minors Procurational Office)",
+            "organization_name_chinese": "第九検察庁 (未成年人検察庁)",
+            "source_pdf_page": 171,
+            "sub_organizations": {}
+          },
+          "10th Procurational Office (Complaint and Petition Procurational Office)": {
+            "organization_name_english": "10th Procurational Office (Complaint and Petition Procurational Office)",
+            "organization_name_chinese": "第十検察庁 (控告申訴検察庁)",
+            "source_pdf_page": 171,
+            "sub_organizations": {}
+          },
+          "Law and Policy Research Office": {
+            "organization_name_english": "Law and Policy Research Office",
+            "organization_name_chinese": "法律政策研究室",
+            "source_pdf_page": 171,
+            "sub_organizations": {}
+          },
+          "Case Management Office": {
+            "organization_name_english": "Case Management Office",
+            "organization_name_chinese": "案件管理辦公室",
+            "source_pdf_page": 171,
+            "sub_organizations": {}
+          },
+          "International Cooperation Bureau": {
+            "organization_name_english": "International Cooperation Bureau",
+            "organization_name_chinese": "国際合作局",
+            "source_pdf_page": 171,
+            "sub_organizations": {}
+          },
+          "Supervision Bureau": {
+            "organization_name_english": "Supervision Bureau",
+            "organization_name_chinese": "検務督察局",
+            "source_pdf_page": 171,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "Legal Organs Concerned": {
+        "organization_name_english": "Legal Organs Concerned",
+        "organization_name_chinese": "関係単位",
+        "source_pdf_page": 172,
+        "sub_organizations": {
+          "State Judges Institute": {
+            "organization_name_english": "State Judges Institute",
+            "organization_name_chinese": "国家法官学院",
+            "source_pdf_page": 172,
+            "sub_organizations": {}
+          },
+          "National Prosecutors College": {
+            "organization_name_english": "National Prosecutors College",
+            "organization_name_chinese": "国家検察官学院",
+            "source_pdf_page": 172,
+            "sub_organizations": {}
+          },
+          "China Association of Judges (CAJ)": {
+            "organization_name_english": "China Association of Judges (CAJ)",
+            "organization_name_chinese": "中国法官協会",
+            "source_pdf_page": 172,
+            "sub_organizations": {}
+          },
+          "China Association of Procurators": {
+            "organization_name_english": "China Association of Procurators",
+            "organization_name_chinese": "中国検察官協会",
+            "source_pdf_page": 172,
+            "sub_organizations": {}
+          },
+          "All-China Lawyers' Association": {
+            "organization_name_english": "All-China Lawyers' Association",
+            "organization_name_chinese": "中華全国律師協会",
+            "source_pdf_page": 172,
+            "sub_organizations": {}
+          }
+        }
+      }
+    }
+  },
+  "CHINESE PEOPLE'S POLITICAL CONSULTATIVE CONFERENCE": {
+    "organization_name_english": "CHINESE PEOPLE'S POLITICAL CONSULTATIVE CONFERENCE",
+    "organization_name_chinese": "政協",
+    "source_pdf_page": 175,
+    "sub_organizations": {
+      "CPPCC 14th NATIONAL COMMITTEE": {
+        "organization_name_english": "CPPCC 14th NATIONAL COMMITTEE",
+        "organization_name_chinese": "政協第14届全国委員会",
+        "source_pdf_page": 175,
+        "sub_organizations": {
+          "Standing Committee Members": {
+            "organization_name_english": "Standing Committee Members",
+            "organization_name_chinese": "常務委員",
+            "source_pdf_page": 176,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "Special Committees": {
+        "organization_name_english": "Special Committees",
+        "organization_name_chinese": "専門委員会",
+        "source_pdf_page": 180,
+        "sub_organizations": {
+          "Motions Committee": {
+            "organization_name_english": "Motions Committee",
+            "organization_name_chinese": "提案委員会",
+            "source_pdf_page": 180,
+            "sub_organizations": {}
+          },
+          "Economic Committee": {
+            "organization_name_english": "Economic Committee",
+            "organization_name_chinese": "経済委員会",
+            "source_pdf_page": 180,
+            "sub_organizations": {}
+          },
+          "Agriculture and Rural Affairs Committee": {
+            "organization_name_english": "Agriculture and Rural Affairs Committee",
+            "organization_name_chinese": "農業和農村委員会",
+            "source_pdf_page": 180,
+            "sub_organizations": {}
+          },
+          "Population, Resources and Environment Committee": {
+            "organization_name_english": "Population, Resources and Environment Committee",
+            "organization_name_chinese": "人口資源環境委員会",
+            "source_pdf_page": 180,
+            "sub_organizations": {}
+          },
+          "Education, Science, Health & Sports Committee": {
+            "organization_name_english": "Education, Science, Health & Sports Committee",
+            "organization_name_chinese": "教科衛体委員会",
+            "source_pdf_page": 180,
+            "sub_organizations": {}
+          },
+          "Social and Legislative Committee": {
+            "organization_name_english": "Social and Legislative Committee",
+            "organization_name_chinese": "社会和法制委員会",
+            "source_pdf_page": 180,
+            "sub_organizations": {}
+          },
+          "Ethnic and Religious Committee": {
+            "organization_name_english": "Ethnic and Religious Committee",
+            "organization_name_chinese": "民族和宗教委員会",
+            "source_pdf_page": 180,
+            "sub_organizations": {}
+          },
+          "H.K., Macao, Taiwan & Overseas Chinese Committee": {
+            "organization_name_english": "H.K., Macao, Taiwan & Overseas Chinese Committee",
+            "organization_name_chinese": "港澳台僑委員会",
+            "source_pdf_page": 180,
+            "sub_organizations": {}
+          },
+          "Foreign Affairs Committee": {
+            "organization_name_english": "Foreign Affairs Committee",
+            "organization_name_chinese": "外事委員会",
+            "source_pdf_page": 180,
+            "sub_organizations": {}
+          },
+          "Culture, History and Study Committee": {
+            "organization_name_english": "Culture, History and Study Committee",
+            "organization_name_chinese": "文化文史和学習委員会",
+            "source_pdf_page": 180,
+            "sub_organizations": {}
+          }
+        }
+      }
+    }
+  },
+  "DEMOCRATIC PARTIES": {
+    "organization_name_english": "DEMOCRATIC PARTIES",
+    "organization_name_chinese": "民主党派",
+    "source_pdf_page": 181,
+    "sub_organizations": {
+      "Revolutionary Committee of Chinese Kuomintang": {
+        "organization_name_english": "Revolutionary Committee of Chinese Kuomintang",
+        "organization_name_chinese": "中国国民党革命委員会",
+        "source_pdf_page": 181,
+        "sub_organizations": {
+          "14th Central Committee": {
+            "organization_name_english": "14th Central Committee",
+            "organization_name_chinese": "第14届中央委員会",
+            "source_pdf_page": 181,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "China Democratic League": {
+        "organization_name_english": "China Democratic League",
+        "organization_name_chinese": "中国民主同盟",
+        "source_pdf_page": 181,
+        "sub_organizations": {
+          "13th Central Committee": {
+            "organization_name_english": "13th Central Committee",
+            "organization_name_chinese": "第13届中央委員会",
+            "source_pdf_page": 181,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "China Democratic National Construction Association": {
+        "organization_name_english": "China Democratic National Construction Association",
+        "organization_name_chinese": "中国民主建国会",
+        "source_pdf_page": 182,
+        "sub_organizations": {
+          "12th Central Committee": {
+            "organization_name_english": "12th Central Committee",
+            "organization_name_chinese": "第12届中央委員会",
+            "source_pdf_page": 182,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "China Association for Promoting Democracy": {
+        "organization_name_english": "China Association for Promoting Democracy",
+        "organization_name_chinese": "中国民主促進会",
+        "source_pdf_page": 182,
+        "sub_organizations": {
+          "15th Central Committee": {
+            "organization_name_english": "15th Central Committee",
+            "organization_name_chinese": "第15届中央委員会",
+            "source_pdf_page": 182,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "Chinese Peasants' and Workers' Democratic Party": {
+        "organization_name_english": "Chinese Peasants' and Workers' Democratic Party",
+        "organization_name_chinese": "中国農工民主党",
+        "source_pdf_page": 183,
+        "sub_organizations": {
+          "17th Central Committee": {
+            "organization_name_english": "17th Central Committee",
+            "organization_name_chinese": "第17届中央委員会",
+            "source_pdf_page": 183,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "China Zhi Gong Party (Party for Public Interests)": {
+        "organization_name_english": "China Zhi Gong Party (Party for Public Interests)",
+        "organization_name_chinese": "中国致公党",
+        "source_pdf_page": 183,
+        "sub_organizations": {
+          "16th Central Committee": {
+            "organization_name_english": "16th Central Committee",
+            "organization_name_chinese": "第16届中央委員会",
+            "source_pdf_page": 183,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "Jiu San (September 3rd) Society": {
+        "organization_name_english": "Jiu San (September 3rd) Society",
+        "organization_name_chinese": "九三学社",
+        "source_pdf_page": 184,
+        "sub_organizations": {
+          "15th Central Committee": {
+            "organization_name_english": "15th Central Committee",
+            "organization_name_chinese": "第15届中央委員会",
+            "source_pdf_page": 184,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "Taiwan Democratic Self-Government League": {
+        "organization_name_english": "Taiwan Democratic Self-Government League",
+        "organization_name_chinese": "台湾民主自治同盟",
+        "source_pdf_page": 184,
+        "sub_organizations": {
+          "11th Central Committee": {
+            "organization_name_english": "11th Central Committee",
+            "organization_name_chinese": "第11届中央委員会",
+            "source_pdf_page": 184,
+            "sub_organizations": {}
+          }
+        }
+      }
+    }
+  },
+  "MILITARY ORGANIZATIONS": {
+    "organization_name_english": "MILITARY ORGANIZATIONS",
+    "organization_name_chinese": "軍機関",
+    "source_pdf_page": 189,
+    "sub_organizations": {
+      "CPC Central Military Commission": {
+        "organization_name_english": "CPC Central Military Commission",
+        "organization_name_chinese": "中国共産党中央軍事委員会",
+        "source_pdf_page": 189,
+        "sub_organizations": {}
+      },
+      "PRC Central Military Commission": {
+        "organization_name_english": "PRC Central Military Commission",
+        "organization_name_chinese": "中華人民共和国中央軍事委員会",
+        "source_pdf_page": 189,
+        "sub_organizations": {}
+      },
+      "CMC Leading Group for Deepening Reform on National Defense and Military": {
+        "organization_name_english": "CMC Leading Group for Deepening Reform on National Defense and Military",
+        "organization_name_chinese": "中央軍事委員会深化国防和軍隊改革領導小組",
+        "source_pdf_page": 189,
+        "sub_organizations": {}
+      },
+      "Commander in Chief": {
+        "organization_name_english": "Commander in Chief",
+        "organization_name_chinese": "聯指総指揮",
+        "source_pdf_page": 189,
+        "sub_organizations": {}
+      },
+      "CMC Joint Battle Command Center": {
+        "organization_name_english": "CMC Joint Battle Command Center",
+        "organization_name_chinese": "聯合作戦指揮中心",
+        "source_pdf_page": 190,
+        "sub_organizations": {}
+      },
+      "CMC General Office": {
+        "organization_name_english": "CMC General Office",
+        "organization_name_chinese": "中央軍事委員会辦公庁",
+        "source_pdf_page": 190,
+        "sub_organizations": {
+          "CMC Chairperson's Office": {
+            "organization_name_english": "CMC Chairperson's Office",
+            "organization_name_chinese": "中央軍事委員会主席辦公室",
+            "source_pdf_page": 190,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "Secretary Bureau": {
+        "organization_name_english": "Secretary Bureau",
+        "organization_name_chinese": "秘書局",
+        "source_pdf_page": 190,
+        "sub_organizations": {}
+      },
+      "Legal System Bureau": {
+        "organization_name_english": "Legal System Bureau",
+        "organization_name_chinese": "法制局",
+        "source_pdf_page": 190,
+        "sub_organizations": {}
+      },
+      "Bodyguards Bureau": {
+        "organization_name_english": "Bodyguards Bureau",
+        "organization_name_chinese": "警衛局",
+        "source_pdf_page": 190,
+        "sub_organizations": {}
+      },
+      "Comprehensive Support Bureau": {
+        "organization_name_english": "Comprehensive Support Bureau",
+        "organization_name_chinese": "綜合保障局",
+        "source_pdf_page": 190,
+        "sub_organizations": {}
+      },
+      "Political Work Bureau": {
+        "organization_name_english": "Political Work Bureau",
+        "organization_name_chinese": "政治工作局",
+        "source_pdf_page": 190,
+        "sub_organizations": {}
+      },
+      "CMC Joint Staff Department": {
+        "organization_name_english": "CMC Joint Staff Department",
+        "organization_name_chinese": "中央軍事委員会聯合参謀部",
+        "source_pdf_page": 190,
+        "sub_organizations": {
+          "Deputy Chiefs of Staff": {
+            "organization_name_english": "Deputy Chiefs of Staff",
+            "organization_name_chinese": "副参謀長",
+            "source_pdf_page": 191,
+            "sub_organizations": {}
+          },
+          "Assistant Chief of Staff": {
+            "organization_name_english": "Assistant Chief of Staff",
+            "organization_name_chinese": "参謀長助理",
+            "source_pdf_page": 191,
+            "sub_organizations": {}
+          },
+          "General Office": {
+            "organization_name_english": "General Office",
+            "organization_name_chinese": "辦公庁",
+            "source_pdf_page": 191,
+            "sub_organizations": {}
+          },
+          "Political Work Bureau": {
+            "organization_name_english": "Political Work Bureau",
+            "organization_name_chinese": "政治工作局",
+            "source_pdf_page": 191,
+            "sub_organizations": {}
+          },
+          "Operation Bureau": {
+            "organization_name_english": "Operation Bureau",
+            "organization_name_chinese": "作戦局",
+            "source_pdf_page": 191,
+            "sub_organizations": {}
+          },
+          "Strategic and Campaign Training Bureau": {
+            "organization_name_english": "Strategic and Campaign Training Bureau",
+            "organization_name_chinese": "戦略戦役訓練局",
+            "source_pdf_page": 191,
+            "sub_organizations": {}
+          },
+          "Intelligence Bureau": {
+            "organization_name_english": "Intelligence Bureau",
+            "organization_name_chinese": "情報局",
+            "source_pdf_page": 191,
+            "sub_organizations": {}
+          },
+          "Information Communication Bureau": {
+            "organization_name_english": "Information Communication Bureau",
+            "organization_name_chinese": "信息通信局",
+            "source_pdf_page": 191,
+            "sub_organizations": {}
+          },
+          "Battlefield Environment Support Bureau": {
+            "organization_name_english": "Battlefield Environment Support Bureau",
+            "organization_name_chinese": "戦場環境保障局",
+            "source_pdf_page": 191,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "CMC Political Work Department": {
+        "organization_name_english": "CMC Political Work Department",
+        "organization_name_chinese": "中央軍事委員会政治工作部",
+        "source_pdf_page": 191,
+        "sub_organizations": {
+          "General Office": {
+            "organization_name_english": "General Office",
+            "organization_name_chinese": "辦公庁",
+            "source_pdf_page": 192,
+            "sub_organizations": {}
+          },
+          "Organization Bureau": {
+            "organization_name_english": "Organization Bureau",
+            "organization_name_chinese": "組織局",
+            "source_pdf_page": 192,
+            "sub_organizations": {}
+          },
+          "Cadres Bureau": {
+            "organization_name_english": "Cadres Bureau",
+            "organization_name_chinese": "幹部局",
+            "source_pdf_page": 192,
+            "sub_organizations": {}
+          },
+          "Soldiers and Civilian Personnel Bureau": {
+            "organization_name_english": "Soldiers and Civilian Personnel Bureau",
+            "organization_name_chinese": "兵員和文職人員局",
+            "source_pdf_page": 192,
+            "sub_organizations": {}
+          },
+          "Publicity Bureau": {
+            "organization_name_english": "Publicity Bureau",
+            "organization_name_chinese": "宣伝局",
+            "source_pdf_page": 192,
+            "sub_organizations": {}
+          },
+          "Cyberspace Public Opinion Bureau": {
+            "organization_name_english": "Cyberspace Public Opinion Bureau",
+            "organization_name_chinese": "網絡輿論局",
+            "source_pdf_page": 192,
+            "sub_organizations": {}
+          },
+          "Mass Work Bureau": {
+            "organization_name_english": "Mass Work Bureau",
+            "organization_name_chinese": "群眾工作局",
+            "source_pdf_page": 192,
+            "sub_organizations": {}
+          },
+          "Directly Under the Bureau of Work": {
+            "organization_name_english": "Directly Under the Bureau of Work",
+            "organization_name_chinese": "直属工作局",
+            "source_pdf_page": 192,
+            "sub_organizations": {}
+          },
+          "\"Liberation Army Daily\"": {
+            "organization_name_english": "\"Liberation Army Daily\"",
+            "organization_name_chinese": "《解放軍報》",
+            "source_pdf_page": 192,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "CMC Logistic Support Department": {
+        "organization_name_english": "CMC Logistic Support Department",
+        "organization_name_chinese": "中央軍事委員会後勤保障部",
+        "source_pdf_page": 192,
+        "sub_organizations": {
+          "General Office": {
+            "organization_name_english": "General Office",
+            "organization_name_chinese": "辦公庁",
+            "source_pdf_page": 193,
+            "sub_organizations": {}
+          },
+          "Political Work Bureau": {
+            "organization_name_english": "Political Work Bureau",
+            "organization_name_chinese": "政治工作局",
+            "source_pdf_page": 193,
+            "sub_organizations": {}
+          },
+          "Comprehensive Planning Bureau": {
+            "organization_name_english": "Comprehensive Planning Bureau",
+            "organization_name_chinese": "綜合計画局",
+            "source_pdf_page": 193,
+            "sub_organizations": {}
+          },
+          "Financial Affairs Bureau": {
+            "organization_name_english": "Financial Affairs Bureau",
+            "organization_name_chinese": "財務局",
+            "source_pdf_page": 193,
+            "sub_organizations": {}
+          },
+          "Health Bureau": {
+            "organization_name_english": "Health Bureau",
+            "organization_name_chinese": "衛生局",
+            "source_pdf_page": 193,
+            "sub_organizations": {}
+          },
+          "Military Supplies and Energy Bureau": {
+            "organization_name_english": "Military Supplies and Energy Bureau",
+            "organization_name_chinese": "軍需能源局",
+            "source_pdf_page": 193,
+            "sub_organizations": {}
+          },
+          "Traffic and Deliver Bureau": {
+            "organization_name_english": "Traffic and Deliver Bureau",
+            "organization_name_chinese": "運輸投送局",
+            "source_pdf_page": 193,
+            "sub_organizations": {}
+          },
+          "Military Facilities Building Bureau": {
+            "organization_name_english": "Military Facilities Building Bureau",
+            "organization_name_chinese": "軍事設施建設局",
+            "source_pdf_page": 193,
+            "sub_organizations": {}
+          },
+          "Subordinate Supply Support Bureau": {
+            "organization_name_english": "Subordinate Supply Support Bureau",
+            "organization_name_chinese": "直属供応保障局",
+            "source_pdf_page": 193,
+            "sub_organizations": {}
+          },
+          "PLA General Hospital (301 Hospital)": {
+            "organization_name_english": "PLA General Hospital (301 Hospital)",
+            "organization_name_chinese": "解放軍総医院(301医院)",
+            "source_pdf_page": 193,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "CMC Equipment Development Department": {
+        "organization_name_english": "CMC Equipment Development Department",
+        "organization_name_chinese": "中央軍事委員会装備発展部",
+        "source_pdf_page": 193,
+        "sub_organizations": {
+          "General Office": {
+            "organization_name_english": "General Office",
+            "organization_name_chinese": "辦公庁",
+            "source_pdf_page": 194,
+            "sub_organizations": {}
+          },
+          "Political Work Bureau": {
+            "organization_name_english": "Political Work Bureau",
+            "organization_name_chinese": "政治工作局",
+            "source_pdf_page": 194,
+            "sub_organizations": {}
+          },
+          "Comprehensive Planning Bureau": {
+            "organization_name_english": "Comprehensive Planning Bureau",
+            "organization_name_chinese": "綜合計画局",
+            "source_pdf_page": 194,
+            "sub_organizations": {}
+          },
+          "Contract Supervision Bureau": {
+            "organization_name_english": "Contract Supervision Bureau",
+            "organization_name_chinese": "合同監管局",
+            "source_pdf_page": 194,
+            "sub_organizations": {}
+          },
+          "Science and Research Order Bureau": {
+            "organization_name_english": "Science and Research Order Bureau",
+            "organization_name_chinese": "科研訂購局",
+            "source_pdf_page": 194,
+            "sub_organizations": {}
+          },
+          "Information System Bureau": {
+            "organization_name_english": "Information System Bureau",
+            "organization_name_chinese": "信息系統局",
+            "source_pdf_page": 194,
+            "sub_organizations": {}
+          },
+          "Testing and Appraisal Bureau": {
+            "organization_name_english": "Testing and Appraisal Bureau",
+            "organization_name_chinese": "試験鑑定局",
+            "source_pdf_page": 194,
+            "sub_organizations": {}
+          },
+          "Defense Intellectual Property Bureau": {
+            "organization_name_english": "Defense Intellectual Property Bureau",
+            "organization_name_chinese": "国防知識産権局",
+            "source_pdf_page": 194,
+            "sub_organizations": {}
+          },
+          "Equipment Technology Cooperation Bureau": {
+            "organization_name_english": "Equipment Technology Cooperation Bureau",
+            "organization_name_chinese": "装備技術合作局",
+            "source_pdf_page": 194,
+            "sub_organizations": {}
+          },
+          "China Manned Space Engineering Office": {
+            "organization_name_english": "China Manned Space Engineering Office",
+            "organization_name_chinese": "中国载人航天工程辦公室",
+            "source_pdf_page": 194,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "CMC Training Management Department": {
+        "organization_name_english": "CMC Training Management Department",
+        "organization_name_chinese": "中央軍事委員会訓練管理部",
+        "source_pdf_page": 194,
+        "sub_organizations": {
+          "General Office": {
+            "organization_name_english": "General Office",
+            "organization_name_chinese": "辦公庁",
+            "source_pdf_page": 195,
+            "sub_organizations": {}
+          },
+          "Political Work Bureau": {
+            "organization_name_english": "Political Work Bureau",
+            "organization_name_chinese": "政治工作局",
+            "source_pdf_page": 195,
+            "sub_organizations": {}
+          },
+          "Training Bureau": {
+            "organization_name_english": "Training Bureau",
+            "organization_name_chinese": "訓練局",
+            "source_pdf_page": 195,
+            "sub_organizations": {}
+          },
+          "Academies and Colleges Bureau": {
+            "organization_name_english": "Academies and Colleges Bureau",
+            "organization_name_chinese": "院校局",
+            "source_pdf_page": 195,
+            "sub_organizations": {}
+          },
+          "Career Education Bureau": {
+            "organization_name_english": "Career Education Bureau",
+            "organization_name_chinese": "職業教育局",
+            "source_pdf_page": 195,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "CMC National Defense Mobilization Department": {
+        "organization_name_english": "CMC National Defense Mobilization Department",
+        "organization_name_chinese": "中央軍事委員会国防動員部",
+        "source_pdf_page": 195,
+        "sub_organizations": {
+          "General Office": {
+            "organization_name_english": "General Office",
+            "organization_name_chinese": "辦公庁",
+            "source_pdf_page": 195,
+            "sub_organizations": {}
+          },
+          "Political Work Bureau": {
+            "organization_name_english": "Political Work Bureau",
+            "organization_name_chinese": "政治工作局",
+            "source_pdf_page": 195,
+            "sub_organizations": {}
+          },
+          "Mobilization and Collection Bureau": {
+            "organization_name_english": "Mobilization and Collection Bureau",
+            "organization_name_chinese": "動員徵集局",
+            "source_pdf_page": 195,
+            "sub_organizations": {}
+          },
+          "Militia and Reserve Bureau": {
+            "organization_name_english": "Militia and Reserve Bureau",
+            "organization_name_chinese": "民兵預備役局",
+            "source_pdf_page": 195,
+            "sub_organizations": {}
+          },
+          "Civil Air Defense Bureau": {
+            "organization_name_english": "Civil Air Defense Bureau",
+            "organization_name_chinese": "人防局",
+            "source_pdf_page": 196,
+            "sub_organizations": {}
+          },
+          "Border Defense Bureau": {
+            "organization_name_english": "Border Defense Bureau",
+            "organization_name_chinese": "辺防局",
+            "source_pdf_page": 196,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "CMC Discipline Inspection Commission": {
+        "organization_name_english": "CMC Discipline Inspection Commission",
+        "organization_name_chinese": "中央軍事委員会紀律検査委員会",
+        "source_pdf_page": 196,
+        "sub_organizations": {
+          "Discipline Inspection & Supervision Bureau": {
+            "organization_name_english": "Discipline Inspection & Supervision Bureau",
+            "organization_name_chinese": "紀檢監察局",
+            "source_pdf_page": 196,
+            "sub_organizations": {}
+          },
+          "Political Work Bureau": {
+            "organization_name_english": "Political Work Bureau",
+            "organization_name_chinese": "政治工作局",
+            "source_pdf_page": 196,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "CMC Political and Law Commission": {
+        "organization_name_english": "CMC Political and Law Commission",
+        "organization_name_chinese": "中央軍事委員会政法委員会",
+        "source_pdf_page": 196,
+        "sub_organizations": {
+          "PLA Military Court": {
+            "organization_name_english": "PLA Military Court",
+            "organization_name_chinese": "軍事法院",
+            "source_pdf_page": 196,
+            "sub_organizations": {}
+          },
+          "PLA Military Procuratorate": {
+            "organization_name_english": "PLA Military Procuratorate",
+            "organization_name_chinese": "軍事検察院",
+            "source_pdf_page": 196,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "CMC Science and Technology Commission": {
+        "organization_name_english": "CMC Science and Technology Commission",
+        "organization_name_chinese": "中央軍事委員会科学技術委員会",
+        "source_pdf_page": 196,
+        "sub_organizations": {
+          "General Bureau": {
+            "organization_name_english": "General Bureau",
+            "organization_name_chinese": "綜合局",
+            "source_pdf_page": 197,
+            "sub_organizations": {}
+          },
+          "Science & Technology Innovation Bureau": {
+            "organization_name_english": "Science & Technology Innovation Bureau",
+            "organization_name_chinese": "科技創新局",
+            "source_pdf_page": 197,
+            "sub_organizations": {}
+          },
+          "Science and Technology Strategy Bureau": {
+            "organization_name_english": "Science and Technology Strategy Bureau",
+            "organization_name_chinese": "科技戦略局",
+            "source_pdf_page": 197,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "CMC Strategic Planning Office": {
+        "organization_name_english": "CMC Strategic Planning Office",
+        "organization_name_chinese": "中央軍事委員会戦略規画辦公室",
+        "source_pdf_page": 197,
+        "sub_organizations": {}
+      },
+      "CMC Reform and Formation Office": {
+        "organization_name_english": "CMC Reform and Formation Office",
+        "organization_name_chinese": "中央軍事委員会改革和編制辦公室",
+        "source_pdf_page": 197,
+        "sub_organizations": {}
+      },
+      "CMC International Military Cooperation Office": {
+        "organization_name_english": "CMC International Military Cooperation Office",
+        "organization_name_chinese": "中央軍事委員会国際軍事合作辦公室",
+        "source_pdf_page": 197,
+        "sub_organizations": {}
+      },
+      "CMC Audit Office": {
+        "organization_name_english": "CMC Audit Office",
+        "organization_name_chinese": "中央軍事委員会審計署",
+        "source_pdf_page": 197,
+        "sub_organizations": {}
+      },
+      "CMC Agency for Offices Administration": {
+        "organization_name_english": "CMC Agency for Offices Administration",
+        "organization_name_chinese": "中央軍事委員会機関事務管理総局",
+        "source_pdf_page": 197,
+        "sub_organizations": {}
+      },
+      "CMC Joint Logistics Support Force": {
+        "organization_name_english": "CMC Joint Logistics Support Force",
+        "organization_name_chinese": "中央軍事委員会聯勤保障部隊",
+        "source_pdf_page": 198,
+        "sub_organizations": {
+          "Staff Headquarters": {
+            "organization_name_english": "Staff Headquarters",
+            "organization_name_chinese": "参謀部",
+            "source_pdf_page": 198,
+            "sub_organizations": {}
+          },
+          "Political Work Department": {
+            "organization_name_english": "Political Work Department",
+            "organization_name_chinese": "政治工作部",
+            "source_pdf_page": 198,
+            "sub_organizations": {}
+          },
+          "Ordnance Administration": {
+            "organization_name_english": "Ordnance Administration",
+            "organization_name_chinese": "軍械管理局",
+            "source_pdf_page": 198,
+            "sub_organizations": {}
+          },
+          "Wuhan Joint Logistic Support Base": {
+            "organization_name_english": "Wuhan Joint Logistic Support Base",
+            "organization_name_chinese": "武漢聯勤保障基地",
+            "source_pdf_page": 198,
+            "sub_organizations": {}
+          },
+          "Wuxi Joint Logistic Support Center Director": {
+            "organization_name_english": "Wuxi Joint Logistic Support Center Director",
+            "organization_name_chinese": "無錫聯勤保障中心主任",
+            "source_pdf_page": 198,
+            "sub_organizations": {}
+          },
+          "Guilin Joint Logistic Support Center Director": {
+            "organization_name_english": "Guilin Joint Logistic Support Center Director",
+            "organization_name_chinese": "桂林聯勤保障中心主任",
+            "source_pdf_page": 198,
+            "sub_organizations": {}
+          },
+          "Xining Joint Logistic Support Center Director": {
+            "organization_name_english": "Xining Joint Logistic Support Center Director",
+            "organization_name_chinese": "西寧聯勤保障中心主任",
+            "source_pdf_page": 199,
+            "sub_organizations": {}
+          },
+          "Shenyang Joint Logistic Support Center Director": {
+            "organization_name_english": "Shenyang Joint Logistic Support Center Director",
+            "organization_name_chinese": "瀋陽聯勤保障中心主任",
+            "source_pdf_page": 199,
+            "sub_organizations": {}
+          },
+          "Zhengzhou Joint Logistic Support Center Director": {
+            "organization_name_english": "Zhengzhou Joint Logistic Support Center Director",
+            "organization_name_chinese": "鄭州聯勤保障中心主任",
+            "source_pdf_page": 199,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "Ministry of National Defense": {
+        "organization_name_english": "Ministry of National Defense",
+        "organization_name_chinese": "国防部",
+        "source_pdf_page": 199,
+        "sub_organizations": {
+          "International Military Cooperation Office (CMC International Military Cooperation Office)": {
+            "organization_name_english": "International Military Cooperation Office (CMC International Military Cooperation Office)",
+            "organization_name_chinese": "国際軍事合作辦公室 (軍委国際軍事合作辦公室)",
+            "source_pdf_page": 199,
+            "sub_organizations": {}
+          },
+          "Information Office": {
+            "organization_name_english": "Information Office",
+            "organization_name_chinese": "新聞局",
+            "source_pdf_page": 199,
+            "sub_organizations": {}
+          },
+          "PKO Affairs Office": {
+            "organization_name_english": "PKO Affairs Office",
+            "organization_name_chinese": "維和事務辦公室",
+            "source_pdf_page": 199,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "FIVE THEATER COMMANDS": {
+        "organization_name_english": "FIVE THEATER COMMANDS",
+        "organization_name_chinese": "五大戦区",
+        "source_pdf_page": 200,
+        "sub_organizations": {
+          "Eastern Theater Command": {
+            "organization_name_english": "Eastern Theater Command",
+            "organization_name_chinese": "東部戦区",
+            "source_pdf_page": 200,
+            "sub_organizations": {
+              "Joint Staff Department": {
+                "organization_name_english": "Joint Staff Department",
+                "organization_name_chinese": "聯合参謀部",
+                "source_pdf_page": 200,
+                "sub_organizations": {}
+              },
+              "Political Work Department": {
+                "organization_name_english": "Political Work Department",
+                "organization_name_chinese": "政治工作部",
+                "source_pdf_page": 200,
+                "sub_organizations": {}
+              },
+              "Army": {
+                "organization_name_english": "Army",
+                "organization_name_chinese": "陸軍",
+                "source_pdf_page": 200,
+                "sub_organizations": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
