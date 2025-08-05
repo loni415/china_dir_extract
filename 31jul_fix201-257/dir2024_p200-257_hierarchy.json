@@ -1,0 +1,1890 @@
+{
+  "MILITARY ORGANIZATIONS": {
+    "organization_name_english": "MILITARY ORGANIZATIONS",
+    "organization_name_chinese": "軍機関",
+    "source_pdf_page": 189,
+    "sub_organizations": {
+      "Five Theater Commands": {
+        "organization_name_english": "Five Theater Commands",
+        "organization_name_chinese": "五大戦区",
+        "source_pdf_page": 200,
+        "sub_organizations": {
+          "Eastern Theater Command": {
+            "organization_name_english": "Eastern Theater Command",
+            "organization_name_chinese": "東部戦区",
+            "source_pdf_page": 200,
+            "sub_organizations": {
+              "Joint Staff Department": {
+                "organization_name_english": "Joint Staff Department",
+                "organization_name_chinese": "聯合参謀部",
+                "source_pdf_page": 200,
+                "sub_organizations": {}
+              },
+              "Political Work Department": {
+                "organization_name_english": "Political Work Department",
+                "organization_name_chinese": "政治工作部",
+                "source_pdf_page": 200,
+                "sub_organizations": {}
+              },
+              "Army": {
+                "organization_name_english": "Army",
+                "organization_name_chinese": "陸軍",
+                "source_pdf_page": 200,
+                "sub_organizations": {}
+              },
+              "Navy (East China Sea Fleet)": {
+                "organization_name_english": "Navy (East China Sea Fleet)",
+                "organization_name_chinese": "海軍(東海艦隊)",
+                "source_pdf_page": 201,
+                "sub_organizations": {
+                  "Air Force Commander": {
+                    "organization_name_english": "Air Force Commander",
+                    "organization_name_chinese": "航空兵(92919部隊) 司令員",
+                    "source_pdf_page": 201,
+                    "sub_organizations": {}
+                  },
+                  "Air Force Political Commissar": {
+                    "organization_name_english": "Air Force Political Commissar",
+                    "organization_name_chinese": "航空兵(92919部隊)政治委員",
+                    "source_pdf_page": 201,
+                    "sub_organizations": {}
+                  },
+                  "Shanghai Base": {
+                    "organization_name_english": "Shanghai Base",
+                    "organization_name_chinese": "上海基地(91668部隊)",
+                    "source_pdf_page": 201,
+                    "sub_organizations": {}
+                  },
+                  "Zhoushan Base": {
+                    "organization_name_english": "Zhoushan Base",
+                    "organization_name_chinese": "舟山基地(92269部隊)",
+                    "source_pdf_page": 202,
+                    "sub_organizations": {}
+                  },
+                  "Fujian Base": {
+                    "organization_name_english": "Fujian Base",
+                    "organization_name_chinese": "福建基地(92403部隊)",
+                    "source_pdf_page": 202,
+                    "sub_organizations": {}
+                  }
+                }
+              },
+              "Air Force": {
+                "organization_name_english": "Air Force",
+                "organization_name_chinese": "空軍",
+                "source_pdf_page": 202,
+                "sub_organizations": {}
+              }
+            }
+          },
+          "Southern Theater Command": {
+            "organization_name_english": "Southern Theater Command",
+            "organization_name_chinese": "南部戦区",
+            "source_pdf_page": 202,
+            "sub_organizations": {
+              "Joint Staff Department": {
+                "organization_name_english": "Joint Staff Department",
+                "organization_name_chinese": "聯合参謀部",
+                "source_pdf_page": 203,
+                "sub_organizations": {}
+              },
+              "Political Work Department": {
+                "organization_name_english": "Political Work Department",
+                "organization_name_chinese": "政治工作部",
+                "source_pdf_page": 203,
+                "sub_organizations": {}
+              },
+              "Army": {
+                "organization_name_english": "Army",
+                "organization_name_chinese": "陸軍",
+                "source_pdf_page": 203,
+                "sub_organizations": {}
+              },
+              "Navy (South China Sea Fleet)": {
+                "organization_name_english": "Navy (South China Sea Fleet)",
+                "organization_name_chinese": "海軍(南海艦隊)",
+                "source_pdf_page": 204,
+                "sub_organizations": {
+                  "Air Force": {
+                    "organization_name_english": "Air Force",
+                    "organization_name_chinese": "航空兵(92830部隊)",
+                    "source_pdf_page": 204,
+                    "sub_organizations": {}
+                  },
+                  "Second Submarine Base (Sanya)": {
+                    "organization_name_english": "Second Submarine Base (Sanya)",
+                    "organization_name_chinese": "潜艇第二基地(三亜92730部隊)",
+                    "source_pdf_page": 204,
+                    "sub_organizations": {}
+                  },
+                  "Guangzhou Base": {
+                    "organization_name_english": "Guangzhou Base",
+                    "organization_name_chinese": "広州基地(92962部隊)",
+                    "source_pdf_page": 204,
+                    "sub_organizations": {}
+                  },
+                  "Yulin Base": {
+                    "organization_name_english": "Yulin Base",
+                    "organization_name_chinese": "楡林基地(91458部隊)",
+                    "source_pdf_page": 204,
+                    "sub_organizations": {}
+                  },
+                  "Nansha Garrison": {
+                    "organization_name_english": "Nansha Garrison",
+                    "organization_name_chinese": "南沙守備部隊",
+                    "source_pdf_page": 204,
+                    "sub_organizations": {}
+                  },
+                  "Shandong Carrier Formation": {
+                    "organization_name_english": "Shandong Carrier Formation",
+                    "organization_name_chinese": "山東艦航母編隊(91910部隊)",
+                    "source_pdf_page": 205,
+                    "sub_organizations": {}
+                  }
+                }
+              },
+              "Air Force": {
+                "organization_name_english": "Air Force",
+                "organization_name_chinese": "空軍",
+                "source_pdf_page": 205,
+                "sub_organizations": {}
+              }
+            }
+          },
+          "Western Theater Command": {
+            "organization_name_english": "Western Theater Command",
+            "organization_name_chinese": "西部戦区",
+            "source_pdf_page": 205,
+            "sub_organizations": {
+              "Joint Staff Department": {
+                "organization_name_english": "Joint Staff Department",
+                "organization_name_chinese": "聯合参謀部",
+                "source_pdf_page": 206,
+                "sub_organizations": {}
+              },
+              "Political Work Department": {
+                "organization_name_english": "Political Work Department",
+                "organization_name_chinese": "政治工作部",
+                "source_pdf_page": 206,
+                "sub_organizations": {}
+              },
+              "Army": {
+                "organization_name_english": "Army",
+                "organization_name_chinese": "陸軍",
+                "source_pdf_page": 206,
+                "sub_organizations": {}
+              },
+              "Air Force": {
+                "organization_name_english": "Air Force",
+                "organization_name_chinese": "空軍",
+                "source_pdf_page": 206,
+                "sub_organizations": {}
+              }
+            }
+          },
+          "Northern Theater Command": {
+            "organization_name_english": "Northern Theater Command",
+            "organization_name_chinese": "北部戦区",
+            "source_pdf_page": 207,
+            "sub_organizations": {
+              "Joint Staff Department": {
+                "organization_name_english": "Joint Staff Department",
+                "organization_name_chinese": "聯合参謀部",
+                "source_pdf_page": 207,
+                "sub_organizations": {}
+              },
+              "Political Work Department": {
+                "organization_name_english": "Political Work Department",
+                "organization_name_chinese": "政治工作部",
+                "source_pdf_page": 208,
+                "sub_organizations": {}
+              },
+              "Army": {
+                "organization_name_english": "Army",
+                "organization_name_chinese": "陸軍",
+                "source_pdf_page": 208,
+                "sub_organizations": {}
+              },
+              "Navy (North China Sea Fleet)": {
+                "organization_name_english": "Navy (North China Sea Fleet)",
+                "organization_name_chinese": "海軍(北海艦隊)",
+                "source_pdf_page": 208,
+                "sub_organizations": {
+                  "Air Force": {
+                    "organization_name_english": "Air Force",
+                    "organization_name_chinese": "航空兵(91286部隊)",
+                    "source_pdf_page": 209,
+                    "sub_organizations": {}
+                  },
+                  "Qingdao Base": {
+                    "organization_name_english": "Qingdao Base",
+                    "organization_name_chinese": "青島基地(91208部隊)",
+                    "source_pdf_page": 209,
+                    "sub_organizations": {}
+                  },
+                  "First Submarine Base (Qingdao)": {
+                    "organization_name_english": "First Submarine Base (Qingdao)",
+                    "organization_name_chinese": "潜艇第一基地(青島92330部隊)",
+                    "source_pdf_page": 209,
+                    "sub_organizations": {}
+                  },
+                  "Lushun Base": {
+                    "organization_name_english": "Lushun Base",
+                    "organization_name_chinese": "旅順基地(92538部隊)",
+                    "source_pdf_page": 209,
+                    "sub_organizations": {}
+                  },
+                  "Liaoning Carrier Formation": {
+                    "organization_name_english": "Liaoning Carrier Formation",
+                    "organization_name_chinese": "遼寧艦航母編隊(91181部隊)",
+                    "source_pdf_page": 209,
+                    "sub_organizations": {}
+                  }
+                }
+              },
+              "Air Force": {
+                "organization_name_english": "Air Force",
+                "organization_name_chinese": "空軍",
+                "source_pdf_page": 209,
+                "sub_organizations": {}
+              }
+            }
+          },
+          "Central Theater Command": {
+            "organization_name_english": "Central Theater Command",
+            "organization_name_chinese": "中部戦区",
+            "source_pdf_page": 210,
+            "sub_organizations": {
+              "Joint Staff Department": {
+                "organization_name_english": "Joint Staff Department",
+                "organization_name_chinese": "聯合参謀部",
+                "source_pdf_page": 210,
+                "sub_organizations": {}
+              },
+              "Political Work Department": {
+                "organization_name_english": "Political Work Department",
+                "organization_name_chinese": "政治工作部",
+                "source_pdf_page": 210,
+                "sub_organizations": {}
+              },
+              "Army": {
+                "organization_name_english": "Army",
+                "organization_name_chinese": "陸軍",
+                "source_pdf_page": 210,
+                "sub_organizations": {}
+              },
+              "Air Force": {
+                "organization_name_english": "Air Force",
+                "organization_name_chinese": "空軍",
+                "source_pdf_page": 211,
+                "sub_organizations": {}
+              }
+            }
+          }
+        }
+      },
+      "Xinjiang Production and Construction Corps": {
+        "organization_name_english": "Xinjiang Production and Construction Corps",
+        "organization_name_chinese": "新疆生産建設兵団",
+        "source_pdf_page": 211,
+        "sub_organizations": {
+          "Party Committee": {
+            "organization_name_english": "Party Committee",
+            "organization_name_chinese": "党委員会",
+            "source_pdf_page": 212,
+            "sub_organizations": {}
+          },
+          "People's Armed Police Corps of Xinjiang Production and Construction Corps": {
+            "organization_name_english": "People's Armed Police Corps of Xinjiang Production and Construction Corps",
+            "organization_name_chinese": "武装警察部隊新疆生產建設兵団総隊",
+            "source_pdf_page": 212,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "Group Armies": {
+        "organization_name_english": "Group Armies",
+        "organization_name_chinese": "集団軍",
+        "source_pdf_page": 213,
+        "sub_organizations": {
+          "71st Group Army (Eastern Theater Command)": {
+            "organization_name_english": "71st Group Army (Eastern Theater Command)",
+            "organization_name_chinese": "第71集団軍(東部戦区)",
+            "source_pdf_page": 213,
+            "sub_organizations": {}
+          },
+          "72nd Group Army (Eastern Theater Command)": {
+            "organization_name_english": "72nd Group Army (Eastern Theater Command)",
+            "organization_name_chinese": "第72集団軍(東部戦区)",
+            "source_pdf_page": 213,
+            "sub_organizations": {}
+          },
+          "73rd Group Army (Eastern Theater Command)": {
+            "organization_name_english": "73rd Group Army (Eastern Theater Command)",
+            "organization_name_chinese": "第73集団軍(東部戦区)",
+            "source_pdf_page": 213,
+            "sub_organizations": {}
+          },
+          "74th Group Army (Southern Theater Command)": {
+            "organization_name_english": "74th Group Army (Southern Theater Command)",
+            "organization_name_chinese": "第74集団軍(南部戦区)",
+            "source_pdf_page": 213,
+            "sub_organizations": {}
+          },
+          "75th Group Army (Southern Theater Command)": {
+            "organization_name_english": "75th Group Army (Southern Theater Command)",
+            "organization_name_chinese": "第75集団軍(南部戦区)",
+            "source_pdf_page": 213,
+            "sub_organizations": {}
+          },
+          "76th Group Army (Western Theater Command)": {
+            "organization_name_english": "76th Group Army (Western Theater Command)",
+            "organization_name_chinese": "第76集団軍(西部戦区)",
+            "source_pdf_page": 213,
+            "sub_organizations": {}
+          },
+          "77th Group Army (Western Theater Command)": {
+            "organization_name_english": "77th Group Army (Western Theater Command)",
+            "organization_name_chinese": "第77集団軍(西部戦区)",
+            "source_pdf_page": 213,
+            "sub_organizations": {}
+          },
+          "78th Group Army (Northern Theater Command)": {
+            "organization_name_english": "78th Group Army (Northern Theater Command)",
+            "organization_name_chinese": "第78集団軍(北部戦区)",
+            "source_pdf_page": 214,
+            "sub_organizations": {}
+          },
+          "79th Group Army (Northern Theater Command)": {
+            "organization_name_english": "79th Group Army (Northern Theater Command)",
+            "organization_name_chinese": "第79集団軍(北部戦区)",
+            "source_pdf_page": 214,
+            "sub_organizations": {}
+          },
+          "80th Group Army (Northern Theater Command)": {
+            "organization_name_english": "80th Group Army (Northern Theater Command)",
+            "organization_name_chinese": "第80集団軍(北部戦区)",
+            "source_pdf_page": 214,
+            "sub_organizations": {}
+          },
+          "81st Group Army (Central Theater Command)": {
+            "organization_name_english": "81st Group Army (Central Theater Command)",
+            "organization_name_chinese": "第81集団軍(中部戦区)",
+            "source_pdf_page": 214,
+            "sub_organizations": {}
+          },
+          "82nd Group Army (Central Theater Command)": {
+            "organization_name_english": "82nd Group Army (Central Theater Command)",
+            "organization_name_chinese": "第82集団軍(中部戦区)",
+            "source_pdf_page": 214,
+            "sub_organizations": {}
+          },
+          "83rd Group Army (Central Theater Command)": {
+            "organization_name_english": "83rd Group Army (Central Theater Command)",
+            "organization_name_chinese": "第83集団軍(中部戦区)",
+            "source_pdf_page": 214,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "Military Force Stationed in HKSAR": {
+        "organization_name_english": "Military Force Stationed in HKSAR",
+        "organization_name_chinese": "駐香港特別行政区部隊",
+        "source_pdf_page": 214,
+        "sub_organizations": {}
+      },
+      "Military Force Stationed in MSAR": {
+        "organization_name_english": "Military Force Stationed in MSAR",
+        "organization_name_chinese": "駐澳門特別行政区部隊",
+        "source_pdf_page": 215,
+        "sub_organizations": {}
+      },
+      "Army": {
+        "organization_name_english": "Army",
+        "organization_name_chinese": "陸軍",
+        "source_pdf_page": 216,
+        "sub_organizations": {
+          "Commission for Discipline Inspection": {
+            "organization_name_english": "Commission for Discipline Inspection",
+            "organization_name_chinese": "紀律検査委員会",
+            "source_pdf_page": 216,
+            "sub_organizations": {}
+          },
+          "Staff Headquarters": {
+            "organization_name_english": "Staff Headquarters",
+            "organization_name_chinese": "参謀部",
+            "source_pdf_page": 216,
+            "sub_organizations": {}
+          },
+          "Political Work Department": {
+            "organization_name_english": "Political Work Department",
+            "organization_name_chinese": "政治工作部",
+            "source_pdf_page": 216,
+            "sub_organizations": {}
+          },
+          "Logistics Department": {
+            "organization_name_english": "Logistics Department",
+            "organization_name_chinese": "後勤部",
+            "source_pdf_page": 216,
+            "sub_organizations": {}
+          },
+          "Armament Department": {
+            "organization_name_english": "Armament Department",
+            "organization_name_chinese": "装備部",
+            "source_pdf_page": 217,
+            "sub_organizations": {}
+          },
+          "Army Research Institute": {
+            "organization_name_english": "Army Research Institute",
+            "organization_name_chinese": "陸軍研究院",
+            "source_pdf_page": 217,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "Navy": {
+        "organization_name_english": "Navy",
+        "organization_name_chinese": "海軍",
+        "source_pdf_page": 217,
+        "sub_organizations": {
+          "Commission for Discipline Inspection": {
+            "organization_name_english": "Commission for Discipline Inspection",
+            "organization_name_chinese": "紀律検査委員会",
+            "source_pdf_page": 217,
+            "sub_organizations": {}
+          },
+          "Staff Headquarters": {
+            "organization_name_english": "Staff Headquarters",
+            "organization_name_chinese": "参謀部",
+            "source_pdf_page": 217,
+            "sub_organizations": {}
+          },
+          "Political Work Department": {
+            "organization_name_english": "Political Work Department",
+            "organization_name_chinese": "政治工作部",
+            "source_pdf_page": 217,
+            "sub_organizations": {}
+          },
+          "Logistics Department": {
+            "organization_name_english": "Logistics Department",
+            "organization_name_chinese": "後勤部",
+            "source_pdf_page": 218,
+            "sub_organizations": {}
+          },
+          "Armament Department": {
+            "organization_name_english": "Armament Department",
+            "organization_name_chinese": "装備部",
+            "source_pdf_page": 218,
+            "sub_organizations": {}
+          },
+          "Navy Marine Corps": {
+            "organization_name_english": "Navy Marine Corps",
+            "organization_name_chinese": "海軍陸戦隊(91811部隊)",
+            "source_pdf_page": 218,
+            "sub_organizations": {}
+          },
+          "Naval Base in Djibouti": {
+            "organization_name_english": "Naval Base in Djibouti",
+            "organization_name_chinese": "駐吉布提保障基地",
+            "source_pdf_page": 218,
+            "sub_organizations": {}
+          },
+          "Naval Research Institute": {
+            "organization_name_english": "Naval Research Institute",
+            "organization_name_chinese": "海軍研究院",
+            "source_pdf_page": 218,
+            "sub_organizations": {}
+          },
+          "Naval Test Base (Huludao)": {
+            "organization_name_english": "Naval Test Base (Huludao)",
+            "organization_name_chinese": "海軍試験基地(葫蘆島 92493 部隊)",
+            "source_pdf_page": 218,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "Air Force": {
+        "organization_name_english": "Air Force",
+        "organization_name_chinese": "空軍",
+        "source_pdf_page": 219,
+        "sub_organizations": {
+          "Commission for Discipline Inspection": {
+            "organization_name_english": "Commission for Discipline Inspection",
+            "organization_name_chinese": "紀律検査委員会",
+            "source_pdf_page": 219,
+            "sub_organizations": {}
+          },
+          "Staff Headquarters": {
+            "organization_name_english": "Staff Headquarters",
+            "organization_name_chinese": "参謀部",
+            "source_pdf_page": 219,
+            "sub_organizations": {}
+          },
+          "Political Work Department": {
+            "organization_name_english": "Political Work Department",
+            "organization_name_chinese": "政治工作部",
+            "source_pdf_page": 219,
+            "sub_organizations": {}
+          },
+          "Logistics Department": {
+            "organization_name_english": "Logistics Department",
+            "organization_name_chinese": "後勤部",
+            "source_pdf_page": 220,
+            "sub_organizations": {}
+          },
+          "Armament Department": {
+            "organization_name_english": "Armament Department",
+            "organization_name_chinese": "装備部",
+            "source_pdf_page": 220,
+            "sub_organizations": {}
+          },
+          "Airborne Corps": {
+            "organization_name_english": "Airborne Corps",
+            "organization_name_chinese": "空降兵軍",
+            "source_pdf_page": 220,
+            "sub_organizations": {}
+          },
+          "Test and Training Base": {
+            "organization_name_english": "Test and Training Base",
+            "organization_name_chinese": "空軍試験訓練基地(95861部隊)",
+            "source_pdf_page": 220,
+            "sub_organizations": {}
+          },
+          "Air Force Research Institute": {
+            "organization_name_english": "Air Force Research Institute",
+            "organization_name_chinese": "空軍研究院",
+            "source_pdf_page": 220,
+            "sub_organizations": {}
+          },
+          "Shanghai Base": {
+            "organization_name_english": "Shanghai Base",
+            "organization_name_chinese": "上海基地",
+            "source_pdf_page": 221,
+            "sub_organizations": {}
+          },
+          "Fuzhou Base": {
+            "organization_name_english": "Fuzhou Base",
+            "organization_name_chinese": "福州基地(94816 部隊)",
+            "source_pdf_page": 221,
+            "sub_organizations": {}
+          },
+          "Nanning Base": {
+            "organization_name_english": "Nanning Base",
+            "organization_name_chinese": "南寧基地",
+            "source_pdf_page": 221,
+            "sub_organizations": {}
+          },
+          "Kunming Base": {
+            "organization_name_english": "Kunming Base",
+            "organization_name_chinese": "昆明基地",
+            "source_pdf_page": 221,
+            "sub_organizations": {}
+          },
+          "Lhasa Base": {
+            "organization_name_english": "Lhasa Base",
+            "organization_name_chinese": "拉薩基地",
+            "source_pdf_page": 221,
+            "sub_organizations": {}
+          },
+          "Lanzhou Base": {
+            "organization_name_english": "Lanzhou Base",
+            "organization_name_chinese": "蘭州基地",
+            "source_pdf_page": 221,
+            "sub_organizations": {}
+          },
+          "Urumqi Base": {
+            "organization_name_english": "Urumqi Base",
+            "organization_name_chinese": "烏魯木斉基地",
+            "source_pdf_page": 221,
+            "sub_organizations": {}
+          },
+          "Dalian Base": {
+            "organization_name_english": "Dalian Base",
+            "organization_name_chinese": "大連基地",
+            "source_pdf_page": 222,
+            "sub_organizations": {}
+          },
+          "Jinan Base": {
+            "organization_name_english": "Jinan Base",
+            "organization_name_chinese": "済南基地",
+            "source_pdf_page": 222,
+            "sub_organizations": {}
+          },
+          "Datong Base": {
+            "organization_name_english": "Datong Base",
+            "organization_name_chinese": "大同基地",
+            "source_pdf_page": 222,
+            "sub_organizations": {}
+          },
+          "Wuhan Base": {
+            "organization_name_english": "Wuhan Base",
+            "organization_name_chinese": "武漢基地",
+            "source_pdf_page": 222,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "Rocket Force": {
+        "organization_name_english": "Rocket Force",
+        "organization_name_chinese": "火箭軍",
+        "source_pdf_page": 222,
+        "sub_organizations": {
+          "Commission for Discipline Inspection": {
+            "organization_name_english": "Commission for Discipline Inspection",
+            "organization_name_chinese": "紀律検査委員会",
+            "source_pdf_page": 222,
+            "sub_organizations": {}
+          },
+          "Staff Headquarters": {
+            "organization_name_english": "Staff Headquarters",
+            "organization_name_chinese": "参謀部",
+            "source_pdf_page": 222,
+            "sub_organizations": {}
+          },
+          "Political Work Department": {
+            "organization_name_english": "Political Work Department",
+            "organization_name_chinese": "政治工作部",
+            "source_pdf_page": 222,
+            "sub_organizations": {}
+          },
+          "Logistics Department": {
+            "organization_name_english": "Logistics Department",
+            "organization_name_chinese": "後勤部",
+            "source_pdf_page": 222,
+            "sub_organizations": {}
+          },
+          "Armament Department": {
+            "organization_name_english": "Armament Department",
+            "organization_name_chinese": "装備部",
+            "source_pdf_page": 222,
+            "sub_organizations": {}
+          },
+          "Base 61": {
+            "organization_name_english": "Base 61",
+            "organization_name_chinese": "第61基地(96601部隊)",
+            "source_pdf_page": 223,
+            "sub_organizations": {}
+          },
+          "Base 62": {
+            "organization_name_english": "Base 62",
+            "organization_name_chinese": "第62基地(96602部隊)",
+            "source_pdf_page": 223,
+            "sub_organizations": {}
+          },
+          "Base 63": {
+            "organization_name_english": "Base 63",
+            "organization_name_chinese": "第63基地(96603 部隊)",
+            "source_pdf_page": 223,
+            "sub_organizations": {}
+          },
+          "Base 64": {
+            "organization_name_english": "Base 64",
+            "organization_name_chinese": "第64基地(96604部隊)",
+            "source_pdf_page": 223,
+            "sub_organizations": {}
+          },
+          "Base 65": {
+            "organization_name_english": "Base 65",
+            "organization_name_chinese": "第65基地(96605部隊)",
+            "source_pdf_page": 223,
+            "sub_organizations": {}
+          },
+          "Base 66": {
+            "organization_name_english": "Base 66",
+            "organization_name_chinese": "第66基地(96606部隊)",
+            "source_pdf_page": 223,
+            "sub_organizations": {}
+          },
+          "Base 67": {
+            "organization_name_english": "Base 67",
+            "organization_name_chinese": "第67基地(96607部隊)",
+            "source_pdf_page": 223,
+            "sub_organizations": {}
+          },
+          "Base 68": {
+            "organization_name_english": "Base 68",
+            "organization_name_chinese": "第68基地(96608部隊)",
+            "source_pdf_page": 223,
+            "sub_organizations": {}
+          },
+          "Rocket Force Research Institute": {
+            "organization_name_english": "Rocket Force Research Institute",
+            "organization_name_chinese": "火箭軍研究院",
+            "source_pdf_page": 224,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "Strategic Support Force": {
+        "organization_name_english": "Strategic Support Force",
+        "organization_name_chinese": "戦略支援部隊",
+        "source_pdf_page": 224,
+        "sub_organizations": {
+          "Commission for Discipline Inspection": {
+            "organization_name_english": "Commission for Discipline Inspection",
+            "organization_name_chinese": "紀律検査委員会",
+            "source_pdf_page": 224,
+            "sub_organizations": {}
+          },
+          "Staff Headquarters": {
+            "organization_name_english": "Staff Headquarters",
+            "organization_name_chinese": "参謀部",
+            "source_pdf_page": 224,
+            "sub_organizations": {}
+          },
+          "Political Work Department": {
+            "organization_name_english": "Political Work Department",
+            "organization_name_chinese": "政治工作部",
+            "source_pdf_page": 224,
+            "sub_organizations": {}
+          },
+          "Network System Department": {
+            "organization_name_english": "Network System Department",
+            "organization_name_chinese": "網絡系統部",
+            "source_pdf_page": 225,
+            "sub_organizations": {}
+          },
+          "Space System Department": {
+            "organization_name_english": "Space System Department",
+            "organization_name_chinese": "航天系統部",
+            "source_pdf_page": 225,
+            "sub_organizations": {}
+          },
+          "Test and Training Base 20 (Jiuquan Satellite Launching Center)": {
+            "organization_name_english": "Test and Training Base 20 (Jiuquan Satellite Launching Center)",
+            "organization_name_chinese": "第20 試験訓練基地 (酒泉衛星発射中心、63600部隊)",
+            "source_pdf_page": 225,
+            "sub_organizations": {}
+          },
+          "Test and Training Base 21 (Nuclear Testing Base)": {
+            "organization_name_english": "Test and Training Base 21 (Nuclear Testing Base)",
+            "organization_name_chinese": "第21試験訓練基地 (核試験基地、63650部隊)",
+            "source_pdf_page": 225,
+            "sub_organizations": {}
+          },
+          "Test and Training Base 23 (China Satellite Monitoring & Control Center at Sea)": {
+            "organization_name_english": "Test and Training Base 23 (China Satellite Monitoring & Control Center at Sea)",
+            "organization_name_chinese": "第23 試験訓練基地 (中国衛星海上測控部、63680 部隊)",
+            "source_pdf_page": 225,
+            "sub_organizations": {}
+          },
+          "Test and Training Base 25 (Taiyuan Satellite Launching Center)": {
+            "organization_name_english": "Test and Training Base 25 (Taiyuan Satellite Launching Center)",
+            "organization_name_chinese": "第25試験訓練基地 (太原衛星発射中心、63710部隊)",
+            "source_pdf_page": 226,
+            "sub_organizations": {}
+          },
+          "Test and Training Base 26 (Xian Satellite Monitoring and Control Center)": {
+            "organization_name_english": "Test and Training Base 26 (Xian Satellite Monitoring and Control Center)",
+            "organization_name_chinese": "第26 試験訓練基地 (西安衛星測控中心、63750部隊)",
+            "source_pdf_page": 226,
+            "sub_organizations": {}
+          },
+          "Test and Training Base 27 (Xichang Satellite Launching Center)": {
+            "organization_name_english": "Test and Training Base 27 (Xichang Satellite Launching Center)",
+            "organization_name_chinese": "第27試験訓練基地 (西昌衛星発射中心、63790部隊)",
+            "source_pdf_page": 226,
+            "sub_organizations": {}
+          },
+          "Test and Training Base 29 (China Aerodynamics Research & Development Center)": {
+            "organization_name_english": "Test and Training Base 29 (China Aerodynamics Research & Development Center)",
+            "organization_name_chinese": "第29 試験訓練基地 (中国空気動力研究与発展中心、63820部隊)",
+            "source_pdf_page": 226,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "Headquarters of Chinese People's Armed Police Force": {
+        "organization_name_english": "Headquarters of Chinese People's Armed Police Force",
+        "organization_name_chinese": "中国人民武装警察部隊総部",
+        "source_pdf_page": 227,
+        "sub_organizations": {
+          "Staff Headquarters": {
+            "organization_name_english": "Staff Headquarters",
+            "organization_name_chinese": "参謀部",
+            "source_pdf_page": 227,
+            "sub_organizations": {}
+          },
+          "Political Work Department": {
+            "organization_name_english": "Political Work Department",
+            "organization_name_chinese": "政治工作部",
+            "source_pdf_page": 227,
+            "sub_organizations": {}
+          },
+          "Logistics Department": {
+            "organization_name_english": "Logistics Department",
+            "organization_name_chinese": "後勤部",
+            "source_pdf_page": 227,
+            "sub_organizations": {}
+          },
+          "Armament Department": {
+            "organization_name_english": "Armament Department",
+            "organization_name_chinese": "装備部",
+            "source_pdf_page": 227,
+            "sub_organizations": {}
+          },
+          "Commission for Discipline Inspection": {
+            "organization_name_english": "Commission for Discipline Inspection",
+            "organization_name_chinese": "紀律検査委員会",
+            "source_pdf_page": 227,
+            "sub_organizations": {}
+          },
+          "First Motorized Corps": {
+            "organization_name_english": "First Motorized Corps",
+            "organization_name_chinese": "第一機動総隊",
+            "source_pdf_page": 228,
+            "sub_organizations": {}
+          },
+          "Second Motorized Corps": {
+            "organization_name_english": "Second Motorized Corps",
+            "organization_name_chinese": "第二機動総隊",
+            "source_pdf_page": 228,
+            "sub_organizations": {}
+          },
+          "China Coast Guard (CCG)": {
+            "organization_name_english": "China Coast Guard (CCG)",
+            "organization_name_chinese": "海警総隊(中国海警局)",
+            "source_pdf_page": 228,
+            "sub_organizations": {
+              "East China Sea Area Headquarters of CCG": {
+                "organization_name_english": "East China Sea Area Headquarters of CCG",
+                "organization_name_chinese": "海警総隊東海海区指揮部(東海分局)",
+                "source_pdf_page": 228,
+                "sub_organizations": {}
+              },
+              "South China Sea Area Headquarters of CCG": {
+                "organization_name_english": "South China Sea Area Headquarters of CCG",
+                "organization_name_chinese": "海警総隊南海海区指揮部(南海分局)",
+                "source_pdf_page": 228,
+                "sub_organizations": {}
+              },
+              "North Sea Area Headquarters of CCG": {
+                "organization_name_english": "North Sea Area Headquarters of CCG",
+                "organization_name_chinese": "海警総隊北海海区指揮部(北海分局)",
+                "source_pdf_page": 228,
+                "sub_organizations": {}
+              }
+            }
+          }
+        }
+      },
+      "Academy of Military Sciences": {
+        "organization_name_english": "Academy of Military Sciences",
+        "organization_name_chinese": "軍事科学院",
+        "source_pdf_page": 229,
+        "sub_organizations": {
+          "General Office": {
+            "organization_name_english": "General Office",
+            "organization_name_chinese": "辦公室",
+            "source_pdf_page": 229,
+            "sub_organizations": {}
+          },
+          "Science Research Department": {
+            "organization_name_english": "Science Research Department",
+            "organization_name_chinese": "科研部",
+            "source_pdf_page": 229,
+            "sub_organizations": {}
+          },
+          "Political Work Department": {
+            "organization_name_english": "Political Work Department",
+            "organization_name_chinese": "政治工作部",
+            "source_pdf_page": 229,
+            "sub_organizations": {}
+          },
+          "Management Support Department": {
+            "organization_name_english": "Management Support Department",
+            "organization_name_chinese": "管理保障部",
+            "source_pdf_page": 229,
+            "sub_organizations": {}
+          },
+          "War Studies Institute": {
+            "organization_name_english": "War Studies Institute",
+            "organization_name_chinese": "戦争研究院",
+            "source_pdf_page": 229,
+            "sub_organizations": {}
+          },
+          "Military Political Work Institute": {
+            "organization_name_english": "Military Political Work Institute",
+            "organization_name_chinese": "軍隊政治工作研究院",
+            "source_pdf_page": 229,
+            "sub_organizations": {}
+          },
+          "National Defense Engineering Institute": {
+            "organization_name_english": "National Defense Engineering Institute",
+            "organization_name_chinese": "国防工程研究院",
+            "source_pdf_page": 229,
+            "sub_organizations": {}
+          },
+          "Military Medical Sciences Institute": {
+            "organization_name_english": "Military Medical Sciences Institute",
+            "organization_name_chinese": "軍事医学研究院",
+            "source_pdf_page": 230,
+            "sub_organizations": {}
+          },
+          "System Engineering Institute": {
+            "organization_name_english": "System Engineering Institute",
+            "organization_name_chinese": "系統工程研究院",
+            "source_pdf_page": 230,
+            "sub_organizations": {}
+          },
+          "Chemical Defense Institute": {
+            "organization_name_english": "Chemical Defense Institute",
+            "organization_name_chinese": "防化研究院",
+            "source_pdf_page": 230,
+            "sub_organizations": {}
+          },
+          "Military Legal System Institute": {
+            "organization_name_english": "Military Legal System Institute",
+            "organization_name_chinese": "軍事法制研究院",
+            "source_pdf_page": 230,
+            "sub_organizations": {}
+          },
+          "Defense Science & Technology Innovation Institute": {
+            "organization_name_english": "Defense Science & Technology Innovation Institute",
+            "organization_name_chinese": "国防科技創新研究院",
+            "source_pdf_page": 230,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "PLA National Defense University": {
+        "organization_name_english": "PLA National Defense University",
+        "organization_name_chinese": "中国人民解放軍国防大学",
+        "source_pdf_page": 230,
+        "sub_organizations": {
+          "General Office": {
+            "organization_name_english": "General Office",
+            "organization_name_chinese": "辦公室",
+            "source_pdf_page": 231,
+            "sub_organizations": {}
+          },
+          "Political Work Department": {
+            "organization_name_english": "Political Work Department",
+            "organization_name_chinese": "政治工作部",
+            "source_pdf_page": 231,
+            "sub_organizations": {}
+          },
+          "Education & Training Department": {
+            "organization_name_english": "Education & Training Department",
+            "organization_name_chinese": "教育訓練部",
+            "source_pdf_page": 231,
+            "sub_organizations": {}
+          },
+          "Science and Research Department": {
+            "organization_name_english": "Science and Research Department",
+            "organization_name_chinese": "科研部",
+            "source_pdf_page": 231,
+            "sub_organizations": {}
+          },
+          "Management Support Department": {
+            "organization_name_english": "Management Support Department",
+            "organization_name_chinese": "管理保障部",
+            "source_pdf_page": 231,
+            "sub_organizations": {}
+          },
+          "National Security College": {
+            "organization_name_english": "National Security College",
+            "organization_name_chinese": "国家安全学院",
+            "source_pdf_page": 231,
+            "sub_organizations": {}
+          },
+          "Joint Operations College": {
+            "organization_name_english": "Joint Operations College",
+            "organization_name_chinese": "聯合作戦学院",
+            "source_pdf_page": 231,
+            "sub_organizations": {}
+          },
+          "Military Administration College": {
+            "organization_name_english": "Military Administration College",
+            "organization_name_chinese": "軍事管理学院",
+            "source_pdf_page": 231,
+            "sub_organizations": {}
+          },
+          "Political College": {
+            "organization_name_english": "Political College",
+            "organization_name_chinese": "政治学院",
+            "source_pdf_page": 232,
+            "sub_organizations": {}
+          },
+          "Joint Service College": {
+            "organization_name_english": "Joint Service College",
+            "organization_name_chinese": "聯合勤務学院",
+            "source_pdf_page": 232,
+            "sub_organizations": {}
+          },
+          "Army Arts College": {
+            "organization_name_english": "Army Arts College",
+            "organization_name_chinese": "軍事文化学院",
+            "source_pdf_page": 232,
+            "sub_organizations": {}
+          },
+          "International Defense Studies College": {
+            "organization_name_english": "International Defense Studies College",
+            "organization_name_chinese": "国際防務学院",
+            "source_pdf_page": 232,
+            "sub_organizations": {}
+          },
+          "Graduate School": {
+            "organization_name_english": "Graduate School",
+            "organization_name_chinese": "研究生院",
+            "source_pdf_page": 232,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "National University of Defense Technology (Changsha)": {
+        "organization_name_english": "National University of Defense Technology (Changsha)",
+        "organization_name_chinese": "国防科技大学",
+        "source_pdf_page": 232,
+        "sub_organizations": {
+          "Army Command College (Nanjing)": {
+            "organization_name_english": "Army Command College (Nanjing)",
+            "organization_name_chinese": "陸軍指揮学院",
+            "source_pdf_page": 232,
+            "sub_organizations": {}
+          },
+          "Army Engineering University (Nanjing)": {
+            "organization_name_english": "Army Engineering University (Nanjing)",
+            "organization_name_chinese": "陸軍工程大学",
+            "source_pdf_page": 232,
+            "sub_organizations": {}
+          },
+          "Army Infantry Academy (Nanchang)": {
+            "organization_name_english": "Army Infantry Academy (Nanchang)",
+            "organization_name_chinese": "陸軍歩兵学院",
+            "source_pdf_page": 232,
+            "sub_organizations": {}
+          },
+          "Armored Troop Academy (Beijing)": {
+            "organization_name_english": "Armored Troop Academy (Beijing)",
+            "organization_name_chinese": "陸軍装甲兵学院",
+            "source_pdf_page": 233,
+            "sub_organizations": {}
+          },
+          "Army Artillery and Air Defense Academy (Hefei)": {
+            "organization_name_english": "Army Artillery and Air Defense Academy (Hefei)",
+            "organization_name_chinese": "陸軍炮兵防空兵学院",
+            "source_pdf_page": 233,
+            "sub_organizations": {}
+          },
+          "Army Air Force Academy (Beijing)": {
+            "organization_name_english": "Army Air Force Academy (Beijing)",
+            "organization_name_chinese": "陸軍航空兵学院",
+            "source_pdf_page": 233,
+            "sub_organizations": {}
+          },
+          "Army Special Operations Academy (Guilin)": {
+            "organization_name_english": "Army Special Operations Academy (Guilin)",
+            "organization_name_chinese": "陸軍特種作戦学院",
+            "source_pdf_page": 233,
+            "sub_organizations": {}
+          },
+          "Army Border & Coastal Defense Academy (Xian)": {
+            "organization_name_english": "Army Border & Coastal Defense Academy (Xian)",
+            "organization_name_chinese": "陸軍辺海防学院",
+            "source_pdf_page": 233,
+            "sub_organizations": {}
+          },
+          "Insititute of NBC Defence (Beijing)": {
+            "organization_name_english": "Insititute of NBC Defence (Beijing)",
+            "organization_name_chinese": "陸軍防化学院",
+            "source_pdf_page": 234,
+            "sub_organizations": {}
+          },
+          "Army Military Medical University (Chongqing)": {
+            "organization_name_english": "Army Military Medical University (Chongqing)",
+            "organization_name_chinese": "陸軍軍医大学",
+            "source_pdf_page": 234,
+            "sub_organizations": {}
+          },
+          "Army Military Transportation Academy (Tianjin)": {
+            "organization_name_english": "Army Military Transportation Academy (Tianjin)",
+            "organization_name_chinese": "陸軍軍事交通学院",
+            "source_pdf_page": 234,
+            "sub_organizations": {}
+          },
+          "Army Service Academy (Chongqing)": {
+            "organization_name_english": "Army Service Academy (Chongqing)",
+            "organization_name_chinese": "陸軍勤務学院",
+            "source_pdf_page": 234,
+            "sub_organizations": {}
+          },
+          "Navy Command Academy (Nanjing)": {
+            "organization_name_english": "Navy Command Academy (Nanjing)",
+            "organization_name_chinese": "海軍指揮学院",
+            "source_pdf_page": 235,
+            "sub_organizations": {}
+          },
+          "Navy Engineering University (Wuhan)": {
+            "organization_name_english": "Navy Engineering University (Wuhan)",
+            "organization_name_chinese": "海軍工程大学",
+            "source_pdf_page": 235,
+            "sub_organizations": {}
+          },
+          "Dalian Naval Vessels Academy": {
+            "organization_name_english": "Dalian Naval Vessels Academy",
+            "organization_name_chinese": "海軍大連艦艇学院",
+            "source_pdf_page": 235,
+            "sub_organizations": {}
+          },
+          "Naval Submarine Academy (Qingdao)": {
+            "organization_name_english": "Naval Submarine Academy (Qingdao)",
+            "organization_name_chinese": "海軍潜艇学院",
+            "source_pdf_page": 235,
+            "sub_organizations": {}
+          },
+          "Naval Aeronautical University (Yantai)": {
+            "organization_name_english": "Naval Aeronautical University (Yantai)",
+            "organization_name_chinese": "海軍航空大学",
+            "source_pdf_page": 235,
+            "sub_organizations": {}
+          },
+          "Naval Military Medical University (Shanghai)": {
+            "organization_name_english": "Naval Military Medical University (Shanghai)",
+            "organization_name_chinese": "海軍軍医大学",
+            "source_pdf_page": 235,
+            "sub_organizations": {}
+          },
+          "Naval Service Academy (Tianjin)": {
+            "organization_name_english": "Naval Service Academy (Tianjin)",
+            "organization_name_chinese": "海軍勤務学院",
+            "source_pdf_page": 235,
+            "sub_organizations": {}
+          },
+          "Naval Petty Officer Academy (Bengbu)": {
+            "organization_name_english": "Naval Petty Officer Academy (Bengbu)",
+            "organization_name_chinese": "海軍士官学校",
+            "source_pdf_page": 236,
+            "sub_organizations": {}
+          },
+          "Air Force Command Academy (Beijing)": {
+            "organization_name_english": "Air Force Command Academy (Beijing)",
+            "organization_name_chinese": "空軍指揮学院",
+            "source_pdf_page": 236,
+            "sub_organizations": {}
+          },
+          "Air Force Engineering University (Xian)": {
+            "organization_name_english": "Air Force Engineering University (Xian)",
+            "organization_name_chinese": "空軍工程大学",
+            "source_pdf_page": 236,
+            "sub_organizations": {}
+          },
+          "Air Force Flight University (Changchun)": {
+            "organization_name_english": "Air Force Flight University (Changchun)",
+            "organization_name_chinese": "空軍航空大学",
+            "source_pdf_page": 236,
+            "sub_organizations": {}
+          },
+          "Air Force Early Warning Academy (Wuhan)": {
+            "organization_name_english": "Air Force Early Warning Academy (Wuhan)",
+            "organization_name_chinese": "空軍預警学院",
+            "source_pdf_page": 236,
+            "sub_organizations": {}
+          },
+          "Air Force Harbin Flight Academy": {
+            "organization_name_english": "Air Force Harbin Flight Academy",
+            "organization_name_chinese": "空軍哈爾濱飛行学院",
+            "source_pdf_page": 236,
+            "sub_organizations": {}
+          },
+          "Air Force Shijiazhuang Flight Academy": {
+            "organization_name_english": "Air Force Shijiazhuang Flight Academy",
+            "organization_name_chinese": "空軍石家莊飛行学院",
+            "source_pdf_page": 236,
+            "sub_organizations": {}
+          },
+          "Air Force Xian Flight Academy": {
+            "organization_name_english": "Air Force Xian Flight Academy",
+            "organization_name_chinese": "空軍西安飛行学院",
+            "source_pdf_page": 237,
+            "sub_organizations": {}
+          },
+          "Air Force Military Medical University (Xian)": {
+            "organization_name_english": "Air Force Military Medical University (Xian)",
+            "organization_name_chinese": "空軍軍医大学",
+            "source_pdf_page": 237,
+            "sub_organizations": {}
+          },
+          "Air Force Service Academy (Xuzhou)": {
+            "organization_name_english": "Air Force Service Academy (Xuzhou)",
+            "organization_name_chinese": "空軍勤務学院",
+            "source_pdf_page": 237,
+            "sub_organizations": {}
+          },
+          "Air Force Communication NCO Academy (Dalian)": {
+            "organization_name_english": "Air Force Communication NCO Academy (Dalian)",
+            "organization_name_chinese": "空軍通信士官学校",
+            "source_pdf_page": 237,
+            "sub_organizations": {}
+          },
+          "Rocket Force Command Academy (Wuhan)": {
+            "organization_name_english": "Rocket Force Command Academy (Wuhan)",
+            "organization_name_chinese": "火箭軍指揮学院",
+            "source_pdf_page": 237,
+            "sub_organizations": {}
+          },
+          "Rocket Force Engineering University (Xian)": {
+            "organization_name_english": "Rocket Force Engineering University (Xian)",
+            "organization_name_chinese": "火箭軍工程大学",
+            "source_pdf_page": 237,
+            "sub_organizations": {}
+          },
+          "Rocket Force NCO School (Weifang)": {
+            "organization_name_english": "Rocket Force NCO School (Weifang)",
+            "organization_name_chinese": "火箭軍士官学校",
+            "source_pdf_page": 237,
+            "sub_organizations": {}
+          },
+          "Aerospace Engineering University of Strategic Support Force (Beijing)": {
+            "organization_name_english": "Aerospace Engineering University of Strategic Support Force (Beijing)",
+            "organization_name_chinese": "戦略支援部隊航天工程大学",
+            "source_pdf_page": 238,
+            "sub_organizations": {}
+          },
+          "Information Engineering University of Strategic Support Force (Zhengzhou)": {
+            "organization_name_english": "Information Engineering University of Strategic Support Force (Zhengzhou)",
+            "organization_name_chinese": "戦略支援部隊信息工程大学",
+            "source_pdf_page": 238,
+            "sub_organizations": {}
+          },
+          "Command College of PAP (Tianjin)": {
+            "organization_name_english": "Command College of PAP (Tianjin)",
+            "organization_name_chinese": "武警指揮学院",
+            "source_pdf_page": 238,
+            "sub_organizations": {}
+          },
+          "Engineering University of PAP (Xian)": {
+            "organization_name_english": "Engineering University of PAP (Xian)",
+            "organization_name_chinese": "武警工程大学",
+            "source_pdf_page": 238,
+            "sub_organizations": {}
+          },
+          "Armed Police Academy of PAP (Chengdu)": {
+            "organization_name_english": "Armed Police Academy of PAP (Chengdu)",
+            "organization_name_chinese": "武警警官学院",
+            "source_pdf_page": 238,
+            "sub_organizations": {}
+          },
+          "Special Police Academy of PAP (Beijing)": {
+            "organization_name_english": "Special Police Academy of PAP (Beijing)",
+            "organization_name_chinese": "武警特種警察学院",
+            "source_pdf_page": 238,
+            "sub_organizations": {}
+          },
+          "Logistics University of PAP (Tianjin)": {
+            "organization_name_english": "Logistics University of PAP (Tianjin)",
+            "organization_name_chinese": "武警後勤学院",
+            "source_pdf_page": 238,
+            "sub_organizations": {}
+          },
+          "NCO School of PAP (Hangzhou)": {
+            "organization_name_english": "NCO School of PAP (Hangzhou)",
+            "organization_name_chinese": "武警士官学校",
+            "source_pdf_page": 238,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "China People's Revolution Military Museum": {
+        "organization_name_english": "China People's Revolution Military Museum",
+        "organization_name_chinese": "中国人民革命軍事博物館",
+        "source_pdf_page": 238,
+        "sub_organizations": {}
+      },
+      "China Association for Military Science": {
+        "organization_name_english": "China Association for Military Science",
+        "organization_name_chinese": "中国軍事科学学会",
+        "source_pdf_page": 238,
+        "sub_organizations": {}
+      },
+      "China Institute for International Strategic Studies": {
+        "organization_name_english": "China Institute for International Strategic Studies",
+        "organization_name_chinese": "中国国際戦略学会",
+        "source_pdf_page": 238,
+        "sub_organizations": {}
+      },
+      "Alumni Association of Huangpu (Whampoa) Military Academy": {
+        "organization_name_english": "Alumni Association of Huangpu (Whampoa) Military Academy",
+        "organization_name_chinese": "黄埔軍校同学会",
+        "source_pdf_page": 238,
+        "sub_organizations": {}
+      },
+      "Society for Master Sun Tzu's Art of War": {
+        "organization_name_english": "Society for Master Sun Tzu's Art of War",
+        "organization_name_chinese": "中国孫子兵法研究会",
+        "source_pdf_page": 238,
+        "sub_organizations": {}
+      }
+    }
+  },
+  "MASS ORGANIZATIONS": {
+    "organization_name_english": "MASS ORGANIZATIONS",
+    "organization_name_chinese": "群衆団体",
+    "source_pdf_page": 239,
+    "sub_organizations": {
+      "All-China Federation of Trade Unions": {
+        "organization_name_english": "All-China Federation of Trade Unions",
+        "organization_name_chinese": "中華全国総工会",
+        "source_pdf_page": 239,
+        "sub_organizations": {
+          "18th Executive Committee": {
+            "organization_name_english": "18th Executive Committee",
+            "organization_name_chinese": "第18届執行委員会",
+            "source_pdf_page": 239,
+            "sub_organizations": {}
+          },
+          "Secretariat": {
+            "organization_name_english": "Secretariat",
+            "organization_name_chinese": "書記処",
+            "source_pdf_page": 239,
+            "sub_organizations": {}
+          },
+          "General Office": {
+            "organization_name_english": "General Office",
+            "organization_name_chinese": "辦公庁",
+            "source_pdf_page": 240,
+            "sub_organizations": {}
+          },
+          "Organization Department": {
+            "organization_name_english": "Organization Department",
+            "organization_name_chinese": "組織部",
+            "source_pdf_page": 240,
+            "sub_organizations": {}
+          },
+          "Publicity and Education Department": {
+            "organization_name_english": "Publicity and Education Department",
+            "organization_name_chinese": "宣伝教育部",
+            "source_pdf_page": 240,
+            "sub_organizations": {}
+          },
+          "Research Office": {
+            "organization_name_english": "Research Office",
+            "organization_name_chinese": "研究室",
+            "source_pdf_page": 240,
+            "sub_organizations": {}
+          },
+          "Protection of the Rights & Interests Department": {
+            "organization_name_english": "Protection of the Rights & Interests Department",
+            "organization_name_chinese": "権益保障部",
+            "source_pdf_page": 240,
+            "sub_organizations": {}
+          },
+          "Labor and Economics Work Department": {
+            "organization_name_english": "Labor and Economics Work Department",
+            "organization_name_chinese": "労動和経済工作部",
+            "source_pdf_page": 240,
+            "sub_organizations": {}
+          },
+          "Grass-roots Work Department": {
+            "organization_name_english": "Grass-roots Work Department",
+            "organization_name_chinese": "基層工作部",
+            "source_pdf_page": 240,
+            "sub_organizations": {}
+          },
+          "Internet Work Department": {
+            "organization_name_english": "Internet Work Department",
+            "organization_name_chinese": "網絡工作部",
+            "source_pdf_page": 240,
+            "sub_organizations": {}
+          },
+          "Social Liaison Department": {
+            "organization_name_english": "Social Liaison Department",
+            "organization_name_chinese": "社会聯絡部",
+            "source_pdf_page": 241,
+            "sub_organizations": {}
+          },
+          "Law Work Department": {
+            "organization_name_english": "Law Work Department",
+            "organization_name_chinese": "法律工作部",
+            "source_pdf_page": 241,
+            "sub_organizations": {}
+          },
+          "Female Workers' Department": {
+            "organization_name_english": "Female Workers' Department",
+            "organization_name_chinese": "女職工部",
+            "source_pdf_page": 241,
+            "sub_organizations": {}
+          },
+          "Finance Department": {
+            "organization_name_english": "Finance Department",
+            "organization_name_chinese": "財務部",
+            "source_pdf_page": 241,
+            "sub_organizations": {}
+          },
+          "International Liaison Department": {
+            "organization_name_english": "International Liaison Department",
+            "organization_name_chinese": "国際聯絡部",
+            "source_pdf_page": 241,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "Communist Youth League of China": {
+        "organization_name_english": "Communist Youth League of China",
+        "organization_name_chinese": "中国共産主義青年団",
+        "source_pdf_page": 241,
+        "sub_organizations": {
+          "19th Central Committee": {
+            "organization_name_english": "19th Central Committee",
+            "organization_name_chinese": "第19届中央委員会",
+            "source_pdf_page": 241,
+            "sub_organizations": {
+              "Secretariat": {
+                "organization_name_english": "Secretariat",
+                "organization_name_chinese": "書記処",
+                "source_pdf_page": 241,
+                "sub_organizations": {}
+              }
+            }
+          },
+          "General Office": {
+            "organization_name_english": "General Office",
+            "organization_name_chinese": "辦公庁",
+            "source_pdf_page": 241,
+            "sub_organizations": {}
+          },
+          "Organization Department": {
+            "organization_name_english": "Organization Department",
+            "organization_name_chinese": "組織部",
+            "source_pdf_page": 241,
+            "sub_organizations": {}
+          },
+          "Publicity Department": {
+            "organization_name_english": "Publicity Department",
+            "organization_name_chinese": "宣伝部",
+            "source_pdf_page": 241,
+            "sub_organizations": {}
+          },
+          "Youth Development Department": {
+            "organization_name_english": "Youth Development Department",
+            "organization_name_chinese": "青年発展部",
+            "source_pdf_page": 241,
+            "sub_organizations": {}
+          },
+          "Grassroots Organization Development Department": {
+            "organization_name_english": "Grassroots Organization Development Department",
+            "organization_name_chinese": "基層建設部",
+            "source_pdf_page": 242,
+            "sub_organizations": {}
+          },
+          "Juvenile Department": {
+            "organization_name_english": "Juvenile Department",
+            "organization_name_chinese": "少年部",
+            "source_pdf_page": 242,
+            "sub_organizations": {}
+          },
+          "United Front Work Department": {
+            "organization_name_english": "United Front Work Department",
+            "organization_name_chinese": "統一戦線工作部",
+            "source_pdf_page": 242,
+            "sub_organizations": {}
+          },
+          "Department for Safeguarding Young People's Rights and Interests": {
+            "organization_name_english": "Department for Safeguarding Young People's Rights and Interests",
+            "organization_name_chinese": "維護青少年権益部",
+            "source_pdf_page": 242,
+            "sub_organizations": {}
+          },
+          "Social Liaison Department": {
+            "organization_name_english": "Social Liaison Department",
+            "organization_name_chinese": "社会聯絡部",
+            "source_pdf_page": 243,
+            "sub_organizations": {}
+          },
+          "International Liaison Department": {
+            "organization_name_english": "International Liaison Department",
+            "organization_name_chinese": "国際聯絡部",
+            "source_pdf_page": 243,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "All-China Youth Federation": {
+        "organization_name_english": "All-China Youth Federation",
+        "organization_name_chinese": "中華全国青年聯合会",
+        "source_pdf_page": 242,
+        "sub_organizations": {
+          "13th Committee": {
+            "organization_name_english": "13th Committee",
+            "organization_name_chinese": "第13届委員会",
+            "source_pdf_page": 242,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "All-China Young Pioneers Working Committee": {
+        "organization_name_english": "All-China Young Pioneers Working Committee",
+        "organization_name_chinese": "中国少年先鋒隊全国工作委員会",
+        "source_pdf_page": 243,
+        "sub_organizations": {}
+      },
+      "All-China Students' Federation": {
+        "organization_name_english": "All-China Students' Federation",
+        "organization_name_chinese": "中華全国学生聯合会",
+        "source_pdf_page": 243,
+        "sub_organizations": {}
+      },
+      "All-China Women's Federation": {
+        "organization_name_english": "All-China Women's Federation",
+        "organization_name_chinese": "中華全国婦女聯合会",
+        "source_pdf_page": 243,
+        "sub_organizations": {
+          "13th Executive Committee": {
+            "organization_name_english": "13th Executive Committee",
+            "organization_name_chinese": "第13届執行委員会",
+            "source_pdf_page": 243,
+            "sub_organizations": {}
+          },
+          "Secretariat": {
+            "organization_name_english": "Secretariat",
+            "organization_name_chinese": "書記処",
+            "source_pdf_page": 244,
+            "sub_organizations": {}
+          },
+          "General Office": {
+            "organization_name_english": "General Office",
+            "organization_name_chinese": "辦公庁",
+            "source_pdf_page": 244,
+            "sub_organizations": {}
+          },
+          "Organization Department": {
+            "organization_name_english": "Organization Department",
+            "organization_name_chinese": "組織部",
+            "source_pdf_page": 244,
+            "sub_organizations": {}
+          },
+          "Publicity Department": {
+            "organization_name_english": "Publicity Department",
+            "organization_name_chinese": "宣伝部",
+            "source_pdf_page": 245,
+            "sub_organizations": {}
+          },
+          "Women Development Department": {
+            "organization_name_english": "Women Development Department",
+            "organization_name_chinese": "婦女発展部",
+            "source_pdf_page": 245,
+            "sub_organizations": {}
+          },
+          "Interests Department": {
+            "organization_name_english": "Interests Department",
+            "organization_name_chinese": "権益部",
+            "source_pdf_page": 245,
+            "sub_organizations": {}
+          },
+          "Family and Children Work Department": {
+            "organization_name_english": "Family and Children Work Department",
+            "organization_name_chinese": "家庭和児童工作部",
+            "source_pdf_page": 245,
+            "sub_organizations": {}
+          },
+          "Liaison Department": {
+            "organization_name_english": "Liaison Department",
+            "organization_name_chinese": "聯絡部",
+            "source_pdf_page": 245,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "All-China Federation of Returned Overseas Chinese": {
+        "organization_name_english": "All-China Federation of Returned Overseas Chinese",
+        "organization_name_chinese": "中華全国帰国華僑聯合会",
+        "source_pdf_page": 244,
+        "sub_organizations": {
+          "11th Committee": {
+            "organization_name_english": "11th Committee",
+            "organization_name_chinese": "第11届委員会",
+            "source_pdf_page": 244,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "All-China Federation of Taiwan Compatriots": {
+        "organization_name_english": "All-China Federation of Taiwan Compatriots",
+        "organization_name_chinese": "中華全国台湾同胞聯誼会",
+        "source_pdf_page": 245,
+        "sub_organizations": {
+          "11th Council": {
+            "organization_name_english": "11th Council",
+            "organization_name_chinese": "第11届理事会",
+            "source_pdf_page": 245,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "Chinese People's Association for Friendship with Foreign Countries": {
+        "organization_name_english": "Chinese People's Association for Friendship with Foreign Countries",
+        "organization_name_chinese": "中国人民对外友好協会",
+        "source_pdf_page": 245,
+        "sub_organizations": {}
+      },
+      "China-Japan Friendship Association": {
+        "organization_name_english": "China-Japan Friendship Association",
+        "organization_name_chinese": "中日友好協会",
+        "source_pdf_page": 245,
+        "sub_organizations": {}
+      },
+      "China-D.P.R.K. Friendship Association": {
+        "organization_name_english": "China-D.P.R.K. Friendship Association",
+        "organization_name_chinese": "中朝友好協会",
+        "source_pdf_page": 246,
+        "sub_organizations": {}
+      },
+      "China-R.O.K. Friendship Association": {
+        "organization_name_english": "China-R.O.K. Friendship Association",
+        "organization_name_chinese": "中国韓国友好協会",
+        "source_pdf_page": 246,
+        "sub_organizations": {}
+      },
+      "China-Viet Nam Friendship Association": {
+        "organization_name_english": "China-Viet Nam Friendship Association",
+        "organization_name_chinese": "中越友好協会",
+        "source_pdf_page": 246,
+        "sub_organizations": {}
+      },
+      "China-Thailand Friendship Association": {
+        "organization_name_english": "China-Thailand Friendship Association",
+        "organization_name_chinese": "中泰友好協会",
+        "source_pdf_page": 246,
+        "sub_organizations": {}
+      },
+      "China-ASEAN Association": {
+        "organization_name_english": "China-ASEAN Association",
+        "organization_name_chinese": "中国東盟協会",
+        "source_pdf_page": 246,
+        "sub_organizations": {}
+      },
+      "China-India Friendship Association": {
+        "organization_name_english": "China-India Friendship Association",
+        "organization_name_chinese": "中国印度友好協会",
+        "source_pdf_page": 246,
+        "sub_organizations": {}
+      },
+      "China-Central Asia Friendship Association": {
+        "organization_name_english": "China-Central Asia Friendship Association",
+        "organization_name_chinese": "中国中亜友好協会",
+        "source_pdf_page": 246,
+        "sub_organizations": {}
+      },
+      "China-Israel Friendship Association": {
+        "organization_name_english": "China-Israel Friendship Association",
+        "organization_name_chinese": "中国以色列友好協会",
+        "source_pdf_page": 246,
+        "sub_organizations": {}
+      },
+      "China-Arab Friendship Association": {
+        "organization_name_english": "China-Arab Friendship Association",
+        "organization_name_chinese": "中国阿拉伯友好協会",
+        "source_pdf_page": 246,
+        "sub_organizations": {}
+      },
+      "China-Saudi Arabia Friendship Association": {
+        "organization_name_english": "China-Saudi Arabia Friendship Association",
+        "organization_name_chinese": "中国沙特阿拉伯友好協会",
+        "source_pdf_page": 247,
+        "sub_organizations": {}
+      },
+      "China-Africa Peoples Friendship Association": {
+        "organization_name_english": "China-Africa Peoples Friendship Association",
+        "organization_name_chinese": "中国非洲人民友好協会",
+        "source_pdf_page": 247,
+        "sub_organizations": {}
+      },
+      "China-America Peoples Friendship Association": {
+        "organization_name_english": "China-America Peoples Friendship Association",
+        "organization_name_chinese": "中国美国人民友好協会",
+        "source_pdf_page": 247,
+        "sub_organizations": {}
+      },
+      "China-Latin America and Caribbean Friendship Association": {
+        "organization_name_english": "China-Latin America and Caribbean Friendship Association",
+        "organization_name_chinese": "中国拉丁美洲和加勒比友好協会",
+        "source_pdf_page": 247,
+        "sub_organizations": {}
+      },
+      "China-EU Association": {
+        "organization_name_english": "China-EU Association",
+        "organization_name_chinese": "中国欧盟協会",
+        "source_pdf_page": 247,
+        "sub_organizations": {}
+      },
+      "China-Germany Friendship Association": {
+        "organization_name_english": "China-Germany Friendship Association",
+        "organization_name_chinese": "中国德国友好協会",
+        "source_pdf_page": 247,
+        "sub_organizations": {}
+      },
+      "China-Russia Friendship Association": {
+        "organization_name_english": "China-Russia Friendship Association",
+        "organization_name_chinese": "中国俄羅斯友好協会",
+        "source_pdf_page": 247,
+        "sub_organizations": {}
+      },
+      "China Association for International Friendly Contacts": {
+        "organization_name_english": "China Association for International Friendly Contacts",
+        "organization_name_chinese": "中国国際友好聯絡会",
+        "source_pdf_page": 247,
+        "sub_organizations": {}
+      },
+      "Chinese People's Institute of Foreign Affairs": {
+        "organization_name_english": "Chinese People's Institute of Foreign Affairs",
+        "organization_name_chinese": "中国人民外交学会",
+        "source_pdf_page": 247,
+        "sub_organizations": {}
+      },
+      "China Public Diplomacy Association": {
+        "organization_name_english": "China Public Diplomacy Association",
+        "organization_name_chinese": "中国公共外交協会",
+        "source_pdf_page": 248,
+        "sub_organizations": {}
+      },
+      "Chinese People's Association for Peace and Disarmament": {
+        "organization_name_english": "Chinese People's Association for Peace and Disarmament",
+        "organization_name_chinese": "中国人民争取和平与裁軍協会",
+        "source_pdf_page": 248,
+        "sub_organizations": {}
+      },
+      "United Nations Association of China": {
+        "organization_name_english": "United Nations Association of China",
+        "organization_name_chinese": "中国聯合国協会",
+        "source_pdf_page": 249,
+        "sub_organizations": {}
+      },
+      "Association of Returned Students from West": {
+        "organization_name_english": "Association of Returned Students from West",
+        "organization_name_chinese": "欧美同学会",
+        "source_pdf_page": 249,
+        "sub_organizations": {}
+      },
+      "China International Public Relations Association": {
+        "organization_name_english": "China International Public Relations Association",
+        "organization_name_chinese": "中国国際公共関係協会",
+        "source_pdf_page": 249,
+        "sub_organizations": {}
+      },
+      "China Council for Promoting Peaceful Reunification": {
+        "organization_name_english": "China Council for Promoting Peaceful Reunification",
+        "organization_name_chinese": "中国和平統一促進会",
+        "source_pdf_page": 249,
+        "sub_organizations": {}
+      },
+      "Association for Relations Across the Taiwan Straits": {
+        "organization_name_english": "Association for Relations Across the Taiwan Straits",
+        "organization_name_chinese": "海峡両岸関係協会",
+        "source_pdf_page": 249,
+        "sub_organizations": {}
+      },
+      "Red Cross Society of China": {
+        "organization_name_english": "Red Cross Society of China",
+        "organization_name_chinese": "中国紅十字会総会",
+        "source_pdf_page": 250,
+        "sub_organizations": {}
+      },
+      "China Disabled Persons' Federation": {
+        "organization_name_english": "China Disabled Persons' Federation",
+        "organization_name_chinese": "中国残疾人聯合会",
+        "source_pdf_page": 250,
+        "sub_organizations": {}
+      },
+      "China Society for Promotion of Guangcai Program": {
+        "organization_name_english": "China Society for Promotion of Guangcai Program",
+        "organization_name_chinese": "中国光彩事業促進会",
+        "source_pdf_page": 252,
+        "sub_organizations": {}
+      },
+      "China Soong Ching Ling Foundation": {
+        "organization_name_english": "China Soong Ching Ling Foundation",
+        "organization_name_chinese": "中国宋慶齢基金会",
+        "source_pdf_page": 252,
+        "sub_organizations": {}
+      },
+      "Children's Foundation of China": {
+        "organization_name_english": "Children's Foundation of China",
+        "organization_name_chinese": "中国児童少年基金会",
+        "source_pdf_page": 252,
+        "sub_organizations": {}
+      },
+      "China Consumers' Association": {
+        "organization_name_english": "China Consumers' Association",
+        "organization_name_chinese": "中国消費者協会",
+        "source_pdf_page": 252,
+        "sub_organizations": {}
+      },
+      "Buddhist Association of China": {
+        "organization_name_english": "Buddhist Association of China",
+        "organization_name_chinese": "中国佛教協会",
+        "source_pdf_page": 252,
+        "sub_organizations": {
+          "10th Council": {
+            "organization_name_english": "10th Council",
+            "organization_name_chinese": "第10届理事会",
+            "source_pdf_page": 252,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "China Taoist Association": {
+        "organization_name_english": "China Taoist Association",
+        "organization_name_chinese": "中国道教協会",
+        "source_pdf_page": 253,
+        "sub_organizations": {
+          "10th Council": {
+            "organization_name_english": "10th Council",
+            "organization_name_chinese": "第10届理事会",
+            "source_pdf_page": 253,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "China Islamic Association": {
+        "organization_name_english": "China Islamic Association",
+        "organization_name_chinese": "中国伊斯蘭教協会",
+        "source_pdf_page": 253,
+        "sub_organizations": {
+          "11th Committee": {
+            "organization_name_english": "11th Committee",
+            "organization_name_chinese": "第11届委員会",
+            "source_pdf_page": 253,
+            "sub_organizations": {}
+          }
+        }
+      },
+      "China Patriotic Catholic Association": {
+        "organization_name_english": "China Patriotic Catholic Association",
+        "organization_name_chinese": "中国天主教愛国会",
+        "source_pdf_page": 254,
+        "sub_organizations": {}
+      },
+      "Chinese Catholic Bishops College": {
+        "organization_name_english": "Chinese Catholic Bishops College",
+        "organization_name_chinese": "中国天主教主教団",
+        "source_pdf_page": 255,
+        "sub_organizations": {}
+      },
+      "Three-Self Patriotic Movement Committee of Protestant Churches of China": {
+        "organization_name_english": "Three-Self Patriotic Movement Committee of Protestant Churches of China",
+        "organization_name_chinese": "中国基督教三自愛国運動委員会",
+        "source_pdf_page": 255,
+        "sub_organizations": {}
+      },
+      "Christian Council of China": {
+        "organization_name_english": "Christian Council of China",
+        "organization_name_chinese": "中国基督教協会",
+        "source_pdf_page": 256,
+        "sub_organizations": {}
+      }
+    }
+  },
+  "ECONOMIC ORGANIZATIONS/CORPORATIONS": {
+    "organization_name_english": "ECONOMIC ORGANIZATIONS/CORPORATIONS",
+    "organization_name_chinese": "経済団体・公司",
+    "source_pdf_page": 257,
+    "sub_organizations": {
+      "All-China Federation of Industry and Commerce": {
+        "organization_name_english": "All-China Federation of Industry and Commerce",
+        "organization_name_chinese": "中華全国工商業聯合会",
+        "source_pdf_page": 257,
+        "sub_organizations": {}
+      }
+    }
+  }
+}

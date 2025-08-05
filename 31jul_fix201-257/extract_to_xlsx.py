@@ -42,7 +42,7 @@ def main():
     """
     Main function to load JSON, parse it, and save as XLSX.
     """
-    input_json_file = 'china_dir_2024-p157-200.json'
+    input_json_file = 'china_dir_2024-p200-257.json'
     output_xlsx_file = 'china_directory_parsed.xlsx'
 
     if not os.path.exists(input_json_file):
