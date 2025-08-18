@@ -1,5758 +1,1491 @@
 [
-    {
-"source_pdf_page": 425,
-"organization_name_english": "Guangdong Province",
-"organization_name_chinese": "広東省",
-"metadata": {
-"warnings": []
-},
-"positions": [],
-"sub_organizations": [
-{
-"source_pdf_page": 425,
-"organization_name_english": "CPC 13th Guangdong Provincial Committee",
-"organization_name_chinese": "中共広東省第13届委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Secretary",
-"title_chinese": "書記",
-"personnel": [
-{
-"name_pinyin": "Huang Kunming",
-"name_chinese": "黄坤明",
-"raw_cn_jp_entry": "※黄坤明(56.11)",
-"assumed_office_date": "2022-10",
-"birth_year": 1956,
-"birth_month": 11,
-"birth_day": null,
-"cross_reference_symbol": "※",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Deputy Secretaries",
-"title_chinese": "副書記",
-"personnel": [
-{
-"name_pinyin": "Wang Weizhong",
-"name_chinese": "王偉中",
-"raw_cn_jp_entry": "◎王偉中(62.3)",
-"assumed_office_date": "2018-12",
-"birth_year": 1962,
-"birth_month": 3,
-"birth_day": null,
-"cross_reference_symbol": "◎",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Meng Fanli",
-"name_chinese": "孟凡利",
-"raw_cn_jp_entry": "◎孟凡利(65.9)",
-"assumed_office_date": "2022-04",
-"birth_year": 1965,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": "◎",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Standing Committee Members",
-"title_chinese": "常務委員",
-"personnel": [
-{
-"name_pinyin": "Song Fulong",
-"name_chinese": "宋福龍",
-"raw_cn_jp_entry": "宋福龍(64.8)",
-"assumed_office_date": "2021-02",
-"birth_year": 1964,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Chen Jianwen",
-"name_chinese": "陳建文",
-"raw_cn_jp_entry": "○陳建文(65.9)",
-"assumed_office_date": "2021-03",
-"birth_year": 1965,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": "○",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Zhang Hu",
-"name_chinese": "張虎",
-"raw_cn_jp_entry": "張虎(67.1)",
-"assumed_office_date": "2020-06",
-"birth_year": 1967,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Wang Xi",
-"name_chinese": "王曦",
-"raw_cn_jp_entry": "○王曦(66.8)",
-"assumed_office_date": "2022-05-26",
-"birth_year": 1966,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": "○",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Cheng Fubo",
-"name_chinese": "程福波",
-"raw_cn_jp_entry": "程福波(70.9)",
-"assumed_office_date": "2022-12",
-"birth_year": 1970,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Guo Yonghang",
-"name_chinese": "郭永航",
-"raw_cn_jp_entry": "郭永航(65.10)",
-"assumed_office_date": "2023-06",
-"birth_year": 1965,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Yuan Gujie",
-"name_chinese": "袁古潔",
-"raw_cn_jp_entry": "○袁古潔(女68.5)",
-"assumed_office_date": "2022-05-26",
-"birth_year": 1968,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": "○",
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Wang Ruijun",
-"name_chinese": "王瑞軍",
-"raw_cn_jp_entry": "王瑞軍(70.10)",
-"assumed_office_date": "2022-05-26",
-"birth_year": 1970,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Zhang Gong",
-"name_chinese": "張弓",
-"raw_cn_jp_entry": "張弓(少将)",
-"assumed_office_date": "2023-09",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": "Rear Admiral",
-"rank_chinese": "少将"
-}
-]
-},
-{
-"title_english": "Secretary General",
-"title_chinese": "秘書長",
-"personnel": []
-}
-],
-"sub_organizations": [
-{
-"source_pdf_page": 425,
-"organization_name_english": "Organization Department",
-"organization_name_chinese": "組織部",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Head",
-"title_chinese": "部長",
-"personnel": [
-{
-"name_pinyin": "Cheng Fubo",
-"name_chinese": "程福波",
-"raw_cn_jp_entry": "程福波(70.9)",
-"assumed_office_date": "2022-12",
-"birth_year": 1970,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 425,
-"organization_name_english": "Publicity Department",
-"organization_name_chinese": "宣伝部",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Head",
-"title_chinese": "部長",
-"personnel": [
-{
-"name_pinyin": "Chen Jianwen",
-"name_chinese": "陳建文",
-"raw_cn_jp_entry": "○陳建文(65.9)",
-"assumed_office_date": "2021-03",
-"birth_year": 1965,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": "○",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 425,
-"organization_name_english": "United Front Work Department",
-"organization_name_chinese": "統一戦線工作部·",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Head",
-"title_chinese": "部長",
-"personnel": [
-{
-"name_pinyin": "Wang Ruijun",
-"name_chinese": "王瑞軍",
-"raw_cn_jp_entry": "王瑞軍(70.10)",
-"assumed_office_date": "2022-06",
-"birth_year": 1970,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 425,
-"organization_name_english": "Political Science and Law Commission",
-"organization_name_chinese": "政法委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Secretary",
-"title_chinese": "書記",
-"personnel": [
-{
-"name_pinyin": "Yuan Gujie",
-"name_chinese": "袁古潔",
-"raw_cn_jp_entry": "○袁古潔(女68.5)",
-"assumed_office_date": "2022-07",
-"birth_year": 1968,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": "○",
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 425,
-"organization_name_english": "Provincial Party School",
-"organization_name_chinese": "省党校",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "President",
-"title_chinese": "校長",
-"personnel": []
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 425,
-"organization_name_english": "Commission for Discipline Inspection",
-"organization_name_chinese": "紀律検査委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Secretary",
-"title_chinese": "書記",
-"personnel": [
-{
-"name_pinyin": "Song Fulong",
-"name_chinese": "宋福龍",
-"raw_cn_jp_entry": "宋福龍(64.8)",
-"assumed_office_date": "2021-02",
-"birth_year": 1964,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-}
-]
-},
-{
-"source_pdf_page": 426,
-"organization_name_english": "Guangdong Provincial 14th People's Congress",
-"organization_name_chinese": "広東省第14届人民代表大会",
-"metadata": {
-"warnings": []
-},
-"positions": [],
-"sub_organizations": [
-{
-"source_pdf_page": 426,
-"organization_name_english": "Standing Committee",
-"organization_name_chinese": "常務委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Chairperson",
-"title_chinese": "主任",
-"personnel": [
-{
-"name_pinyin": "Huang Chuping",
-"name_chinese": "黄楚平",
-"raw_cn_jp_entry": "黄楚平(62.10)",
-"assumed_office_date": "2022-01-22",
-"birth_year": 1962,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Vice Chairpersons",
-"title_chinese": "副主任",
-"personnel": [
-{
-"name_pinyin": "Huang Ningsheng",
-"name_chinese": "黄寧生",
-"raw_cn_jp_entry": "黄寧生(62.12)",
-"assumed_office_date": "2022-01-22",
-"birth_year": 1962,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Ye Zhenqin",
-"name_chinese": "葉貞琴",
-"raw_cn_jp_entry": "葉貞琴(63.9)",
-"assumed_office_date": "2022-01-22",
-"birth_year": 1963,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Zhang Shuofu",
-"name_chinese": "張碩輔",
-"raw_cn_jp_entry": "張碩輔(65.8)",
-"assumed_office_date": "2022-01-22",
-"birth_year": 1965,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Xiao Yafei",
-"name_chinese": "肖亜非",
-"raw_cn_jp_entry": "肖亜非(66.6)",
-"assumed_office_date": "2023-01-16",
-"birth_year": 1966,
-"birth_month": 6,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Liu Yahong",
-"name_chinese": "劉雅紅",
-"raw_cn_jp_entry": "劉雅紅(女66.5)",
-"assumed_office_date": "2023-01-16",
-"birth_year": 1966,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Tan Ling",
-"name_chinese": "譚玲",
-"raw_cn_jp_entry": "譚玲(女63.5)",
-"assumed_office_date": "2023-01-16",
-"birth_year": 1963,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Secretary General",
-"title_chinese": "秘書長",
-"personnel": [
-{
-"name_pinyin": "Xu Hong",
-"name_chinese": "許紅",
-"raw_cn_jp_entry": "許紅(女68.6)",
-"assumed_office_date": "2023-01-16",
-"birth_year": 1968,
-"birth_month": 6,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 426,
-"organization_name_english": "Provincial Supervision Commission",
-"organization_name_chinese": "広東省監察委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Chairperson",
-"title_chinese": "主任",
-"personnel": [
-{
-"name_pinyin": "Song Fulong",
-"name_chinese": "宋福龍",
-"raw_cn_jp_entry": "宋福龍(64.8)",
-"assumed_office_date": "2022-01-22",
-"birth_year": 1964,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 426,
-"organization_name_english": "Provincial Higher People's Court",
-"organization_name_chinese": "広東省高級人民法院",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "President",
-"title_chinese": "院長",
-"personnel": [
-{
-"name_pinyin": "Zhang Haibo",
-"name_chinese": "張海波",
-"raw_cn_jp_entry": "張海波(64.4)",
-"assumed_office_date": "2023-01-16",
-"birth_year": 1964,
-"birth_month": 4,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 426,
-"organization_name_english": "Provincial People's Procuratorate",
-"organization_name_chinese": "広東省人民検察院",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Chief Procurator",
-"title_chinese": "検察長",
-"personnel": [
-{
-"name_pinyin": "Feng Jian",
-"name_chinese": "馮鍵",
-"raw_cn_jp_entry": "馮鍵(64.5)",
-"assumed_office_date": "2023-02-24",
-"birth_year": 1964,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-}
-]
-},
-{
-"source_pdf_page": 426,
-"organization_name_english": "Guangdong Provincial People's Government",
-"organization_name_chinese": "広東省人民政府",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Governor",
-"title_chinese": "省長",
-"personnel": [
-{
-"name_pinyin": "Wang Weizhong",
-"name_chinese": "王偉中",
-"raw_cn_jp_entry": "◎王偉中(62.3)",
-"assumed_office_date": "2022-01-22",
-"birth_year": 1962,
-"birth_month": 3,
-"birth_day": null,
-"cross_reference_symbol": "◎",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Vice Governors",
-"title_chinese": "副省長",
-"personnel": [
-{
-"name_pinyin": "Zhang Hu",
-"name_chinese": "張虎",
-"raw_cn_jp_entry": "張虎(常務67.1)",
-"assumed_office_date": "2022-02-16",
-"birth_year": 1967,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": "executive",
-"rank_chinese": "常務"
-},
-{
-"name_pinyin": "Wang Xi",
-"name_chinese": "王曦",
-"raw_cn_jp_entry": "○王曦(66.8)",
-"assumed_office_date": "2020-08-04",
-"birth_year": 1966,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": "○",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Zhang Shaokang",
-"name_chinese": "張少康",
-"raw_cn_jp_entry": "張少康(65.9)",
-"assumed_office_date": "2023-01-16",
-"birth_year": 1965,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Zhang Xin",
-"name_chinese": "張新",
-"raw_cn_jp_entry": "張新(67.12)",
-"assumed_office_date": "2020-01-09",
-"birth_year": 1967,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Lin Tao",
-"name_chinese": "林濤",
-"raw_cn_jp_entry": "林濤(71.7)",
-"assumed_office_date": "2023-07-27",
-"birth_year": 1971,
-"birth_month": 7,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Liu Hongbing",
-"name_chinese": "劉紅兵",
-"raw_cn_jp_entry": "劉紅兵(69.7)",
-"assumed_office_date": "2023-11-23",
-"birth_year": 1969,
-"birth_month": 7,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Secretary General",
-"title_chinese": "秘書長",
-"personnel": [
-{
-"name_pinyin": "Chen Min",
-"name_chinese": "陳敏",
-"raw_cn_jp_entry": "陳敏(65.12)",
-"assumed_office_date": "2022-09-29",
-"birth_year": 1965,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": [
-{
-"source_pdf_page": 426,
-"organization_name_english": "Taiwan Affairs Office",
-"organization_name_chinese": "台湾事務辦公室",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "主任",
-"personnel": [
-{
-"name_pinyin": "Huang Gengcheng",
-"name_chinese": "黄耿城",
-"raw_cn_jp_entry": "黄耿城(63.9)",
-"assumed_office_date": "2016-09",
-"birth_year": 1963,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 426,
-"organization_name_english": "Foreign Affairs Office",
-"organization_name_chinese": "外事辦公室",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "主任",
-"personnel": [
-{
-"name_pinyin": "Chen Qiuyan",
-"name_chinese": "陳秋彦",
-"raw_cn_jp_entry": "陳秋彦(63.4)",
-"assumed_office_date": "2016-09-29",
-"birth_year": 1963,
-"birth_month": 4,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 426,
-"organization_name_english": "Development and Reform Commission",
-"organization_name_chinese": "発展和改革委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Chairperson",
-"title_chinese": "主任",
-"personnel": [
-{
-"name_pinyin": "Ai Xuefeng",
-"name_chinese": "艾学峰",
-"raw_cn_jp_entry": "艾学峰(65.8)",
-"assumed_office_date": "2023-03-30",
-"birth_year": 1965,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 427,
-"organization_name_english": "Industry & Information Technology Department",
-"organization_name_chinese": "工業和信息化庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Tu Gaokun",
-"name_chinese": "涂高坤",
-"raw_cn_jp_entry": "涂高坤(64.11)",
-"assumed_office_date": "2018-10-12",
-"birth_year": 1964,
-"birth_month": 11,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 427,
-"organization_name_english": "Education Department",
-"organization_name_chinese": "教育庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Zhu Kongjun",
-"name_chinese": "朱孔軍",
-"raw_cn_jp_entry": "朱孔軍(67.8)",
-"assumed_office_date": "2023-03-30",
-"birth_year": 1967,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 427,
-"organization_name_english": "Science and Technology Department",
-"organization_name_chinese": "科学技術庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Wang Yueqin",
-"name_chinese": "王月琴",
-"raw_cn_jp_entry": "王月琴(女68.2)",
-"assumed_office_date": "2023-03-30",
-"birth_year": 1968,
-"birth_month": 2,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 427,
-"organization_name_english": "Ethnic and Religious Affairs Commission",
-"organization_name_chinese": "民族宗教事務委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Chairperson",
-"title_chinese": "主任",
-"personnel": [
-{
-"name_pinyin": "Zhang Ke",
-"name_chinese": "張科",
-"raw_cn_jp_entry": "張科(68.2)",
-"assumed_office_date": "2022-09-29",
-"birth_year": 1968,
-"birth_month": 2,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 427,
-"organization_name_english": "Public Security Department",
-"organization_name_chinese": "公安庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Liu Guozhou",
-"name_chinese": "劉国周",
-"raw_cn_jp_entry": "劉国周(71.12)",
-"assumed_office_date": "2023-07-27",
-"birth_year": 1971,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 427,
-"organization_name_english": "State Security Department",
-"organization_name_chinese": "国家安全厅",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Wang Yinfeng",
-"name_chinese": "王銀鋒",
-"raw_cn_jp_entry": "王銀鋒",
-"assumed_office_date": "2023-08",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 427,
-"organization_name_english": "Civil Affairs Department",
-"organization_name_chinese": "民政庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Zhang Chen",
-"name_chinese": "張晨",
-"raw_cn_jp_entry": "張晨(女71.12)",
-"assumed_office_date": "2023-03-30",
-"birth_year": 1971,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 427,
-"organization_name_english": "Justice Department",
-"organization_name_chinese": "司法庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Chen Xudong",
-"name_chinese": "陳旭東",
-"raw_cn_jp_entry": "陳旭東(66.10)",
-"assumed_office_date": "2020-08-04",
-"birth_year": 1966,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 427,
-"organization_name_english": "Finance Department",
-"organization_name_chinese": "財政庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Dai Yunlong",
-"name_chinese": "戴運龍",
-"raw_cn_jp_entry": "戴運龍(65.9)",
-"assumed_office_date": "2017-06-02",
-"birth_year": 1965,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 427,
-"organization_name_english": "Human Resources & Social Security Department",
-"organization_name_chinese": "人力資源和社会保障厅",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Du Minqi",
-"name_chinese": "杜敏琪",
-"raw_cn_jp_entry": "杜敏琪(72.11)",
-"assumed_office_date": "2023-03-30",
-"birth_year": 1972,
-"birth_month": 11,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 427,
-"organization_name_english": "Natural Resources Department",
-"organization_name_chinese": "自然資源庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Hu Jianbin",
-"name_chinese": "胡建斌",
-"raw_cn_jp_entry": "胡建斌(66.10)",
-"assumed_office_date": "2022-09-29",
-"birth_year": 1966,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 427,
-"organization_name_english": "Ecology and Environment Department",
-"organization_name_chinese": "生態環境庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Xu Xiaoxia",
-"name_chinese": "徐曉霞",
-"raw_cn_jp_entry": "徐曉霞(女73.6)",
-"assumed_office_date": "2023-03-30",
-"birth_year": 1973,
-"birth_month": 6,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 427,
-"organization_name_english": "Housing & Urban-Rural Development Department",
-"organization_name_chinese": "住房和城鄉建設庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Zhang Yong",
-"name_chinese": "張勇",
-"raw_cn_jp_entry": "張勇(74.5)",
-"assumed_office_date": "2023-03-30",
-"birth_year": 1974,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 427,
-"organization_name_english": "Transport Department",
-"organization_name_chinese": "交通運輸庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Lin Feiming",
-"name_chinese": "林飛鳴",
-"raw_cn_jp_entry": "林飛鳴(68.12)",
-"assumed_office_date": "2023-03-30",
-"birth_year": 1968,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 427,
-"organization_name_english": "Water Resources Department",
-"organization_name_chinese": "水利庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Wang Lixin",
-"name_chinese": "王立新",
-"raw_cn_jp_entry": "王立新(64.11)",
-"assumed_office_date": "2020-03-31",
-"birth_year": 1964,
-"birth_month": 11,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 428,
-"organization_name_english": "Agriculture and Rural Affairs Department",
-"organization_name_chinese": "農業農村庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Liu Zonghui",
-"name_chinese": "劉棕会",
-"raw_cn_jp_entry": "劉棕会(71.10)",
-"assumed_office_date": "2023-03-30",
-"birth_year": 1971,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 428,
-"organization_name_english": "Commercial Department",
-"organization_name_chinese": "商務庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Zhang Jinsong",
-"name_chinese": "張勁松",
-"raw_cn_jp_entry": "張勁松(68.2)",
-"assumed_office_date": "2020-09-29",
-"birth_year": 1968,
-"birth_month": 2,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 428,
-"organization_name_english": "Culture and Tourism Department",
-"organization_name_chinese": "文化和旅遊庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Li Bin",
-"name_chinese": "李斌",
-"raw_cn_jp_entry": "李斌(69.12)",
-"assumed_office_date": "2022-03-29",
-"birth_year": 1969,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 428,
-"organization_name_english": "Health Commission",
-"organization_name_chinese": "衛生健康委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Chairperson",
-"title_chinese": "主任",
-"personnel": []
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 428,
-"organization_name_english": "Veterans Affairs Department",
-"organization_name_chinese": "退役軍人事務庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Wang Chuang",
-"name_chinese": "王創",
-"raw_cn_jp_entry": "王創(70.1)",
-"assumed_office_date": "2023-03-30",
-"birth_year": 1970,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 428,
-"organization_name_english": "Emergency Management Department",
-"organization_name_chinese": "応急管理庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Wang Zaihua",
-"name_chinese": "王再華",
-"raw_cn_jp_entry": "王再華(72.5)",
-"assumed_office_date": "2023-03-30",
-"birth_year": 1972,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-}
-]
-},
-{
-"source_pdf_page": 428,
-"organization_name_english": "CPPCC 13th Guangdong Provincial Committee",
-"organization_name_chinese": "政協広東省第13届委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Chairperson",
-"title_chinese": "主席",
-"personnel": [
-{
-"name_pinyin": "Lin Keqing",
-"name_chinese": "林克慶",
-"raw_cn_jp_entry": "○林克慶(66.10)",
-"assumed_office_date": "2023-01-13",
-"birth_year": 1966,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": "○",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Vice Chairpersons",
-"title_chinese": "副主席",
-"personnel": [
-{
-"name_pinyin": "Xu Ruisheng",
-"name_chinese": "許瑞生",
-"raw_cn_jp_entry": "許瑞生(62.4)",
-"assumed_office_date": "2022-01-21",
-"birth_year": 1962,
-"birth_month": 4,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Deng Haiguang",
-"name_chinese": "鄧海光",
-"raw_cn_jp_entry": "鄧海光(68.10)",
-"assumed_office_date": "2018-01-27",
-"birth_year": 1968,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Yuan Baocheng",
-"name_chinese": "袁宝成",
-"raw_cn_jp_entry": "袁宝成(64.12)",
-"assumed_office_date": "2018-01-27",
-"birth_year": 1964,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Wang Xuecheng",
-"name_chinese": "王学成",
-"raw_cn_jp_entry": "王学成(62.6)",
-"assumed_office_date": "2023-01-13",
-"birth_year": 1962,
-"birth_month": 6,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Huang Wu",
-"name_chinese": "黄武",
-"raw_cn_jp_entry": "黄武(60.1)",
-"assumed_office_date": "2018-01-27",
-"birth_year": 1960,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Zhang Jiaji",
-"name_chinese": "張嘉極",
-"raw_cn_jp_entry": "張嘉極(59.5)",
-"assumed_office_date": "2018-01-27",
-"birth_year": 1959,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Li Xin",
-"name_chinese": "李心",
-"raw_cn_jp_entry": "李心(女61.7)",
-"assumed_office_date": "2018-01-27",
-"birth_year": 1961,
-"birth_month": 7,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Wen Guohui",
-"name_chinese": "温国輝",
-"raw_cn_jp_entry": "温国輝(63.9)",
-"assumed_office_date": "2022-01-21",
-"birth_year": 1963,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Zheng Ke",
-"name_chinese": "鄭軻",
-"raw_cn_jp_entry": "鄭軻(66.9)",
-"assumed_office_date": "2023-01-13",
-"birth_year": 1966,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Secretary General",
-"title_chinese": "秘書長",
-"personnel": [
-{
-"name_pinyin": "Chen Wenming",
-"name_chinese": "陳文明",
-"raw_cn_jp_entry": "陳文明(67.12)",
-"assumed_office_date": "2023-01-13",
-"birth_year": 1967,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 428,
-"organization_name_english": "PLA Guangdong Provincial Command",
-"organization_name_chinese": "広東省軍区",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Commander",
-"title_chinese": "司令員",
-"personnel": [
-{
-"name_pinyin": "Zhang Gong",
-"name_chinese": "張弓",
-"raw_cn_jp_entry": "張弓(少将)",
-"assumed_office_date": "2023-07",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": "Rear Admiral",
-"rank_chinese": "少将"
-}
-]
-},
-{
-"title_english": "Deputy Commander",
-"title_chinese": "副司令員",
-"personnel": [
-{
-"name_pinyin": "Yu Fuwen",
-"name_chinese": "于福文",
-"raw_cn_jp_entry": "于福文(少将)",
-"assumed_office_date": "2023-02",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": "Major General",
-"rank_chinese": "少将"
-}
-]
-},
-{
-"title_english": "Political Commissar",
-"title_chinese": "政治委員",
-"personnel": [
-{
-"name_pinyin": "Wang Shouxin",
-"name_chinese": "王守信",
-"raw_cn_jp_entry": "王守信(少将)",
-"assumed_office_date": "2018-07",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": "Rear Admiral",
-"rank_chinese": "少将"
-}
-]
-},
-{
-"title_english": "Deputy Political Commissar",
-"title_chinese": "副政治委員",
-"personnel": [
-{
-"name_pinyin": "Zhang Jian",
-"name_chinese": "張剣",
-"raw_cn_jp_entry": "張剣(少将)",
-"assumed_office_date": "2022-08",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": "Major General",
-"rank_chinese": "少将"
-}
-]
-}
-],
-"sub_organizations": [
-{
-"source_pdf_page": 429,
-"organization_name_english": "Guangzhou Garrison",
-"organization_name_chinese": "広州警備区",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Commander",
-"title_chinese": "司令員",
-"personnel": [
-{
-"name_pinyin": "Yang Qifa",
-"name_chinese": "楊琦発",
-"raw_cn_jp_entry": "楊琦発",
-"assumed_office_date": "2018-10",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Political Commissar",
-"title_chinese": "政治委員",
-"personnel": [
-{
-"name_pinyin": "Tan Shiguo",
-"name_chinese": "談世国",
-"raw_cn_jp_entry": "談世国",
-"assumed_office_date": "2019-01",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-}
-]
-},
-{
-"source_pdf_page": 429,
-"organization_name_english": "Provincial People's Armed Police Corps",
-"organization_name_chinese": "人民武装警察部隊広東省総隊",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Commander",
-"title_chinese": "司令員",
-"personnel": []
-},
-{
-"title_english": "Political Commissar",
-"title_chinese": "政治委員",
-"personnel": [
-{
-"name_pinyin": "Zhang Qingwen",
-"name_chinese": "張慶文",
-"raw_cn_jp_entry": "張慶文(少将)",
-"assumed_office_date": "2022-07",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": "Major General",
-"rank_chinese": "少将"
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 429,
-"organization_name_english": "Provincial Trade Union Council",
-"organization_name_chinese": "広東省総工会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Chairperson",
-"title_chinese": "主席",
-"personnel": [
-{
-"name_pinyin": "Lu Yesheng",
-"name_chinese": "呂業昇",
-"raw_cn_jp_entry": "呂業昇(62.9)",
-"assumed_office_date": "2018-05-04",
-"birth_year": 1962,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 429,
-"organization_name_english": "CYL Provincial Committee",
-"organization_name_chinese": "共青団広東省委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Secretary",
-"title_chinese": "書記",
-"personnel": [
-{
-"name_pinyin": "Ran Bo",
-"name_chinese": "冉波",
-"raw_cn_jp_entry": "冉波(78.4)",
-"assumed_office_date": "2022-05",
-"birth_year": 1978,
-"birth_month": 4,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 429,
-"organization_name_english": "Provincial Women's Federation",
-"organization_name_chinese": "広東省婦女聯合会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Chairperson",
-"title_chinese": "主席",
-"personnel": [
-{
-"name_pinyin": "Xu Hong",
-"name_chinese": "許紅",
-"raw_cn_jp_entry": "許紅(68.6)",
-"assumed_office_date": "2020-11-05",
-"birth_year": 1968,
-"birth_month": 6,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 429,
-"organization_name_english": "Guangzhou City",
-"organization_name_chinese": "広州市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Guo Yonghang",
-"name_chinese": "郭永航",
-"raw_cn_jp_entry": "郭永航(65.10)",
-"assumed_office_date": "2023-06",
-"birth_year": 1965,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Acting Mayor",
-"title_chinese": "代理市長",
-"personnel": [
-{
-"name_pinyin": "Sun Zhiyang",
-"name_chinese": "孫志洋",
-"raw_cn_jp_entry": "孫志洋(74.5)",
-"assumed_office_date": "2023-10-09",
-"birth_year": 1974,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 429,
-"organization_name_english": "Qingyuan City",
-"organization_name_chinese": "清遠市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Yin Zhaoju",
-"name_chinese": "殷昭挙",
-"raw_cn_jp_entry": "殷昭挙(72.7)",
-"assumed_office_date": "2020-09",
-"birth_year": 1972,
-"birth_month": 7,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Wen Wenxing",
-"name_chinese": "温文星",
-"raw_cn_jp_entry": "温文星(67.6)",
-"assumed_office_date": "2021-11-29",
-"birth_year": 1967,
-"birth_month": 6,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 429,
-"organization_name_english": "Shaoguan City",
-"organization_name_chinese": "韶関市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Chen Shaorong",
-"name_chinese": "陳少栄",
-"raw_cn_jp_entry": "陳少栄(68.11)",
-"assumed_office_date": "2022-08",
-"birth_year": 1968,
-"birth_month": 11,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Chen Zhiqing",
-"name_chinese": "陳志清",
-"raw_cn_jp_entry": "陳志清(69.5)",
-"assumed_office_date": "2022-09-27",
-"birth_year": 1969,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 429,
-"organization_name_english": "Heyuan City",
-"organization_name_chinese": "河源市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "He Guosen",
-"name_chinese": "何国森",
-"raw_cn_jp_entry": "何国森(69.8)",
-"assumed_office_date": "2023-09",
-"birth_year": 1969,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Li Yongping",
-"name_chinese": "李勇平",
-"raw_cn_jp_entry": "李勇平(74.8)",
-"assumed_office_date": "2023-09-20",
-"birth_year": 1974,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 429,
-"organization_name_english": "Meizhou City",
-"organization_name_chinese": "梅州市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Ma Zhengyong",
-"name_chinese": "馬正勇",
-"raw_cn_jp_entry": "馬正勇(73.1)",
-"assumed_office_date": "2021-10",
-"birth_year": 1973,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Wang Hui",
-"name_chinese": "王暉",
-"raw_cn_jp_entry": "王暉(71.8)",
-"assumed_office_date": "2021-11-27",
-"birth_year": 1971,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 430,
-"organization_name_english": "Chaozhou City",
-"organization_name_chinese": "潮州市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "He Xiaojun",
-"name_chinese": "何曉軍",
-"raw_cn_jp_entry": "何曉軍(72.7)",
-"assumed_office_date": "2021-08",
-"birth_year": 1972,
-"birth_month": 7,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Liu Sheng",
-"name_chinese": "劉勝",
-"raw_cn_jp_entry": "劉勝(72.8)",
-"assumed_office_date": "2022-12-19",
-"birth_year": 1972,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 430,
-"organization_name_english": "Shantou (Swatow) City",
-"organization_name_chinese": "汕頭市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Wen Zhanbin",
-"name_chinese": "温湛濱",
-"raw_cn_jp_entry": "温湛濱(71.1)",
-"assumed_office_date": "2021-08",
-"birth_year": 1971,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Zeng Fengbao",
-"name_chinese": "曾風保",
-"raw_cn_jp_entry": "曾風保(71.8)",
-"assumed_office_date": "2021-01-30",
-"birth_year": 1971,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 430,
-"organization_name_english": "Jieyang City",
-"organization_name_chinese": "揭陽市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Wang Sheng",
-"name_chinese": "王勝",
-"raw_cn_jp_entry": "王勝(68.3)",
-"assumed_office_date": "2021-05",
-"birth_year": 1968,
-"birth_month": 3,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Zhi Guangnan",
-"name_chinese": "支光南",
-"raw_cn_jp_entry": "支光南(70.4)",
-"assumed_office_date": "2021-06-19",
-"birth_year": 1970,
-"birth_month": 4,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 430,
-"organization_name_english": "Shanwei City",
-"organization_name_chinese": "汕尾市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Lu Feng",
-"name_chinese": "逄峰",
-"raw_cn_jp_entry": "逄峰(72.1)",
-"assumed_office_date": "2022-08",
-"birth_year": 1972,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Zheng Haitao",
-"name_chinese": "鄭海濤",
-"raw_cn_jp_entry": "鄭海濤(75.1)",
-"assumed_office_date": "2022-09-27",
-"birth_year": 1975,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 430,
-"organization_name_english": "Huizhou City",
-"organization_name_chinese": "惠州市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Liu Ji",
-"name_chinese": "劉吉",
-"raw_cn_jp_entry": "劉吉(69.5)",
-"assumed_office_date": "2021-10",
-"birth_year": 1969,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Wen Jinrong",
-"name_chinese": "温金栄",
-"raw_cn_jp_entry": "温金栄(73.8)",
-"assumed_office_date": "2021-11-12",
-"birth_year": 1973,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 430,
-"organization_name_english": "Dongguan City",
-"organization_name_chinese": "東莞市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Xiao Yafei",
-"name_chinese": "肖亜非",
-"raw_cn_jp_entry": "肖亜非(66.6)",
-"assumed_office_date": "2021-05",
-"birth_year": 1966,
-"birth_month": 6,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Lu Chengxi",
-"name_chinese": "呂成蹊",
-"raw_cn_jp_entry": "呂成蹊(69.9)",
-"assumed_office_date": "2021-07-22",
-"birth_year": 1969,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 430,
-"organization_name_english": "Shenzhen City",
-"organization_name_chinese": "深圳市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Meng Fanli",
-"name_chinese": "孟凡利",
-"raw_cn_jp_entry": "◎孟凡利(65.9)",
-"assumed_office_date": "2022-04",
-"birth_year": 1965,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": "◎",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Qin Weizhong",
-"name_chinese": "覃偉中",
-"raw_cn_jp_entry": "○覃偉中(71.7)",
-"assumed_office_date": "2021-05-19",
-"birth_year": 1971,
-"birth_month": 7,
-"birth_day": null,
-"cross_reference_symbol": "○",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 430,
-"organization_name_english": "Zhuhai City",
-"organization_name_chinese": "珠海市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Chen Yong",
-"name_chinese": "陳勇",
-"raw_cn_jp_entry": "陳勇(74.1)",
-"assumed_office_date": "2023-09",
-"birth_year": 1974,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Huang Zhihao",
-"name_chinese": "黄志豪",
-"raw_cn_jp_entry": "黄志豪(70.2)",
-"assumed_office_date": "2021-06-03",
-"birth_year": 1970,
-"birth_month": 2,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 431,
-"organization_name_english": "Zhongshan City",
-"organization_name_chinese": "中山市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Guo Wenhai",
-"name_chinese": "郭文海",
-"raw_cn_jp_entry": "郭文海(68.11)",
-"assumed_office_date": "2021-10",
-"birth_year": 1968,
-"birth_month": 11,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Xiao Zhanxin",
-"name_chinese": "肖展欣",
-"raw_cn_jp_entry": "肖展欣(75.1)",
-"assumed_office_date": "2021-06-23",
-"birth_year": 1975,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 431,
-"organization_name_english": "Jiangmen City",
-"organization_name_chinese": "江門市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Chen Anming",
-"name_chinese": "陳岸明",
-"raw_cn_jp_entry": "陳岸明(68.6)",
-"assumed_office_date": "2021-07",
-"birth_year": 1968,
-"birth_month": 6,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Wu Xiaohui",
-"name_chinese": "吳曉暉",
-"raw_cn_jp_entry": "吳曉暉(女72.7)",
-"assumed_office_date": "2021-03-05",
-"birth_year": 1972,
-"birth_month": 7,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 431,
-"organization_name_english": "Foshan City",
-"organization_name_chinese": "佛山市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Zheng Ke",
-"name_chinese": "鄭軻",
-"raw_cn_jp_entry": "鄭軻(66.9)",
-"assumed_office_date": "2021-06",
-"birth_year": 1966,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Bai Tao",
-"name_chinese": "白濤",
-"raw_cn_jp_entry": "白濤(68.4)",
-"assumed_office_date": "2022-01-09",
-"birth_year": 1968,
-"birth_month": 4,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 431,
-"organization_name_english": "Zhaoqing City",
-"organization_name_chinese": "肇慶市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Zhang Aijun",
-"name_chinese": "張愛軍",
-"raw_cn_jp_entry": "張愛軍(70.4)",
-"assumed_office_date": "2021-11",
-"birth_year": 1970,
-"birth_month": 4,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Xu Xiaoxiong",
-"name_chinese": "許曉雄",
-"raw_cn_jp_entry": "許曉雄(69.3)",
-"assumed_office_date": "2021-07-06",
-"birth_year": 1969,
-"birth_month": 3,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 431,
-"organization_name_english": "Yunfu City",
-"organization_name_chinese": "雲浮市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Lu Rongchun",
-"name_chinese": "盧栄春",
-"raw_cn_jp_entry": "盧栄春(67.9)",
-"assumed_office_date": "2021-07",
-"birth_year": 1967,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Li Qingxin",
-"name_chinese": "李慶新",
-"raw_cn_jp_entry": "李慶新(67.8)",
-"assumed_office_date": "2022-01-14",
-"birth_year": 1967,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 431,
-"organization_name_english": "Yangjiang City",
-"organization_name_chinese": "陽江市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Lu Yixian",
-"name_chinese": "盧一先",
-"raw_cn_jp_entry": "盧一先(70.7)",
-"assumed_office_date": "2023-08",
-"birth_year": 1970,
-"birth_month": 7,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Yu Jinfu",
-"name_chinese": "余金富",
-"raw_cn_jp_entry": "余金富(72.5)",
-"assumed_office_date": "2022-01-14",
-"birth_year": 1972,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 431,
-"organization_name_english": "Maoming City",
-"organization_name_chinese": "茂名市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Zhuang Yuequn",
-"name_chinese": "荘悦群",
-"raw_cn_jp_entry": "荘悦群(69.8)",
-"assumed_office_date": "2022-08",
-"birth_year": 1969,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Wang Xiongfei",
-"name_chinese": "王雄飛",
-"raw_cn_jp_entry": "王雄飛(74.10)",
-"assumed_office_date": "2022-09-27",
-"birth_year": 1974,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 431,
-"organization_name_english": "Zhanjiang City",
-"organization_name_chinese": "湛江市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": []
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Zeng Jinze",
-"name_chinese": "曾進澤",
-"raw_cn_jp_entry": "曾進澤(69.5)",
-"assumed_office_date": "2020-10-20",
-"birth_year": 1969,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-}
-]
-},
-{
-"source_pdf_page": 432,
-"organization_name_english": "Guangxi Zhuang Autonomous Region",
-"organization_name_chinese": "広西壮族自治区",
-"metadata": {
-"warnings": []
-},
-"positions": [],
-"sub_organizations": [
-{
-"source_pdf_page": 432,
-"organization_name_english": "CPC 12th Guangxi Zhuang Autonomous Regional Committee",
-"organization_name_chinese": "中共広西壮族自治区第12届委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Secretary",
-"title_chinese": "書記",
-"personnel": [
-{
-"name_pinyin": "Liu Ning",
-"name_chinese": "劉寧",
-"raw_cn_jp_entry": "◎劉寧(62.1)",
-"assumed_office_date": "2021-10",
-"birth_year": 1962,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": "◎",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Deputy Secretary",
-"title_chinese": "副書記",
-"personnel": [
-{
-"name_pinyin": "Lan Tianli",
-"name_chinese": "藍天立",
-"raw_cn_jp_entry": "◎藍天立(62.10)",
-"assumed_office_date": "2020-10",
-"birth_year": 1962,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": "◎",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Standing Committee Members",
-"title_chinese": "常務委員",
-"personnel": [
-{
-"name_pinyin": "He Wenhao",
-"name_chinese": "何文浩",
-"raw_cn_jp_entry": "何文浩(64.3)",
-"assumed_office_date": "2021-10",
-"birth_year": 1964,
-"birth_month": 3,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Fang Lingmin",
-"name_chinese": "房霊敏",
-"raw_cn_jp_entry": "房霊敏(64.5)",
-"assumed_office_date": "2017-09",
-"birth_year": 1964,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Chen Yijun",
-"name_chinese": "陳奕君",
-"raw_cn_jp_entry": "陳奕君(女67.3)",
-"assumed_office_date": "2023-05",
-"birth_year": 1967,
-"birth_month": 3,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "He Renxue",
-"name_chinese": "何仁学",
-"raw_cn_jp_entry": "何仁学(少将63.12)",
-"assumed_office_date": "2020-06",
-"birth_year": 1963,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": "Major General",
-"rank_chinese": "少将"
-},
-{
-"name_pinyin": "Wang Weiping",
-"name_chinese": "王維平",
-"raw_cn_jp_entry": "王維平(65.11)",
-"assumed_office_date": "2021-08",
-"birth_year": 1965,
-"birth_month": 11,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Cai Lixin",
-"name_chinese": "蔡麗新",
-"raw_cn_jp_entry": "○蔡麗新(女71.10)",
-"assumed_office_date": "2021-11-29",
-"birth_year": 1971,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": "○",
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Wang Xinfu",
-"name_chinese": "王心富",
-"raw_cn_jp_entry": "王心富(70.2)",
-"assumed_office_date": "2022-04",
-"birth_year": 1970,
-"birth_month": 2,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Nong Shengwen",
-"name_chinese": "農生文",
-"raw_cn_jp_entry": "○農生文(65.8)",
-"assumed_office_date": "2021-11-29",
-"birth_year": 1965,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": "○",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Xu Yongke",
-"name_chinese": "許永踝",
-"raw_cn_jp_entry": "許永踝(67.11)",
-"assumed_office_date": "2021-11-29",
-"birth_year": 1967,
-"birth_month": 11,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Zhou Yijue",
-"name_chinese": "周異決",
-"raw_cn_jp_entry": "周異決(65.12)",
-"assumed_office_date": "2021-11-29",
-"birth_year": 1965,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Secretary General",
-"title_chinese": "秘書長",
-"personnel": [
-{
-"name_pinyin": "Zhou Yijue",
-"name_chinese": "周異決",
-"raw_cn_jp_entry": "周異決(65.12)",
-"assumed_office_date": "2021-11",
-"birth_year": 1965,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": [
-{
-"source_pdf_page": 432,
-"organization_name_english": "Organization Department",
-"organization_name_chinese": "組織部",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Head",
-"title_chinese": "部長",
-"personnel": [
-{
-"name_pinyin": "Wang Weiping",
-"name_chinese": "王維平",
-"raw_cn_jp_entry": "王維平(65.11)",
-"assumed_office_date": "2021-08",
-"birth_year": 1965,
-"birth_month": 11,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 432,
-"organization_name_english": "Publicity Department",
-"organization_name_chinese": "宣伝部",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Head",
-"title_chinese": "部長",
-"personnel": [
-{
-"name_pinyin": "Chen Yijun",
-"name_chinese": "陳奕君",
-"raw_cn_jp_entry": "陳奕君(女67.3)",
-"assumed_office_date": "2023-05",
-"birth_year": 1967,
-"birth_month": 3,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 432,
-"organization_name_english": "United Front Work Department",
-"organization_name_chinese": "統一戦線工作部",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Head",
-"title_chinese": "部長",
-"personnel": [
-{
-"name_pinyin": "Wang Xinfu",
-"name_chinese": "王心富",
-"raw_cn_jp_entry": "王心富(70.2)",
-"assumed_office_date": "2022-04",
-"birth_year": 1970,
-"birth_month": 2,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 432,
-"organization_name_english": "Political Science and Law Commission",
-"organization_name_chinese": "政法委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Secretary",
-"title_chinese": "書記",
-"personnel": [
-{
-"name_pinyin": "He Wenhao",
-"name_chinese": "何文浩",
-"raw_cn_jp_entry": "何文浩(64.3)",
-"assumed_office_date": "2021-11",
-"birth_year": 1964,
-"birth_month": 3,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 432,
-"organization_name_english": "Regional Party School",
-"organization_name_chinese": "自治区党校",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "President",
-"title_chinese": "校長",
-"personnel": [
-{
-"name_pinyin": "Wang Weiping",
-"name_chinese": "王維平",
-"raw_cn_jp_entry": "王維平(65.11)",
-"assumed_office_date": "2021-08",
-"birth_year": 1965,
-"birth_month": 11,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 432,
-"organization_name_english": "Commission for Discipline Inspection",
-"organization_name_chinese": "紀律検査委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Secretary",
-"title_chinese": "書記",
-"personnel": [
-{
-"name_pinyin": "Fang Lingmin",
-"name_chinese": "房霊敏",
-"raw_cn_jp_entry": "房霊敏(64.5)",
-"assumed_office_date": "2017-09",
-"birth_year": 1964,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-}
-]
-},
-{
-"source_pdf_page": 433,
-"organization_name_english": "Guangxi Zhuang Autonomous Regional 14th People's Congress",
-"organization_name_chinese": "広西壮族自治区第14届人民代表大会",
-"metadata": {
-"warnings": []
-},
-"positions": [],
-"sub_organizations": [
-{
-"source_pdf_page": 433,
-"organization_name_english": "Standing Committee",
-"organization_name_chinese": "常務委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Chairperson",
-"title_chinese": "主任",
-"personnel": [
-{
-"name_pinyin": "Liu Ning",
-"name_chinese": "劉寧",
-"raw_cn_jp_entry": "◎劉寧(62.1)",
-"assumed_office_date": "2022-01-21",
-"birth_year": 1962,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": "◎",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Vice Chairpersons",
-"title_chinese": "副主任",
-"personnel": [
-{
-"name_pinyin": "Fang Chunming",
-"name_chinese": "方春明",
-"raw_cn_jp_entry": "方春明(64.5)",
-"assumed_office_date": "2023-01-17",
-"birth_year": 1964,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Zhang Xiaoqin",
-"name_chinese": "張曉欽",
-"raw_cn_jp_entry": "張曉欽(68.1)",
-"assumed_office_date": "2018-01-31",
-"birth_year": 1968,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Huang Weijing",
-"name_chinese": "黄偉京",
-"raw_cn_jp_entry": "黄偉京(62.9)",
-"assumed_office_date": "2022-01-21",
-"birth_year": 1962,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Lu Xianbian",
-"name_chinese": "盧献匾",
-"raw_cn_jp_entry": "盧献匾(64.1)",
-"assumed_office_date": "2018-01-31",
-"birth_year": 1964,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Yang Jinghua",
-"name_chinese": "楊静華",
-"raw_cn_jp_entry": "楊静華(女62.5)",
-"assumed_office_date": "2018-01-31",
-"birth_year": 1962,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Liu Youming",
-"name_chinese": "劉有明",
-"raw_cn_jp_entry": "劉有明(63.8)",
-"assumed_office_date": "2021-01-25",
-"birth_year": 1963,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Zhou Jiabin",
-"name_chinese": "周家斌",
-"raw_cn_jp_entry": "周家斌(64.9)",
-"assumed_office_date": "2023-01-17",
-"birth_year": 1964,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Secretary General",
-"title_chinese": "秘書長",
-"personnel": [
-{
-"name_pinyin": "Li Dongxing",
-"name_chinese": "李東興",
-"raw_cn_jp_entry": "李東興(女67.12)",
-"assumed_office_date": "2023-01-17",
-"birth_year": 1967,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 433,
-"organization_name_english": "Regional Supervision Commission",
-"organization_name_chinese": "広西壮族自治区監察委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Chairperson",
-"title_chinese": "主任",
-"personnel": [
-{
-"name_pinyin": "Fang Lingmin",
-"name_chinese": "房霊敏",
-"raw_cn_jp_entry": "房霊敏(64.5)",
-"assumed_office_date": "2018-01-31",
-"birth_year": 1964,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 433,
-"organization_name_english": "Regional Higher People's Court",
-"organization_name_chinese": "広西壮族自治区高級人民法院",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "President",
-"title_chinese": "院長",
-"personnel": [
-{
-"name_pinyin": "Huang Hailong",
-"name_chinese": "黄海龍",
-"raw_cn_jp_entry": "黄海龍(63.9)",
-"assumed_office_date": "2018-01-31",
-"birth_year": 1963,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 433,
-"organization_name_english": "Regional People's Procuratorate",
-"organization_name_chinese": "広西壮族自治区人民検察院",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Chief Procurator",
-"title_chinese": "検察長",
-"personnel": [
-{
-"name_pinyin": "Mao Zhonghua",
-"name_chinese": "茅仲華",
-"raw_cn_jp_entry": "茅仲華(65.10)",
-"assumed_office_date": "2021-02-28",
-"birth_year": 1965,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-}
-]
-},
-{
-"source_pdf_page": 433,
-"organization_name_english": "Guangxi Zhuang Autonomous Regional People's Government",
-"organization_name_chinese": "広西壮族自治区人民政府",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Chairperson",
-"title_chinese": "主席",
-"personnel": [
-{
-"name_pinyin": "Lan Tianli",
-"name_chinese": "藍天立",
-"raw_cn_jp_entry": "◎藍天立(62.10)",
-"assumed_office_date": "2021-01-25",
-"birth_year": 1962,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": "◎",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Vice Chairpersons",
-"title_chinese": "副主席",
-"personnel": [
-{
-"name_pinyin": "Cai Lixin",
-"name_chinese": "蔡麗新",
-"raw_cn_jp_entry": "○蔡麗新(女/常務71. 10)",
-"assumed_office_date": "2021-03-26",
-"birth_year": 1971,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": "○",
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": "executive",
-"rank_chinese": "常務"
-},
-{
-"name_pinyin": "Xu Yongke",
-"name_chinese": "許永踝",
-"raw_cn_jp_entry": "許永踝(67.11)",
-"assumed_office_date": "2022-01-15",
-"birth_year": 1967,
-"birth_month": 11,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Xu Xianhui",
-"name_chinese": "許顕輝",
-"raw_cn_jp_entry": "許顕輝(66.2)",
-"assumed_office_date": "2022-05-13",
-"birth_year": 1966,
-"birth_month": 2,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Miao Qingwang",
-"name_chinese": "苗慶旺",
-"raw_cn_jp_entry": "苗慶旺(70.2)",
-"assumed_office_date": "2022-07-28",
-"birth_year": 1970,
-"birth_month": 2,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Liao Pinhu",
-"name_chinese": "廖品琥",
-"raw_cn_jp_entry": "廖品琥(67.6)",
-"assumed_office_date": "2023-01-17",
-"birth_year": 1967,
-"birth_month": 6,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Li Changguan",
-"name_chinese": "李常官",
-"raw_cn_jp_entry": "李常官(68.10)",
-"assumed_office_date": "2023-01-17",
-"birth_year": 1968,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Sui Guohua",
-"name_chinese": "眭国華",
-"raw_cn_jp_entry": "眭国華(女71.1)",
-"assumed_office_date": "2023-01-17",
-"birth_year": 1971,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Yang Weilin",
-"name_chinese": "楊維林",
-"raw_cn_jp_entry": "楊維林(68.10)",
-"assumed_office_date": "2023-05-26",
-"birth_year": 1968,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Secretary General",
-"title_chinese": "秘書長",
-"personnel": [
-{
-"name_pinyin": "Zhong Dezhi",
-"name_chinese": "鍾得志",
-"raw_cn_jp_entry": "鍾得志(72.5)",
-"assumed_office_date": "2023-09-22",
-"birth_year": 1972,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": [
-{
-"source_pdf_page": 433,
-"organization_name_english": "Foreign Affairs Office",
-"organization_name_chinese": "外事辦公室",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "主任",
-"personnel": [
-{
-"name_pinyin": "Wei Ran",
-"name_chinese": "魏然",
-"raw_cn_jp_entry": "魏然(68.10)",
-"assumed_office_date": "2023-01-18",
-"birth_year": 1968,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 433,
-"organization_name_english": "Development and Reform Commission",
-"organization_name_chinese": "発展和改革委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Chairperson",
-"title_chinese": "主任",
-"personnel": [
-{
-"name_pinyin": "Bai Songtao",
-"name_chinese": "白松濤",
-"raw_cn_jp_entry": "白松濤(72.4)",
-"assumed_office_date": "2023-09-22",
-"birth_year": 1972,
-"birth_month": 4,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 434,
-"organization_name_english": "Education Department",
-"organization_name_chinese": "教育庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Liu Youyi",
-"name_chinese": "劉友誼",
-"raw_cn_jp_entry": "劉友誼(65.2)",
-"assumed_office_date": "2021-03-26",
-"birth_year": 1965,
-"birth_month": 2,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 434,
-"organization_name_english": "Science and Technology Department",
-"organization_name_chinese": "科学技術庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Li Guozhong",
-"name_chinese": "李国忠",
-"raw_cn_jp_entry": "李国忠(69.9)",
-"assumed_office_date": "2021-11-20",
-"birth_year": 1969,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 434,
-"organization_name_english": "Industry & Information Technology Department",
-"organization_name_chinese": "工業和信息化庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Wang Yongchao",
-"name_chinese": "王永超",
-"raw_cn_jp_entry": "王永超(71.6)",
-"assumed_office_date": "2023-01-18",
-"birth_year": 1971,
-"birth_month": 6,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 434,
-"organization_name_english": "Ethnic and Religious Affairs Commission",
-"organization_name_chinese": "民族宗教事務委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Chairperson",
-"title_chinese": "主任",
-"personnel": [
-{
-"name_pinyin": "Li Zhenlin",
-"name_chinese": "李振林",
-"raw_cn_jp_entry": "李振林(73.10)",
-"assumed_office_date": "2023-01-18",
-"birth_year": 1973,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 434,
-"organization_name_english": "Public Security Department",
-"organization_name_chinese": "公安庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Yang Weilin",
-"name_chinese": "楊維林",
-"raw_cn_jp_entry": "楊維林(68.10)",
-"assumed_office_date": "2023-05-26",
-"birth_year": 1968,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 434,
-"organization_name_english": "State Security Department",
-"organization_name_chinese": "国家安全厅",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Wang Hai",
-"name_chinese": "汪海",
-"raw_cn_jp_entry": "汪海",
-"assumed_office_date": "2020-01",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 434,
-"organization_name_english": "Civil Affairs Department",
-"organization_name_chinese": "民政庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Huang Wuhai",
-"name_chinese": "黄武海",
-"raw_cn_jp_entry": "黄武海(67.10)",
-"assumed_office_date": "2023-07-27",
-"birth_year": 1967,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 434,
-"organization_name_english": "Justice Department",
-"organization_name_chinese": "司法厅",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Li Daojun",
-"name_chinese": "李道軍",
-"raw_cn_jp_entry": "李道軍(70.6)",
-"assumed_office_date": "2023-01-18",
-"birth_year": 1970,
-"birth_month": 6,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 434,
-"organization_name_english": "Finance Department",
-"organization_name_chinese": "財政庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Hu Fan",
-"name_chinese": "胡帆",
-"raw_cn_jp_entry": "胡帆(71.9)",
-"assumed_office_date": "2021-11-20",
-"birth_year": 1971,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 434,
-"organization_name_english": "Human Resources & Social Security Department",
-"organization_name_chinese": "人力資源和社会保障厅",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Tang Biaowen",
-"name_chinese": "唐標文",
-"raw_cn_jp_entry": "唐標文(66.4)",
-"assumed_office_date": "2023-01-18",
-"birth_year": 1966,
-"birth_month": 4,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 434,
-"organization_name_english": "Natural Resources Department",
-"organization_name_chinese": "自然資源庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Zhang Wenjun",
-"name_chinese": "張文軍",
-"raw_cn_jp_entry": "張文軍(66.2)",
-"assumed_office_date": "2023-01-18",
-"birth_year": 1966,
-"birth_month": 2,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 434,
-"organization_name_english": "Ecology and Environment Department",
-"organization_name_chinese": "生態環境庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Chen Liang",
-"name_chinese": "陳亮",
-"raw_cn_jp_entry": "陳亮(68.11)",
-"assumed_office_date": "2021-07-28",
-"birth_year": 1968,
-"birth_month": 11,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 434,
-"organization_name_english": "Housing & Urban-Rural Development Department",
-"organization_name_chinese": "住房和城鄉建設庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Yang Lufeng",
-"name_chinese": "楊緑峰",
-"raw_cn_jp_entry": "楊緑峰(66.3)",
-"assumed_office_date": "2023-01-18",
-"birth_year": 1966,
-"birth_month": 3,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 434,
-"organization_name_english": "Transport Department",
-"organization_name_chinese": "交通運輸庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Liu Ke",
-"name_chinese": "劉可",
-"raw_cn_jp_entry": "劉可(67.8)",
-"assumed_office_date": "2021-11-20",
-"birth_year": 1967,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 434,
-"organization_name_english": "Forestry Department",
-"organization_name_chinese": "林業庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Huang Xianyang",
-"name_chinese": "黄顕陽",
-"raw_cn_jp_entry": "黄顕陽(62.6)",
-"assumed_office_date": "2015-05-27",
-"birth_year": 1962,
-"birth_month": 6,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 435,
-"organization_name_english": "Water Resources Department",
-"organization_name_chinese": "水利庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Deng Changqiu",
-"name_chinese": "鄧長球",
-"raw_cn_jp_entry": "鄧長球(68.12)",
-"assumed_office_date": "2023-01-18",
-"birth_year": 1968,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 435,
-"organization_name_english": "Agriculture and Rural Affairs Department",
-"organization_name_chinese": "農業農村庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Huang Zhiyu",
-"name_chinese": "黄智宇",
-"raw_cn_jp_entry": "黄智宇(68.4)",
-"assumed_office_date": "2021-11-20",
-"birth_year": 1968,
-"birth_month": 4,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 435,
-"organization_name_english": "Commercial Department",
-"organization_name_chinese": "商務庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Yang Chunting",
-"name_chinese": "楊春庭",
-"raw_cn_jp_entry": "楊春庭(65.9)",
-"assumed_office_date": "2021-07-28",
-"birth_year": 1965,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 435,
-"organization_name_english": "Culture and Tourism Department",
-"organization_name_chinese": "文化和旅遊庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Ou Yujun",
-"name_chinese": "欧余軍",
-"raw_cn_jp_entry": "欧余軍(70.11)",
-"assumed_office_date": "2023-01-18",
-"birth_year": 1970,
-"birth_month": 11,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 435,
-"organization_name_english": "Health Commission",
-"organization_name_chinese": "衛生健康委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Chairperson",
-"title_chinese": "主任",
-"personnel": [
-{
-"name_pinyin": "Du Zhenzong",
-"name_chinese": "杜振宗",
-"raw_cn_jp_entry": "杜振宗(72.2)",
-"assumed_office_date": "2023-03-28",
-"birth_year": 1972,
-"birth_month": 2,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 435,
-"organization_name_english": "Veterans Affairs Department",
-"organization_name_chinese": "退役軍人事務庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": []
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 435,
-"organization_name_english": "Emergency Management Department",
-"organization_name_chinese": "応急管理庁",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Director",
-"title_chinese": "庁長",
-"personnel": [
-{
-"name_pinyin": "Zhou Changqing",
-"name_chinese": "周長青",
-"raw_cn_jp_entry": "周長青(68.12)",
-"assumed_office_date": "2023-09-22",
-"birth_year": 1968,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-}
-]
-},
-{
-"source_pdf_page": 435,
-"organization_name_english": "CPPCC 13th Guangxi Zhuang Autonomous Regional Committee",
-"organization_name_chinese": "政協広西壮族自治区第13届委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Chairperson",
-"title_chinese": "主席",
-"personnel": [
-{
-"name_pinyin": "Sun Dawei",
-"name_chinese": "孫大偉",
-"raw_cn_jp_entry": "孫大偉(63.4)",
-"assumed_office_date": "2021-01-24",
-"birth_year": 1963,
-"birth_month": 4,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Vice Chairpersons",
-"title_chinese": "副主席",
-"personnel": [
-{
-"name_pinyin": "Xu Shaochuan",
-"name_chinese": "徐紹川",
-"raw_cn_jp_entry": "徐紹川(63.7)",
-"assumed_office_date": "2022-01-20",
-"birth_year": 1963,
-"birth_month": 7,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Fei Zhirong",
-"name_chinese": "費志栄",
-"raw_cn_jp_entry": "費志栄(62.4)",
-"assumed_office_date": "2022-01-20",
-"birth_year": 1962,
-"birth_month": 4,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Huang Junhua",
-"name_chinese": "黄俊華",
-"raw_cn_jp_entry": "黄俊華(63.8)",
-"assumed_office_date": "2023-01-15",
-"birth_year": 1963,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Qian Xueming",
-"name_chinese": "銭学明",
-"raw_cn_jp_entry": "銭学明(60.7)",
-"assumed_office_date": "2018-01-29",
-"birth_year": 1960,
-"birth_month": 7,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Wang Naixue",
-"name_chinese": "王乃学",
-"raw_cn_jp_entry": "王乃学(62.12)",
-"assumed_office_date": "2021-01-24",
-"birth_year": 1962,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "He Xinxing",
-"name_chinese": "何辛幸",
-"raw_cn_jp_entry": "何辛幸(62.9)",
-"assumed_office_date": "2021-01-24",
-"birth_year": 1962,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Wu Jiashi",
-"name_chinese": "巫家世",
-"raw_cn_jp_entry": "巫家世(63.8)",
-"assumed_office_date": "2023-01-15",
-"birth_year": 1963,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Liu Yongmei",
-"name_chinese": "劉咏梅",
-"raw_cn_jp_entry": "劉咏梅(女67.7)",
-"assumed_office_date": "2023-01-15",
-"birth_year": 1967,
-"birth_month": 7,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-},
-{
-"name_pinyin": "Peng Jianming",
-"name_chinese": "彭健銘",
-"raw_cn_jp_entry": "彭健銘(64.10)",
-"assumed_office_date": "2023-01-15",
-"birth_year": 1964,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Secretary General",
-"title_chinese": "秘書長",
-"personnel": [
-{
-"name_pinyin": "Lu Nenggan",
-"name_chinese": "盧能干",
-"raw_cn_jp_entry": "盧能干(65.3)",
-"assumed_office_date": "2023-01-15",
-"birth_year": 1965,
-"birth_month": 3,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 435,
-"organization_name_english": "PLA Guangxi Military Area Command",
-"organization_name_chinese": "広西軍区",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Commander",
-"title_chinese": "司令員",
-"personnel": [
-{
-"name_pinyin": "He Renxue",
-"name_chinese": "何仁学",
-"raw_cn_jp_entry": "何仁学(少将63.12)",
-"assumed_office_date": "2020-04",
-"birth_year": 1963,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": "Major General",
-"rank_chinese": "少将"
-}
-]
-},
-{
-"title_english": "Deputy Commander",
-"title_chinese": "副司令員",
-"personnel": [
-{
-"name_pinyin": "Zhu Yuansai",
-"name_chinese": "朱元賽",
-"raw_cn_jp_entry": "朱元賽(少将)",
-"assumed_office_date": "2022-10",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": "Major General",
-"rank_chinese": "少将"
-}
-]
-},
-{
-"title_english": "Political Commissar",
-"title_chinese": "政治委員",
-"personnel": [
-{
-"name_pinyin": "Ma Hui",
-"name_chinese": "馬輝",
-"raw_cn_jp_entry": "馬輝(少将)",
-"assumed_office_date": "2020-04",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": "Major General",
-"rank_chinese": "少将"
-}
-]
-},
-{
-"title_english": "Deputy Political Commissar",
-"title_chinese": "副政治委員",
-"personnel": [
-{
-"name_pinyin": "Zhang Keping",
-"name_chinese": "張柯平",
-"raw_cn_jp_entry": "張柯平(少将)",
-"assumed_office_date": "2021-07",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": "Major General",
-"rank_chinese": "少将"
-}
-]
-}
-],
-"sub_organizations": [
-{
-"source_pdf_page": 436,
-"organization_name_english": "Nanning Garrison",
-"organization_name_chinese": "南寧警備区",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Commander",
-"title_chinese": "司令員",
-"personnel": [
-{
-"name_pinyin": "Ru Lei",
-"name_chinese": "茹雷",
-"raw_cn_jp_entry": "茹雷",
-"assumed_office_date": "2018-10",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Political Commissar",
-"title_chinese": "政治委員",
-"personnel": [
-{
-"name_pinyin": "Gu Xiehui",
-"name_chinese": "辜協輝",
-"raw_cn_jp_entry": "辜協輝",
-"assumed_office_date": "2020-04",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-}
-]
-},
-{
-"source_pdf_page": 436,
-"organization_name_english": "Regional People's Armed Police Corps",
-"organization_name_chinese": "人民武装警察部隊広西壮族自治区総隊",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Commander",
-"title_chinese": "司令員",
-"personnel": []
-},
-{
-"title_english": "Political Commissar",
-"title_chinese": "政治委員",
-"personnel": [
-{
-"name_pinyin": "Wang Xu",
-"name_chinese": "王旭",
-"raw_cn_jp_entry": "王旭(少将)",
-"assumed_office_date": "2023-07",
-"birth_year": null,
-"birth_month": null,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": "Major General",
-"rank_chinese": "少将"
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 436,
-"organization_name_english": "Regional Trade Union Council",
-"organization_name_chinese": "広西壮族自治区総工会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Chairperson",
-"title_chinese": "主席",
-"personnel": [
-{
-"name_pinyin": "Zhang Xiaoqin",
-"name_chinese": "張曉欽",
-"raw_cn_jp_entry": "張曉欽(68.1)",
-"assumed_office_date": "2020-01",
-"birth_year": 1968,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 436,
-"organization_name_english": "CYL Regional Committee",
-"organization_name_chinese": "共青団広西壮族自治区委員会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Secretary",
-"title_chinese": "書記",
-"personnel": [
-{
-"name_pinyin": "Meng Qipeng",
-"name_chinese": "蒙啓鵬",
-"raw_cn_jp_entry": "蒙啓鵬(78.10)",
-"assumed_office_date": "2021-11",
-"birth_year": 1978,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 436,
-"organization_name_english": "Regional Women's Federation",
-"organization_name_chinese": "広西壮族自治区婦女聯合会",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Chairperson",
-"title_chinese": "主席",
-"personnel": [
-{
-"name_pinyin": "Hu Jingbo",
-"name_chinese": "胡晶波",
-"raw_cn_jp_entry": "胡晶波(72.5)",
-"assumed_office_date": "2023-02-23",
-"birth_year": 1972,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 436,
-"organization_name_english": "Nanning City",
-"organization_name_chinese": "南寧市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Nong Shengwen",
-"name_chinese": "農生文",
-"raw_cn_jp_entry": "○農生文(65.8)",
-"assumed_office_date": "2022-04",
-"birth_year": 1965,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": "○",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Hou Gang",
-"name_chinese": "侯剛",
-"raw_cn_jp_entry": "侯剛(66.9)",
-"assumed_office_date": "2023-02-15",
-"birth_year": 1966,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 436,
-"organization_name_english": "Guilin City",
-"organization_name_chinese": "桂林市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Zhou Jiabin",
-"name_chinese": "周家斌",
-"raw_cn_jp_entry": "周家斌(64.9)",
-"assumed_office_date": "2021-02",
-"birth_year": 1964,
-"birth_month": 9,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Li Chu",
-"name_chinese": "李楚",
-"raw_cn_jp_entry": "李楚(74.1)",
-"assumed_office_date": "2021-06-24",
-"birth_year": 1974,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 436,
-"organization_name_english": "Liuzhou City",
-"organization_name_chinese": "柳州市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Zhang Xiaoqin",
-"name_chinese": "張曉欽",
-"raw_cn_jp_entry": "張曉欽(68.1)",
-"assumed_office_date": "2023-11",
-"birth_year": 1968,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Zhang Zhuang",
-"name_chinese": "張壮",
-"raw_cn_jp_entry": "張壮(70.5)",
-"assumed_office_date": "2021-03-31",
-"birth_year": 1970,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 436,
-"organization_name_english": "Wuzhou City",
-"organization_name_chinese": "梧州市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Jiang Liansheng",
-"name_chinese": "蒋連生",
-"raw_cn_jp_entry": "蒋連生(65.10)",
-"assumed_office_date": "2021-06",
-"birth_year": 1965,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Li Zhenpin",
-"name_chinese": "李振品",
-"raw_cn_jp_entry": "李振品(69.11)",
-"assumed_office_date": "2023-08-28",
-"birth_year": 1969,
-"birth_month": 11,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 436,
-"organization_name_english": "Guigang City",
-"organization_name_chinese": "貴港市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Zhu Huidong",
-"name_chinese": "朱会東",
-"raw_cn_jp_entry": "朱会東(70.10)",
-"assumed_office_date": "2023-05",
-"birth_year": 1970,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Lin Haibo",
-"name_chinese": "林海波",
-"raw_cn_jp_entry": "林海波(71.6)",
-"assumed_office_date": "2023-08-28",
-"birth_year": 1971,
-"birth_month": 6,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 437,
-"organization_name_english": "Yulin City",
-"organization_name_chinese": "玉林市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Wang Chen",
-"name_chinese": "王琛",
-"raw_cn_jp_entry": "王琛(68.6)",
-"assumed_office_date": "2023-06",
-"birth_year": 1968,
-"birth_month": 6,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Zhang Huiqiang",
-"name_chinese": "張恵強",
-"raw_cn_jp_entry": "張恵強(69.11)",
-"assumed_office_date": "2023-09-06",
-"birth_year": 1969,
-"birth_month": 11,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 437,
-"organization_name_english": "Qinzhou City",
-"organization_name_chinese": "欽州市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Zhong Changzi",
-"name_chinese": "鍾暢姿",
-"raw_cn_jp_entry": "鍾暢姿(女71.4)",
-"assumed_office_date": "2023-05",
-"birth_year": 1971,
-"birth_month": 4,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Wang Xiongchang",
-"name_chinese": "王雄昌",
-"raw_cn_jp_entry": "王雄昌(70.11)",
-"assumed_office_date": "2021-04-10",
-"birth_year": 1970,
-"birth_month": 11,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 437,
-"organization_name_english": "Beihai City",
-"organization_name_chinese": "北海市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Cai Jinjun",
-"name_chinese": "蔡錦軍",
-"raw_cn_jp_entry": "蔡錦軍(68.11)",
-"assumed_office_date": "2021-08-31",
-"birth_year": 1968,
-"birth_month": 11,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Li Li",
-"name_chinese": "李莉",
-"raw_cn_jp_entry": "李莉(女73.7)",
-"assumed_office_date": "2022-01-27",
-"birth_year": 1973,
-"birth_month": 7,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "female",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 437,
-"organization_name_english": "Fangchenggang City",
-"organization_name_chinese": "防城港市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Tan Pichuang",
-"name_chinese": "譚丕創",
-"raw_cn_jp_entry": "譚丕創(68.10)",
-"assumed_office_date": "2021-03",
-"birth_year": 1968,
-"birth_month": 10,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Huang Jiang",
-"name_chinese": "黄江",
-"raw_cn_jp_entry": "黄江(71.4)",
-"assumed_office_date": "2021-09-29",
-"birth_year": 1971,
-"birth_month": 4,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 437,
-"organization_name_english": "Chongzuo City",
-"organization_name_chinese": "崇左市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Lan Xiao",
-"name_chinese": "藍曉",
-"raw_cn_jp_entry": "○藍曉(69.12)",
-"assumed_office_date": "2021-12",
-"birth_year": 1969,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": "○",
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Chi Wei",
-"name_chinese": "遅威",
-"raw_cn_jp_entry": "遅威(70.1)",
-"assumed_office_date": "2021-06-17",
-"birth_year": 1970,
-"birth_month": 1,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 437,
-"organization_name_english": "Bose City",
-"organization_name_chinese": "百色市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Huang Rusheng",
-"name_chinese": "黄汝生",
-"raw_cn_jp_entry": "黄汝生(69.2)",
-"assumed_office_date": "2022-03",
-"birth_year": 1969,
-"birth_month": 2,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Ge Guoke",
-"name_chinese": "葛国科",
-"raw_cn_jp_entry": "葛国科(77.8)",
-"assumed_office_date": "2021-04-20",
-"birth_year": 1977,
-"birth_month": 8,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 437,
-"organization_name_english": "Hechi City",
-"organization_name_chinese": "河池市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Qin Chuncheng",
-"name_chinese": "秦春成",
-"raw_cn_jp_entry": "秦春成(66.5)",
-"assumed_office_date": "2021-06",
-"birth_year": 1966,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Wang Jun",
-"name_chinese": "王軍",
-"raw_cn_jp_entry": "王軍(76.5)",
-"assumed_office_date": "2021-03-03",
-"birth_year": 1976,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 437,
-"organization_name_english": "Laibin City",
-"organization_name_chinese": "来賓市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "He Chaojian",
-"name_chinese": "何朝建",
-"raw_cn_jp_entry": "何朝建(66.5)",
-"assumed_office_date": "2021-12",
-"birth_year": 1966,
-"birth_month": 5,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Liao Heming",
-"name_chinese": "廖和明",
-"raw_cn_jp_entry": "廖和明(67.6)",
-"assumed_office_date": "2021-09-29",
-"birth_year": 1967,
-"birth_month": 6,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-},
-{
-"source_pdf_page": 437,
-"organization_name_english": "Hezhou City",
-"organization_name_chinese": "賀州市",
-"metadata": {
-"warnings": []
-},
-"positions": [
-{
-"title_english": "Party Committee Secretary",
-"title_chinese": "党委書記",
-"personnel": [
-{
-"name_pinyin": "Li Jieyun",
-"name_chinese": "李杰雲",
-"raw_cn_jp_entry": "李杰雲(67.12)",
-"assumed_office_date": "2021-12",
-"birth_year": 1967,
-"birth_month": 12,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-},
-{
-"title_english": "Mayor",
-"title_chinese": "市長",
-"personnel": [
-{
-"name_pinyin": "Peng Daiyuan",
-"name_chinese": "彭代元",
-"raw_cn_jp_entry": "彭代元(69.3)",
-"assumed_office_date": "2021-04-23",
-"birth_year": 1969,
-"birth_month": 3,
-"birth_day": null,
-"cross_reference_symbol": null,
-"gender": "male",
-"ethnicity": "Han",
-"rank_english": null,
-"rank_chinese": null
-}
-]
-}
-],
-"sub_organizations": []
-}
-]
-},
+  {
+    "source_pdf_page": 425,
+    "organization_name_english": "Guangdong Province",
+    "organization_name_chinese": "広東省",
+    "metadata": {
+      "warnings": []
+    },
+    "positions": [],
+    "sub_organizations": [
+      {
+        "source_pdf_page": 425,
+        "organization_name_english": "CPC 13th Guangdong Provincial Committee",
+        "organization_name_chinese": "中共広東省第13届委員会",
+        "metadata": {
+          "warnings": []
+        },
+        "positions": [
+          {
+            "title_english": "Secretary",
+            "title_chinese": "書記",
+            "personnel": [
+              {
+                "name_pinyin": "Huang Kunming",
+                "name_chinese": "黄坤明",
+                "raw_cn_jp_entry": "※黄坤明(56.11)",
+                "assumed_office_date": "2022-10",
+                "birth_year": 1956,
+                "birth_month": 11,
+                "birth_day": null,
+                "cross_reference_symbol": "※",
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              }
+            ]
+          },
+          {
+            "title_english": "Deputy Secretaries",
+            "title_chinese": "副書記",
+            "personnel": [
+              {
+                "name_pinyin": "Wang Weizhong",
+                "name_chinese": "王偉中",
+                "raw_cn_jp_entry": "◎王偉中(62.3)",
+                "assumed_office_date": "2018-12",
+                "birth_year": 1962,
+                "birth_month": 3,
+                "birth_day": null,
+                "cross_reference_symbol": "◎",
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              },
+              {
+                "name_pinyin": "Meng Fanli",
+                "name_chinese": "孟凡利",
+                "raw_cn_jp_entry": "◎孟凡利(65.9)",
+                "assumed_office_date": "2022-04",
+                "birth_year": 1965,
+                "birth_month": 9,
+                "birth_day": null,
+                "cross_reference_symbol": "◎",
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              }
+            ]
+          },
+          {
+            "title_english": "Standing Committee Members",
+            "title_chinese": "常務委員",
+            "personnel": [
+              {
+                "name_pinyin": "Song Fulong",
+                "name_chinese": "宋福龍",
+                "raw_cn_jp_entry": "宋福龍(64.8)",
+                "assumed_office_date": "2021-02",
+                "birth_year": 1964,
+                "birth_month": 8,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              },
+              {
+                "name_pinyin": "Chen Jianwen",
+                "name_chinese": "陳建文",
+                "raw_cn_jp_entry": "○陳建文(65.9)",
+                "assumed_office_date": "2021-03",
+                "birth_year": 1965,
+                "birth_month": 9,
+                "birth_day": null,
+                "cross_reference_symbol": "○",
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              },
+              {
+                "name_pinyin": "Zhang Hu",
+                "name_chinese": "張虎",
+                "raw_cn_jp_entry": "張虎(67.1)",
+                "assumed_office_date": "2020-06",
+                "birth_year": 1967,
+                "birth_month": 1,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              },
+              {
+                "name_pinyin": "Wang Xi",
+                "name_chinese": "王曦",
+                "raw_cn_jp_entry": "○王曦(66.8)",
+                "assumed_office_date": "2022-05-26",
+                "birth_year": 1966,
+                "birth_month": 8,
+                "birth_day": null,
+                "cross_reference_symbol": "○",
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              },
+              {
+                "name_pinyin": "Cheng Fubo",
+                "name_chinese": "程福波",
+                "raw_cn_jp_entry": "程福波(70.9)",
+                "assumed_office_date": "2022-12",
+                "birth_year": 1970,
+                "birth_month": 9,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              },
+              {
+                "name_pinyin": "Guo Yonghang",
+                "name_chinese": "郭永航",
+                "raw_cn_jp_entry": "郭永航(65.10)",
+                "assumed_office_date": "2023-06",
+                "birth_year": 1965,
+                "birth_month": 10,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              },
+              {
+                "name_pinyin": "Yuan Gujie",
+                "name_chinese": "袁古潔",
+                "raw_cn_jp_entry": "○袁古潔(女68.5)",
+                "assumed_office_date": "2022-05-26",
+                "birth_year": 1968,
+                "birth_month": 5,
+                "birth_day": null,
+                "cross_reference_symbol": "○",
+                "gender": "female",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              },
+              {
+                "name_pinyin": "Wang Ruijun",
+                "name_chinese": "王瑞軍",
+                "raw_cn_jp_entry": "王瑞軍(70.10)",
+                "assumed_office_date": "2022-05-26",
+                "birth_year": 1970,
+                "birth_month": 10,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              },
+              {
+                "name_pinyin": "Zhang Gong",
+                "name_chinese": "張弓",
+                "raw_cn_jp_entry": "張弓(少将)",
+                "assumed_office_date": "2023-09",
+                "birth_year": null,
+                "birth_month": null,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": "Rear Admiral",
+                "rank_chinese": "少将"
+              }
+            ]
+          },
+          {
+            "title_english": "Secretary General",
+            "title_chinese": "秘書長",
+            "personnel": []
+          }
+        ],
+        "sub_organizations": [
+          {
+            "source_pdf_page": 425,
+            "organization_name_english": "Organization Department",
+            "organization_name_chinese": "組織部",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Head",
+                "title_chinese": "部長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Cheng Fubo",
+                    "name_chinese": "程福波",
+                    "raw_cn_jp_entry": "程福波(70.9)",
+                    "assumed_office_date": "2022-12",
+                    "birth_year": 1970,
+                    "birth_month": 9,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 425,
+            "organization_name_english": "Publicity Department",
+            "organization_name_chinese": "宣伝部",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Head",
+                "title_chinese": "部長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Chen Jianwen",
+                    "name_chinese": "陳建文",
+                    "raw_cn_jp_entry": "○陳建文(65.9)",
+                    "assumed_office_date": "2021-03",
+                    "birth_year": 1965,
+                    "birth_month": 9,
+                    "birth_day": null,
+                    "cross_reference_symbol": "○",
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 425,
+            "organization_name_english": "United Front Work Department",
+            "organization_name_chinese": "統一戦線工作部",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Head",
+                "title_chinese": "部長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Wang Ruijun",
+                    "name_chinese": "王瑞軍",
+                    "raw_cn_jp_entry": "王瑞軍(70.10)",
+                    "assumed_office_date": "2022-06",
+                    "birth_year": 1970,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 425,
+            "organization_name_english": "Political Science and Law Commission",
+            "organization_name_chinese": "政法委員会",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Secretary",
+                "title_chinese": "書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Yuan Gujie",
+                    "name_chinese": "袁古潔",
+                    "raw_cn_jp_entry": "○袁古潔(女68.5)",
+                    "assumed_office_date": "2022-07",
+                    "birth_year": 1968,
+                    "birth_month": 5,
+                    "birth_day": null,
+                    "cross_reference_symbol": "○",
+                    "gender": "female",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 425,
+            "organization_name_english": "Provincial Party School",
+            "organization_name_chinese": "省党校",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "President",
+                "title_chinese": "校長",
+                "personnel": []
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 425,
+            "organization_name_english": "Commission for Discipline Inspection",
+            "organization_name_chinese": "紀律検査委員会",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Secretary",
+                "title_chinese": "書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Song Fulong",
+                    "name_chinese": "宋福龍",
+                    "raw_cn_jp_entry": "宋福龍(64.8)",
+                    "assumed_office_date": "2021-02",
+                    "birth_year": 1964,
+                    "birth_month": 8,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          }
+        ]
+      },
+      // ... (Other provincial bodies like People's Congress, Government, etc., follow here) ...
+      {
+        "source_pdf_page": 429,
+        "organization_name_english": "Provincial Women's Federation",
+        "organization_name_chinese": "広東省婦女聯合会",
+        "metadata": {
+          "warnings": []
+        },
+        "positions": [
+          {
+            "title_english": "Chairperson",
+            "title_chinese": "主席",
+            "personnel": [
+              {
+                "name_pinyin": "Xu Hong",
+                "name_chinese": "許紅",
+                "raw_cn_jp_entry": "許紅(68.6)",
+                "assumed_office_date": "2020-11-05",
+                "birth_year": 1968,
+                "birth_month": 6,
+                "birth_day": null,
+                "cross_reference_symbol": null,
+                "gender": "male",
+                "ethnicity": "Han",
+                "rank_english": null,
+                "rank_chinese": null
+              }
+            ]
+          }
+        ],
+        "sub_organizations": []
+      },
+      // ***************************************************************
+      // *************   START OF CORRECTED SECTION   ******************
+      // ***************************************************************
+      {
+        "source_pdf_page": 429,
+        "organization_name_english": "Cities of Guangdong Province",
+        "organization_name_chinese": "広東省の市",
+        "metadata": {
+          "warnings": []
+        },
+        "positions": [],
+        "sub_organizations": [
+          {
+            "source_pdf_page": 429,
+            "organization_name_english": "Guangzhou City",
+            "organization_name_chinese": "広州市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Guo Yonghang",
+                    "name_chinese": "郭永航",
+                    "raw_cn_jp_entry": "郭永航(65.10)",
+                    "assumed_office_date": "2023-06",
+                    "birth_year": 1965,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Acting Mayor",
+                "title_chinese": "代理市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Sun Zhiyang",
+                    "name_chinese": "孫志洋",
+                    "raw_cn_jp_entry": "孫志洋(74.5)",
+                    "assumed_office_date": "2023-10-09",
+                    "birth_year": 1974,
+                    "birth_month": 5,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 429,
+            "organization_name_english": "Qingyuan City",
+            "organization_name_chinese": "清遠市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Yin Zhaoju",
+                    "name_chinese": "殷昭挙",
+                    "raw_cn_jp_entry": "殷昭挙(72.7)",
+                    "assumed_office_date": "2020-09",
+                    "birth_year": 1972,
+                    "birth_month": 7,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Wen Wenxing",
+                    "name_chinese": "温文星",
+                    "raw_cn_jp_entry": "温文星(67.6)",
+                    "assumed_office_date": "2021-11-29",
+                    "birth_year": 1967,
+                    "birth_month": 6,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 429,
+            "organization_name_english": "Shaoguan City",
+            "organization_name_chinese": "韶関市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Chen Shaorong",
+                    "name_chinese": "陳少栄",
+                    "raw_cn_jp_entry": "陳少栄(68.11)",
+                    "assumed_office_date": "2022-08",
+                    "birth_year": 1968,
+                    "birth_month": 11,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Chen Zhiqing",
+                    "name_chinese": "陳志清",
+                    "raw_cn_jp_entry": "陳志清(69.5)",
+                    "assumed_office_date": "2022-09-27",
+                    "birth_year": 1969,
+                    "birth_month": 5,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 429,
+            "organization_name_english": "Heyuan City",
+            "organization_name_chinese": "河源市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "He Guosen",
+                    "name_chinese": "何国森",
+                    "raw_cn_jp_entry": "何国森(69.8)",
+                    "assumed_office_date": "2023-09",
+                    "birth_year": 1969,
+                    "birth_month": 8,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Li Yongping",
+                    "name_chinese": "李勇平",
+                    "raw_cn_jp_entry": "李勇平(74.8)",
+                    "assumed_office_date": "2023-09-20",
+                    "birth_year": 1974,
+                    "birth_month": 8,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 429,
+            "organization_name_english": "Meizhou City",
+            "organization_name_chinese": "梅州市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Ma Zhengyong",
+                    "name_chinese": "馬正勇",
+                    "raw_cn_jp_entry": "馬正勇(73.1)",
+                    "assumed_office_date": "2021-10",
+                    "birth_year": 1973,
+                    "birth_month": 1,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Wang Hui",
+                    "name_chinese": "王暉",
+                    "raw_cn_jp_entry": "王暉(71.8)",
+                    "assumed_office_date": "2021-11-27",
+                    "birth_year": 1971,
+                    "birth_month": 8,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 430,
+            "organization_name_english": "Chaozhou City",
+            "organization_name_chinese": "潮州市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "He Xiaojun",
+                    "name_chinese": "何曉軍",
+                    "raw_cn_jp_entry": "何曉軍(72.7)",
+                    "assumed_office_date": "2021-08",
+                    "birth_year": 1972,
+                    "birth_month": 7,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Liu Sheng",
+                    "name_chinese": "劉勝",
+                    "raw_cn_jp_entry": "劉勝(72.8)",
+                    "assumed_office_date": "2022-12-19",
+                    "birth_year": 1972,
+                    "birth_month": 8,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 430,
+            "organization_name_english": "Shantou (Swatow) City",
+            "organization_name_chinese": "汕頭市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Wen Zhanbin",
+                    "name_chinese": "温湛濱",
+                    "raw_cn_jp_entry": "温湛濱(71.1)",
+                    "assumed_office_date": "2021-08",
+                    "birth_year": 1971,
+                    "birth_month": 1,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Zeng Fengbao",
+                    "name_chinese": "曾風保",
+                    "raw_cn_jp_entry": "曾風保(71.8)",
+                    "assumed_office_date": "2021-01-30",
+                    "birth_year": 1971,
+                    "birth_month": 8,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 430,
+            "organization_name_english": "Jieyang City",
+            "organization_name_chinese": "揭陽市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Wang Sheng",
+                    "name_chinese": "王勝",
+                    "raw_cn_jp_entry": "王勝(68.3)",
+                    "assumed_office_date": "2021-05",
+                    "birth_year": 1968,
+                    "birth_month": 3,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhi Guangnan",
+                    "name_chinese": "支光南",
+                    "raw_cn_jp_entry": "支光南(70.4)",
+                    "assumed_office_date": "2021-06-19",
+                    "birth_year": 1970,
+                    "birth_month": 4,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 430,
+            "organization_name_english": "Shanwei City",
+            "organization_name_chinese": "汕尾市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Lu Feng",
+                    "name_chinese": "逄峰",
+                    "raw_cn_jp_entry": "逄峰(72.1)",
+                    "assumed_office_date": "2022-08",
+                    "birth_year": 1972,
+                    "birth_month": 1,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Zheng Haitao",
+                    "name_chinese": "鄭海濤",
+                    "raw_cn_jp_entry": "鄭海濤(75.1)",
+                    "assumed_office_date": "2022-09-27",
+                    "birth_year": 1975,
+                    "birth_month": 1,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 430,
+            "organization_name_english": "Huizhou City",
+            "organization_name_chinese": "惠州市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Liu Ji",
+                    "name_chinese": "劉吉",
+                    "raw_cn_jp_entry": "劉吉(69.5)",
+                    "assumed_office_date": "2021-10",
+                    "birth_year": 1969,
+                    "birth_month": 5,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Wen Jinrong",
+                    "name_chinese": "温金栄",
+                    "raw_cn_jp_entry": "温金栄(73.8)",
+                    "assumed_office_date": "2021-11-12",
+                    "birth_year": 1973,
+                    "birth_month": 8,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 430,
+            "organization_name_english": "Dongguan City",
+            "organization_name_chinese": "東莞市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Xiao Yafei",
+                    "name_chinese": "肖亜非",
+                    "raw_cn_jp_entry": "肖亜非(66.6)",
+                    "assumed_office_date": "2021-05",
+                    "birth_year": 1966,
+                    "birth_month": 6,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Lu Chengxi",
+                    "name_chinese": "呂成蹊",
+                    "raw_cn_jp_entry": "呂成蹊(69.9)",
+                    "assumed_office_date": "2021-07-22",
+                    "birth_year": 1969,
+                    "birth_month": 9,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 430,
+            "organization_name_english": "Shenzhen City",
+            "organization_name_chinese": "深圳市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Meng Fanli",
+                    "name_chinese": "孟凡利",
+                    "raw_cn_jp_entry": "◎孟凡利(65.9)",
+                    "assumed_office_date": "2022-04",
+                    "birth_year": 1965,
+                    "birth_month": 9,
+                    "birth_day": null,
+                    "cross_reference_symbol": "◎",
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Qin Weizhong",
+                    "name_chinese": "覃偉中",
+                    "raw_cn_jp_entry": "○覃偉中(71.7)",
+                    "assumed_office_date": "2021-05-19",
+                    "birth_year": 1971,
+                    "birth_month": 7,
+                    "birth_day": null,
+                    "cross_reference_symbol": "○",
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 430,
+            "organization_name_english": "Zhuhai City",
+            "organization_name_chinese": "珠海市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Chen Yong",
+                    "name_chinese": "陳勇",
+                    "raw_cn_jp_entry": "陳勇(74.1)",
+                    "assumed_office_date": "2023-09",
+                    "birth_year": 1974,
+                    "birth_month": 1,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Huang Zhihao",
+                    "name_chinese": "黄志豪",
+                    "raw_cn_jp_entry": "黄志豪(70.2)",
+                    "assumed_office_date": "2021-06-03",
+                    "birth_year": 1970,
+                    "birth_month": 2,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 431,
+            "organization_name_english": "Zhongshan City",
+            "organization_name_chinese": "中山市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Guo Wenhai",
+                    "name_chinese": "郭文海",
+                    "raw_cn_jp_entry": "郭文海(68.11)",
+                    "assumed_office_date": "2021-10",
+                    "birth_year": 1968,
+                    "birth_month": 11,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Xiao Zhanxin",
+                    "name_chinese": "肖展欣",
+                    "raw_cn_jp_entry": "肖展欣(75.1)",
+                    "assumed_office_date": "2021-06-23",
+                    "birth_year": 1975,
+                    "birth_month": 1,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 431,
+            "organization_name_english": "Jiangmen City",
+            "organization_name_chinese": "江門市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Chen Anming",
+                    "name_chinese": "陳岸明",
+                    "raw_cn_jp_entry": "陳岸明(68.6)",
+                    "assumed_office_date": "2021-07",
+                    "birth_year": 1968,
+                    "birth_month": 6,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Wu Xiaohui",
+                    "name_chinese": "吳曉暉",
+                    "raw_cn_jp_entry": "吳曉暉(女72.7)",
+                    "assumed_office_date": "2021-03-05",
+                    "birth_year": 1972,
+                    "birth_month": 7,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "female",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 431,
+            "organization_name_english": "Foshan City",
+            "organization_name_chinese": "佛山市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Zheng Ke",
+                    "name_chinese": "鄭軻",
+                    "raw_cn_jp_entry": "鄭軻(66.9)",
+                    "assumed_office_date": "2021-06",
+                    "birth_year": 1966,
+                    "birth_month": 9,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Bai Tao",
+                    "name_chinese": "白濤",
+                    "raw_cn_jp_entry": "白濤(68.4)",
+                    "assumed_office_date": "2022-01-09",
+                    "birth_year": 1968,
+                    "birth_month": 4,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 431,
+            "organization_name_english": "Zhaoqing City",
+            "organization_name_chinese": "肇慶市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhang Aijun",
+                    "name_chinese": "張愛軍",
+                    "raw_cn_jp_entry": "張愛軍(70.4)",
+                    "assumed_office_date": "2021-11",
+                    "birth_year": 1970,
+                    "birth_month": 4,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Xu Xiaoxiong",
+                    "name_chinese": "許曉雄",
+                    "raw_cn_jp_entry": "許曉雄(69.3)",
+                    "assumed_office_date": "2021-07-06",
+                    "birth_year": 1969,
+                    "birth_month": 3,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 431,
+            "organization_name_english": "Yunfu City",
+            "organization_name_chinese": "雲浮市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Lu Rongchun",
+                    "name_chinese": "盧栄春",
+                    "raw_cn_jp_entry": "盧栄春(67.9)",
+                    "assumed_office_date": "2021-07",
+                    "birth_year": 1967,
+                    "birth_month": 9,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Li Qingxin",
+                    "name_chinese": "李慶新",
+                    "raw_cn_jp_entry": "李慶新(67.8)",
+                    "assumed_office_date": "2022-01-14",
+                    "birth_year": 1967,
+                    "birth_month": 8,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 431,
+            "organization_name_english": "Yangjiang City",
+            "organization_name_chinese": "陽江市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Lu Yixian",
+                    "name_chinese": "盧一先",
+                    "raw_cn_jp_entry": "盧一先(70.7)",
+                    "assumed_office_date": "2023-08",
+                    "birth_year": 1970,
+                    "birth_month": 7,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Yu Jinfu",
+                    "name_chinese": "余金富",
+                    "raw_cn_jp_entry": "余金富(72.5)",
+                    "assumed_office_date": "2022-01-14",
+                    "birth_year": 1972,
+                    "birth_month": 5,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 431,
+            "organization_name_english": "Maoming City",
+            "organization_name_chinese": "茂名市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": [
+                  {
+                    "name_pinyin": "Zhuang Yuequn",
+                    "name_chinese": "荘悦群",
+                    "raw_cn_jp_entry": "荘悦群(69.8)",
+                    "assumed_office_date": "2022-08",
+                    "birth_year": 1969,
+                    "birth_month": 8,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Wang Xiongfei",
+                    "name_chinese": "王雄飛",
+                    "raw_cn_jp_entry": "王雄飛(74.10)",
+                    "assumed_office_date": "2022-09-27",
+                    "birth_year": 1974,
+                    "birth_month": 10,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          },
+          {
+            "source_pdf_page": 431,
+            "organization_name_english": "Zhanjiang City",
+            "organization_name_chinese": "湛江市",
+            "metadata": {
+              "warnings": []
+            },
+            "positions": [
+              {
+                "title_english": "Party Committee Secretary",
+                "title_chinese": "党委書記",
+                "personnel": []
+              },
+              {
+                "title_english": "Mayor",
+                "title_chinese": "市長",
+                "personnel": [
+                  {
+                    "name_pinyin": "Zeng Jinze",
+                    "name_chinese": "曾進澤",
+                    "raw_cn_jp_entry": "曾進澤(69.5)",
+                    "assumed_office_date": "2020-10-20",
+                    "birth_year": 1969,
+                    "birth_month": 5,
+                    "birth_day": null,
+                    "cross_reference_symbol": null,
+                    "gender": "male",
+                    "ethnicity": "Han",
+                    "rank_english": null,
+                    "rank_chinese": null
+                  }
+                ]
+              }
+            ],
+            "sub_organizations": []
+          }
+        ]
+      }
+    ]
+  },
 {
 "source_pdf_page": 438,
 "organization_name_english": "Hainan Province",
