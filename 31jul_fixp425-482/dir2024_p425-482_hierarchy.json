@@ -1,0 +1,3186 @@
+{
+  "organization_name_english": "Local Organizations",
+  "organization_name_chinese": "地方組織",
+  "source_pdf_page": 425,
+  "sub_organizations": {
+    "Guangdong Province": {
+      "organization_name_english": "Guangdong Province",
+      "organization_name_chinese": "広東省",
+      "source_pdf_page": 425,
+      "sub_organizations": {
+        "CPC 13th Guangdong Provincial Committee": {
+          "organization_name_english": "CPC 13th Guangdong Provincial Committee",
+          "organization_name_chinese": "中共広東省第13届委員会",
+          "source_pdf_page": 425,
+          "sub_organizations": {
+            "Commission for Discipline Inspection": {
+              "organization_name_english": "Commission for Discipline Inspection",
+              "organization_name_chinese": "紀律検査委員会",
+              "source_pdf_page": 425,
+              "sub_organizations": {}
+            },
+            "Organization Department": {
+              "organization_name_english": "Organization Department",
+              "organization_name_chinese": "組織部",
+              "source_pdf_page": 425,
+              "sub_organizations": {}
+            },
+            "Publicity Department": {
+              "organization_name_english": "Publicity Department",
+              "organization_name_chinese": "宣伝部",
+              "source_pdf_page": 425,
+              "sub_organizations": {}
+            },
+            "United Front Work Department": {
+              "organization_name_english": "United Front Work Department",
+              "organization_name_chinese": "統一戦線工作部",
+              "source_pdf_page": 425,
+              "sub_organizations": {}
+            },
+            "Political Science and Law Commission": {
+              "organization_name_english": "Political Science and Law Commission",
+              "organization_name_chinese": "政法委員会",
+              "source_pdf_page": 425,
+              "sub_organizations": {}
+            },
+            "Provincial Party School": {
+              "organization_name_english": "Provincial Party School",
+              "organization_name_chinese": "省党校",
+              "source_pdf_page": 425,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "Guangdong Provincial 14th People's Congress": {
+          "organization_name_english": "Guangdong Provincial 14th People's Congress",
+          "organization_name_chinese": "広東省第14届人民代表大会",
+          "source_pdf_page": 426,
+          "sub_organizations": {}
+        },
+        "Provincial Supervision Commission": {
+          "organization_name_english": "Provincial Supervision Commission",
+          "organization_name_chinese": "広東省監察委員会",
+          "source_pdf_page": 426,
+          "sub_organizations": {}
+        },
+        "Provincial Higher People's Court": {
+          "organization_name_english": "Provincial Higher People's Court",
+          "organization_name_chinese": "広東省高級人民法院",
+          "source_pdf_page": 426,
+          "sub_organizations": {}
+        },
+        "Provincial People's Procuratorate": {
+          "organization_name_english": "Provincial People's Procuratorate",
+          "organization_name_chinese": "広東省人民検察院",
+          "source_pdf_page": 426,
+          "sub_organizations": {}
+        },
+        "Guangdong Provincial People's Government": {
+          "organization_name_english": "Guangdong Provincial People's Government",
+          "organization_name_chinese": "広東省人民政府",
+          "source_pdf_page": 426,
+          "sub_organizations": {
+            "Taiwan Affairs Office": {
+              "organization_name_english": "Taiwan Affairs Office",
+              "organization_name_chinese": "台湾事務辦公室",
+              "source_pdf_page": 426,
+              "sub_organizations": {}
+            },
+            "Foreign Affairs Office": {
+              "organization_name_english": "Foreign Affairs Office",
+              "organization_name_chinese": "外事辦公室",
+              "source_pdf_page": 426,
+              "sub_organizations": {}
+            },
+            "Development and Reform Commission": {
+              "organization_name_english": "Development and Reform Commission",
+              "organization_name_chinese": "発展和改革委員会",
+              "source_pdf_page": 426,
+              "sub_organizations": {}
+            },
+            "Industry & Information Technology Department": {
+              "organization_name_english": "Industry & Information Technology Department",
+              "organization_name_chinese": "工業和信息化庁",
+              "source_pdf_page": 427,
+              "sub_organizations": {}
+            },
+            "Education Department": {
+              "organization_name_english": "Education Department",
+              "organization_name_chinese": "教育庁",
+              "source_pdf_page": 427,
+              "sub_organizations": {}
+            },
+            "Science and Technology Department": {
+              "organization_name_english": "Science and Technology Department",
+              "organization_name_chinese": "科学技術庁",
+              "source_pdf_page": 427,
+              "sub_organizations": {}
+            },
+            "Ethnic and Religious Affairs Commission": {
+              "organization_name_english": "Ethnic and Religious Affairs Commission",
+              "organization_name_chinese": "民族宗教事務委員会",
+              "source_pdf_page": 427,
+              "sub_organizations": {}
+            },
+            "Public Security Department": {
+              "organization_name_english": "Public Security Department",
+              "organization_name_chinese": "公安庁",
+              "source_pdf_page": 427,
+              "sub_organizations": {}
+            },
+            "State Security Department": {
+              "organization_name_english": "State Security Department",
+              "organization_name_chinese": "国家安全庁",
+              "source_pdf_page": 427,
+              "sub_organizations": {}
+            },
+            "Civil Affairs Department": {
+              "organization_name_english": "Civil Affairs Department",
+              "organization_name_chinese": "民政庁",
+              "source_pdf_page": 427,
+              "sub_organizations": {}
+            },
+            "Justice Department": {
+              "organization_name_english": "Justice Department",
+              "organization_name_chinese": "司法庁",
+              "source_pdf_page": 427,
+              "sub_organizations": {}
+            },
+            "Finance Department": {
+              "organization_name_english": "Finance Department",
+              "organization_name_chinese": "財政庁",
+              "source_pdf_page": 427,
+              "sub_organizations": {}
+            },
+            "Human Resources & Social Security Department": {
+              "organization_name_english": "Human Resources & Social Security Department",
+              "organization_name_chinese": "人力資源和社会保障庁",
+              "source_pdf_page": 427,
+              "sub_organizations": {}
+            },
+            "Natural Resources Department": {
+              "organization_name_english": "Natural Resources Department",
+              "organization_name_chinese": "自然資源庁",
+              "source_pdf_page": 427,
+              "sub_organizations": {}
+            },
+            "Ecology and Environment Department": {
+              "organization_name_english": "Ecology and Environment Department",
+              "organization_name_chinese": "生態環境庁",
+              "source_pdf_page": 427,
+              "sub_organizations": {}
+            },
+            "Housing & Urban-Rural Development Department": {
+              "organization_name_english": "Housing & Urban-Rural Development Department",
+              "organization_name_chinese": "住房和城鄉建設庁",
+              "source_pdf_page": 427,
+              "sub_organizations": {}
+            },
+            "Transport Department": {
+              "organization_name_english": "Transport Department",
+              "organization_name_chinese": "交通運輸庁",
+              "source_pdf_page": 427,
+              "sub_organizations": {}
+            },
+            "Water Resources Department": {
+              "organization_name_english": "Water Resources Department",
+              "organization_name_chinese": "水利庁",
+              "source_pdf_page": 427,
+              "sub_organizations": {}
+            },
+            "Agriculture and Rural Affairs Department": {
+              "organization_name_english": "Agriculture and Rural Affairs Department",
+              "organization_name_chinese": "農業農村庁",
+              "source_pdf_page": 428,
+              "sub_organizations": {}
+            },
+            "Commercial Department": {
+              "organization_name_english": "Commercial Department",
+              "organization_name_chinese": "商務庁",
+              "source_pdf_page": 428,
+              "sub_organizations": {}
+            },
+            "Culture and Tourism Department": {
+              "organization_name_english": "Culture and Tourism Department",
+              "organization_name_chinese": "文化和旅遊庁",
+              "source_pdf_page": 428,
+              "sub_organizations": {}
+            },
+            "Health Commission": {
+              "organization_name_english": "Health Commission",
+              "organization_name_chinese": "衛生健康委員会",
+              "source_pdf_page": 428,
+              "sub_organizations": {}
+            },
+            "Veterans Affairs Department": {
+              "organization_name_english": "Veterans Affairs Department",
+              "organization_name_chinese": "退役軍人事務庁",
+              "source_pdf_page": 428,
+              "sub_organizations": {}
+            },
+            "Emergency Management Department": {
+              "organization_name_english": "Emergency Management Department",
+              "organization_name_chinese": "応急管理庁",
+              "source_pdf_page": 428,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "CPPCC 13th Guangdong Provincial Committee": {
+          "organization_name_english": "CPPCC 13th Guangdong Provincial Committee",
+          "organization_name_chinese": "政協広東省第13届委員会",
+          "source_pdf_page": 428,
+          "sub_organizations": {}
+        },
+        "PLA Guangdong Provincial Command": {
+          "organization_name_english": "PLA Guangdong Provincial Command",
+          "organization_name_chinese": "広東省軍区",
+          "source_pdf_page": 428,
+          "sub_organizations": {
+            "Guangzhou Garrison": {
+              "organization_name_english": "Guangzhou Garrison",
+              "organization_name_chinese": "広州警備区",
+              "source_pdf_page": 429,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "Provincial People's Armed Police Corps": {
+          "organization_name_english": "Provincial People's Armed Police Corps",
+          "organization_name_chinese": "人民武装警察部隊広東省総隊",
+          "source_pdf_page": 429,
+          "sub_organizations": {}
+        },
+        "Provincial Trade Union Council": {
+          "organization_name_english": "Provincial Trade Union Council",
+          "organization_name_chinese": "広東省総工会",
+          "source_pdf_page": 429,
+          "sub_organizations": {}
+        },
+        "CYL Provincial Committee": {
+          "organization_name_english": "CYL Provincial Committee",
+          "organization_name_chinese": "共青団広東省委員会",
+          "source_pdf_page": 429,
+          "sub_organizations": {}
+        },
+        "Provincial Women's Federation": {
+          "organization_name_english": "Provincial Women's Federation",
+          "organization_name_chinese": "広東省婦女聯合会",
+          "source_pdf_page": 429,
+          "sub_organizations": {}
+        },
+        "Guangzhou City": {
+          "organization_name_english": "Guangzhou City",
+          "organization_name_chinese": "広州市",
+          "source_pdf_page": 429,
+          "sub_organizations": {}
+        },
+        "Qingyuan City": {
+          "organization_name_english": "Qingyuan City",
+          "organization_name_chinese": "清遠市",
+          "source_pdf_page": 429,
+          "sub_organizations": {}
+        },
+        "Shaoguan City": {
+          "organization_name_english": "Shaoguan City",
+          "organization_name_chinese": "韶関市",
+          "source_pdf_page": 429,
+          "sub_organizations": {}
+        },
+        "Heyuan City": {
+          "organization_name_english": "Heyuan City",
+          "organization_name_chinese": "河源市",
+          "source_pdf_page": 429,
+          "sub_organizations": {}
+        },
+        "Meizhou City": {
+          "organization_name_english": "Meizhou City",
+          "organization_name_chinese": "梅州市",
+          "source_pdf_page": 429,
+          "sub_organizations": {}
+        },
+        "Chaozhou City": {
+          "organization_name_english": "Chaozhou City",
+          "organization_name_chinese": "潮州市",
+          "source_pdf_page": 430,
+          "sub_organizations": {}
+        },
+        "Shantou (Swatow) City": {
+          "organization_name_english": "Shantou (Swatow) City",
+          "organization_name_chinese": "汕頭市",
+          "source_pdf_page": 430,
+          "sub_organizations": {}
+        },
+        "Jieyang City": {
+          "organization_name_english": "Jieyang City",
+          "organization_name_chinese": "揭陽市",
+          "source_pdf_page": 430,
+          "sub_organizations": {}
+        },
+        "Shanwei City": {
+          "organization_name_english": "Shanwei City",
+          "organization_name_chinese": "汕尾市",
+          "source_pdf_page": 430,
+          "sub_organizations": {}
+        },
+        "Huizhou City": {
+          "organization_name_english": "Huizhou City",
+          "organization_name_chinese": "惠州市",
+          "source_pdf_page": 430,
+          "sub_organizations": {}
+        },
+        "Dongguan City": {
+          "organization_name_english": "Dongguan City",
+          "organization_name_chinese": "東莞市",
+          "source_pdf_page": 430,
+          "sub_organizations": {}
+        },
+        "Shenzhen City": {
+          "organization_name_english": "Shenzhen City",
+          "organization_name_chinese": "深圳市",
+          "source_pdf_page": 430,
+          "sub_organizations": {}
+        },
+        "Zhuhai City": {
+          "organization_name_english": "Zhuhai City",
+          "organization_name_chinese": "珠海市",
+          "source_pdf_page": 430,
+          "sub_organizations": {}
+        },
+        "Zhongshan City": {
+          "organization_name_english": "Zhongshan City",
+          "organization_name_chinese": "中山市",
+          "source_pdf_page": 431,
+          "sub_organizations": {}
+        },
+        "Jiangmen City": {
+          "organization_name_english": "Jiangmen City",
+          "organization_name_chinese": "江門市",
+          "source_pdf_page": 431,
+          "sub_organizations": {}
+        },
+        "Foshan City": {
+          "organization_name_english": "Foshan City",
+          "organization_name_chinese": "佛山市",
+          "source_pdf_page": 431,
+          "sub_organizations": {}
+        },
+        "Zhaoqing City": {
+          "organization_name_english": "Zhaoqing City",
+          "organization_name_chinese": "肇慶市",
+          "source_pdf_page": 431,
+          "sub_organizations": {}
+        },
+        "Yunfu City": {
+          "organization_name_english": "Yunfu City",
+          "organization_name_chinese": "雲浮市",
+          "source_pdf_page": 431,
+          "sub_organizations": {}
+        },
+        "Yangjiang City": {
+          "organization_name_english": "Yangjiang City",
+          "organization_name_chinese": "陽江市",
+          "source_pdf_page": 431,
+          "sub_organizations": {}
+        },
+        "Maoming City": {
+          "organization_name_english": "Maoming City",
+          "organization_name_chinese": "茂名市",
+          "source_pdf_page": 431,
+          "sub_organizations": {}
+        },
+        "Zhanjiang City": {
+          "organization_name_english": "Zhanjiang City",
+          "organization_name_chinese": "湛江市",
+          "source_pdf_page": 431,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "Guangxi Zhuang Autonomous Region": {
+      "organization_name_english": "Guangxi Zhuang Autonomous Region",
+      "organization_name_chinese": "広西壮族自治区",
+      "source_pdf_page": 432,
+      "sub_organizations": {
+        "CPC 12th Guangxi Zhuang Autonomous Regional Committee": {
+          "organization_name_english": "CPC 12th Guangxi Zhuang Autonomous Regional Committee",
+          "organization_name_chinese": "中共広西壮族自治区第12届委員会",
+          "source_pdf_page": 432,
+          "sub_organizations": {
+            "Commission for Discipline Inspection": {
+              "organization_name_english": "Commission for Discipline Inspection",
+              "organization_name_chinese": "紀律検査委員会",
+              "source_pdf_page": 432,
+              "sub_organizations": {}
+            },
+            "Organization Department": {
+              "organization_name_english": "Organization Department",
+              "organization_name_chinese": "組織部",
+              "source_pdf_page": 432,
+              "sub_organizations": {}
+            },
+            "Publicity Department": {
+              "organization_name_english": "Publicity Department",
+              "organization_name_chinese": "宣伝部",
+              "source_pdf_page": 432,
+              "sub_organizations": {}
+            },
+            "United Front Work Department": {
+              "organization_name_english": "United Front Work Department",
+              "organization_name_chinese": "統一戰線工作部",
+              "source_pdf_page": 432,
+              "sub_organizations": {}
+            },
+            "Political Science and Law Commission": {
+              "organization_name_english": "Political Science and Law Commission",
+              "organization_name_chinese": "政法委員会",
+              "source_pdf_page": 432,
+              "sub_organizations": {}
+            },
+            "Regional Party School": {
+              "organization_name_english": "Regional Party School",
+              "organization_name_chinese": "自治区党校",
+              "source_pdf_page": 432,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "Guangxi Zhuang Autonomous Regional 14th People's Congress": {
+          "organization_name_english": "Guangxi Zhuang Autonomous Regional 14th People's Congress",
+          "organization_name_chinese": "広西壮族自治区第14届人民代表大会",
+          "source_pdf_page": 433,
+          "sub_organizations": {}
+        },
+        "Regional Supervision Commission": {
+          "organization_name_english": "Regional Supervision Commission",
+          "organization_name_chinese": "広西壮族自治区監察委員会",
+          "source_pdf_page": 433,
+          "sub_organizations": {}
+        },
+        "Regional Higher People's Court": {
+          "organization_name_english": "Regional Higher People's Court",
+          "organization_name_chinese": "広西壮族自治区高級人民法院",
+          "source_pdf_page": 433,
+          "sub_organizations": {}
+        },
+        "Regional People's Procuratorate": {
+          "organization_name_english": "Regional People's Procuratorate",
+          "organization_name_chinese": "広西壮族自治区人民検察院",
+          "source_pdf_page": 433,
+          "sub_organizations": {}
+        },
+        "Guangxi Zhuang Autonomous Regional People's Government": {
+          "organization_name_english": "Guangxi Zhuang Autonomous Regional People's Government",
+          "organization_name_chinese": "広西壮族自治区人民政府",
+          "source_pdf_page": 433,
+          "sub_organizations": {
+            "Foreign Affairs Office": {
+              "organization_name_english": "Foreign Affairs Office",
+              "organization_name_chinese": "外事辦公室",
+              "source_pdf_page": 433,
+              "sub_organizations": {}
+            },
+            "Development and Reform Commission": {
+              "organization_name_english": "Development and Reform Commission",
+              "organization_name_chinese": "発展和改革委員会",
+              "source_pdf_page": 433,
+              "sub_organizations": {}
+            },
+            "Education Department": {
+              "organization_name_english": "Education Department",
+              "organization_name_chinese": "教育庁",
+              "source_pdf_page": 434,
+              "sub_organizations": {}
+            },
+            "Science and Technology Department": {
+              "organization_name_english": "Science and Technology Department",
+              "organization_name_chinese": "科学技術庁",
+              "source_pdf_page": 434,
+              "sub_organizations": {}
+            },
+            "Industry & Information Technology Department": {
+              "organization_name_english": "Industry & Information Technology Department",
+              "organization_name_chinese": "工業和信息化庁",
+              "source_pdf_page": 434,
+              "sub_organizations": {}
+            },
+            "Ethnic and Religious Affairs Commission": {
+              "organization_name_english": "Ethnic and Religious Affairs Commission",
+              "organization_name_chinese": "民族宗教事務委員会",
+              "source_pdf_page": 434,
+              "sub_organizations": {}
+            },
+            "Public Security Department": {
+              "organization_name_english": "Public Security Department",
+              "organization_name_chinese": "公安庁",
+              "source_pdf_page": 434,
+              "sub_organizations": {}
+            },
+            "State Security Department": {
+              "organization_name_english": "State Security Department",
+              "organization_name_chinese": "国家安全庁",
+              "source_pdf_page": 434,
+              "sub_organizations": {}
+            },
+            "Civil Affairs Department": {
+              "organization_name_english": "Civil Affairs Department",
+              "organization_name_chinese": "民政庁",
+              "source_pdf_page": 434,
+              "sub_organizations": {}
+            },
+            "Justice Department": {
+              "organization_name_english": "Justice Department",
+              "organization_name_chinese": "司法厅",
+              "source_pdf_page": 434,
+              "sub_organizations": {}
+            },
+            "Finance Department": {
+              "organization_name_english": "Finance Department",
+              "organization_name_chinese": "財政庁",
+              "source_pdf_page": 434,
+              "sub_organizations": {}
+            },
+            "Human Resources & Social Security Department": {
+              "organization_name_english": "Human Resources & Social Security Department",
+              "organization_name_chinese": "人力資源和社会保障厅",
+              "source_pdf_page": 434,
+              "sub_organizations": {}
+            },
+            "Natural Resources Department": {
+              "organization_name_english": "Natural Resources Department",
+              "organization_name_chinese": "自然資源庁",
+              "source_pdf_page": 434,
+              "sub_organizations": {}
+            },
+            "Ecology and Environment Department": {
+              "organization_name_english": "Ecology and Environment Department",
+              "organization_name_chinese": "生態環境庁",
+              "source_pdf_page": 434,
+              "sub_organizations": {}
+            },
+            "Housing & Urban-Rural Development Department": {
+              "organization_name_english": "Housing & Urban-Rural Development Department",
+              "organization_name_chinese": "住房和城鄉建設庁",
+              "source_pdf_page": 434,
+              "sub_organizations": {}
+            },
+            "Transport Department": {
+              "organization_name_english": "Transport Department",
+              "organization_name_chinese": "交通運輸庁",
+              "source_pdf_page": 434,
+              "sub_organizations": {}
+            },
+            "Forestry Department": {
+              "organization_name_english": "Forestry Department",
+              "organization_name_chinese": "林業庁",
+              "source_pdf_page": 434,
+              "sub_organizations": {}
+            },
+            "Water Resources Department": {
+              "organization_name_english": "Water Resources Department",
+              "organization_name_chinese": "水利庁",
+              "source_pdf_page": 435,
+              "sub_organizations": {}
+            },
+            "Agriculture and Rural Affairs Department": {
+              "organization_name_english": "Agriculture and Rural Affairs Department",
+              "organization_name_chinese": "農業農村庁",
+              "source_pdf_page": 435,
+              "sub_organizations": {}
+            },
+            "Commercial Department": {
+              "organization_name_english": "Commercial Department",
+              "organization_name_chinese": "商務庁",
+              "source_pdf_page": 435,
+              "sub_organizations": {}
+            },
+            "Culture and Tourism Department": {
+              "organization_name_english": "Culture and Tourism Department",
+              "organization_name_chinese": "文化和旅遊庁",
+              "source_pdf_page": 435,
+              "sub_organizations": {}
+            },
+            "Health Commission": {
+              "organization_name_english": "Health Commission",
+              "organization_name_chinese": "衛生健康委員会",
+              "source_pdf_page": 435,
+              "sub_organizations": {}
+            },
+            "Veterans Affairs Department": {
+              "organization_name_english": "Veterans Affairs Department",
+              "organization_name_chinese": "退役軍人事務庁",
+              "source_pdf_page": 435,
+              "sub_organizations": {}
+            },
+            "Emergency Management Department": {
+              "organization_name_english": "Emergency Management Department",
+              "organization_name_chinese": "応急管理庁",
+              "source_pdf_page": 435,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "CPPCC 13th Guangxi Zhuang Autonomous Regional Committee": {
+          "organization_name_english": "CPPCC 13th Guangxi Zhuang Autonomous Regional Committee",
+          "organization_name_chinese": "政協広西壮族自治区第13届委員会",
+          "source_pdf_page": 435,
+          "sub_organizations": {}
+        },
+        "PLA Guangxi Military Area Command": {
+          "organization_name_english": "PLA Guangxi Military Area Command",
+          "organization_name_chinese": "広西軍区",
+          "source_pdf_page": 435,
+          "sub_organizations": {
+            "Nanning Garrison": {
+              "organization_name_english": "Nanning Garrison",
+              "organization_name_chinese": "南寧警備区",
+              "source_pdf_page": 436,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "Regional People's Armed Police Corps": {
+          "organization_name_english": "Regional People's Armed Police Corps",
+          "organization_name_chinese": "人民武装警察部隊広西壮族自治区総隊",
+          "source_pdf_page": 436,
+          "sub_organizations": {}
+        },
+        "Regional Trade Union Council": {
+          "organization_name_english": "Regional Trade Union Council",
+          "organization_name_chinese": "広西壮族自治区総工会",
+          "source_pdf_page": 436,
+          "sub_organizations": {}
+        },
+        "CYL Regional Committee": {
+          "organization_name_english": "CYL Regional Committee",
+          "organization_name_chinese": "共青団広西壮族自治区委員会",
+          "source_pdf_page": 436,
+          "sub_organizations": {}
+        },
+        "Regional Women's Federation": {
+          "organization_name_english": "Regional Women's Federation",
+          "organization_name_chinese": "広西壮族自治区婦女聯合会",
+          "source_pdf_page": 436,
+          "sub_organizations": {}
+        },
+        "Nanning City": {
+          "organization_name_english": "Nanning City",
+          "organization_name_chinese": "南寧市",
+          "source_pdf_page": 436,
+          "sub_organizations": {}
+        },
+        "Guilin City": {
+          "organization_name_english": "Guilin City",
+          "organization_name_chinese": "桂林市",
+          "source_pdf_page": 436,
+          "sub_organizations": {}
+        },
+        "Liuzhou City": {
+          "organization_name_english": "Liuzhou City",
+          "organization_name_chinese": "柳州市",
+          "source_pdf_page": 436,
+          "sub_organizations": {}
+        },
+        "Wuzhou City": {
+          "organization_name_english": "Wuzhou City",
+          "organization_name_chinese": "梧州市",
+          "source_pdf_page": 436,
+          "sub_organizations": {}
+        },
+        "Guigang City": {
+          "organization_name_english": "Guigang City",
+          "organization_name_chinese": "貴港市",
+          "source_pdf_page": 436,
+          "sub_organizations": {}
+        },
+        "Yulin City": {
+          "organization_name_english": "Yulin City",
+          "organization_name_chinese": "玉林市",
+          "source_pdf_page": 437,
+          "sub_organizations": {}
+        },
+        "Qinzhou City": {
+          "organization_name_english": "Qinzhou City",
+          "organization_name_chinese": "欽州市",
+          "source_pdf_page": 437,
+          "sub_organizations": {}
+        },
+        "Beihai City": {
+          "organization_name_english": "Beihai City",
+          "organization_name_chinese": "北海市",
+          "source_pdf_page": 437,
+          "sub_organizations": {}
+        },
+        "Fangchenggang City": {
+          "organization_name_english": "Fangchenggang City",
+          "organization_name_chinese": "防城港市",
+          "source_pdf_page": 437,
+          "sub_organizations": {}
+        },
+        "Chongzuo City": {
+          "organization_name_english": "Chongzuo City",
+          "organization_name_chinese": "崇左市",
+          "source_pdf_page": 437,
+          "sub_organizations": {}
+        },
+        "Bose City": {
+          "organization_name_english": "Bose City",
+          "organization_name_chinese": "百色市",
+          "source_pdf_page": 437,
+          "sub_organizations": {}
+        },
+        "Hechi City": {
+          "organization_name_english": "Hechi City",
+          "organization_name_chinese": "河池市",
+          "source_pdf_page": 437,
+          "sub_organizations": {}
+        },
+        "Laibin City": {
+          "organization_name_english": "Laibin City",
+          "organization_name_chinese": "来賓市",
+          "source_pdf_page": 437,
+          "sub_organizations": {}
+        },
+        "Hezhou City": {
+          "organization_name_english": "Hezhou City",
+          "organization_name_chinese": "賀州市",
+          "source_pdf_page": 437,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "Hainan Province": {
+      "organization_name_english": "Hainan Province",
+      "organization_name_chinese": "海南省",
+      "source_pdf_page": 438,
+      "sub_organizations": {
+        "CPC 8th Hainan Provincial Committee": {
+          "organization_name_english": "CPC 8th Hainan Provincial Committee",
+          "organization_name_chinese": "中共海南省第8届委員会",
+          "source_pdf_page": 438,
+          "sub_organizations": {
+            "Commission for Discipline Inspection": {
+              "organization_name_english": "Commission for Discipline Inspection",
+              "organization_name_chinese": "紀律検査委員会",
+              "source_pdf_page": 438,
+              "sub_organizations": {}
+            },
+            "Organization Department": {
+              "organization_name_english": "Organization Department",
+              "organization_name_chinese": "組織部",
+              "source_pdf_page": 438,
+              "sub_organizations": {}
+            },
+            "Publicity Department": {
+              "organization_name_english": "Publicity Department",
+              "organization_name_chinese": "宣伝部",
+              "source_pdf_page": 438,
+              "sub_organizations": {}
+            },
+            "United Front Work Department": {
+              "organization_name_english": "United Front Work Department",
+              "organization_name_chinese": "統一戦線工作部",
+              "source_pdf_page": 438,
+              "sub_organizations": {}
+            },
+            "Political Science and Law Commission": {
+              "organization_name_english": "Political Science and Law Commission",
+              "organization_name_chinese": "政法委員会",
+              "source_pdf_page": 438,
+              "sub_organizations": {}
+            },
+            "Provincial Party School": {
+              "organization_name_english": "Provincial Party School",
+              "organization_name_chinese": "省党校",
+              "source_pdf_page": 438,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "Hainan Provincial 7th People's Congress": {
+          "organization_name_english": "Hainan Provincial 7th People's Congress",
+          "organization_name_chinese": "海南省第7届人民代表大会",
+          "source_pdf_page": 439,
+          "sub_organizations": {}
+        },
+        "Provincial Supervision Commission": {
+          "organization_name_english": "Provincial Supervision Commission",
+          "organization_name_chinese": "海南省監察委員会",
+          "source_pdf_page": 439,
+          "sub_organizations": {}
+        },
+        "Provincial Higher People's Court": {
+          "organization_name_english": "Provincial Higher People's Court",
+          "organization_name_chinese": "海南省高級人民法院",
+          "source_pdf_page": 439,
+          "sub_organizations": {}
+        },
+        "Provincial People's Procuratorate": {
+          "organization_name_english": "Provincial People's Procuratorate",
+          "organization_name_chinese": "海南省人民检察院",
+          "source_pdf_page": 439,
+          "sub_organizations": {}
+        },
+        "Hainan Provincial People's Government": {
+          "organization_name_english": "Hainan Provincial People's Government",
+          "organization_name_chinese": "海南省人民政府",
+          "source_pdf_page": 439,
+          "sub_organizations": {
+            "Foreign Affairs Office": {
+              "organization_name_english": "Foreign Affairs Office",
+              "organization_name_chinese": "外事辦公室",
+              "source_pdf_page": 439,
+              "sub_organizations": {}
+            },
+            "Development and Reform Commission": {
+              "organization_name_english": "Development and Reform Commission",
+              "organization_name_chinese": "発展和改革委員会",
+              "source_pdf_page": 439,
+              "sub_organizations": {}
+            },
+            "Business Environment Development Department": {
+              "organization_name_english": "Business Environment Development Department",
+              "organization_name_chinese": "営商環境建設庁",
+              "source_pdf_page": 440,
+              "sub_organizations": {}
+            },
+            "Education Department": {
+              "organization_name_english": "Education Department",
+              "organization_name_chinese": "教育庁",
+              "source_pdf_page": 440,
+              "sub_organizations": {}
+            },
+            "Health Commission": {
+              "organization_name_english": "Health Commission",
+              "organization_name_chinese": "衛生健康委員会",
+              "source_pdf_page": 440,
+              "sub_organizations": {}
+            },
+            "Science and Technology Department": {
+              "organization_name_english": "Science and Technology Department",
+              "organization_name_chinese": "科学技術庁",
+              "source_pdf_page": 440,
+              "sub_organizations": {}
+            },
+            "Industry & Information Technology Department": {
+              "organization_name_english": "Industry & Information Technology Department",
+              "organization_name_chinese": "工業和信息化庁",
+              "source_pdf_page": 440,
+              "sub_organizations": {}
+            },
+            "Ethnic and Religious Affairs Commission": {
+              "organization_name_english": "Ethnic and Religious Affairs Commission",
+              "organization_name_chinese": "民族宗教事務委員会",
+              "source_pdf_page": 440,
+              "sub_organizations": {}
+            },
+            "Public Security Department": {
+              "organization_name_english": "Public Security Department",
+              "organization_name_chinese": "公安庁",
+              "source_pdf_page": 440,
+              "sub_organizations": {}
+            },
+            "State Security Department": {
+              "organization_name_english": "State Security Department",
+              "organization_name_chinese": "国家安全厅",
+              "source_pdf_page": 440,
+              "sub_organizations": {}
+            },
+            "Civil Affairs Department": {
+              "organization_name_english": "Civil Affairs Department",
+              "organization_name_chinese": "民政庁",
+              "source_pdf_page": 440,
+              "sub_organizations": {}
+            },
+            "Justice Department": {
+              "organization_name_english": "Justice Department",
+              "organization_name_chinese": "司法厅",
+              "source_pdf_page": 440,
+              "sub_organizations": {}
+            },
+            "Finance Department": {
+              "organization_name_english": "Finance Department",
+              "organization_name_chinese": "財政庁",
+              "source_pdf_page": 440,
+              "sub_organizations": {}
+            },
+            "Human Resources & Social Security Department": {
+              "organization_name_english": "Human Resources & Social Security Department",
+              "organization_name_chinese": "人力資源和社会保障庁",
+              "source_pdf_page": 440,
+              "sub_organizations": {}
+            },
+            "Natural Resources and Planning Department": {
+              "organization_name_english": "Natural Resources and Planning Department",
+              "organization_name_chinese": "自然資源和規画庁",
+              "source_pdf_page": 440,
+              "sub_organizations": {}
+            },
+            "Ecology and Environment Department": {
+              "organization_name_english": "Ecology and Environment Department",
+              "organization_name_chinese": "生態環境庁",
+              "source_pdf_page": 440,
+              "sub_organizations": {}
+            },
+            "Housing & Urban-Rural Development Department": {
+              "organization_name_english": "Housing & Urban-Rural Development Department",
+              "organization_name_chinese": "住房和城鄉建設庁",
+              "source_pdf_page": 441,
+              "sub_organizations": {}
+            },
+            "Transport Department": {
+              "organization_name_english": "Transport Department",
+              "organization_name_chinese": "交通運輸庁",
+              "source_pdf_page": 441,
+              "sub_organizations": {}
+            },
+            "Water Affairs Department": {
+              "organization_name_english": "Water Affairs Department",
+              "organization_name_chinese": "水務庁",
+              "source_pdf_page": 441,
+              "sub_organizations": {}
+            },
+            "Forestry Department": {
+              "organization_name_english": "Forestry Department",
+              "organization_name_chinese": "林業庁",
+              "source_pdf_page": 441,
+              "sub_organizations": {}
+            },
+            "Agriculture and Rural Affairs Department": {
+              "organization_name_english": "Agriculture and Rural Affairs Department",
+              "organization_name_chinese": "農業農村庁",
+              "source_pdf_page": 441,
+              "sub_organizations": {}
+            },
+            "Commercial Department": {
+              "organization_name_english": "Commercial Department",
+              "organization_name_chinese": "商務庁",
+              "source_pdf_page": 441,
+              "sub_organizations": {}
+            },
+            "Tourism, Culture, Radio, TV & Sports Department": {
+              "organization_name_english": "Tourism, Culture, Radio, TV & Sports Department",
+              "organization_name_chinese": "旅遊和文化広電体育庁",
+              "source_pdf_page": 441,
+              "sub_organizations": {}
+            },
+            "Veterans Affairs Department": {
+              "organization_name_english": "Veterans Affairs Department",
+              "organization_name_chinese": "退役軍人事務庁",
+              "source_pdf_page": 441,
+              "sub_organizations": {}
+            },
+            "Emergency Management Department": {
+              "organization_name_english": "Emergency Management Department",
+              "organization_name_chinese": "応急管理庁",
+              "source_pdf_page": 441,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "CPPCC 8th Hainan Provincial Committee": {
+          "organization_name_english": "CPPCC 8th Hainan Provincial Committee",
+          "organization_name_chinese": "政協海南省第8届委員会",
+          "source_pdf_page": 441,
+          "sub_organizations": {}
+        },
+        "PLA Hainan Provincial Command": {
+          "organization_name_english": "PLA Hainan Provincial Command",
+          "organization_name_chinese": "海南省軍区",
+          "source_pdf_page": 442,
+          "sub_organizations": {
+            "Haikou Garrison": {
+              "organization_name_english": "Haikou Garrison",
+              "organization_name_chinese": "海口警備区",
+              "source_pdf_page": 442,
+              "sub_organizations": {}
+            },
+            "Sansha Garrison": {
+              "organization_name_english": "Sansha Garrison",
+              "organization_name_chinese": "三沙警備区",
+              "source_pdf_page": 442,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "Provincial People's Armed Police Corps": {
+          "organization_name_english": "Provincial People's Armed Police Corps",
+          "organization_name_chinese": "人民武装警察部隊海南省総隊",
+          "source_pdf_page": 442,
+          "sub_organizations": {}
+        },
+        "Provincial Trade Union Council": {
+          "organization_name_english": "Provincial Trade Union Council",
+          "organization_name_chinese": "海南省総工会",
+          "source_pdf_page": 442,
+          "sub_organizations": {}
+        },
+        "CYL Provincial Committee": {
+          "organization_name_english": "CYL Provincial Committee",
+          "organization_name_chinese": "共青团海南省委員会",
+          "source_pdf_page": 442,
+          "sub_organizations": {}
+        },
+        "Provincial Women's Federation": {
+          "organization_name_english": "Provincial Women's Federation",
+          "organization_name_chinese": "海南省婦女聯合会",
+          "source_pdf_page": 442,
+          "sub_organizations": {}
+        },
+        "Haikou City": {
+          "organization_name_english": "Haikou City",
+          "organization_name_chinese": "海口市",
+          "source_pdf_page": 442,
+          "sub_organizations": {}
+        },
+        "Sanya City": {
+          "organization_name_english": "Sanya City",
+          "organization_name_chinese": "三亜市",
+          "source_pdf_page": 443,
+          "sub_organizations": {}
+        },
+        "Wenchang City": {
+          "organization_name_english": "Wenchang City",
+          "organization_name_chinese": "文昌市",
+          "source_pdf_page": 443,
+          "sub_organizations": {}
+        },
+        "Qionghai City": {
+          "organization_name_english": "Qionghai City",
+          "organization_name_chinese": "瓊海市",
+          "source_pdf_page": 443,
+          "sub_organizations": {}
+        },
+        "Wanning City": {
+          "organization_name_english": "Wanning City",
+          "organization_name_chinese": "万寧市",
+          "source_pdf_page": 443,
+          "sub_organizations": {}
+        },
+        "Danzhou City": {
+          "organization_name_english": "Danzhou City",
+          "organization_name_chinese": "儋州市",
+          "source_pdf_page": 443,
+          "sub_organizations": {}
+        },
+        "Dongfang City": {
+          "organization_name_english": "Dongfang City",
+          "organization_name_chinese": "東方市",
+          "source_pdf_page": 443,
+          "sub_organizations": {}
+        },
+        "Sansha City": {
+          "organization_name_english": "Sansha City",
+          "organization_name_chinese": "三沙市",
+          "source_pdf_page": 443,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "Chongqing Municipality": {
+      "organization_name_english": "Chongqing Municipality",
+      "organization_name_chinese": "重慶市",
+      "source_pdf_page": 444,
+      "sub_organizations": {
+        "CPC 6th Chongqing Municipal Committee": {
+          "organization_name_english": "CPC 6th Chongqing Municipal Committee",
+          "organization_name_chinese": "中共重慶市第6届委員会",
+          "source_pdf_page": 444,
+          "sub_organizations": {
+            "Commission for Discipline Inspection": {
+              "organization_name_english": "Commission for Discipline Inspection",
+              "organization_name_chinese": "紀律検査委員会",
+              "source_pdf_page": 444,
+              "sub_organizations": {}
+            },
+            "Organization Department": {
+              "organization_name_english": "Organization Department",
+              "organization_name_chinese": "組織部",
+              "source_pdf_page": 444,
+              "sub_organizations": {}
+            },
+            "Publicity Department": {
+              "organization_name_english": "Publicity Department",
+              "organization_name_chinese": "宣伝部",
+              "source_pdf_page": 444,
+              "sub_organizations": {}
+            },
+            "United Front Work Department": {
+              "organization_name_english": "United Front Work Department",
+              "organization_name_chinese": "統一戰線工作部",
+              "source_pdf_page": 444,
+              "sub_organizations": {}
+            },
+            "Political Science and Law Commission": {
+              "organization_name_english": "Political Science and Law Commission",
+              "organization_name_chinese": "政法委員会",
+              "source_pdf_page": 444,
+              "sub_organizations": {}
+            },
+            "Municipal Party School": {
+              "organization_name_english": "Municipal Party School",
+              "organization_name_chinese": "市党校",
+              "source_pdf_page": 444,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "Chongqing Municipal 6th People's Congress": {
+          "organization_name_english": "Chongqing Municipal 6th People's Congress",
+          "organization_name_chinese": "重慶市第6届人民代表大会",
+          "source_pdf_page": 445,
+          "sub_organizations": {}
+        },
+        "Municipal Supervision Commission": {
+          "organization_name_english": "Municipal Supervision Commission",
+          "organization_name_chinese": "重慶市監察委員会",
+          "source_pdf_page": 445,
+          "sub_organizations": {}
+        },
+        "Municipal Higher People's Court": {
+          "organization_name_english": "Municipal Higher People's Court",
+          "organization_name_chinese": "重慶市高級人民法院",
+          "source_pdf_page": 445,
+          "sub_organizations": {}
+        },
+        "Municipal People's Procuratorate": {
+          "organization_name_english": "Municipal People's Procuratorate",
+          "organization_name_chinese": "重慶市人民檢察院",
+          "source_pdf_page": 445,
+          "sub_organizations": {}
+        },
+        "Chongqing Municipal People's Government": {
+          "organization_name_english": "Chongqing Municipal People's Government",
+          "organization_name_chinese": "重慶市人民政府",
+          "source_pdf_page": 445,
+          "sub_organizations": {
+            "Foreign Affairs Office": {
+              "organization_name_english": "Foreign Affairs Office",
+              "organization_name_chinese": "外事辦公室",
+              "source_pdf_page": 445,
+              "sub_organizations": {}
+            },
+            "Development and Reform Commission": {
+              "organization_name_english": "Development and Reform Commission",
+              "organization_name_chinese": "発展和改革委員会",
+              "source_pdf_page": 445,
+              "sub_organizations": {}
+            },
+            "Education Commission": {
+              "organization_name_english": "Education Commission",
+              "organization_name_chinese": "教育委員会",
+              "source_pdf_page": 446,
+              "sub_organizations": {}
+            },
+            "Science and Technology Bureau": {
+              "organization_name_english": "Science and Technology Bureau",
+              "organization_name_chinese": "科学技術局",
+              "source_pdf_page": 446,
+              "sub_organizations": {}
+            },
+            "Economic and Information Technology Commission": {
+              "organization_name_english": "Economic and Information Technology Commission",
+              "organization_name_chinese": "経済和信息化委員会",
+              "source_pdf_page": 446,
+              "sub_organizations": {}
+            },
+            "Ethnic and Religious Affairs Commission": {
+              "organization_name_english": "Ethnic and Religious Affairs Commission",
+              "organization_name_chinese": "民族宗教事務委員会",
+              "source_pdf_page": 446,
+              "sub_organizations": {}
+            },
+            "Public Security Bureau": {
+              "organization_name_english": "Public Security Bureau",
+              "organization_name_chinese": "公安局",
+              "source_pdf_page": 446,
+              "sub_organizations": {}
+            },
+            "State Security Bureau": {
+              "organization_name_english": "State Security Bureau",
+              "organization_name_chinese": "国家安全局",
+              "source_pdf_page": 446,
+              "sub_organizations": {}
+            },
+            "Civil Affairs Bureau": {
+              "organization_name_english": "Civil Affairs Bureau",
+              "organization_name_chinese": "民政局",
+              "source_pdf_page": 446,
+              "sub_organizations": {}
+            },
+            "Justice Bureau": {
+              "organization_name_english": "Justice Bureau",
+              "organization_name_chinese": "司法局",
+              "source_pdf_page": 446,
+              "sub_organizations": {}
+            },
+            "Finance Bureau": {
+              "organization_name_english": "Finance Bureau",
+              "organization_name_chinese": "財政局",
+              "source_pdf_page": 446,
+              "sub_organizations": {}
+            },
+            "Human Resources & Social Security Bureau": {
+              "organization_name_english": "Human Resources & Social Security Bureau",
+              "organization_name_chinese": "人力資源和社会保障局",
+              "source_pdf_page": 446,
+              "sub_organizations": {}
+            },
+            "Planning & Natural Resources Bureau": {
+              "organization_name_english": "Planning & Natural Resources Bureau",
+              "organization_name_chinese": "規画和自然資源局",
+              "source_pdf_page": 446,
+              "sub_organizations": {}
+            },
+            "Ecology and Environment Bureau": {
+              "organization_name_english": "Ecology and Environment Bureau",
+              "organization_name_chinese": "生態環境局",
+              "source_pdf_page": 446,
+              "sub_organizations": {}
+            },
+            "Housing & Urban-Rural Development Commission": {
+              "organization_name_english": "Housing & Urban-Rural Development Commission",
+              "organization_name_chinese": "住房和城鄉建設委員会",
+              "source_pdf_page": 446,
+              "sub_organizations": {}
+            },
+            "Urban Administration Bureau": {
+              "organization_name_english": "Urban Administration Bureau",
+              "organization_name_chinese": "城市管理局",
+              "source_pdf_page": 446,
+              "sub_organizations": {}
+            },
+            "Transportation Bureau": {
+              "organization_name_english": "Transportation Bureau",
+              "organization_name_chinese": "交通局",
+              "source_pdf_page": 447,
+              "sub_organizations": {}
+            },
+            "Agriculture and Rural Affairs Commission": {
+              "organization_name_english": "Agriculture and Rural Affairs Commission",
+              "organization_name_chinese": "農業農村委員会",
+              "source_pdf_page": 447,
+              "sub_organizations": {}
+            },
+            "Water Resources Bureau": {
+              "organization_name_english": "Water Resources Bureau",
+              "organization_name_chinese": "水利局",
+              "source_pdf_page": 447,
+              "sub_organizations": {}
+            },
+            "Commerce Commission": {
+              "organization_name_english": "Commerce Commission",
+              "organization_name_chinese": "商務委員会",
+              "source_pdf_page": 447,
+              "sub_organizations": {}
+            },
+            "Culture and Tourism Development Commission": {
+              "organization_name_english": "Culture and Tourism Development Commission",
+              "organization_name_chinese": "文化和旅遊発展委員会",
+              "source_pdf_page": 447,
+              "sub_organizations": {}
+            },
+            "Health Commission": {
+              "organization_name_english": "Health Commission",
+              "organization_name_chinese": "衛生健康委員会",
+              "source_pdf_page": 447,
+              "sub_organizations": {}
+            },
+            "Veterans Affairs Bureau": {
+              "organization_name_english": "Veterans Affairs Bureau",
+              "organization_name_chinese": "退役軍人事務局",
+              "source_pdf_page": 447,
+              "sub_organizations": {}
+            },
+            "Emergency Management Bureau": {
+              "organization_name_english": "Emergency Management Bureau",
+              "organization_name_chinese": "応急管理局",
+              "source_pdf_page": 447,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "CPPCC 6th Chongqing Municipal Committee": {
+          "organization_name_english": "CPPCC 6th Chongqing Municipal Committee",
+          "organization_name_chinese": "政協重慶市第6届委員会",
+          "source_pdf_page": 447,
+          "sub_organizations": {}
+        },
+        "PLA Chongqing Garrison": {
+          "organization_name_english": "PLA Chongqing Garrison",
+          "organization_name_chinese": "重慶警備区",
+          "source_pdf_page": 448,
+          "sub_organizations": {}
+        },
+        "Municipal People's Armed Police Corps": {
+          "organization_name_english": "Municipal People's Armed Police Corps",
+          "organization_name_chinese": "人民武装警察部隊重慶市総隊",
+          "source_pdf_page": 448,
+          "sub_organizations": {}
+        },
+        "Municipal Trade Union Council": {
+          "organization_name_english": "Municipal Trade Union Council",
+          "organization_name_chinese": "重慶市総工会",
+          "source_pdf_page": 448,
+          "sub_organizations": {}
+        },
+        "CYL Municipal Committee": {
+          "organization_name_english": "CYL Municipal Committee",
+          "organization_name_chinese": "共青団重慶市委員会",
+          "source_pdf_page": 448,
+          "sub_organizations": {}
+        },
+        "Municipal Women's Federation": {
+          "organization_name_english": "Municipal Women's Federation",
+          "organization_name_chinese": "重慶市婦女聯合会",
+          "source_pdf_page": 448,
+          "sub_organizations": {}
+        },
+        "Yuzhong District": {
+          "organization_name_english": "Yuzhong District",
+          "organization_name_chinese": "渝中区",
+          "source_pdf_page": 448,
+          "sub_organizations": {}
+        },
+        "Dadukou District": {
+          "organization_name_english": "Dadukou District",
+          "organization_name_chinese": "大渡口区",
+          "source_pdf_page": 448,
+          "sub_organizations": {}
+        },
+        "Jiangbei District": {
+          "organization_name_english": "Jiangbei District",
+          "organization_name_chinese": "江北区",
+          "source_pdf_page": 448,
+          "sub_organizations": {}
+        },
+        "Shapingba District": {
+          "organization_name_english": "Shapingba District",
+          "organization_name_chinese": "沙坪壩区",
+          "source_pdf_page": 449,
+          "sub_organizations": {}
+        },
+        "Jiulongpo District": {
+          "organization_name_english": "Jiulongpo District",
+          "organization_name_chinese": "九龍坡区",
+          "source_pdf_page": 449,
+          "sub_organizations": {}
+        },
+        "Nanan District": {
+          "organization_name_english": "Nanan District",
+          "organization_name_chinese": "南岸区",
+          "source_pdf_page": 449,
+          "sub_organizations": {}
+        },
+        "Beibei District": {
+          "organization_name_english": "Beibei District",
+          "organization_name_chinese": "北碚区",
+          "source_pdf_page": 449,
+          "sub_organizations": {}
+        },
+        "Yubei District": {
+          "organization_name_english": "Yubei District",
+          "organization_name_chinese": "渝北区",
+          "source_pdf_page": 449,
+          "sub_organizations": {}
+        },
+        "Banan District": {
+          "organization_name_english": "Banan District",
+          "organization_name_chinese": "巴南区",
+          "source_pdf_page": 449,
+          "sub_organizations": {}
+        },
+        "Wanzhou District": {
+          "organization_name_english": "Wanzhou District",
+          "organization_name_chinese": "万州区",
+          "source_pdf_page": 449,
+          "sub_organizations": {}
+        },
+        "Fuling District": {
+          "organization_name_english": "Fuling District",
+          "organization_name_chinese": "涪陵区",
+          "source_pdf_page": 449,
+          "sub_organizations": {}
+        },
+        "Qianjiang District": {
+          "organization_name_english": "Qianjiang District",
+          "organization_name_chinese": "黔江区",
+          "source_pdf_page": 449,
+          "sub_organizations": {}
+        },
+        "Changshou District": {
+          "organization_name_english": "Changshou District",
+          "organization_name_chinese": "長寿区",
+          "source_pdf_page": 450,
+          "sub_organizations": {}
+        },
+        "Jiangjin District": {
+          "organization_name_english": "Jiangjin District",
+          "organization_name_chinese": "江津区",
+          "source_pdf_page": 450,
+          "sub_organizations": {}
+        },
+        "Yongchuan District": {
+          "organization_name_english": "Yongchuan District",
+          "organization_name_chinese": "永川区",
+          "source_pdf_page": 450,
+          "sub_organizations": {}
+        },
+        "Hechuan District": {
+          "organization_name_english": "Hechuan District",
+          "organization_name_chinese": "合川区",
+          "source_pdf_page": 450,
+          "sub_organizations": {}
+        },
+        "Nanchuan District": {
+          "organization_name_english": "Nanchuan District",
+          "organization_name_chinese": "南川区",
+          "source_pdf_page": 450,
+          "sub_organizations": {}
+        },
+        "Liangjiang New Area": {
+          "organization_name_english": "Liangjiang New Area",
+          "organization_name_chinese": "両江新区",
+          "source_pdf_page": 450,
+          "sub_organizations": {}
+        },
+        "Qijiang District": {
+          "organization_name_english": "Qijiang District",
+          "organization_name_chinese": "綦江区",
+          "source_pdf_page": 450,
+          "sub_organizations": {}
+        },
+        "Dazu District": {
+          "organization_name_english": "Dazu District",
+          "organization_name_chinese": "大足区",
+          "source_pdf_page": 450,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "Sichuan Province": {
+      "organization_name_english": "Sichuan Province",
+      "organization_name_chinese": "四川省",
+      "source_pdf_page": 451,
+      "sub_organizations": {
+        "CPC 12th Sichuan Provincial Committee": {
+          "organization_name_english": "CPC 12th Sichuan Provincial Committee",
+          "organization_name_chinese": "中共四川省第12届委員会",
+          "source_pdf_page": 451,
+          "sub_organizations": {
+            "Commission for Discipline Inspection": {
+              "organization_name_english": "Commission for Discipline Inspection",
+              "organization_name_chinese": "紀律検査委員会",
+              "source_pdf_page": 451,
+              "sub_organizations": {}
+            },
+            "Organization Department": {
+              "organization_name_english": "Organization Department",
+              "organization_name_chinese": "組織部",
+              "source_pdf_page": 451,
+              "sub_organizations": {}
+            },
+            "Publicity Department": {
+              "organization_name_english": "Publicity Department",
+              "organization_name_chinese": "宣伝部",
+              "source_pdf_page": 451,
+              "sub_organizations": {}
+            },
+            "United Front Work Department": {
+              "organization_name_english": "United Front Work Department",
+              "organization_name_chinese": "統一戦線工作部",
+              "source_pdf_page": 451,
+              "sub_organizations": {}
+            },
+            "Political Science and Law Commission": {
+              "organization_name_english": "Political Science and Law Commission",
+              "organization_name_chinese": "政法委員会",
+              "source_pdf_page": 451,
+              "sub_organizations": {}
+            },
+            "Provincial Party School": {
+              "organization_name_english": "Provincial Party School",
+              "organization_name_chinese": "省党校",
+              "source_pdf_page": 451,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "Sichuan Provincial 14th People's Congress": {
+          "organization_name_english": "Sichuan Provincial 14th People's Congress",
+          "organization_name_chinese": "四川省第14届人民代表大会",
+          "source_pdf_page": 452,
+          "sub_organizations": {}
+        },
+        "Provincial Supervision Commission": {
+          "organization_name_english": "Provincial Supervision Commission",
+          "organization_name_chinese": "四川省監察委員会",
+          "source_pdf_page": 452,
+          "sub_organizations": {}
+        },
+        "Provincial Higher People's Court": {
+          "organization_name_english": "Provincial Higher People's Court",
+          "organization_name_chinese": "四川省高級人民法院",
+          "source_pdf_page": 452,
+          "sub_organizations": {}
+        },
+        "Provincial People's Procuratorate": {
+          "organization_name_english": "Provincial People's Procuratorate",
+          "organization_name_chinese": "四川省人民検察院",
+          "source_pdf_page": 452,
+          "sub_organizations": {}
+        },
+        "Sichuan Provincial People's Government": {
+          "organization_name_english": "Sichuan Provincial People's Government",
+          "organization_name_chinese": "四川省人民政府",
+          "source_pdf_page": 452,
+          "sub_organizations": {
+            "Foreign (Hong Kong and Macao) Affairs Office": {
+              "organization_name_english": "Foreign (Hong Kong and Macao) Affairs Office",
+              "organization_name_chinese": "外事(港澳事務)辦公室",
+              "source_pdf_page": 452,
+              "sub_organizations": {}
+            },
+            "Development and Reform Commission": {
+              "organization_name_english": "Development and Reform Commission",
+              "organization_name_chinese": "発展和改革委員会",
+              "source_pdf_page": 453,
+              "sub_organizations": {}
+            },
+            "Economic and Information Technology Department": {
+              "organization_name_english": "Economic and Information Technology Department",
+              "organization_name_chinese": "経済和信息化庁",
+              "source_pdf_page": 453,
+              "sub_organizations": {}
+            },
+            "Education Department": {
+              "organization_name_english": "Education Department",
+              "organization_name_chinese": "教育庁",
+              "source_pdf_page": 453,
+              "sub_organizations": {}
+            },
+            "Science and Technology Department": {
+              "organization_name_english": "Science and Technology Department",
+              "organization_name_chinese": "科学技術庁",
+              "source_pdf_page": 453,
+              "sub_organizations": {}
+            },
+            "Ethnic and Religious Affairs Commission": {
+              "organization_name_english": "Ethnic and Religious Affairs Commission",
+              "organization_name_chinese": "民族宗教事務委員会",
+              "source_pdf_page": 453,
+              "sub_organizations": {}
+            },
+            "Public Security Department": {
+              "organization_name_english": "Public Security Department",
+              "organization_name_chinese": "公安庁",
+              "source_pdf_page": 453,
+              "sub_organizations": {}
+            },
+            "State Security Department": {
+              "organization_name_english": "State Security Department",
+              "organization_name_chinese": "国家安全厅",
+              "source_pdf_page": 453,
+              "sub_organizations": {}
+            },
+            "Civil Affairs Department": {
+              "organization_name_english": "Civil Affairs Department",
+              "organization_name_chinese": "民政庁",
+              "source_pdf_page": 453,
+              "sub_organizations": {}
+            },
+            "Justice Department": {
+              "organization_name_english": "Justice Department",
+              "organization_name_chinese": "司法庁",
+              "source_pdf_page": 453,
+              "sub_organizations": {}
+            },
+            "Finance Department": {
+              "organization_name_english": "Finance Department",
+              "organization_name_chinese": "財政庁",
+              "source_pdf_page": 453,
+              "sub_organizations": {}
+            },
+            "Human Resources & Social Security Department": {
+              "organization_name_english": "Human Resources & Social Security Department",
+              "organization_name_chinese": "人力資源和社会保障厅",
+              "source_pdf_page": 453,
+              "sub_organizations": {}
+            },
+            "Natural Resources Department": {
+              "organization_name_english": "Natural Resources Department",
+              "organization_name_chinese": "自然資源庁",
+              "source_pdf_page": 453,
+              "sub_organizations": {}
+            },
+            "Ecology and Environment Department": {
+              "organization_name_english": "Ecology and Environment Department",
+              "organization_name_chinese": "生態環境庁",
+              "source_pdf_page": 453,
+              "sub_organizations": {}
+            },
+            "Housing & Urban-Rural Development Department": {
+              "organization_name_english": "Housing & Urban-Rural Development Department",
+              "organization_name_chinese": "住房和城鄉建設庁",
+              "source_pdf_page": 453,
+              "sub_organizations": {}
+            },
+            "Transport Department": {
+              "organization_name_english": "Transport Department",
+              "organization_name_chinese": "交通運輸庁",
+              "source_pdf_page": 454,
+              "sub_organizations": {}
+            },
+            "Water Resources Department": {
+              "organization_name_english": "Water Resources Department",
+              "organization_name_chinese": "水利庁",
+              "source_pdf_page": 454,
+              "sub_organizations": {}
+            },
+            "Agriculture and Rural Affairs Department": {
+              "organization_name_english": "Agriculture and Rural Affairs Department",
+              "organization_name_chinese": "農業農村庁",
+              "source_pdf_page": 454,
+              "sub_organizations": {}
+            },
+            "Commercial Department": {
+              "organization_name_english": "Commercial Department",
+              "organization_name_chinese": "商務庁",
+              "source_pdf_page": 454,
+              "sub_organizations": {}
+            },
+            "Culture and Tourism Department": {
+              "organization_name_english": "Culture and Tourism Department",
+              "organization_name_chinese": "文化和旅遊庁",
+              "source_pdf_page": 454,
+              "sub_organizations": {}
+            },
+            "Health Commission": {
+              "organization_name_english": "Health Commission",
+              "organization_name_chinese": "衛生健康委員会",
+              "source_pdf_page": 454,
+              "sub_organizations": {}
+            },
+            "Veterans Affairs Department": {
+              "organization_name_english": "Veterans Affairs Department",
+              "organization_name_chinese": "退役軍人事務庁",
+              "source_pdf_page": 454,
+              "sub_organizations": {}
+            },
+            "Emergency Management Department": {
+              "organization_name_english": "Emergency Management Department",
+              "organization_name_chinese": "応急管理庁",
+              "source_pdf_page": 454,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "CPPCC 13th Sichuan Provincial Committee": {
+          "organization_name_english": "CPPCC 13th Sichuan Provincial Committee",
+          "organization_name_chinese": "政協四川省第13届委員会",
+          "source_pdf_page": 454,
+          "sub_organizations": {}
+        },
+        "PLA Sichuan Provincial Command": {
+          "organization_name_english": "PLA Sichuan Provincial Command",
+          "organization_name_chinese": "四川省軍区",
+          "source_pdf_page": 455,
+          "sub_organizations": {
+            "Chengdu Garrison": {
+              "organization_name_english": "Chengdu Garrison",
+              "organization_name_chinese": "成都警備区",
+              "source_pdf_page": 455,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "Provincial People's Armed Police Corps": {
+          "organization_name_english": "Provincial People's Armed Police Corps",
+          "organization_name_chinese": "人民武装警察部隊四川省総隊",
+          "source_pdf_page": 455,
+          "sub_organizations": {}
+        },
+        "Provincial Trade Union Council": {
+          "organization_name_english": "Provincial Trade Union Council",
+          "organization_name_chinese": "四川省総工会",
+          "source_pdf_page": 455,
+          "sub_organizations": {}
+        },
+        "CYL Provincial Committee": {
+          "organization_name_english": "CYL Provincial Committee",
+          "organization_name_chinese": "共青团四川省委員会",
+          "source_pdf_page": 455,
+          "sub_organizations": {}
+        },
+        "Provincial Women's Federation": {
+          "organization_name_english": "Provincial Women's Federation",
+          "organization_name_chinese": "四川省婦女聯合会",
+          "source_pdf_page": 455,
+          "sub_organizations": {}
+        },
+        "Chengdu City": {
+          "organization_name_english": "Chengdu City",
+          "organization_name_chinese": "成都市",
+          "source_pdf_page": 455,
+          "sub_organizations": {}
+        },
+        "Guangyuan City": {
+          "organization_name_english": "Guangyuan City",
+          "organization_name_chinese": "広元市",
+          "source_pdf_page": 455,
+          "sub_organizations": {}
+        },
+        "Mianyang City": {
+          "organization_name_english": "Mianyang City",
+          "organization_name_chinese": "綿陽市",
+          "source_pdf_page": 455,
+          "sub_organizations": {}
+        },
+        "Deyang City": {
+          "organization_name_english": "Deyang City",
+          "organization_name_chinese": "徳陽市",
+          "source_pdf_page": 456,
+          "sub_organizations": {}
+        },
+        "Nanchong City": {
+          "organization_name_english": "Nanchong City",
+          "organization_name_chinese": "南充市",
+          "source_pdf_page": 456,
+          "sub_organizations": {}
+        },
+        "Guangan City": {
+          "organization_name_english": "Guangan City",
+          "organization_name_chinese": "広安市",
+          "source_pdf_page": 456,
+          "sub_organizations": {}
+        },
+        "Suining City": {
+          "organization_name_english": "Suining City",
+          "organization_name_chinese": "遂寧市",
+          "source_pdf_page": 456,
+          "sub_organizations": {}
+        },
+        "Neijiang City": {
+          "organization_name_english": "Neijiang City",
+          "organization_name_chinese": "内江市",
+          "source_pdf_page": 456,
+          "sub_organizations": {}
+        },
+        "Leshan City": {
+          "organization_name_english": "Leshan City",
+          "organization_name_chinese": "楽山市",
+          "source_pdf_page": 456,
+          "sub_organizations": {}
+        },
+        "Zigong City": {
+          "organization_name_english": "Zigong City",
+          "organization_name_chinese": "自貢市",
+          "source_pdf_page": 456,
+          "sub_organizations": {}
+        },
+        "Luzhou City": {
+          "organization_name_english": "Luzhou City",
+          "organization_name_chinese": "瀘州市",
+          "source_pdf_page": 456,
+          "sub_organizations": {}
+        },
+        "Yibin City": {
+          "organization_name_english": "Yibin City",
+          "organization_name_chinese": "宜賓市",
+          "source_pdf_page": 456,
+          "sub_organizations": {}
+        },
+        "Panzhihua City": {
+          "organization_name_english": "Panzhihua City",
+          "organization_name_chinese": "攀枝花市",
+          "source_pdf_page": 457,
+          "sub_organizations": {}
+        },
+        "Bazhong City": {
+          "organization_name_english": "Bazhong City",
+          "organization_name_chinese": "巴中市",
+          "source_pdf_page": 457,
+          "sub_organizations": {}
+        },
+        "Dazhou City": {
+          "organization_name_english": "Dazhou City",
+          "organization_name_chinese": "達州市",
+          "source_pdf_page": 457,
+          "sub_organizations": {}
+        },
+        "Ziyang City": {
+          "organization_name_english": "Ziyang City",
+          "organization_name_chinese": "資陽市",
+          "source_pdf_page": 457,
+          "sub_organizations": {}
+        },
+        "Meishan City": {
+          "organization_name_english": "Meishan City",
+          "organization_name_chinese": "眉山市",
+          "source_pdf_page": 457,
+          "sub_organizations": {}
+        },
+        "Yaan City": {
+          "organization_name_english": "Yaan City",
+          "organization_name_chinese": "雅安市",
+          "source_pdf_page": 457,
+          "sub_organizations": {}
+        },
+        "Aba Tibet-Qiang Autonomous Prefecture": {
+          "organization_name_english": "Aba Tibet-Qiang Autonomous Prefecture",
+          "organization_name_chinese": "阿壩藏族羌族自治州",
+          "source_pdf_page": 457,
+          "sub_organizations": {}
+        },
+        "Garze Tibet Autonomous Prefecture": {
+          "organization_name_english": "Garze Tibet Autonomous Prefecture",
+          "organization_name_chinese": "甘孜藏族自治州",
+          "source_pdf_page": 457,
+          "sub_organizations": {}
+        },
+        "Liangshan Yi Autonomous Prefecture": {
+          "organization_name_english": "Liangshan Yi Autonomous Prefecture",
+          "organization_name_chinese": "涼山彝族自治州",
+          "source_pdf_page": 457,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "Guizhou Province": {
+      "organization_name_english": "Guizhou Province",
+      "organization_name_chinese": "貴州省",
+      "source_pdf_page": 458,
+      "sub_organizations": {
+        "CPC 13th Guizhou Provincial Committee": {
+          "organization_name_english": "CPC 13th Guizhou Provincial Committee",
+          "organization_name_chinese": "中共貴州省第13届委員会",
+          "source_pdf_page": 458,
+          "sub_organizations": {
+            "Commission for Discipline Inspection": {
+              "organization_name_english": "Commission for Discipline Inspection",
+              "organization_name_chinese": "紀律検査委員会",
+              "source_pdf_page": 458,
+              "sub_organizations": {}
+            },
+            "Organization Department": {
+              "organization_name_english": "Organization Department",
+              "organization_name_chinese": "組織部",
+              "source_pdf_page": 458,
+              "sub_organizations": {}
+            },
+            "Publicity Department": {
+              "organization_name_english": "Publicity Department",
+              "organization_name_chinese": "宣伝部",
+              "source_pdf_page": 458,
+              "sub_organizations": {}
+            },
+            "United Front Work Department": {
+              "organization_name_english": "United Front Work Department",
+              "organization_name_chinese": "統一戦線工作部",
+              "source_pdf_page": 458,
+              "sub_organizations": {}
+            },
+            "Political Science and Law Commission": {
+              "organization_name_english": "Political Science and Law Commission",
+              "organization_name_chinese": "政法委員会",
+              "source_pdf_page": 458,
+              "sub_organizations": {}
+            },
+            "Provincial Party School": {
+              "organization_name_english": "Provincial Party School",
+              "organization_name_chinese": "省党校",
+              "source_pdf_page": 458,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "Guizhou Provincial 14th People's Congress": {
+          "organization_name_english": "Guizhou Provincial 14th People's Congress",
+          "organization_name_chinese": "貴州省第14届人民代表大会",
+          "source_pdf_page": 459,
+          "sub_organizations": {}
+        },
+        "Provincial Supervision Commission": {
+          "organization_name_english": "Provincial Supervision Commission",
+          "organization_name_chinese": "貴州省監察委員会",
+          "source_pdf_page": 459,
+          "sub_organizations": {}
+        },
+        "Provincial Higher People's Court": {
+          "organization_name_english": "Provincial Higher People's Court",
+          "organization_name_chinese": "貴州省高級人民法院",
+          "source_pdf_page": 459,
+          "sub_organizations": {}
+        },
+        "Provincial People's Procuratorate": {
+          "organization_name_english": "Provincial People's Procuratorate",
+          "organization_name_chinese": "貴州省人民検察院",
+          "source_pdf_page": 459,
+          "sub_organizations": {}
+        },
+        "Guizhou Provincial People's Government": {
+          "organization_name_english": "Guizhou Provincial People's Government",
+          "organization_name_chinese": "貴州省人民政府",
+          "source_pdf_page": 459,
+          "sub_organizations": {
+            "Foreign (Overseas Chinese) Affairs Office": {
+              "organization_name_english": "Foreign (Overseas Chinese) Affairs Office",
+              "organization_name_chinese": "外事(僑務)辦公室",
+              "source_pdf_page": 459,
+              "sub_organizations": {}
+            },
+            "Development and Reform Commission": {
+              "organization_name_english": "Development and Reform Commission",
+              "organization_name_chinese": "発展和改革委員会",
+              "source_pdf_page": 460,
+              "sub_organizations": {}
+            },
+            "Education Department": {
+              "organization_name_english": "Education Department",
+              "organization_name_chinese": "教育庁",
+              "source_pdf_page": 460,
+              "sub_organizations": {}
+            },
+            "Science and Technology Department": {
+              "organization_name_english": "Science and Technology Department",
+              "organization_name_chinese": "科学技術庁",
+              "source_pdf_page": 460,
+              "sub_organizations": {}
+            },
+            "Industry & Information Technology Department": {
+              "organization_name_english": "Industry & Information Technology Department",
+              "organization_name_chinese": "工業和信息化庁",
+              "source_pdf_page": 460,
+              "sub_organizations": {}
+            },
+            "Ethnic and Religious Affairs Commission": {
+              "organization_name_english": "Ethnic and Religious Affairs Commission",
+              "organization_name_chinese": "民族宗教事務委員会",
+              "source_pdf_page": 460,
+              "sub_organizations": {}
+            },
+            "Public Security Department": {
+              "organization_name_english": "Public Security Department",
+              "organization_name_chinese": "公安庁",
+              "source_pdf_page": 460,
+              "sub_organizations": {}
+            },
+            "State Security Department": {
+              "organization_name_english": "State Security Department",
+              "organization_name_chinese": "国家安全庁",
+              "source_pdf_page": 460,
+              "sub_organizations": {}
+            },
+            "Civil Affairs Department": {
+              "organization_name_english": "Civil Affairs Department",
+              "organization_name_chinese": "民政庁",
+              "source_pdf_page": 460,
+              "sub_organizations": {}
+            },
+            "Justice Department": {
+              "organization_name_english": "Justice Department",
+              "organization_name_chinese": "司法庁",
+              "source_pdf_page": 460,
+              "sub_organizations": {}
+            },
+            "Finance Department": {
+              "organization_name_english": "Finance Department",
+              "organization_name_chinese": "財政庁",
+              "source_pdf_page": 460,
+              "sub_organizations": {}
+            },
+            "Human Resources & Social Security Department": {
+              "organization_name_english": "Human Resources & Social Security Department",
+              "organization_name_chinese": "人力資源和社会保障庁",
+              "source_pdf_page": 460,
+              "sub_organizations": {}
+            },
+            "Natural Resources Department": {
+              "organization_name_english": "Natural Resources Department",
+              "organization_name_chinese": "自然資源庁",
+              "source_pdf_page": 460,
+              "sub_organizations": {}
+            },
+            "Ecology and Environment Department": {
+              "organization_name_english": "Ecology and Environment Department",
+              "organization_name_chinese": "生態環境庁",
+              "source_pdf_page": 460,
+              "sub_organizations": {}
+            },
+            "Housing & Urban-Rural Development Department": {
+              "organization_name_english": "Housing & Urban-Rural Development Department",
+              "organization_name_chinese": "住房和城鄉建設庁",
+              "source_pdf_page": 460,
+              "sub_organizations": {}
+            },
+            "Transport Department": {
+              "organization_name_english": "Transport Department",
+              "organization_name_chinese": "交通運輸庁",
+              "source_pdf_page": 461,
+              "sub_organizations": {}
+            },
+            "Water Resources Department": {
+              "organization_name_english": "Water Resources Department",
+              "organization_name_chinese": "水利庁",
+              "source_pdf_page": 461,
+              "sub_organizations": {}
+            },
+            "Agriculture and Rural Affairs Department": {
+              "organization_name_english": "Agriculture and Rural Affairs Department",
+              "organization_name_chinese": "農業農村庁",
+              "source_pdf_page": 461,
+              "sub_organizations": {}
+            },
+            "Commercial Department": {
+              "organization_name_english": "Commercial Department",
+              "organization_name_chinese": "商務庁",
+              "source_pdf_page": 461,
+              "sub_organizations": {}
+            },
+            "Culture and Tourism Department": {
+              "organization_name_english": "Culture and Tourism Department",
+              "organization_name_chinese": "文化和旅遊庁",
+              "source_pdf_page": 461,
+              "sub_organizations": {}
+            },
+            "Health Commission": {
+              "organization_name_english": "Health Commission",
+              "organization_name_chinese": "衛生健康委員会",
+              "source_pdf_page": 461,
+              "sub_organizations": {}
+            },
+            "Veterans Affairs Department": {
+              "organization_name_english": "Veterans Affairs Department",
+              "organization_name_chinese": "退役軍人事務庁",
+              "source_pdf_page": 461,
+              "sub_organizations": {}
+            },
+            "Emergency Management Department": {
+              "organization_name_english": "Emergency Management Department",
+              "organization_name_chinese": "応急管理庁",
+              "source_pdf_page": 461,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "CPPCC 13th Guizhou Provincial Committee": {
+          "organization_name_english": "CPPCC 13th Guizhou Provincial Committee",
+          "organization_name_chinese": "政協貴州省第13届委員会",
+          "source_pdf_page": 461,
+          "sub_organizations": {}
+        },
+        "PLA Guizhou Provincial Command": {
+          "organization_name_english": "PLA Guizhou Provincial Command",
+          "organization_name_chinese": "貴州省軍区",
+          "source_pdf_page": 462,
+          "sub_organizations": {
+            "Guiyang Garrison": {
+              "organization_name_english": "Guiyang Garrison",
+              "organization_name_chinese": "貴陽警備区",
+              "source_pdf_page": 462,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "Provincial People's Armed Police Corps": {
+          "organization_name_english": "Provincial People's Armed Police Corps",
+          "organization_name_chinese": "人民武装警察部隊貴州省総隊",
+          "source_pdf_page": 462,
+          "sub_organizations": {}
+        },
+        "Provincial Trade Union Council": {
+          "organization_name_english": "Provincial Trade Union Council",
+          "organization_name_chinese": "貴州省総工会",
+          "source_pdf_page": 462,
+          "sub_organizations": {}
+        },
+        "CYL Provincial Committee": {
+          "organization_name_english": "CYL Provincial Committee",
+          "organization_name_chinese": "共青団貴州省委員会",
+          "source_pdf_page": 462,
+          "sub_organizations": {}
+        },
+        "Provincial Women's Federation": {
+          "organization_name_english": "Provincial Women's Federation",
+          "organization_name_chinese": "貴州省婦女聯合会",
+          "source_pdf_page": 462,
+          "sub_organizations": {}
+        },
+        "Guiyang City": {
+          "organization_name_english": "Guiyang City",
+          "organization_name_chinese": "貴陽市",
+          "source_pdf_page": 462,
+          "sub_organizations": {}
+        },
+        "Liupanshui City": {
+          "organization_name_english": "Liupanshui City",
+          "organization_name_chinese": "六盤水市",
+          "source_pdf_page": 462,
+          "sub_organizations": {}
+        },
+        "Zunyi City": {
+          "organization_name_english": "Zunyi City",
+          "organization_name_chinese": "遵義市",
+          "source_pdf_page": 463,
+          "sub_organizations": {}
+        },
+        "Anshun City": {
+          "organization_name_english": "Anshun City",
+          "organization_name_chinese": "安順市",
+          "source_pdf_page": 463,
+          "sub_organizations": {}
+        },
+        "Bijie City": {
+          "organization_name_english": "Bijie City",
+          "organization_name_chinese": "畢節市",
+          "source_pdf_page": 463,
+          "sub_organizations": {}
+        },
+        "Tongren City": {
+          "organization_name_english": "Tongren City",
+          "organization_name_chinese": "銅仁市",
+          "source_pdf_page": 463,
+          "sub_organizations": {}
+        },
+        "Qiandongnan Miao-Tong Autonomous Prefecture": {
+          "organization_name_english": "Qiandongnan Miao-Tong Autonomous Prefecture",
+          "organization_name_chinese": "黔東南苗族侗族自治州",
+          "source_pdf_page": 463,
+          "sub_organizations": {}
+        },
+        "Qiannan Buyi-Miao Autonomous Prefecture": {
+          "organization_name_english": "Qiannan Buyi-Miao Autonomous Prefecture",
+          "organization_name_chinese": "黔南布依族苗族自治州",
+          "source_pdf_page": 463,
+          "sub_organizations": {}
+        },
+        "Qianxinan Buyi-Miao Autonomous Prefecture": {
+          "organization_name_english": "Qianxinan Buyi-Miao Autonomous Prefecture",
+          "organization_name_chinese": "黔西南布依族苗族自治州",
+          "source_pdf_page": 463,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "Yunnan Province": {
+      "organization_name_english": "Yunnan Province",
+      "organization_name_chinese": "雲南省",
+      "source_pdf_page": 464,
+      "sub_organizations": {
+        "CPC 11th Yunnan Provincial Committee": {
+          "organization_name_english": "CPC 11th Yunnan Provincial Committee",
+          "organization_name_chinese": "中共雲南省第11届委員会",
+          "source_pdf_page": 464,
+          "sub_organizations": {
+            "Commission for Discipline Inspection": {
+              "organization_name_english": "Commission for Discipline Inspection",
+              "organization_name_chinese": "紀律検査委員会",
+              "source_pdf_page": 464,
+              "sub_organizations": {}
+            },
+            "Organization Department": {
+              "organization_name_english": "Organization Department",
+              "organization_name_chinese": "組織部",
+              "source_pdf_page": 464,
+              "sub_organizations": {}
+            },
+            "Publicity Department": {
+              "organization_name_english": "Publicity Department",
+              "organization_name_chinese": "宣伝部",
+              "source_pdf_page": 464,
+              "sub_organizations": {}
+            },
+            "United Front Work Department": {
+              "organization_name_english": "United Front Work Department",
+              "organization_name_chinese": "統一戦線工作部",
+              "source_pdf_page": 464,
+              "sub_organizations": {}
+            },
+            "Political Science and Law Commission": {
+              "organization_name_english": "Political Science and Law Commission",
+              "organization_name_chinese": "政法委員会",
+              "source_pdf_page": 464,
+              "sub_organizations": {}
+            },
+            "Provincial Party School": {
+              "organization_name_english": "Provincial Party School",
+              "organization_name_chinese": "省党校",
+              "source_pdf_page": 464,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "Yunnan Provincial 14th People's Congress": {
+          "organization_name_english": "Yunnan Provincial 14th People's Congress",
+          "organization_name_chinese": "雲南省第14届人民代表大会",
+          "source_pdf_page": 465,
+          "sub_organizations": {}
+        },
+        "Provincial Supervision Commission": {
+          "organization_name_english": "Provincial Supervision Commission",
+          "organization_name_chinese": "雲南省監察委員会",
+          "source_pdf_page": 465,
+          "sub_organizations": {}
+        },
+        "Provincial Higher People's Court": {
+          "organization_name_english": "Provincial Higher People's Court",
+          "organization_name_chinese": "雲南省高級人民法院",
+          "source_pdf_page": 465,
+          "sub_organizations": {}
+        },
+        "Provincial People's Procuratorate": {
+          "organization_name_english": "Provincial People's Procuratorate",
+          "organization_name_chinese": "雲南省人民検察院",
+          "source_pdf_page": 465,
+          "sub_organizations": {}
+        },
+        "Yunnan Provincial People's Government": {
+          "organization_name_english": "Yunnan Provincial People's Government",
+          "organization_name_chinese": "雲南省人民政府",
+          "source_pdf_page": 465,
+          "sub_organizations": {
+            "Foreign Affairs Office": {
+              "organization_name_english": "Foreign Affairs Office",
+              "organization_name_chinese": "外事辦公室",
+              "source_pdf_page": 465,
+              "sub_organizations": {}
+            },
+            "Taiwan Affairs Office": {
+              "organization_name_english": "Taiwan Affairs Office",
+              "organization_name_chinese": "台湾事務辦公室",
+              "source_pdf_page": 466,
+              "sub_organizations": {}
+            },
+            "Development and Reform Commission": {
+              "organization_name_english": "Development and Reform Commission",
+              "organization_name_chinese": "発展和改革委員会",
+              "source_pdf_page": 466,
+              "sub_organizations": {}
+            },
+            "Industry & Information Technology Department": {
+              "organization_name_english": "Industry & Information Technology Department",
+              "organization_name_chinese": "工業和信息化庁",
+              "source_pdf_page": 466,
+              "sub_organizations": {}
+            },
+            "Education Department": {
+              "organization_name_english": "Education Department",
+              "organization_name_chinese": "教育庁",
+              "source_pdf_page": 466,
+              "sub_organizations": {}
+            },
+            "Science and Technology Department": {
+              "organization_name_english": "Science and Technology Department",
+              "organization_name_chinese": "科学技術庁",
+              "source_pdf_page": 466,
+              "sub_organizations": {}
+            },
+            "Ethnic and Religious Affairs Commission": {
+              "organization_name_english": "Ethnic and Religious Affairs Commission",
+              "organization_name_chinese": "民族宗教事務委員会",
+              "source_pdf_page": 466,
+              "sub_organizations": {}
+            },
+            "Public Security Department": {
+              "organization_name_english": "Public Security Department",
+              "organization_name_chinese": "公安庁",
+              "source_pdf_page": 466,
+              "sub_organizations": {}
+            },
+            "State Security Department": {
+              "organization_name_english": "State Security Department",
+              "organization_name_chinese": "国家安全庁",
+              "source_pdf_page": 466,
+              "sub_organizations": {}
+            },
+            "Civil Affairs Department": {
+              "organization_name_english": "Civil Affairs Department",
+              "organization_name_chinese": "民政庁",
+              "source_pdf_page": 466,
+              "sub_organizations": {}
+            },
+            "Justice Department": {
+              "organization_name_english": "Justice Department",
+              "organization_name_chinese": "司法厅",
+              "source_pdf_page": 466,
+              "sub_organizations": {}
+            },
+            "Finance Department": {
+              "organization_name_english": "Finance Department",
+              "organization_name_chinese": "財政庁",
+              "source_pdf_page": 466,
+              "sub_organizations": {}
+            },
+            "Human Resources & Social Security Department": {
+              "organization_name_english": "Human Resources & Social Security Department",
+              "organization_name_chinese": "人力資源和社会保障厅",
+              "source_pdf_page": 466,
+              "sub_organizations": {}
+            },
+            "Natural Resources Department": {
+              "organization_name_english": "Natural Resources Department",
+              "organization_name_chinese": "自然資源庁",
+              "source_pdf_page": 467,
+              "sub_organizations": {}
+            },
+            "Ecology and Environment Department": {
+              "organization_name_english": "Ecology and Environment Department",
+              "organization_name_chinese": "生態環境庁",
+              "source_pdf_page": 467,
+              "sub_organizations": {}
+            },
+            "Housing & Urban-Rural Development Department": {
+              "organization_name_english": "Housing & Urban-Rural Development Department",
+              "organization_name_chinese": "住房和城鄉建設庁",
+              "source_pdf_page": 467,
+              "sub_organizations": {}
+            },
+            "Transport Department": {
+              "organization_name_english": "Transport Department",
+              "organization_name_chinese": "交通運輸庁",
+              "source_pdf_page": 467,
+              "sub_organizations": {}
+            },
+            "Water Resources Department": {
+              "organization_name_english": "Water Resources Department",
+              "organization_name_chinese": "水利庁",
+              "source_pdf_page": 467,
+              "sub_organizations": {}
+            },
+            "Agriculture and Rural Affairs Department": {
+              "organization_name_english": "Agriculture and Rural Affairs Department",
+              "organization_name_chinese": "農業農村庁",
+              "source_pdf_page": 467,
+              "sub_organizations": {}
+            },
+            "Forestry Department": {
+              "organization_name_english": "Forestry Department",
+              "organization_name_chinese": "林業庁",
+              "source_pdf_page": 467,
+              "sub_organizations": {}
+            },
+            "Commercial Department": {
+              "organization_name_english": "Commercial Department",
+              "organization_name_chinese": "商務庁",
+              "source_pdf_page": 467,
+              "sub_organizations": {}
+            },
+            "Culture and Tourism Department": {
+              "organization_name_english": "Culture and Tourism Department",
+              "organization_name_chinese": "文化和旅遊庁",
+              "source_pdf_page": 467,
+              "sub_organizations": {}
+            },
+            "Health Commission": {
+              "organization_name_english": "Health Commission",
+              "organization_name_chinese": "衛生健康委員会",
+              "source_pdf_page": 467,
+              "sub_organizations": {}
+            },
+            "Veterans Affairs Department": {
+              "organization_name_english": "Veterans Affairs Department",
+              "organization_name_chinese": "退役軍人事務庁",
+              "source_pdf_page": 467,
+              "sub_organizations": {}
+            },
+            "Emergency Management Department": {
+              "organization_name_english": "Emergency Management Department",
+              "organization_name_chinese": "応急管理庁",
+              "source_pdf_page": 467,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "CPPCC 13th Yunnan Provincial Committee": {
+          "organization_name_english": "CPPCC 13th Yunnan Provincial Committee",
+          "organization_name_chinese": "政協雲南省第13届委員会",
+          "source_pdf_page": 468,
+          "sub_organizations": {}
+        },
+        "PLA Yunnan Provincial Command": {
+          "organization_name_english": "PLA Yunnan Provincial Command",
+          "organization_name_chinese": "雲南省軍区",
+          "source_pdf_page": 468,
+          "sub_organizations": {
+            "Kunming Garrison": {
+              "organization_name_english": "Kunming Garrison",
+              "organization_name_chinese": "昆明警備区",
+              "source_pdf_page": 468,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "Provincial People's Armed Police Corps": {
+          "organization_name_english": "Provincial People's Armed Police Corps",
+          "organization_name_chinese": "人民武装警察部隊雲南省総隊",
+          "source_pdf_page": 468,
+          "sub_organizations": {}
+        },
+        "Provincial Trade Union Council": {
+          "organization_name_english": "Provincial Trade Union Council",
+          "organization_name_chinese": "雲南省総工会",
+          "source_pdf_page": 468,
+          "sub_organizations": {}
+        },
+        "CYL Provincial Committee": {
+          "organization_name_english": "CYL Provincial Committee",
+          "organization_name_chinese": "共青団雲南省委員会",
+          "source_pdf_page": 468,
+          "sub_organizations": {}
+        },
+        "Provincial Women's Federation": {
+          "organization_name_english": "Provincial Women's Federation",
+          "organization_name_chinese": "雲南省婦女聯合会",
+          "source_pdf_page": 469,
+          "sub_organizations": {}
+        },
+        "Kunming City": {
+          "organization_name_english": "Kunming City",
+          "organization_name_chinese": "昆明市",
+          "source_pdf_page": 469,
+          "sub_organizations": {}
+        },
+        "Qujing City": {
+          "organization_name_english": "Qujing City",
+          "organization_name_chinese": "曲靖市",
+          "source_pdf_page": 469,
+          "sub_organizations": {}
+        },
+        "Yuxi City": {
+          "organization_name_english": "Yuxi City",
+          "organization_name_chinese": "玉溪市",
+          "source_pdf_page": 469,
+          "sub_organizations": {}
+        },
+        "Baoshan City": {
+          "organization_name_english": "Baoshan City",
+          "organization_name_chinese": "保山市",
+          "source_pdf_page": 469,
+          "sub_organizations": {}
+        },
+        "Zhaotong City": {
+          "organization_name_english": "Zhaotong City",
+          "organization_name_chinese": "昭通市",
+          "source_pdf_page": 469,
+          "sub_organizations": {}
+        },
+        "Lijiang City": {
+          "organization_name_english": "Lijiang City",
+          "organization_name_chinese": "麗江市",
+          "source_pdf_page": 469,
+          "sub_organizations": {}
+        },
+        "Puer City": {
+          "organization_name_english": "Puer City",
+          "organization_name_chinese": "普洱市",
+          "source_pdf_page": 469,
+          "sub_organizations": {}
+        },
+        "Lincang City": {
+          "organization_name_english": "Lincang City",
+          "organization_name_chinese": "臨滄市",
+          "source_pdf_page": 469,
+          "sub_organizations": {}
+        },
+        "Dehong Dai-Jingpo Autonomous Prefecture": {
+          "organization_name_english": "Dehong Dai-Jingpo Autonomous Prefecture",
+          "organization_name_chinese": "德宏傣族景頗族自治州",
+          "source_pdf_page": 470,
+          "sub_organizations": {}
+        },
+        "Nujiang Lisu Autonomous Prefecture": {
+          "organization_name_english": "Nujiang Lisu Autonomous Prefecture",
+          "organization_name_chinese": "怒江傈僳族自治州",
+          "source_pdf_page": 470,
+          "sub_organizations": {}
+        },
+        "Deqen Tibet Autonomous Prefecture": {
+          "organization_name_english": "Deqen Tibet Autonomous Prefecture",
+          "organization_name_chinese": "迪慶藏族自治州",
+          "source_pdf_page": 470,
+          "sub_organizations": {}
+        },
+        "Dali Bai Autonomous Prefecture": {
+          "organization_name_english": "Dali Bai Autonomous Prefecture",
+          "organization_name_chinese": "大理白族自治州",
+          "source_pdf_page": 470,
+          "sub_organizations": {}
+        },
+        "Chuxiong Yi Autonomous Prefecture": {
+          "organization_name_english": "Chuxiong Yi Autonomous Prefecture",
+          "organization_name_chinese": "楚雄彝族自治州",
+          "source_pdf_page": 470,
+          "sub_organizations": {}
+        },
+        "Honghe Hani-Yi Autonomous Prefecture": {
+          "organization_name_english": "Honghe Hani-Yi Autonomous Prefecture",
+          "organization_name_chinese": "紅河哈尼族彝族自治州",
+          "source_pdf_page": 470,
+          "sub_organizations": {}
+        },
+        "Wenshan Zhuang-Miao Autonomous Prefecture": {
+          "organization_name_english": "Wenshan Zhuang-Miao Autonomous Prefecture",
+          "organization_name_chinese": "文山壮族苗族自治州",
+          "source_pdf_page": 470,
+          "sub_organizations": {}
+        },
+        "Xishuangbanna Dai Autonomous Prefecture": {
+          "organization_name_english": "Xishuangbanna Dai Autonomous Prefecture",
+          "organization_name_chinese": "西双版納傣族自治州",
+          "source_pdf_page": 470,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "Tibet Autonomous Region": {
+      "organization_name_english": "Tibet Autonomous Region",
+      "organization_name_chinese": "西藏自治区",
+      "source_pdf_page": 471,
+      "sub_organizations": {
+        "CPC 10th Tibet Autonomous Regional Committee": {
+          "organization_name_english": "CPC 10th Tibet Autonomous Regional Committee",
+          "organization_name_chinese": "中共西藏自治区第10届委員会",
+          "source_pdf_page": 471,
+          "sub_organizations": {
+            "Commission for Discipline Inspection": {
+              "organization_name_english": "Commission for Discipline Inspection",
+              "organization_name_chinese": "紀律検査委員会",
+              "source_pdf_page": 471,
+              "sub_organizations": {}
+            },
+            "Organization Department": {
+              "organization_name_english": "Organization Department",
+              "organization_name_chinese": "組織部",
+              "source_pdf_page": 471,
+              "sub_organizations": {}
+            },
+            "Publicity Department": {
+              "organization_name_english": "Publicity Department",
+              "organization_name_chinese": "宣伝部",
+              "source_pdf_page": 471,
+              "sub_organizations": {}
+            },
+            "United Front Work Department": {
+              "organization_name_english": "United Front Work Department",
+              "organization_name_chinese": "統一戰線工作部",
+              "source_pdf_page": 471,
+              "sub_organizations": {}
+            },
+            "Political Science and Law Commission": {
+              "organization_name_english": "Political Science and Law Commission",
+              "organization_name_chinese": "政法委員会",
+              "source_pdf_page": 471,
+              "sub_organizations": {}
+            },
+            "Regional Party School": {
+              "organization_name_english": "Regional Party School",
+              "organization_name_chinese": "自治区党校",
+              "source_pdf_page": 471,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "Tibet Autonomous Regional 12th People's Congress": {
+          "organization_name_english": "Tibet Autonomous Regional 12th People's Congress",
+          "organization_name_chinese": "西藏自治区第12届人民代表大会",
+          "source_pdf_page": 472,
+          "sub_organizations": {}
+        },
+        "Regional Supervision Commission": {
+          "organization_name_english": "Regional Supervision Commission",
+          "organization_name_chinese": "西藏自治区監察委員会",
+          "source_pdf_page": 472,
+          "sub_organizations": {}
+        },
+        "Regional Higher People's Court": {
+          "organization_name_english": "Regional Higher People's Court",
+          "organization_name_chinese": "西藏自治区高級人民法院",
+          "source_pdf_page": 472,
+          "sub_organizations": {}
+        },
+        "Regional People's Procuratorate": {
+          "organization_name_english": "Regional People's Procuratorate",
+          "organization_name_chinese": "西藏自治区人民檢察院",
+          "source_pdf_page": 472,
+          "sub_organizations": {}
+        },
+        "Tibet Autonomous Regional People's Government": {
+          "organization_name_english": "Tibet Autonomous Regional People's Government",
+          "organization_name_chinese": "西藏自治区人民政府",
+          "source_pdf_page": 472,
+          "sub_organizations": {
+            "Foreign Affairs Office": {
+              "organization_name_english": "Foreign Affairs Office",
+              "organization_name_chinese": "外事辦公室",
+              "source_pdf_page": 473,
+              "sub_organizations": {}
+            },
+            "Development and Reform Commission": {
+              "organization_name_english": "Development and Reform Commission",
+              "organization_name_chinese": "発展和改革委員会",
+              "source_pdf_page": 473,
+              "sub_organizations": {}
+            },
+            "Education Department": {
+              "organization_name_english": "Education Department",
+              "organization_name_chinese": "教育庁",
+              "source_pdf_page": 473,
+              "sub_organizations": {}
+            },
+            "Science and Technology Department": {
+              "organization_name_english": "Science and Technology Department",
+              "organization_name_chinese": "科学技術庁",
+              "source_pdf_page": 473,
+              "sub_organizations": {}
+            },
+            "Economic and Information Technology Department": {
+              "organization_name_english": "Economic and Information Technology Department",
+              "organization_name_chinese": "経済和信息化庁",
+              "source_pdf_page": 473,
+              "sub_organizations": {}
+            },
+            "Ethnic Affairs Commission": {
+              "organization_name_english": "Ethnic Affairs Commission",
+              "organization_name_chinese": "民族事務委員会",
+              "source_pdf_page": 473,
+              "sub_organizations": {}
+            },
+            "Public Security Department": {
+              "organization_name_english": "Public Security Department",
+              "organization_name_chinese": "公安庁",
+              "source_pdf_page": 473,
+              "sub_organizations": {}
+            },
+            "State Security Department": {
+              "organization_name_english": "State Security Department",
+              "organization_name_chinese": "国家安全庁",
+              "source_pdf_page": 473,
+              "sub_organizations": {}
+            },
+            "Civil Affairs Department": {
+              "organization_name_english": "Civil Affairs Department",
+              "organization_name_chinese": "民政庁",
+              "source_pdf_page": 473,
+              "sub_organizations": {}
+            },
+            "Justice Department": {
+              "organization_name_english": "Justice Department",
+              "organization_name_chinese": "司法庁",
+              "source_pdf_page": 473,
+              "sub_organizations": {}
+            },
+            "Finance Department": {
+              "organization_name_english": "Finance Department",
+              "organization_name_chinese": "財政庁",
+              "source_pdf_page": 473,
+              "sub_organizations": {}
+            },
+            "Human Resources & Social Security Department": {
+              "organization_name_english": "Human Resources & Social Security Department",
+              "organization_name_chinese": "人力資源和社会保障庁",
+              "source_pdf_page": 473,
+              "sub_organizations": {}
+            },
+            "Natural Resources Department": {
+              "organization_name_english": "Natural Resources Department",
+              "organization_name_chinese": "自然資源庁",
+              "source_pdf_page": 473,
+              "sub_organizations": {}
+            },
+            "Ecology and Environment Department": {
+              "organization_name_english": "Ecology and Environment Department",
+              "organization_name_chinese": "生態環境庁",
+              "source_pdf_page": 473,
+              "sub_organizations": {}
+            },
+            "Housing & Urban-Rural Development Department": {
+              "organization_name_english": "Housing & Urban-Rural Development Department",
+              "organization_name_chinese": "住房和城鄉建設庁",
+              "source_pdf_page": 473,
+              "sub_organizations": {}
+            },
+            "Transport Department": {
+              "organization_name_english": "Transport Department",
+              "organization_name_chinese": "交通運輸庁",
+              "source_pdf_page": 474,
+              "sub_organizations": {}
+            },
+            "Water Resources Department": {
+              "organization_name_english": "Water Resources Department",
+              "organization_name_chinese": "水利庁",
+              "source_pdf_page": 474,
+              "sub_organizations": {}
+            },
+            "Agriculture and Rural Affairs Department": {
+              "organization_name_english": "Agriculture and Rural Affairs Department",
+              "organization_name_chinese": "農業農村庁",
+              "source_pdf_page": 474,
+              "sub_organizations": {}
+            },
+            "Commercial Department": {
+              "organization_name_english": "Commercial Department",
+              "organization_name_chinese": "商務庁",
+              "source_pdf_page": 474,
+              "sub_organizations": {}
+            },
+            "Cultural Affairs Department": {
+              "organization_name_english": "Cultural Affairs Department",
+              "organization_name_chinese": "文化庁",
+              "source_pdf_page": 474,
+              "sub_organizations": {}
+            },
+            "Health Commission": {
+              "organization_name_english": "Health Commission",
+              "organization_name_chinese": "衛生健康委員会",
+              "source_pdf_page": 474,
+              "sub_organizations": {}
+            },
+            "Tourism Development Department": {
+              "organization_name_english": "Tourism Development Department",
+              "organization_name_chinese": "旅遊発展庁",
+              "source_pdf_page": 474,
+              "sub_organizations": {}
+            },
+            "Veterans Affairs Department": {
+              "organization_name_english": "Veterans Affairs Department",
+              "organization_name_chinese": "退役軍人事務庁",
+              "source_pdf_page": 474,
+              "sub_organizations": {}
+            },
+            "Emergency Management Department": {
+              "organization_name_english": "Emergency Management Department",
+              "organization_name_chinese": "応急管理庁",
+              "source_pdf_page": 474,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "CPPCC 12th Tibet Regional Committee": {
+          "organization_name_english": "CPPCC 12th Tibet Regional Committee",
+          "organization_name_chinese": "政協西藏自治区第12届委員会",
+          "source_pdf_page": 474,
+          "sub_organizations": {}
+        },
+        "PLA Tibet Military Area Command": {
+          "organization_name_english": "PLA Tibet Military Area Command",
+          "organization_name_chinese": "西藏軍区",
+          "source_pdf_page": 475,
+          "sub_organizations": {
+            "Commission for Discipline Inspection": {
+              "organization_name_english": "Commission for Discipline Inspection",
+              "organization_name_chinese": "紀律検査委員会",
+              "source_pdf_page": 475,
+              "sub_organizations": {}
+            },
+            "Political Work Department": {
+              "organization_name_english": "Political Work Department",
+              "organization_name_chinese": "政治工作部",
+              "source_pdf_page": 475,
+              "sub_organizations": {}
+            },
+            "Lhasa Garrison": {
+              "organization_name_english": "Lhasa Garrison",
+              "organization_name_chinese": "拉薩警備区",
+              "source_pdf_page": 475,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "Regional People's Armed Police Corps": {
+          "organization_name_english": "Regional People's Armed Police Corps",
+          "organization_name_chinese": "人民武装警察部隊西藏自治区総隊",
+          "source_pdf_page": 475,
+          "sub_organizations": {}
+        },
+        "Regional Trade Union Council": {
+          "organization_name_english": "Regional Trade Union Council",
+          "organization_name_chinese": "西藏自治区総工会",
+          "source_pdf_page": 475,
+          "sub_organizations": {}
+        },
+        "CYL Regional Committee": {
+          "organization_name_english": "CYL Regional Committee",
+          "organization_name_chinese": "共青団西藏自治区委員会",
+          "source_pdf_page": 476,
+          "sub_organizations": {}
+        },
+        "Regional Women's Federation": {
+          "organization_name_english": "Regional Women's Federation",
+          "organization_name_chinese": "西藏自治区婦女聯合会",
+          "source_pdf_page": 476,
+          "sub_organizations": {}
+        },
+        "Lhasa City": {
+          "organization_name_english": "Lhasa City",
+          "organization_name_chinese": "拉薩市",
+          "source_pdf_page": 476,
+          "sub_organizations": {}
+        },
+        "Nagchu (Naqu) City": {
+          "organization_name_english": "Nagchu (Naqu) City",
+          "organization_name_chinese": "那曲市",
+          "source_pdf_page": 476,
+          "sub_organizations": {}
+        },
+        "Chamdo (Changdu) City": {
+          "organization_name_english": "Chamdo (Changdu) City",
+          "organization_name_chinese": "昌都市",
+          "source_pdf_page": 476,
+          "sub_organizations": {}
+        },
+        "Nyingchi (Linzhi) City": {
+          "organization_name_english": "Nyingchi (Linzhi) City",
+          "organization_name_chinese": "林芝市",
+          "source_pdf_page": 476,
+          "sub_organizations": {}
+        },
+        "Lhokha (Shannan) City": {
+          "organization_name_english": "Lhokha (Shannan) City",
+          "organization_name_chinese": "山南市",
+          "source_pdf_page": 476,
+          "sub_organizations": {}
+        },
+        "Shigatse (Rikaze) City": {
+          "organization_name_english": "Shigatse (Rikaze) City",
+          "organization_name_chinese": "日喀則市",
+          "source_pdf_page": 476,
+          "sub_organizations": {}
+        },
+        "Ngari Prefecture": {
+          "organization_name_english": "Ngari Prefecture",
+          "organization_name_chinese": "阿里地区",
+          "source_pdf_page": 476,
+          "sub_organizations": {}
+        }
+      }
+    },
+    "Shaanxi Province": {
+      "organization_name_english": "Shaanxi Province",
+      "organization_name_chinese": "陝西省",
+      "source_pdf_page": 477,
+      "sub_organizations": {
+        "CPC 14th Shaanxi Provincial Committee": {
+          "organization_name_english": "CPC 14th Shaanxi Provincial Committee",
+          "organization_name_chinese": "中共陕西省第14届委員会",
+          "source_pdf_page": 477,
+          "sub_organizations": {
+            "Commission for Discipline Inspection": {
+              "organization_name_english": "Commission for Discipline Inspection",
+              "organization_name_chinese": "紀律検査委員会",
+              "source_pdf_page": 477,
+              "sub_organizations": {}
+            },
+            "Organization Department": {
+              "organization_name_english": "Organization Department",
+              "organization_name_chinese": "組織部",
+              "source_pdf_page": 477,
+              "sub_organizations": {}
+            },
+            "Publicity Department": {
+              "organization_name_english": "Publicity Department",
+              "organization_name_chinese": "宣伝部",
+              "source_pdf_page": 477,
+              "sub_organizations": {}
+            },
+            "United Front Work Department": {
+              "organization_name_english": "United Front Work Department",
+              "organization_name_chinese": "統一戰線工作部",
+              "source_pdf_page": 477,
+              "sub_organizations": {}
+            },
+            "Political Science and Law Commission": {
+              "organization_name_english": "Political Science and Law Commission",
+              "organization_name_chinese": "政法委員会",
+              "source_pdf_page": 477,
+              "sub_organizations": {}
+            },
+            "Provincial Party School": {
+              "organization_name_english": "Provincial Party School",
+              "organization_name_chinese": "省党校",
+              "source_pdf_page": 477,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "Shaanxi Provincial 14th People's Congress": {
+          "organization_name_english": "Shaanxi Provincial 14th People's Congress",
+          "organization_name_chinese": "陕西省第14届人民代表大会",
+          "source_pdf_page": 478,
+          "sub_organizations": {}
+        },
+        "Provincial Supervision Commission": {
+          "organization_name_english": "Provincial Supervision Commission",
+          "organization_name_chinese": "陝西省監察委員会",
+          "source_pdf_page": 478,
+          "sub_organizations": {}
+        },
+        "Provincial Higher People's Court": {
+          "organization_name_english": "Provincial Higher People's Court",
+          "organization_name_chinese": "陕西省高級人民法院",
+          "source_pdf_page": 478,
+          "sub_organizations": {}
+        },
+        "Provincial People's Procuratorate": {
+          "organization_name_english": "Provincial People's Procuratorate",
+          "organization_name_chinese": "陝西省人民検察院",
+          "source_pdf_page": 478,
+          "sub_organizations": {}
+        },
+        "Shaanxi Provincial People's Government": {
+          "organization_name_english": "Shaanxi Provincial People's Government",
+          "organization_name_chinese": "陝西省人民政府",
+          "source_pdf_page": 478,
+          "sub_organizations": {
+            "Foreign (Overseas Chinese) Affairs Office": {
+              "organization_name_english": "Foreign (Overseas Chinese) Affairs Office",
+              "organization_name_chinese": "外事(僑務)辦公室",
+              "source_pdf_page": 478,
+              "sub_organizations": {}
+            },
+            "Development and Reform Commission": {
+              "organization_name_english": "Development and Reform Commission",
+              "organization_name_chinese": "発展和改革委員会",
+              "source_pdf_page": 478,
+              "sub_organizations": {}
+            },
+            "Education Department": {
+              "organization_name_english": "Education Department",
+              "organization_name_chinese": "教育庁",
+              "source_pdf_page": 478,
+              "sub_organizations": {}
+            },
+            "Science and Technology Department": {
+              "organization_name_english": "Science and Technology Department",
+              "organization_name_chinese": "科学技術庁",
+              "source_pdf_page": 479,
+              "sub_organizations": {}
+            },
+            "Industry & Information Technology Department": {
+              "organization_name_english": "Industry & Information Technology Department",
+              "organization_name_chinese": "工業和信息化庁",
+              "source_pdf_page": 479,
+              "sub_organizations": {}
+            },
+            "Ethnic and Religious Affairs Commission": {
+              "organization_name_english": "Ethnic and Religious Affairs Commission",
+              "organization_name_chinese": "民族宗教事務委員会",
+              "source_pdf_page": 479,
+              "sub_organizations": {}
+            },
+            "Public Security Department": {
+              "organization_name_english": "Public Security Department",
+              "organization_name_chinese": "公安庁",
+              "source_pdf_page": 479,
+              "sub_organizations": {}
+            },
+            "State Security Department": {
+              "organization_name_english": "State Security Department",
+              "organization_name_chinese": "国家安全厅",
+              "source_pdf_page": 479,
+              "sub_organizations": {}
+            },
+            "Civil Affairs Department": {
+              "organization_name_english": "Civil Affairs Department",
+              "organization_name_chinese": "民政庁",
+              "source_pdf_page": 479,
+              "sub_organizations": {}
+            },
+            "Justice Department": {
+              "organization_name_english": "Justice Department",
+              "organization_name_chinese": "司法庁",
+              "source_pdf_page": 479,
+              "sub_organizations": {}
+            },
+            "Finance Department": {
+              "organization_name_english": "Finance Department",
+              "organization_name_chinese": "財政庁",
+              "source_pdf_page": 479,
+              "sub_organizations": {}
+            },
+            "Human Resources & Social Security Department": {
+              "organization_name_english": "Human Resources & Social Security Department",
+              "organization_name_chinese": "人力資源和社会保障厅",
+              "source_pdf_page": 479,
+              "sub_organizations": {}
+            },
+            "Natural Resources Department": {
+              "organization_name_english": "Natural Resources Department",
+              "organization_name_chinese": "自然資源庁",
+              "source_pdf_page": 479,
+              "sub_organizations": {}
+            },
+            "Ecology and Environment Department": {
+              "organization_name_english": "Ecology and Environment Department",
+              "organization_name_chinese": "生態環境庁",
+              "source_pdf_page": 479,
+              "sub_organizations": {}
+            },
+            "Housing & Urban-Rural Development Department": {
+              "organization_name_english": "Housing & Urban-Rural Development Department",
+              "organization_name_chinese": "住房和城鄉建設庁",
+              "source_pdf_page": 479,
+              "sub_organizations": {}
+            },
+            "Transport Department": {
+              "organization_name_english": "Transport Department",
+              "organization_name_chinese": "交通運輸庁",
+              "source_pdf_page": 479,
+              "sub_organizations": {}
+            },
+            "Water Resources Department": {
+              "organization_name_english": "Water Resources Department",
+              "organization_name_chinese": "水利庁",
+              "source_pdf_page": 479,
+              "sub_organizations": {}
+            },
+            "Agriculture and Rural Affairs Department": {
+              "organization_name_english": "Agriculture and Rural Affairs Department",
+              "organization_name_chinese": "農業農村庁",
+              "source_pdf_page": 480,
+              "sub_organizations": {}
+            },
+            "Forestry Bureau": {
+              "organization_name_english": "Forestry Bureau",
+              "organization_name_chinese": "林業局",
+              "source_pdf_page": 480,
+              "sub_organizations": {}
+            },
+            "Commercial Department": {
+              "organization_name_english": "Commercial Department",
+              "organization_name_chinese": "商務庁",
+              "source_pdf_page": 480,
+              "sub_organizations": {}
+            },
+            "Culture and Tourism Department": {
+              "organization_name_english": "Culture and Tourism Department",
+              "organization_name_chinese": "文化和旅遊庁",
+              "source_pdf_page": 480,
+              "sub_organizations": {}
+            },
+            "Health Commission": {
+              "organization_name_english": "Health Commission",
+              "organization_name_chinese": "衛生健康委員会",
+              "source_pdf_page": 480,
+              "sub_organizations": {}
+            },
+            "Veterans Affairs Department": {
+              "organization_name_english": "Veterans Affairs Department",
+              "organization_name_chinese": "退役軍人事務庁",
+              "source_pdf_page": 480,
+              "sub_organizations": {}
+            },
+            "Emergency Management Department": {
+              "organization_name_english": "Emergency Management Department",
+              "organization_name_chinese": "応急管理庁",
+              "source_pdf_page": 480,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "CPPCC 13th Shaanxi Provincial Committee": {
+          "organization_name_english": "CPPCC 13th Shaanxi Provincial Committee",
+          "organization_name_chinese": "政協陝西省第13届委員会",
+          "source_pdf_page": 480,
+          "sub_organizations": {}
+        },
+        "PLA Shaanxi Provincial Command": {
+          "organization_name_english": "PLA Shaanxi Provincial Command",
+          "organization_name_chinese": "陕西省軍区",
+          "source_pdf_page": 480,
+          "sub_organizations": {
+            "Xian Garrison": {
+              "organization_name_english": "Xian Garrison",
+              "organization_name_chinese": "西安警備区",
+              "source_pdf_page": 481,
+              "sub_organizations": {}
+            }
+          }
+        },
+        "Provincial People's Armed Police Corps": {
+          "organization_name_english": "Provincial People's Armed Police Corps",
+          "organization_name_chinese": "人民武装警察部隊陝西省総隊",
+          "source_pdf_page": 481,
+          "sub_organizations": {}
+        },
+        "Provincial Trade Union Council": {
+          "organization_name_english": "Provincial Trade Union Council",
+          "organization_name_chinese": "陝西省総工会",
+          "source_pdf_page": 481,
+          "sub_organizations": {}
+        },
+        "CYL Provincial Committee": {
+          "organization_name_english": "CYL Provincial Committee",
+          "organization_name_chinese": "共青团陕西省委員会",
+          "source_pdf_page": 481,
+          "sub_organizations": {}
+        },
+        "Provincial Women's Federation": {
+          "organization_name_english": "Provincial Women's Federation",
+          "organization_name_chinese": "陝西省婦女聯合会",
+          "source_pdf_page": 481,
+          "sub_organizations": {}
+        },
+        "Xian City": {
+          "organization_name_english": "Xian City",
+          "organization_name_chinese": "西安市",
+          "source_pdf_page": 481,
+          "sub_organizations": {}
+        },
+        "Yanan City": {
+          "organization_name_english": "Yanan City",
+          "organization_name_chinese": "延安市",
+          "source_pdf_page": 481,
+          "sub_organizations": {}
+        },
+        "Tongchuan City": {
+          "organization_name_english": "Tongchuan City",
+          "organization_name_chinese": "銅川市",
+          "source_pdf_page": 481,
+          "sub_organizations": {}
+        },
+        "Weinan City": {
+          "organization_name_english": "Weinan City",
+          "organization_name_chinese": "渭南市",
+          "source_pdf_page": 482,
+          "sub_organizations": {}
+        },
+        "Xianyang City": {
+          "organization_name_english": "Xianyang City",
+          "organization_name_chinese": "咸陽市",
+          "source_pdf_page": 482,
+          "sub_organizations": {}
+        },
+        "Baoji City": {
+          "organization_name_english": "Baoji City",
+          "organization_name_chinese": "宝鶏市",
+          "source_pdf_page": 482,
+          "sub_organizations": {}
+        },
+        "Hanzhong City": {
+          "organization_name_english": "Hanzhong City",
+          "organization_name_chinese": "漢中市",
+          "source_pdf_page": 482,
+          "sub_organizations": {}
+        },
+        "Yulin City": {
+          "organization_name_english": "Yulin City",
+          "organization_name_chinese": "榆林市",
+          "source_pdf_page": 482,
+          "sub_organizations": {}
+        },
+        "Ankang City": {
+          "organization_name_english": "Ankang City",
+          "organization_name_chinese": "安康市",
+          "source_pdf_page": 482,
+          "sub_organizations": {}
+        },
+        "Shangluo City": {
+          "organization_name_english": "Shangluo City",
+          "organization_name_chinese": "商洛市",
+          "source_pdf_page": 482,
+          "sub_organizations": {}
+        }
+      }
+    }
+  }
+}
